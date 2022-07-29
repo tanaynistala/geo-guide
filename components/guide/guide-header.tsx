@@ -1,4 +1,5 @@
 import GuideTitle from "./guide-title";
+import Country from "../../interfaces/country.ts";
 
 type Props = {
   title: string;

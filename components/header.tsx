@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <nav className="flex items-center font-mono justify-between py-16 mx-auto">
       <Link href="/">
-        <a className="bg-blue-400 hover:bg-orange-400 transition-all rounded text-white font-mono font-bold text-sm pl-1 pr-4 pt-4">
+        <a className="bg-blue-400 hover:bg-orange-400 transition-all rounded-lg text-white font-mono font-bold text-sm pl-1 pr-4 pt-4">
           G<span className="hidden md:inline">eoGuide.</span>
         </a>
       </Link>
