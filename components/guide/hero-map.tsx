@@ -1,20 +1,24 @@
 import Map from "../map";
 import CountryList from "../country-list";
+import CountryGrid from "../country-grid";
 import Link from "next/link";
 
 const HeroMap = () => {
   return (
-    <section>
-      <div className="mb-8 mt-16 lg:grid lg:grid-cols-4 lg:gap-x-8">
-        <div className="col-span-3">
+    <section className="flex flex-col-reverse lg:flex-col">
+      <div className="mb-4 lg:mb-8 lg:mt-16 lg:grid lg:grid-cols-4 lg:gap-x-8">
+        <div className="col-span-3 mb-4">
           <Map />
         </div>
         <div className="hidden lg:block">
           <CountryList />
         </div>
+        <div className="lg:hidden mt-4">
+          <CountryGrid />
+        </div>
       </div>
-      <div className="md:grid md:grid-cols-3 gap-x-8 mb-20 md:mb-28">
-        <div className="col-span-2">
+      <div>
+        <div className="lg:grid lg:grid-cols-2">
           <h3 className="mb-4 text-4xl lg:text-5xl leading-tight tracking-tight font-mono font-bold">
             Country Guides
           </h3>
@@ -22,9 +26,6 @@ const HeroMap = () => {
             Explore handmade guides for over 200 countries, territories, and
             regions!
           </p>
-        </div>
-        <div className="lg:hidden">
-          <CountryList />
         </div>
       </div>
     </section>

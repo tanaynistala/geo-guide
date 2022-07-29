@@ -1,6 +1,7 @@
 import fs from "fs";
 import { join } from "path";
 import matter from "gray-matter";
+import geoData from "../public/world.geo.json";
 
 const postsDirectory = join(process.cwd(), "_posts");
 const guidesDirectory = join(process.cwd(), "_guides");
@@ -18,6 +19,9 @@ export function getGuideSlugs() {
 
 export function getCountryGuideSlugs() {
   return fs.readdirSync(countryGuidesDirectory);
+  // return geoData.features.map((feature) => {
+  //   return feature.properties.adm0_a3 + ".md";
+  // });
 }
 
 export function getPostBySlug(slug: string, fields: string[] = []) {
