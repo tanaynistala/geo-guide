@@ -1,5 +1,5 @@
 ---
-title: "United States of America"
+title: "United States"
 country:
   code: "USA"
   coordinates: [-100, 45]

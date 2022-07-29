@@ -25,3 +25,7 @@ export function getCategorizedCountries() {
     };
   });
 }
+
+export function getCountryData(countryCode: string) {
+  return geoData.features.find((geo) => geo.properties.adm0_a3 === countryCode);
+}
