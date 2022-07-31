@@ -7,13 +7,14 @@ import GuideHeader from "../../../components/guide/country-guide-header";
 import Layout from "../../../components/layout";
 import { getCountryGuideBySlug, getAllCountryGuides } from "../../../lib/api";
 import GuideTitle from "../../../components/guide/guide-title";
+import FactCards from "../../../components/guide/fact-cards";
 import Head from "next/head";
 import { CMS_NAME } from "../../../lib/constants";
 import markdownToHtml from "../../../lib/markdownToHtml";
-import type GuideType from "../../../interfaces/guide";
+import type CountryGuideType from "../../../interfaces/country-guide";
 
 type Props = {
-  post: CountryGuideType;
+  guide: CountryGuideType;
   preview?: boolean;
 };
 
@@ -37,6 +38,7 @@ export default function Guide({ guide, preview }: Props) {
                 </title>
               </Head>
               <GuideHeader title={guide.title} country={guide.country} />
+              <FactCards country={guide.country} />
               <GuideBody content={guide.content} />
             </article>
           </>

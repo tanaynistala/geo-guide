@@ -7,9 +7,9 @@ import {
 import Link from "next/link";
 import geoData from "../public/world.geo.json";
 
-export default function Map({ country }) {
+export default function Map({ country = "" }) {
   return (
-    <div className="px-4 pt-16 pb-0 lg:max-h-[32rem] bg-gray-100 rounded-2xl">
+    <div className="px-4 pt-8 pb-0 lg:max-h-[32rem] bg-gray-100 rounded-2xl">
       <ComposableMap
         projection="geoEquirectangular"
         width={1024}

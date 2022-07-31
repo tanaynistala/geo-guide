@@ -20,7 +20,7 @@ export function getCategorizedCountries() {
           return continent == feature.properties.continent;
         })
         .sort(function (a, b) {
-          return a.admin - b.admin;
+          return a.properties.admin.localeCompare(b.properties.admin);
         }),
     };
   });

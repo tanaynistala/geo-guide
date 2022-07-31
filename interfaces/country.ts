@@ -1,8 +1,8 @@
 type Country = {
   name: string;
   code: string;
-  coordinates: double[];
-  zoom: int;
+  coordinates: number[];
+  zoom: number;
 };
 
 export default Country;

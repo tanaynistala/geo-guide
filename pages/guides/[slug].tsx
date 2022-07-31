@@ -13,8 +13,8 @@ import markdownToHtml from "../../lib/markdownToHtml";
 import type GuideType from "../../interfaces/guide";
 
 type Props = {
-  post: GuideType;
-  morePosts: GuideType[];
+  guide: GuideType;
+  moreGuides: GuideType[];
   preview?: boolean;
 };
 

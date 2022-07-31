@@ -2,7 +2,7 @@ import Link from "next/link";
 import { getCategorizedCountries } from "../lib/geo-api";
 import { useState } from "react";
 
-export default function CountryGrid({ country }) {
+export default function CountryGrid({ country = "" }) {
   const [query, setQuery] = useState("");
 
   return (
