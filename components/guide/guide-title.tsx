@@ -6,7 +6,7 @@ type Props = {
 
 const GuideTitle = ({ children }: Props) => {
   return (
-    <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-2 2xlmb-12 text-left">
+    <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-2 2xl:mb-12 text-left">
       {children}
     </h1>
   );

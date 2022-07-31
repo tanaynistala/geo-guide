@@ -19,10 +19,10 @@ const HeroMap = () => {
       </div>
       <div>
         <div className="lg:grid lg:grid-cols-2">
-          <h3 className="mb-4 text-4xl lg:text-5xl leading-tight tracking-tight font-mono font-bold">
+          <h3 className="mb-4 text-4xl lg:text-5xl leading-tight tracking-tight font-bold">
             Country Guides
           </h3>
-          <p className="text-lg leading-relaxed mb-4 font-mono">
+          <p className="text-lg leading-relaxed mb-4 font-mono italic">
             Explore handmade guides for over 200 countries, territories, and
             regions!
           </p>

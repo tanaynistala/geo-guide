@@ -7,6 +7,7 @@ import {
   Marker,
 } from "react-simple-maps";
 import geoData from "../public/world.geo.json";
+import Country from "../interfaces/country";
 
 type Props = {
   country: Country;
@@ -30,8 +31,8 @@ const Map = ({ country }: Props) => {
             <Geography
               className={`outline-none ${
                 country.code == feature.properties.adm0_a3
-                  ? "fill-gray-800"
-                  : "fill-gray-300"
+                  ? "fill-gray-800 stroke-gray-800"
+                  : "fill-gray-300 stroke-gray-300"
               }`}
               key={feature.rsmKey}
               geography={feature}
@@ -43,7 +44,7 @@ const Map = ({ country }: Props) => {
       {geoData.features
         .filter((feature) => {
           return (
-            feature.properties.tiny > 0 &&
+            feature.properties.scalerank > 2 &&
             country.code == feature.properties.adm0_a3
           );
         })
@@ -59,7 +60,7 @@ const Map = ({ country }: Props) => {
               hidden: { opacity: 0 },
             }}
           >
-            <circle r={4} />
+            <circle r={8} className="fill-gray-800 stroke-gray-800" />
           </Marker>
         ))}
     </ComposableMap>
