@@ -1,8 +1,6 @@
 import fs from "fs";
 import { join } from "path";
 import matter from "gray-matter";
-import { MDXRemote } from "next-mdx-remote";
-import { serialize } from "next-mdx-remote/serialize";
 
 import geoData from "../public/world.geo.json";
 import centroidData from "../public/centroids.geo.json";
@@ -53,14 +51,6 @@ export function getCountryGuideBySlug(slug: string, fields: string[] = []) {
         : data.country.coordinates
       : data.country.coordinates;
 
-  const mdxSource = serialize(content, {
-    mdxOptions: {
-      remarkPlugins: [],
-      rehypePlugins: [],
-    },
-    scope: data,
-  });
-
   type Items = {
     [key: string]: string;
   };
@@ -73,7 +63,7 @@ export function getCountryGuideBySlug(slug: string, fields: string[] = []) {
       items[field] = realSlug;
     }
     if (field === "content") {
-      items[field] = mdxSource;
+      items[field] = content;
     }
 
     if (typeof data[field] !== "undefined") {
