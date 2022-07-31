@@ -5,7 +5,7 @@ import PostBody from "../../components/post/post-body";
 import Header from "../../components/header";
 import PostHeader from "../../components/post/post-header";
 import Layout from "../../components/layout";
-import { getPostBySlug, getAllPosts } from "../../lib/api";
+import { getPostBySlug, getAllPosts } from "../../lib/posts-api";
 import PostTitle from "../../components/post/post-title";
 import Head from "next/head";
 import { CMS_NAME } from "../../lib/constants";

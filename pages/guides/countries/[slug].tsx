@@ -5,7 +5,10 @@ import GuideBody from "../../../components/guide/guide-body";
 import Header from "../../../components/header";
 import GuideHeader from "../../../components/guide/country-guide-header";
 import Layout from "../../../components/layout";
-import { getCountryGuideBySlug, getAllCountryGuides } from "../../../lib/api";
+import {
+  getCountryGuideBySlug,
+  getAllCountryGuides,
+} from "../../../lib/country-guides-api";
 import GuideTitle from "../../../components/guide/guide-title";
 import FactCards from "../../../components/guide/fact-cards";
 import Head from "next/head";

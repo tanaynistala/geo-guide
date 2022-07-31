@@ -3,7 +3,7 @@ import MoreStories from "../components/post/more-stories";
 import HeroPost from "../components/post/hero-post";
 import Header from "../components/header";
 import Layout from "../components/layout";
-import { getAllPosts } from "../lib/api";
+import { getAllPosts } from "../lib/posts-api";
 import Head from "next/head";
 import { CMS_NAME } from "../lib/constants";
 import Post from "../interfaces/post";

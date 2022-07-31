@@ -5,7 +5,7 @@ import GuideBody from "../../components/guide/guide-body";
 import Header from "../../components/header";
 import GuideHeader from "../../components/guide/guide-header";
 import Layout from "../../components/layout";
-import { getGuideBySlug, getAllGuides } from "../../lib/api";
+import { getGuideBySlug, getAllGuides } from "../../lib/guides-api";
 import GuideTitle from "../../components/guide/guide-title";
 import Head from "next/head";
 import { CMS_NAME } from "../../lib/constants";

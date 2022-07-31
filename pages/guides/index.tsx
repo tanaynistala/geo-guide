@@ -1,7 +1,7 @@
 import Container from "../../components/container";
 import Header from "../../components/header";
 import Layout from "../../components/layout";
-import { getAllGuides } from "../../lib/api";
+import { getAllGuides } from "../../lib/guides-api";
 import Head from "next/head";
 import { CMS_NAME } from "../../lib/constants";
 import Guide from "../../interfaces/guide";
