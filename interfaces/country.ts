@@ -1,8 +1,14 @@
 type Country = {
   name: string;
-  code: string;
+  code3: string;
+  code2: string;
   coordinates: number[];
-  zoom: number;
+  continent: string;
+  subregion: string;
+  capital: string;
+  currency: string;
+  tld: string;
+  drivesOnLeft: boolean;
 };
 
 export default Country;

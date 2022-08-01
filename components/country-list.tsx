@@ -13,12 +13,16 @@ export default function CountryList({ country = "" }) {
         id="search"
         name="search"
         placeholder="Search..."
+        key="Search"
         onChange={(e) => setQuery(e.target.value)}
       />
 
       {getCategorizedCountries().map(({ continent, features }) => (
         <>
-          <h3 className="snap-start sticky top-12 px-4 py-2 -scroll-m-2 bg-gray-200 text-gray-500 font-serif font-bold">
+          <h3
+            className="snap-start sticky top-12 px-4 py-2 -scroll-m-2 bg-gray-200 text-gray-500 font-serif font-bold"
+            key={continent}
+          >
             {continent}
           </h3>
           {features
@@ -31,7 +35,7 @@ export default function CountryList({ country = "" }) {
             })
             .map((feature) => (
               <Link
-                href={`/guides/countries/${feature.properties.adm0_a3}`}
+                href={`/countries/${feature.properties.adm0_a3}`}
                 key={feature.properties.adm0_a3}
               >
                 <a

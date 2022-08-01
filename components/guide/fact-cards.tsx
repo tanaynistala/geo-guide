@@ -1,5 +1,4 @@
 import Country from "../../interfaces/country";
-import { getCountryData } from "../../lib/geo-api";
 import Image from "next/image";
 import Card from "../card";
 
@@ -15,10 +14,8 @@ const FactCards = ({ country }: Props) => {
           <Card title="Flag">
             <div className="aspect-video">
               <img
-                src={`https://countryflagsapi.com/png/${
-                  getCountryData(country.code).properties.iso_a3
-                }`}
-                alt={`Flag of ${getCountryData(country.code).properties.admin}`}
+                src={`https://countryflagsapi.com/png/${country.code3}`}
+                alt={`Flag of ${country.name}`}
                 className="h-full"
               />
             </div>

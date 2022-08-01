@@ -1,7 +1,6 @@
 import GuideTitle from "./guide-title";
 import Map from "../focus-map";
 import Country from "../../interfaces/country";
-import { getCountryData } from "../../lib/geo-api";
 
 type Props = {
   title: string;
@@ -32,7 +31,7 @@ const GuideHeader = ({ title, country }: Props) => {
       <div className="flex flex-row space-x-8 stretch mb-16 lg:mb-8">
         <div className="flex-1 self-start">
           <div className="flex items-center text-lg font-medium text-gray-500 leading-tight md:leading-none ml-1">
-            <span>{getCountryData(country.code).properties.continent}</span>
+            <span>{country.continent}</span>
             <svg width="24" height="24" fill="none" viewBox="0 0 24 24">
               <path
                 stroke="currentColor"
@@ -42,7 +41,7 @@ const GuideHeader = ({ title, country }: Props) => {
                 d="M10.75 8.75L14.25 12L10.75 15.25"
               ></path>
             </svg>
-            <span>{getCountryData(country.code).properties.subregion}</span>
+            <span>{country.subregion}</span>
           </div>
           <GuideTitle>{title}</GuideTitle>
         </div>

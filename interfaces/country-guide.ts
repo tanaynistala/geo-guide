@@ -1,9 +1,6 @@
-import Country from "./country";
-
 type CountryGuideType = {
   slug: string;
-  title: string;
-  country: Country;
+  code: string;
   content: string;
 };
 

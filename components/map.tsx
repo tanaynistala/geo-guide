@@ -22,7 +22,7 @@ export default function Map({ country = "" }) {
           {({ geographies }) =>
             geographies.map((feature) => (
               <Link
-                href={`/guides/countries/${feature.properties.adm0_a3}`}
+                href={`/countries/${feature.properties.adm0_a3}`}
                 key={feature.properties.adm0_a3}
               >
                 <a
@@ -58,7 +58,7 @@ export default function Map({ country = "" }) {
               }
             >
               <Link
-                href={`/guides/countries/${properties.adm0_a3}`}
+                href={`/countries/${properties.adm0_a3}`}
                 key={properties.adm0_a3}
               >
                 <a

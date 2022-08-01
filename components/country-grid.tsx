@@ -32,7 +32,7 @@ export default function CountryGrid({ country = "" }) {
               })
               .map((feature) => (
                 <Link
-                  href={`/guides/countries/${feature.properties.adm0_a3}`}
+                  href={`/countries/${feature.properties.adm0_a3}`}
                   key={feature.properties.adm0_a3}
                 >
                   <a

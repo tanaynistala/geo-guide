@@ -30,7 +30,7 @@ const Map = ({ country }: Props) => {
           geographies.map((feature) => (
             <Geography
               className={`outline-none ${
-                country.code == feature.properties.adm0_a3
+                country.code3 == feature.properties.adm0_a3
                   ? "fill-gray-800 stroke-gray-800"
                   : "fill-gray-300 stroke-gray-300"
               }`}
@@ -45,7 +45,7 @@ const Map = ({ country }: Props) => {
         .filter((feature) => {
           return (
             feature.properties.scalerank > 2 &&
-            country.code == feature.properties.adm0_a3
+            country.code3 == feature.properties.adm0_a3
           );
         })
         .map(({ type, properties, geometry }) => (
