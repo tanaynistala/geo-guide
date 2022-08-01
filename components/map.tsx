@@ -69,7 +69,7 @@ export default function Map({ country = "" }) {
                   }
                             stroke-gray-500 stroke-[0.5]`}
                 >
-                  <circle r={4} />
+                  <circle r={2} />
                 </a>
               </Link>
             </Marker>

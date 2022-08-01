@@ -6,7 +6,7 @@ type Country = {
   continent: string;
   subregion: string;
   capital: string;
-  currency: string;
+  currency: string[];
   tld: string;
   drivesOnLeft: boolean;
 };

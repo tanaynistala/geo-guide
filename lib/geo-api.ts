@@ -37,10 +37,10 @@ export function getCountryData(countryCode: string) {
     (geo) => geo.properties.adm0_a3 === countryCode
   );
 
-  const name = countryGeoData.properties.name_long;
+  const name = countryGeoData.properties.admin;
   const code3 = countryGeoData.properties.adm0_a3;
-  const country = countryGeoData.properties.sovereignt;
   const code2 = countryGeoData.properties.iso_a2;
+  const country = countryGeoData.properties.sovereignt;
 
   const centroid = centroids.features.find(
     (geo) => geo.properties.ISO === code2
@@ -51,13 +51,10 @@ export function getCountryData(countryCode: string) {
 
   const capital = capitals.find((geo) => geo.country === name)?.city ?? "N/A";
 
-  const currency =
-    (currencyNames.find((geo) => geo.country === name)?.currency_name ??
-      "N/A") +
-    " (" +
-    (currencyCodes.find((geo) => geo.country === name)?.currency_code ??
-      "N/A") +
-    ")";
+  const currency = [
+    currencyNames.find((geo) => geo.country === name)?.currency_name ?? "N/A",
+    currencyCodes.find((geo) => geo.country === name)?.currency_code ?? "N/A",
+  ];
 
   const tld = domainTlds.find((geo) => geo.country === name)?.tld ?? "N/A";
 

@@ -9,24 +9,26 @@ type Props = {
 const FactCards = ({ country }: Props) => {
   return (
     <>
-      <div className="grid grid-flow-col-dense grid-cols-3 grid-rows-2 gap-4 mb-8">
-        <div className="row-span-2">
-          <Card title="Flag">
-            <div className="aspect-video">
-              <img
-                src={`https://countryflagsapi.com/png/${country.code2}`}
-                alt={`Flag of ${country.name}`}
-                className="h-full"
-              />
-            </div>
+      <div className="flex gap-4 justify-center items-center max-h-48 mb-8">
+        <img
+          src={`https://countryflagsapi.com/png/${country.code2}`}
+          alt={`Flag of ${country.name}`}
+          className="rounded-xl bg-gray-100 h-48 max-w-xs border-2"
+        />
+        <div className="grid grid-flow-col grid-cols-2 grid-rows-2 gap-4 h-48">
+          <Card title="Capital">{country.capital}</Card>
+          <Card title="Driving Side">
+            {country.drivesOnLeft ? "Left" : "Right"}
+          </Card>
+          <Card title="Currency">
+            {country.currency[0]}{" "}
+            <span className="text-xs">({country.currency[1]})</span>
+          </Card>
+          <Card title="Domain TLD">
+            <span className="text-slate-400">www.example</span>
+            {country.tld}
           </Card>
         </div>
-        <Card title="Capital">{country.capital}</Card>
-        <Card title="Domain TLD">{country.tld}</Card>
-        <Card title="Currency">{country.currency}</Card>
-        <Card title="Driving Side">
-          {country.drivesOnLeft ? "Left" : "Right"}
-        </Card>
       </div>
     </>
   );

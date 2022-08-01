@@ -32,6 +32,26 @@ export default function Guide({ guide }: Props) {
           <GuideTitle title="Loading…" />
         ) : (
           <>
+            {/* <aside className="sidebar">
+              <div className="toc">
+                <h1>Table of Contents</h1>
+                {guide.headingAnchors.length > 0 && (
+                  <ul>
+                    {guide.headingAnchors.map((anchor) => {
+                      return (
+                        <li
+                          id={`toc-${anchor.anchorId}`}
+                          key={anchor.anchorId}
+                          className={`ml${anchor.heading[1]} toc-anchor`}
+                        >
+                          <a href={`#${anchor.anchorId}`}>{anchor.title}</a>
+                        </li>
+                      );
+                    })}
+                  </ul>
+                )}
+              </div>
+            </aside> */}
             <article className="mb-32">
               <Head>
                 <title>{country.name} | GeoGuide</title>
