@@ -13,7 +13,7 @@ export default function CountryList({ country = "" }) {
         id="search"
         name="search"
         placeholder="Search..."
-        key="Search"
+        key={"Search"}
         onChange={(e) => setQuery(e.target.value)}
       />
 

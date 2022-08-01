@@ -49,15 +49,17 @@ export function getCountryData(countryCode: string) {
   const continent = countryGeoData.properties.continent;
   const subregion = countryGeoData.properties.subregion;
 
-  const capital = capitals.find((geo) => country === name)?.city ?? "N/A";
+  const capital = capitals.find((geo) => geo.country === name)?.city ?? "N/A";
 
   const currency =
-    (currencyNames.find((geo) => country === name)?.currency_name ?? "N/A") +
+    (currencyNames.find((geo) => geo.country === name)?.currency_name ??
+      "N/A") +
     " (" +
-    (currencyCodes.find((geo) => country === name)?.currency_code ?? "N/A") +
+    (currencyCodes.find((geo) => geo.country === name)?.currency_code ??
+      "N/A") +
     ")";
 
-  const tld = domainTlds.find((geo) => country === name)?.tld ?? "N/A";
+  const tld = domainTlds.find((geo) => geo.country === name)?.tld ?? "N/A";
 
   return {
     name,

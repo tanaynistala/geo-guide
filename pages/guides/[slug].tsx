@@ -24,7 +24,7 @@ export default function Guide({ guide }: Props) {
       <Container>
         <Header />
         {router.isFallback ? (
-          <GuideTitle title={Loading…}/>
+          <GuideTitle title="Loading…" />
         ) : (
           <>
             <article className="mb-32">
