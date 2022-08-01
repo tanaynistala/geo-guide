@@ -8,7 +8,7 @@ type Props = {
 const GuideHeader = ({ title }: Props) => {
   return (
     <>
-      <GuideTitle>{title}</GuideTitle>
+      <GuideTitle title={title} />
     </>
   );
 };

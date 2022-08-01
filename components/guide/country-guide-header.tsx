@@ -35,15 +35,15 @@ const GuideHeader = ({ title, country }: Props) => {
             <svg width="24" height="24" fill="none" viewBox="0 0 24 24">
               <path
                 stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="2"
                 d="M10.75 8.75L14.25 12L10.75 15.25"
               ></path>
             </svg>
             <span>{country.subregion}</span>
           </div>
-          <GuideTitle>{title}</GuideTitle>
+          <GuideTitle title={title} />
         </div>
         <div className="flex-initial w-36 h-36">
           <Map country={country} />
