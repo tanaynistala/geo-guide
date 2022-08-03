@@ -10,27 +10,10 @@ type Props = {
 const GuideHeader = ({ title, country }: Props) => {
   return (
     <>
-      {/* <div className="grid grid-cols-4 2xl:grid-cols-5 grid-rows-2 space-4">
-        <div className="col-span-3 2xl:col-span-4 row-span-1">
-          <GuideTitle>{title}</GuideTitle>
-        </div>
-        <div className="col-span-1 row-span-2">
-          <Map country={country} />
-        </div>
-        <div className="p-4 mr-4 bg-gray-100 rounded-lg object-cover">
-          {country.code}
-        </div>
-        <div className="p-4 mr-4 bg-gray-100 rounded-lg object-cover">
-          {country.code}
-        </div>
-        <div className="p-4 mr-4 bg-gray-100 rounded-lg object-cover">
-          {country.code}
-        </div>
-      </div> */}
-
-      <div className="flex flex-row space-x-8 stretch mb-16 lg:mb-8">
+      <div className="flex flex-row space-x-8 stretch mb-16 mt-12 mx-auto">
+        <Map country={country} />
         <div className="flex-1 self-start">
-          <div className="flex items-center text-lg font-medium text-gray-500 leading-tight md:leading-none ml-1">
+          <div className="flex items-center text-lg font-medium text-gray-500 leading-tight md:leading-none mb-2">
             <span>{country.continent}</span>
             <svg width="24" height="24" fill="none" viewBox="0 0 24 24">
               <path
@@ -44,9 +27,6 @@ const GuideHeader = ({ title, country }: Props) => {
             <span>{country.subregion}</span>
           </div>
           <GuideTitle title={title} />
-        </div>
-        <div className="flex-initial w-36 h-36">
-          <Map country={country} />
         </div>
       </div>
     </>

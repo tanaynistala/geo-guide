@@ -1,7 +1,8 @@
+import { MDXRemoteSerializeResult } from "next-mdx-remote";
+
 type CountryGuideType = {
   slug: string;
-  code: string;
-  content: string;
+  content: MDXRemoteSerializeResult;
 };
 
 export default CountryGuideType;

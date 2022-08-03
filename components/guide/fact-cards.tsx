@@ -9,13 +9,13 @@ type Props = {
 const FactCards = ({ country }: Props) => {
   return (
     <>
-      <div className="flex gap-4 justify-center items-center max-h-48 mb-8">
+      <div className="flex flex-row gap-4">
         <img
           src={`https://countryflagsapi.com/png/${country.code2}`}
           alt={`Flag of ${country.name}`}
-          className="rounded-xl bg-gray-100 h-48 max-w-xs border-2"
+          className="rounded-lg bg-gray-100 h-48 max-w-xs border-4"
         />
-        <div className="grid grid-flow-col grid-cols-2 grid-rows-2 gap-4 h-48">
+        <div className="grid grid-cols-2 gap-4 place-content-stretch h-48 w-full">
           <Card title="Capital">{country.capital}</Card>
           <Card title="Driving Side">
             {country.drivesOnLeft ? "Left" : "Right"}
@@ -25,8 +25,16 @@ const FactCards = ({ country }: Props) => {
             <span className="text-xs">({country.currency[1]})</span>
           </Card>
           <Card title="Domain TLD">
-            <span className="text-slate-400">www.example</span>
-            {country.tld}
+            {country.tld !== "N/A" ? (
+              <>
+                <span className="text-gray-500 opacity-50 hidden md:inline-block">
+                  www.example
+                </span>
+                <span className="font-medium">{country.tld}</span>
+              </>
+            ) : (
+              "N/A"
+            )}
           </Card>
         </div>
       </div>

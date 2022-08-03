@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const Header = () => {
   return (
-    <nav className="flex items-center font-mono justify-between py-16 mx-auto">
+    <nav className="flex items-center font-mono justify-between h-32 max-w-5xl mx-auto z-50">
       <Link href="/">
         <a className="bg-blue-400 hover:bg-orange-400 transition-all rounded-lg text-white font-mono font-bold text-sm pl-1 pr-4 pt-4">
           G<span className="hidden md:inline">eoGuide.</span>

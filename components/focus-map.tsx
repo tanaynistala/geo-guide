@@ -6,7 +6,7 @@ import {
   Graticule,
   Marker,
 } from "react-simple-maps";
-import geoData from "../public/world.geo.json";
+import geoData from "../lib/geo-data/geography.geo.json";
 import Country from "../interfaces/country";
 
 type Props = {

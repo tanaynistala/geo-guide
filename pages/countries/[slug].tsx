@@ -1,15 +1,20 @@
 import { useRouter } from "next/router";
 import ErrorPage from "next/error";
 import Container from "../../components/container";
+
+import { Title } from "../../components/typography";
+import Breadcrumb from "../../components/breadcrumb";
+import Map from "../../components/focus-map";
+
 import GuideBody from "../../components/guide/guide-body";
 import Header from "../../components/header";
 import GuideHeader from "../../components/guide/country-guide-header";
 import Layout from "../../components/layout";
 import { getGuide, getSlugs } from "../../lib/api";
 import { getCountryData } from "../../lib/geo-api";
-import GuideTitle from "../../components/guide/guide-title";
 import FactCards from "../../components/guide/fact-cards";
 import Head from "next/head";
+import TOC from "../../components/guide/toc";
 import type CountryGuideType from "../../interfaces/country-guide";
 
 type Props = {
@@ -29,34 +34,22 @@ export default function Guide({ guide }: Props) {
       <Container>
         <Header />
         {router.isFallback ? (
-          <GuideTitle title="Loading…" />
+          <Title title="Loading…" />
         ) : (
           <>
-            {/* <aside className="sidebar">
-              <div className="toc">
-                <h1>Table of Contents</h1>
-                {guide.headingAnchors.length > 0 && (
-                  <ul>
-                    {guide.headingAnchors.map((anchor) => {
-                      return (
-                        <li
-                          id={`toc-${anchor.anchorId}`}
-                          key={anchor.anchorId}
-                          className={`ml${anchor.heading[1]} toc-anchor`}
-                        >
-                          <a href={`#${anchor.anchorId}`}>{anchor.title}</a>
-                        </li>
-                      );
-                    })}
-                  </ul>
-                )}
-              </div>
-            </aside> */}
-            <article className="mb-32">
+            <article className="my-8 max-w-5xl mx-auto">
               <Head>
                 <title>{country.name} | GeoGuide</title>
               </Head>
-              <GuideHeader title={country.name} country={country} />
+              <div className="flex flex-row gap-8">
+                <div className="flex-1 self-start">
+                  <Breadcrumb country={country} />
+                  <Title title={country.name} />
+                </div>
+                <div className="w-36 h-36">
+                  <Map country={country} />
+                </div>
+              </div>
               <FactCards country={country} />
               <GuideBody content={guide.content} />
             </article>

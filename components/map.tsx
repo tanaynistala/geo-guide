@@ -5,7 +5,7 @@ import {
   Marker,
 } from "react-simple-maps";
 import Link from "next/link";
-import geoData from "../public/world.geo.json";
+import geoData from "../lib/geo-data/geography.geo.json";
 
 export default function Map({ country = "" }) {
   return (
