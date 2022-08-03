@@ -10,7 +10,11 @@ import TOC from "./toc";
 // here.
 
 const Nav = ({ ...props }) => {
-  return <TOC {...props} />;
+  return (
+    <TOC>
+      <div {...props} />
+    </TOC>
+  );
 };
 
 const TextLink = ({ href, ...rest }) => {

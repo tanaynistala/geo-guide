@@ -1,7 +1,9 @@
+import { MDXRemoteSerializeResult } from "next-mdx-remote";
+
 type GuideType = {
   slug: string;
   title: string;
-  content: string;
+  content: MDXRemoteSerializeResult;
 };
 
 export default GuideType;

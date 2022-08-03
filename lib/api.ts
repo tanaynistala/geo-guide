@@ -35,11 +35,14 @@ export async function getGuide(postType: string, slug: string) {
   const fullPath = path.join(getDirectory(postType), `${slug}.md`);
 
   // read file contents
-  let content = `
+  let content =
+    postType === "country"
+      ? `
   ## Whoops!
   Looks like we don't have a page for ${
     getCountryData(slug).name
-  } yet. This may be because we haven't gotten around to it yet, or it doesn't have coverage altogether. Check back later!`;
+  } yet. This may be because we haven't gotten around to it yet, or it doesn't have coverage altogether. Check back later!`
+      : "";
 
   if (fs.existsSync(fullPath)) {
     content = fs.readFileSync(fullPath, { encoding: "utf8" });

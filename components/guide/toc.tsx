@@ -2,7 +2,7 @@ import ReactNode from "react";
 import { useState } from "react";
 
 type Props = {
-  children: ReactNode;
+  children?: React.ReactNode;
 };
 
 export default function TOC({ children }: Props) {
