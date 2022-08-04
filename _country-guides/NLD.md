@@ -90,7 +90,7 @@ Dutch is the official language of the Netherlands, and as such is the primary la
 
 ## Alphabet
 
-Dutch uses the 26 letters of the standard Latin alphabet, plus an additional digraph `IJ` which is a distinctive feature of the language.
+Dutch uses the 26 letters of the standard Latin alphabet, plus an additional digraph _IJ_ which is a distinctive feature of the language.
 
 ```
 Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy IJij Zz
