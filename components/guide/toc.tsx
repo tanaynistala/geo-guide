@@ -15,7 +15,7 @@ export default function TOC({ children }: Props) {
           Table of Contents
         </h1>
         <button
-          className="lg:hidden p-1 hover:bg-gray-200 rounded"
+          className="p-1 hover:bg-gray-200 rounded"
           onClick={() => setVisibility(!visibility)}
         >
           <svg

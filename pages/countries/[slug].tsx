@@ -37,11 +37,11 @@ export default function Guide({ guide }: Props) {
           <Title title="Loading…" />
         ) : (
           <>
-            <article className="my-8 max-w-5xl mx-auto">
+            <article className="my-8 max-w-5xl mx-auto space-y-4">
               <Head>
                 <title>{country.name} | GeoGuide</title>
               </Head>
-              <div className="flex flex-row gap-8">
+              <div className="flex flex-row gap-8 mb-8">
                 <div className="flex-1 self-start">
                   <Breadcrumb country={country} />
                   <Title title={country.name} />

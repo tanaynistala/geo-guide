@@ -46,7 +46,7 @@ type Props = {
 
 const GuideBody = ({ content }: Props) => {
   return (
-    <div className="my-32 prose lg:prose-lg max-w-full lg:max-w-3xl mx-auto">
+    <div className="mb-32 prose lg:prose-lg max-w-full lg:max-w-3xl mx-auto">
       <MDXRemote {...content} components={components} />
     </div>
   );
