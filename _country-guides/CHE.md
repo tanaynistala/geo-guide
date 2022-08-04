@@ -55,7 +55,7 @@ In Switzerland there are 4 general tips for architecture. Note that these are al
 1. The Mittelland has loads of detached houses, in the suburbs especially. They are often similar in style.
 2. In the canton of Ticino there are a lot of pink houses. Besides that, the houses have a strong Italian influence.
 3. Swiss Chalets. One other thing, Switzerland is famous for are the Chalets. Usually in alpine regions, always wooden and always looking similar (Disclaimer: Austria, France, and Italy sometimes have similar buildings).
-4. Grison style. The Grison farm houses are often white or stoney around the ground floor and wooden on top (this is not limited to GR but very common there). Houses in villages often have paintings on their facades. This meta doesn't work for bigger towns like Chur, Davos, St Moritz and similar.
+4. Grison style. The Grison farm houses are often white or stoney around the ground floor and wooden on top (this is not limited to GR but very common there). Houses in villages often have paintings on their facades. This meta doesn't work for bigger towns like Chur, Davos, St. Moritz and similar.
 
 There are of course other things to watch out for concerning the architecture. The following tips are more vibebased and are usually harder to spot. Around the Jura mountains, near the western border with France, the architecture is heavily influenced by the French. In the hilly Emmental region of Bern canton, farm houses are typically wooden and have red flowers in front of their windows. This is not limited to Bern but nevertheless is very common there. In rural Valais houses are often vertically split into wood and white facade, unlike Graubünden where they are horizontally split. In Thurgau, St. Gallen, and the two Appenzell cantons, houses with wooden joints are very common.
 
@@ -71,6 +71,8 @@ Switzerland has four official languages:
 Swiss Standard German is distinguished from German and Austrian varieties by its lack of an _eszett_ (ßß), and is typically replaced by a double _s_. The easiest way to spot this difference is on street signs, where _"...straße"_ as used in Germany and Austria is written _"...strasse"_ in Switzerland.
 
 ## Alphabet
+
+
 
 ## Sample
 
