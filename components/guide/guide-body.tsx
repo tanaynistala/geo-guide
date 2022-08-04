@@ -32,12 +32,28 @@ const TextLink = ({ href, ...rest }) => {
   return <a {...rest} />;
 };
 
+const Code = ({ ...props }) => {
+  return (
+    <span
+      className="px-1 py-0.5 mx-0.5 text-sm font-mono font-semibold bg-black/5 rounded"
+      {...props}
+    />
+  );
+};
+
+const Img = (props) => (
+  // height and width are part of the props, so they get automatically passed here with {...props}
+  <Image {...props} layout="responsive" loading="lazy" />
+);
+
 const components = {
   Head,
   Image,
   Link,
   a: TextLink,
   nav: Nav,
+  img: Img,
+  code: Code,
 };
 
 type Props = {

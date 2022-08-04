@@ -5,6 +5,7 @@ import matter from "gray-matter";
 // import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeSlug from "rehype-slug";
 import rehypeTOC from "@jsdevtools/rehype-toc";
+import imageSize from "rehype-img-size";
 import section from "@agentofuser/rehype-section";
 
 import { serialize } from "next-mdx-remote/serialize";
@@ -52,7 +53,12 @@ export async function getGuide(postType: string, slug: string) {
     // Optionally pass remark/rehype plugins
     parseFrontmatter: true,
     mdxOptions: {
-      rehypePlugins: [rehypeSlug, section, rehypeTOC],
+      rehypePlugins: [
+        rehypeSlug,
+        [imageSize, { dir: "public" }],
+        section,
+        rehypeTOC,
+      ],
     },
   });
 
