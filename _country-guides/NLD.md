@@ -4,22 +4,24 @@ Welcome to the land of tulips, bicycles, and dams! The Netherlands is easily dis
 
 The Netherlands is comprised of the following twelve provinces:
 
-- Drenthe
-- Flevoland
-- Friesland
-- Gelderland
-- Groningen
-- Limburg
-- Noord-Brabant
-- Noord-Holland
-- Overijssel
-- Utrecht
-- Zeeland
-- Zuid-Holland
+- Drenthe `DR`
+- Flevoland `FL`
+- Friesland/Fryslân `FR`
+- Gelderland `GE`
+- Groningen `GR`
+- Limburg `LI`
+- Noord-Brabant `NB`
+- Noord-Holland `NH`
+- Overijssel `OV`
+- Utrecht `UT`
+- Zeeland `ZE`
+- Zuid-Holland `ZH`
 
 # License Plates
 
 Vehicles in the Netherlands have yellow license plates, with black text and a blue band on the left. The band bears standard the EU flag and the code `NL` for the Netherlands. License plates are required on both the front and back of cars. Dutch license plates are also a deeper shade of yellow than those found in Luxembourg and, unlike the United Kingdom, are yellow on both sides of the vehicle.
+
+<img src="/img/NLD/license-plate.png" alt="Dutch license plate" />
 
 # Roads & Road Markings
 
@@ -28,6 +30,8 @@ Dutch pedestrian crossings are particularly distinctive, sporting parallel lines
 # Highways & Road Numbering Schemes
 
 The Dutch road network is one of the densest in the world, and is comprised of three layers of roads. In descending order of throughput, they are A-, N-, and S-routes, and are numbered prefixed with the respective letter.
+
+A- and N-routes typically have kilometer markers bearing the route number on them, as shown below:
 
 ## A-routes (Autosnelwegen)
 
