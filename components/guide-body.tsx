@@ -4,6 +4,7 @@ import Link from "next/link";
 import { MDXRemote, MDXRemoteSerializeResult } from "next-mdx-remote";
 import TOC from "./toc";
 import CountryMap from "./country-map";
+import SubdivisionMap from "./subdivision-map/subdivision-map";
 
 // Custom components/renderers to pass to MDX.
 // Since the MDX files aren't loaded by webpack, they have no knowledge of how
@@ -52,6 +53,7 @@ const components = {
   Image,
   Link,
   CountryMap,
+  SubdivisionMap,
   a: TextLink,
   nav: Nav,
   img: Img,
