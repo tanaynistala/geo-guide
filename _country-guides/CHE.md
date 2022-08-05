@@ -31,6 +31,8 @@ Switzerland is comprised of cantons, of which there are 20 "full" cantons and 4 
 - Zug `ZU`
 - Zürich `ZH`
 
+<CountryMap code="CHE" scale="8000" />
+
 # License Plates
 
 Swiss license plates are typically white with black lettering. Since Switzerland is not in the EU, they do not have a blue band on the left side of the plate; instead they have, going from left to right, the following:

@@ -6,14 +6,19 @@ import {
 } from "react-simple-maps";
 import Link from "next/link";
 import geoData from "../lib/geo-data/geography.geo.json";
+import { useState, memo } from "react";
+import ReactTooltip from "react-tooltip";
 
-export default function Map({ country = "" }) {
+const Map = ({ country = "" }) => {
+  const [tooltipContent, setTooltipContent] = useState("");
+
   return (
     <div className="px-4 pt-8 pb-0 lg:max-h-[32rem] bg-gray-100 rounded-2xl">
       <ComposableMap
         projection="geoEquirectangular"
         width={1024}
         height={512}
+        data-tip=""
         projectionConfig={{
           rotate: [-10, 0, 0],
         }}
@@ -37,6 +42,12 @@ export default function Map({ country = "" }) {
                     className="outline-none"
                     key={feature.rsmKey}
                     geography={feature}
+                    onMouseEnter={() => {
+                      setTooltipContent(`${feature.properties.admin}`);
+                    }}
+                    onMouseLeave={() => {
+                      setTooltipContent("");
+                    }}
                   />
                 </a>
               </Link>
@@ -56,6 +67,12 @@ export default function Map({ country = "" }) {
                   ? geometry.coordinates[0][0][0]
                   : geometry.coordinates[0][0]
               }
+              onMouseEnter={() => {
+                setTooltipContent(`${properties.admin}`);
+              }}
+              onMouseLeave={() => {
+                setTooltipContent("");
+              }}
             >
               <Link
                 href={`/countries/${properties.adm0_a3}`}
@@ -75,6 +92,11 @@ export default function Map({ country = "" }) {
             </Marker>
           ))}
       </ComposableMap>
+      <ReactTooltip className="font-mono font-bold text-8xl bg-blue-500 text-white shadow-lg">
+        {tooltipContent}
+      </ReactTooltip>
     </div>
   );
-}
+};
+
+export default memo(Map);

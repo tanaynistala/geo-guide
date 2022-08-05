@@ -3,6 +3,7 @@ type Country = {
   code3: string;
   code2: string;
   coordinates: number[];
+  scale: number;
   continent: string;
   subregion: string;
   capital: string;

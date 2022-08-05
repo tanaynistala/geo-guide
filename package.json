@@ -19,6 +19,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-simple-maps": "^3.0.0",
+    "react-tooltip": "^4.2.21",
     "rehype-img-size": "^1.0.1",
     "rehype-slug": "^5.0.1",
     "remark": "^14.0.2",

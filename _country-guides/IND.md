@@ -46,6 +46,8 @@ and 8 Union Territories:
 
 Odisha and Uttarakhand were renamed from Orissa and Uttaranchal, respectively, which is why two state codes are provided. Dadra and Nagar Haveli and Daman and Diu were previously two separate Union Territories, and codes for both are provided above, although today only the latter (`DD`) continues on. Telangana split off from Andhra Pradesh, so `AP` can still be found on signs in the area.
 
+<CountryMap code="IND" scale="800" />
+
 # License Plates
 
 License plate designs in India are not strictly regulated, although there are primarily two types of license plates. Private vehicles carry white-backed license plates with black text **{

@@ -17,6 +17,8 @@ The Netherlands is comprised of the following twelve provinces:
 - Zeeland `ZE`
 - Zuid-Holland `ZH`
 
+<CountryMap code="NLD" scale="10000" />
+
 # License Plates
 
 Vehicles in the Netherlands have yellow license plates, with black text and a blue band on the left. The band bears standard the EU flag and the code `NL` for the Netherlands. License plates are required on both the front and back of cars. Dutch license plates are also a deeper shade of yellow than those found in Luxembourg and, unlike the United Kingdom, are yellow on both sides of the vehicle.
