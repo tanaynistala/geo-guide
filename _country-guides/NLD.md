@@ -106,7 +106,7 @@ S-routes, or _stadsroutes_, literally translates to _city routes_, and as such a
 
 Dutch is the official language of the Netherlands, and as such is the primary language seen in the Netherlands, although English is also commonly seen on signs, especially in urban, touristy areas. It is easy to tell apart from both English and German, its two closest linguistic relatives, as it typically contains more double-vowel sequences than both languages, and can seem like a combination of the two languages.
 
-In the province of Friesland/Fryslân, West Frisian is an official language, and can be found on signs. Town entry signs in Friesland are often bilingual, bearing both the West Frisian and Dutch names.
+In the province of Friesland/Fryslân, West Frisian is an official language, and can be found on signs. Town entry signs in Friesland are often bilingual, bearing both the West Frisian and Dutch names. Such signs are a good indicator that you are in Friesland.
 
 ## Alphabet
 
