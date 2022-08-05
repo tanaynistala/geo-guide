@@ -1,6 +1,6 @@
 import GuideTitle from "./guide-title";
-import Map from "../focus-map";
-import Country from "../../interfaces/country";
+import Map from "./focus-map";
+import Country from "../interfaces/country";
 
 type Props = {
   title: string;

@@ -2,7 +2,7 @@ import Container from "../../components/container";
 import Header from "../../components/header";
 import Layout from "../../components/layout";
 import Head from "next/head";
-import HeroMap from "../../components/guide/hero-map";
+import HeroMap from "../../components/hero-map";
 
 export default function Index() {
   return (

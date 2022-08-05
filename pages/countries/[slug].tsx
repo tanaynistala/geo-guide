@@ -6,15 +6,15 @@ import { Title } from "../../components/typography";
 import Breadcrumb from "../../components/breadcrumb";
 import Map from "../../components/focus-map";
 
-import GuideBody from "../../components/guide/guide-body";
+import GuideBody from "../../components/guide-body";
 import Header from "../../components/header";
-import GuideHeader from "../../components/guide/country-guide-header";
+import GuideHeader from "../../components/country-guide-header";
 import Layout from "../../components/layout";
 import { getGuide, getSlugs } from "../../lib/api";
 import { getCountryData } from "../../lib/geo-api";
-import FactCards from "../../components/guide/fact-cards";
+import FactCards from "../../components/fact-cards";
 import Head from "next/head";
-import TOC from "../../components/guide/toc";
+import TOC from "../../components/toc";
 import type CountryGuideType from "../../interfaces/country-guide";
 
 type Props = {

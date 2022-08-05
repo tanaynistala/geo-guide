@@ -1,6 +1,6 @@
-import Country from "../../interfaces/country";
+import Country from "../interfaces/country";
 import Image from "next/image";
-import Card from "../card";
+import Card from "./card";
 
 type Props = {
   country: Country;

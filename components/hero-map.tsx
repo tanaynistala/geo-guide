@@ -1,6 +1,6 @@
-import Map from "../map";
-import CountryList from "../country-list";
-import CountryGrid from "../country-grid";
+import Map from "./map";
+import CountryList from "./country-list";
+import CountryGrid from "./country-grid";
 import Link from "next/link";
 
 const HeroMap = () => {

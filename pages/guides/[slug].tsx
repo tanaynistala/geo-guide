@@ -1,12 +1,12 @@
 import { useRouter } from "next/router";
 import ErrorPage from "next/error";
 import Container from "../../components/container";
-import GuideBody from "../../components/guide/guide-body";
+import GuideBody from "../../components/guide-body";
 import Header from "../../components/header";
-import GuideHeader from "../../components/guide/guide-header";
+import GuideHeader from "../../components/guide-header";
 import Layout from "../../components/layout";
 import { getGuide, getSlugs } from "../../lib/api";
-import GuideTitle from "../../components/guide/guide-title";
+import GuideTitle from "../../components/guide-title";
 import Head from "next/head";
 import type GuideType from "../../interfaces/guide";
 
