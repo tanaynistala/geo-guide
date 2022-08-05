@@ -106,15 +106,27 @@ S-routes, or _stadsroutes_, literally translates to _city routes_, and as such a
 
 Dutch is the official language of the Netherlands, and as such is the primary language seen in the Netherlands, although English is also commonly seen on signs, especially in urban, touristy areas. It is easy to tell apart from both English and German, its two closest linguistic relatives, as it typically contains more double-vowel sequences than both languages, and can seem like a combination of the two languages.
 
+In the province of Friesland/Fryslân, West Frisian is an official language, and can be found on signs. Town entry signs in Friesland are often bilingual, bearing both the West Frisian and Dutch names.
+
 ## Alphabet
 
 Dutch uses the 26 letters of the standard Latin alphabet, plus an additional digraph _IJ_ which is a distinctive feature of the language.
 
 > Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy IJij Zz
 
-## Sample
+West Frisian uses the same alphabet, but can also have circumflex (ˆ) or acute (´) accents on four vowels:
+
+> Ââ Êê Ôô Ûû Áá Éé Óó Úú
+
+## Samples
+
+### Dutch
 
 > Alle mensen worden vrij en gelijk in waardigheid en rechten geboren. Zij zijn begiftigd met verstand en geweten, en behoren zich jegens elkander in een geest van broederschap te gedragen.
+
+### West Frisian
+
+> Alle minsken wurde frij en gelyk yn weardigens en rjochten berne. Hja hawwe ferstân en gewisse meikrigen en hearre har foar inoar oer yn in geast fan bruorskip te hâlden en te dragen.
 
 # Meta-gaming
 
