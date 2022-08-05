@@ -87,7 +87,11 @@ India uses different systems for mobile and telephone numbers. Mobile phone numb
 
 # Roads, Markings, and Signage
 
-Roads in India aren't marked very consistently – while they typically sport white lines, they are often missing altogether. However, main roads often have planted dividers in the middle, mainly in or near cities. These are particularly distinctive, as they feature alternating yellow and black stripes, as do the curbs. Occasionally
+Roads in India aren't marked very consistently – while they typically sport white lines, they are often missing altogether. However, main roads often have planted dividers in the middle, mainly in or near cities. These are particularly distinctive, as they feature alternating yellow and black stripes, as do the curbs.
+
+Road signs in India often feature English text in addition to the local language/script, although the English text can vary from being a transliteration to an old name. Shops almost always have their address written on the sign (like in Sri Lanka or Bangladesh), but aren't always written in English. Try comparing the scripts (see [Language](#language)) to figure out the region, and match the characters to a city.
+
+Mumbai in particular uses a directional system to neighborhood names, which are suffixed with _East_ (पूर्व) or _West_ (पश्चिम) corresponding to whether you are east or west of the nearest railway line. Look out for these indicators (typically just the first character) to figure out where to look!
 
 # Highways & Road Numbering Schemes
 
