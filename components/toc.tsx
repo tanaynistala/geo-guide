@@ -11,9 +11,9 @@ export default function TOC({ children }: Props) {
   return (
     <div className="p-2 bg-gray-100 rounded-lg mb-8">
       <div className="flex flex-row items-center justify-between text-gray-500  not-prose">
-        <h1 className="ml-2 md:my-2 text-sm font-medium leading-tight md:leading-none">
+        <h6 className="ml-2 md:my-2 text-sm font-medium leading-tight md:leading-none">
           Table of Contents
-        </h1>
+        </h6>
         <button
           className="p-1 hover:bg-gray-200 rounded"
           onClick={() => setVisibility(!visibility)}
