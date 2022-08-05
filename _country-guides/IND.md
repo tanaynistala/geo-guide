@@ -61,6 +61,17 @@ Indian license plates follow a simple format that can make it easy to narrow dow
    - The exception to this rule is Delhi, where only the first character corresponds to this. The second character corresponds to the vehicle's class
 3. The next three to six characters are the vehicle's registered serial number, comprised of two letters and up to four numbers.
 
+While most license plates will be blurred, the sheer density of vehicles in urban areas means some are likely to be missed, or only partially blurred. In addition, auto rickshaws and taxis often have their license plate printed on the side of the vehicle as well, which is often not blurred. Thus this makes it easier to narrow down your location.
+
+## Western MH & Vadodara/Baroda
+
+As the most densely covered area on Street View (as of early August 2022), knowing the registration codes for `MH` vehicles can help narrow down which city you are in. Vadodara/Baroda is the only covered city in this region not in Maharashtra state – it will predominantly have `GJ` plates, from Gujarat. Here are the registration codes for the other cities (all prefixed with `MH` on license plates):
+
+- Mumbai: `01`-`05`, `46`-`48`, `55`, `56`
+- Pune: `12`, `14`, `53`, `54`
+- Nashik: `15`
+- Ahmednagar: `16`, `17`
+
 # Phone Codes
 
 India uses different systems for mobile and telephone numbers. Mobile phone numbers are organized by carrier, and thus are not particularly useful in narrowing down your location. However, telephone codes, while slightly harder to find, can help you narrow down your location. These numbers are sometimes prefixed with a zero (0).
@@ -75,6 +86,8 @@ India uses different systems for mobile and telephone numbers. Mobile phone numb
 8. South (`AP`, `TS`, `GA`, `KA`)
 
 # Roads, Markings, and Signage
+
+Roads in India aren't marked very consistently – while they typically sport white lines, they are often missing altogether. However, main roads often have planted dividers in the middle, mainly in or near cities. These are particularly distinctive, as they feature alternating yellow and black stripes, as do the curbs. Occasionally
 
 # Highways & Road Numbering Schemes
 
