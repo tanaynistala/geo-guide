@@ -23,15 +23,31 @@ Vehicles in the Netherlands have yellow license plates, with black text and a bl
 
 <img src="/img/NLD/license-plate.png" alt="Dutch license plate" />
 
-# Roads & Road Markings
+# Phone Codes
 
-Dutch pedestrian crossings are particularly distinctive, sporting parallel lines of alternating length that you will not find anywhere else. In town centers and residential areas, streets are often made of brick, and parking spots are demarcated using dashed shoulder markings. These shoulder markings can also occasionally be seen in the countryside, although unmarked roads are also common in rural areas.
+Phone numbers are prefixed with a zero (0), and are fairly well ordered:
+
+1. Southwest (`ZE`, `ZH`, and western `NB`)
+2. West (`NH`, Nijmegen `GE`, and Arnhem `GE`)
+3. Central (`UT`, `FL`, and eastern `GE`)
+4. South (`LI`, eastern `NB`, and southern `GE`)
+5. North (`FR`, `GR`, `DR`, `OV`, and Urk `FL`)
+6. Mobile Phones
+7. Geographical, randomly scattered across the country
+
+# Roads, Markings, and Signage
+
+Dutch pedestrian crossings are particularly distinctive, sporting parallel lines of alternating length that you will not find anywhere else. Bike lanes are incredibly common in the Netherlands, and are often painted red. When along the side of the road, they are demarcated using dashed white lines. In many areas, bike paths are completely separated form the road altogether, which is not very common in other countries.
+
+Street names in the Netherlands typically end in _straat_ (street), _laan_ (lane), or _weg_ (way), but can occasionally end in _kade_, _pad_, or _gracht_. Bike paths are often labeled _fietspad_, which can be an easy way to identify the Netherlands given the abundance of bicycle infrastructure. Bridges usually end in _brug_, so if you see that on a sign it might be worth checking out, even if the Netherlands has a nearly endless supply of them!
+
+On major roads, you will often find blue signs with white lettering pointing you to nearby towns, cities, or highways. Brown signs point you to historic or touristic locations, and white signs with red outlines and text denote directions for cyclists. And on highways, look for blue **UIT** signs to take the exits.
+
+A- and N-routes (see [Highways](#highways--road-numbering-schemes)) typically have green-backed kilometer markers bearing the route number and traversed distance on them. A-route markers are mostly standardized across the network, but N-route markers can vary by province.
 
 # Highways & Road Numbering Schemes
 
 The Dutch road network is one of the densest in the world, and is comprised of three layers of roads. In descending order of throughput, they are A-, N-, and S-routes, and are numbered prefixed with the respective letter.
-
-A- and N-routes typically have kilometer markers bearing the route number on them, as shown below:
 
 ## A-routes (Autosnelwegen)
 
@@ -92,16 +108,20 @@ Dutch is the official language of the Netherlands, and as such is the primary la
 
 Dutch uses the 26 letters of the standard Latin alphabet, plus an additional digraph _IJ_ which is a distinctive feature of the language.
 
-```
-Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy IJij Zz
-```
+> Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy IJij Zz
 
 ## Sample
 
-Alle mensen worden vrij en gelijk in waardigheid en rechten geboren. Zij zijn begiftigd met verstand en geweten, en behoren zich jegens elkander in een geest van broederschap te gedragen.
+> Alle mensen worden vrij en gelijk in waardigheid en rechten geboren. Zij zijn begiftigd met verstand en geweten, en behoren zich jegens elkander in een geest van broederschap te gedragen.
 
-# Most Similar To:
+# Meta-gaming
 
-## Denmark
+# Most Similar
 
-## Belgium
+## [Denmark](/countries/DNK)
+
+Denmark is often confused with the Netherlands due to the similarly flat landscape, blue street signs, and occasionally a yellow license plate. To tell them apart, be on the lookout for bike paths – in the Netherlands, they are typically painted red, while in Denmark they are simply lined with dashed lines on either side. Highway signs are also a good indicator, since the Netherlands has blue signs, while Danish ones are typically white with a red outline, and are lower to the ground than Dutch ones.
+
+## [Belgium](/countries/BEL)
+
+Belgium can look similar to the Netherlands, especially in the bordering regions in Flanders. Flemish, which is spoken in Flanders, also looks similar to Dutch, which can add to the confusion. If in an urban area, check for street signs – Belgian cities have the city's name written on them, while Dutch cities do not. In the countryside, pay close attention to the roads, as Dutch roads are typically better in quality, and have parallel bike lanes much more often than Belgium.

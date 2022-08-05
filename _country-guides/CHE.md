@@ -42,7 +42,7 @@ Swiss license plates are typically white with black lettering. Since Switzerland
 
 This means Swiss license plates differ from canton to canton, but in terms of Geoguessr the blur renders these differences useless. In contrast to other European countries, Switzerland has taller versions of license plates in addition to long ones. Diplomatic vehicles have a green `CD` or `CC` on the left. They are often seen around Bern and Geneva due to the presence of embassies and international agencies in each city, respectively. Utility vehicle registration plates are blue, agricultural vehicle registration plates are green, military vehicles have black plates and mopeds, segways and e-bikes have yellow plates.
 
-# Roads & Markings
+# Roads, Markings, and Signage
 
 2-lane roads have white center lines and solid white shoulder lines. Single-lane roads only rarely have any road markings. The swiss pedestrian crossings are long and thick yellow lines. Swiss bollards are usually but not only round and always white. In winter coverage, you can find wooden snow bollards with usually orange painting on the tip. On highways, you will find kilometer markers with the road numbers on the guardrail in the middle of the highway.
 
@@ -72,17 +72,33 @@ Swiss Standard German is distinguished from German and Austrian varieties by its
 
 ## Alphabet
 
+### Swiss German & Swiss Standard German
 
+> Aa Ää Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Öö Pp Qq Rr Ss Tt Uu Üü Vv Ww Xx Yy Zz
+
+### French
+
+> Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
+>
+> Diacritics: Àà Ââ Ææ Çç Éé Èè Êê Ëë Îî Ïï Ôô Œœ Ùù Ûû Üü Ÿÿ
+
+### Italian
+
+> Aa Bb Cc Dd Ee Ff Gg Hh Ii Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Zz
+
+### Romansh
+
+> Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
 
 ## Sample
-
-### Swiss Standard German
-
-> Alle Menschen sind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft und Gewissen begabt und sollen einander im Geist der Brüderlichkeit begegnen.
 
 ### Swiss German
 
 > Alli Mönshe send frey ond geboore met gliicher Wörd ond gliiche Rächt. Si send xägnet met Vernonft ond Gwösse ond sölled enand e brüederlechem Gäisht begägne.
+
+### Swiss Standard German
+
+> Alle Menschen sind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft und Gewissen begabt und sollen einander im Geist der Brüderlichkeit begegnen.
 
 ### French
 
