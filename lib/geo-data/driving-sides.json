@@ -1,974 +1,974 @@
 [
   {
     "country": "Afghanistan",
-    "currency_name": "Afghanistan Afghani"
+    "drives_on_left": false
   },
   {
     "country": "Albania",
-    "currency_name": "Albanian Lek"
+    "drives_on_left": false
   },
   {
     "country": "Algeria",
-    "currency_name": "Algerian Dinar"
+    "drives_on_left": false
   },
   {
     "country": "American Samoa",
-    "currency_name": "US Dollar"
+    "drives_on_left": false
   },
   {
     "country": "Andorra",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Angola",
-    "currency_name": "Angolan Kwanza"
+    "drives_on_left": false
   },
   {
     "country": "Anguilla",
-    "currency_name": "East Caribbean Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Antarctica",
-    "currency_name": "East Caribbean Dollar"
+    "drives_on_left": false
   },
   {
     "country": "Antigua and Barbuda",
-    "currency_name": "East Caribbean Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Argentina",
-    "currency_name": "Argentine Peso"
+    "drives_on_left": false
   },
   {
     "country": "Armenia",
-    "currency_name": "Armenian Dram"
+    "drives_on_left": false
   },
   {
     "country": "Aruba",
-    "currency_name": "Aruban Guilder"
+    "drives_on_left": false
   },
   {
     "country": "Australia",
-    "currency_name": "Australian Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Austria",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Azerbaijan",
-    "currency_name": "Azerbaijan New Manat"
+    "drives_on_left": false
   },
   {
     "country": "Bahamas",
-    "currency_name": "Bahamian Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Bahrain",
-    "currency_name": "Bahraini Dinar"
+    "drives_on_left": false
   },
   {
     "country": "Bangladesh",
-    "currency_name": "Bangladeshi Taka"
+    "drives_on_left": true
   },
   {
     "country": "Barbados",
-    "currency_name": "Barbados Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Belarus",
-    "currency_name": "Belarussian Ruble"
+    "drives_on_left": false
   },
   {
     "country": "Belgium",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Belize",
-    "currency_name": "Belize Dollar"
+    "drives_on_left": false
   },
   {
     "country": "Benin",
-    "currency_name": "CFA Franc BCEAO"
+    "drives_on_left": false
   },
   {
     "country": "Bermuda",
-    "currency_name": "Bermudian Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Bhutan",
-    "currency_name": "Bhutan Ngultrum"
+    "drives_on_left": true
   },
   {
     "country": "Bolivia",
-    "currency_name": "Boliviano"
+    "drives_on_left": false
   },
   {
     "country": "Bosnia and Herzegovina",
-    "currency_name": "Convertible mark"
+    "drives_on_left": false
   },
   {
     "country": "Botswana",
-    "currency_name": "Botswana Pula"
+    "drives_on_left": true
   },
   {
     "country": "Bouvet Island",
-    "currency_name": "Norwegian Krone"
+    "drives_on_left": false
   },
   {
     "country": "Brazil",
-    "currency_name": "Brazilian Real"
+    "drives_on_left": false
   },
   {
     "country": "British Indian Ocean Territory",
-    "currency_name": "US Dollar"
+    "drives_on_left": false
   },
   {
     "country": "Brunei",
-    "currency_name": "Brunei Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Bulgaria",
-    "currency_name": "Bulgarian Lev"
+    "drives_on_left": false
   },
   {
     "country": "Burkina Faso",
-    "currency_name": "CFA Franc BCEAO"
+    "drives_on_left": false
   },
   {
     "country": "Burundi",
-    "currency_name": "Burundi Franc"
+    "drives_on_left": false
   },
   {
     "country": "Cambodia",
-    "currency_name": "Kampuchean Riel"
+    "drives_on_left": false
   },
   {
     "country": "Cameroon",
-    "currency_name": "CFA Franc BEAC"
+    "drives_on_left": false
   },
   {
     "country": "Canada",
-    "currency_name": "Canadian Dollar"
+    "drives_on_left": false
   },
   {
     "country": "Cape Verde",
-    "currency_name": "Cape Verde Escudo"
+    "drives_on_left": false
   },
   {
     "country": "Cayman Islands",
-    "currency_name": "Cayman Islands Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Central African Republic",
-    "currency_name": "CFA Franc BEAC"
+    "drives_on_left": false
   },
   {
     "country": "Chad",
-    "currency_name": "CFA Franc BEAC"
+    "drives_on_left": false
   },
   {
     "country": "Chile",
-    "currency_name": "Chilean Peso"
+    "drives_on_left": false
   },
   {
     "country": "China",
-    "currency_name": "Yuan Renminbi"
+    "drives_on_left": false
   },
   {
     "country": "Christmas Island",
-    "currency_name": "Australian Dollar"
+    "drives_on_left": false
   },
   {
     "country": "Cocos (Keeling) Islands",
-    "currency_name": " Australian Dollar"
+    "drives_on_left": false
   },
   {
     "country": "Colombia",
-    "currency_name": "Colombian Peso"
+    "drives_on_left": false
   },
   {
     "country": "Comoros",
-    "currency_name": "Comoros Franc"
+    "drives_on_left": false
   },
   {
     "country": "Congo",
-    "currency_name": "CFA Franc BEAC"
+    "drives_on_left": false
   },
   {
     "country": "Cook Islands",
-    "currency_name": "New Zealand Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Costa Rica",
-    "currency_name": "Costa Rican Colon"
+    "drives_on_left": false
   },
   {
     "country": "Croatia",
-    "currency_name": "Croatian Kuna"
+    "drives_on_left": false
   },
   {
     "country": "Cuba",
-    "currency_name": "Cuban Peso"
+    "drives_on_left": false
   },
   {
     "country": "Cyprus",
-    "currency_name": "Euro"
+    "drives_on_left": true
   },
   {
     "country": "Czechia",
-    "currency_name": "Czech Koruna"
+    "drives_on_left": false
   },
   {
     "country": "Denmark",
-    "currency_name": "Danish Krone"
+    "drives_on_left": false
   },
   {
     "country": "Djibouti",
-    "currency_name": "Djibouti Franc"
+    "drives_on_left": false
   },
   {
     "country": "Dominica",
-    "currency_name": "East Caribbean Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Dominican Republic",
-    "currency_name": "Dominican Peso"
+    "drives_on_left": false
   },
   {
     "country": "Timor-Leste",
-    "currency_name": "US Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Ecuador",
-    "currency_name": "Ecuador Sucre"
+    "drives_on_left": false
   },
   {
     "country": "Egypt",
-    "currency_name": "Egyptian Pound"
+    "drives_on_left": false
   },
   {
     "country": "El Salvador",
-    "currency_name": "El Salvador Colon"
+    "drives_on_left": false
   },
   {
     "country": "England",
-    "currency_name": "Pound Sterling"
+    "drives_on_left": false
   },
   {
     "country": "Equatorial Guinea",
-    "currency_name": "CFA Franc BEAC"
+    "drives_on_left": false
   },
   {
     "country": "Eritrea",
-    "currency_name": "Eritrean Nakfa"
+    "drives_on_left": false
   },
   {
     "country": "Estonia",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Ethiopia",
-    "currency_name": "Ethiopian Birr"
+    "drives_on_left": false
   },
   {
     "country": "Falkland Islands",
-    "currency_name": "Falkland Island Pound"
+    "drives_on_left": true
   },
   {
     "country": "Faroe Islands",
-    "currency_name": " Danish Krone"
+    "drives_on_left": false
   },
   {
     "country": "Fiji",
-    "currency_name": "Fijian Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Finland",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "France",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "French Guiana",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "French Polynesia",
-    "currency_name": "CFP Franc"
+    "drives_on_left": false
   },
   {
     "country": "French Southern territories",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Gabon",
-    "currency_name": "CFA Franc BEAC"
+    "drives_on_left": false
   },
   {
     "country": "Gambia",
-    "currency_name": "Gambian Dalasi"
+    "drives_on_left": false
   },
   {
     "country": "Georgia",
-    "currency_name": "Georgian Lari"
+    "drives_on_left": false
   },
   {
     "country": "Germany",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Ghana",
-    "currency_name": "Ghanaian Cedi"
+    "drives_on_left": false
   },
   {
     "country": "Gibraltar",
-    "currency_name": "Gibraltar Pound"
+    "drives_on_left": false
   },
   {
     "country": "Greece",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Greenland",
-    "currency_name": "Danish Krone"
+    "drives_on_left": false
   },
   {
     "country": "Grenada",
-    "currency_name": "East Carribean Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Guadeloupe",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Guam",
-    "currency_name": "US Dollar"
+    "drives_on_left": false
   },
   {
     "country": "Guatemala",
-    "currency_name": "Guatemalan Quetzal"
+    "drives_on_left": false
   },
   {
     "country": "Guinea",
-    "currency_name": "Guinea Franc"
+    "drives_on_left": false
   },
   {
     "country": "Guinea-Bissau",
-    "currency_name": "CFA Franc BCEAO"
+    "drives_on_left": false
   },
   {
     "country": "Guyana",
-    "currency_name": "Guyana Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Haiti",
-    "currency_name": "Haitian Gourde"
+    "drives_on_left": false
   },
   {
     "country": "Heard Island and McDonald Islands",
-    "currency_name": "Australian Dollar"
+    "drives_on_left": false
   },
   {
     "country": "Holy See (Vatican City State)",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Honduras",
-    "currency_name": "Honduran Lempira"
+    "drives_on_left": false
   },
   {
     "country": "Hong Kong",
-    "currency_name": "Hong Kong Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Hungary",
-    "currency_name": "Hungarian Forint"
+    "drives_on_left": false
   },
   {
     "country": "Iceland",
-    "currency_name": "Iceland Krona"
+    "drives_on_left": false
   },
   {
     "country": "India",
-    "currency_name": "Indian Rupee"
+    "drives_on_left": true
   },
   {
     "country": "Indonesia",
-    "currency_name": "Indonesian Rupiah"
+    "drives_on_left": true
   },
   {
     "country": "Iran",
-    "currency_name": "Iranian Rial"
+    "drives_on_left": false
   },
   {
     "country": "Iraq",
-    "currency_name": "Iraqi Dinar"
+    "drives_on_left": false
   },
   {
     "country": "Ireland",
-    "currency_name": "Euro"
+    "drives_on_left": true
   },
   {
     "country": "Israel",
-    "currency_name": "Israeli New Shekel"
+    "drives_on_left": false
   },
   {
     "country": "Italy",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Côte d'Ivoire",
-    "currency_name": "CFA Franc BCEAO"
+    "drives_on_left": false
   },
   {
     "country": "Jamaica",
-    "currency_name": "Jamaican Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Japan",
-    "currency_name": "Japanese Yen"
+    "drives_on_left": true
   },
   {
     "country": "Jordan",
-    "currency_name": "Jordanian Dinar"
+    "drives_on_left": false
   },
   {
     "country": "Kazakhstan",
-    "currency_name": "Kazakhstani Tenge"
+    "drives_on_left": false
   },
   {
     "country": "Kenya",
-    "currency_name": "Kenyan Shilling"
+    "drives_on_left": true
   },
   {
     "country": "Kiribati",
-    "currency_name": "Australian Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Kuwait",
-    "currency_name": "Kuwaiti Dinar"
+    "drives_on_left": false
   },
   {
     "country": "Kyrgyzstan",
-    "currency_name": "Som"
+    "drives_on_left": false
   },
   {
     "country": "Laos",
-    "currency_name": "Lao Kip"
+    "drives_on_left": false
   },
   {
     "country": "Latvia",
-    "currency_name": "Latvian Lats"
+    "drives_on_left": false
   },
   {
     "country": "Lebanon",
-    "currency_name": "Lebanese Pound"
+    "drives_on_left": false
   },
   {
     "country": "Lesotho",
-    "currency_name": "Lesotho Loti"
+    "drives_on_left": true
   },
   {
     "country": "Liberia",
-    "currency_name": "Liberian Dollar"
+    "drives_on_left": false
   },
   {
     "country": "Libyan Arab Jamahiriya",
-    "currency_name": "Libyan Dinar"
+    "drives_on_left": false
   },
   {
     "country": "Liechtenstein",
-    "currency_name": "Swiss Franc"
+    "drives_on_left": false
   },
   {
     "country": "Lithuania",
-    "currency_name": "Lithuanian Litas"
+    "drives_on_left": false
   },
   {
     "country": "Luxembourg",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Macao",
-    "currency_name": "Macanese Pataca"
+    "drives_on_left": true
   },
   {
     "country": "North Macedonia",
-    "currency_name": "Denar"
+    "drives_on_left": false
   },
   {
     "country": "Madagascar",
-    "currency_name": "Malagasy Franc"
+    "drives_on_left": false
   },
   {
     "country": "Malawi",
-    "currency_name": "Malawi Kwacha"
+    "drives_on_left": true
   },
   {
     "country": "Malaysia",
-    "currency_name": "Malaysian Ringgit"
+    "drives_on_left": true
   },
   {
     "country": "Maldives",
-    "currency_name": "Maldive Rufiyaa"
+    "drives_on_left": true
   },
   {
     "country": "Mali",
-    "currency_name": "CFA Franc BCEAO"
+    "drives_on_left": false
   },
   {
     "country": "Malta",
-    "currency_name": "Euro"
+    "drives_on_left": true
   },
   {
     "country": "Marshall Islands",
-    "currency_name": "US Dollar"
+    "drives_on_left": false
   },
   {
     "country": "Martinique",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Mauritania",
-    "currency_name": "Mauritanian Ouguiya"
+    "drives_on_left": false
   },
   {
     "country": "Mauritius",
-    "currency_name": "Mauritius Rupee"
+    "drives_on_left": true
   },
   {
     "country": "Mayotte",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Mexico",
-    "currency_name": "Mexican Nuevo Peso"
+    "drives_on_left": false
   },
   {
     "country": "Micronesia, Federated States of",
-    "currency_name": "US Dollar"
+    "drives_on_left": false
   },
   {
     "country": "Moldova",
-    "currency_name": "Moldovan Leu"
+    "drives_on_left": false
   },
   {
     "country": "Monaco",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Mongolia",
-    "currency_name": "Mongolian Tugrik"
+    "drives_on_left": false
   },
   {
     "country": "Montserrat",
-    "currency_name": "East Caribbean Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Morocco",
-    "currency_name": "Moroccan Dirham"
+    "drives_on_left": false
   },
   {
     "country": "Mozambique",
-    "currency_name": "Mozambique Metical"
+    "drives_on_left": true
   },
   {
     "country": "Myanmar",
-    "currency_name": "Myanmar Kyat"
+    "drives_on_left": false
   },
   {
     "country": "Namibia",
-    "currency_name": "Namibian Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Nauru",
-    "currency_name": "Australian Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Nepal",
-    "currency_name": "Nepalese Rupee"
+    "drives_on_left": true
   },
   {
     "country": "Netherlands",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Netherlands Antilles",
-    "currency_name": "Netherlands Antillean Guilder"
+    "drives_on_left": false
   },
   {
     "country": "New Caledonia",
-    "currency_name": "CFP Franc"
+    "drives_on_left": false
   },
   {
     "country": "New Zealand",
-    "currency_name": "New Zealand Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Nicaragua",
-    "currency_name": "Nicaraguan Cordoba Oro"
+    "drives_on_left": false
   },
   {
     "country": "Niger",
-    "currency_name": "CFA Franc BCEAO"
+    "drives_on_left": false
   },
   {
     "country": "Nigeria",
-    "currency_name": "Nigerian Naira"
+    "drives_on_left": false
   },
   {
     "country": "Niue",
-    "currency_name": "New Zealand Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Norfolk Island",
-    "currency_name": "Australian Dollar"
+    "drives_on_left": true
   },
   {
     "country": "North Korea",
-    "currency_name": "North Korean Won"
+    "drives_on_left": false
   },
   {
     "country": "Northern Ireland",
-    "currency_name": "Pound Sterling"
+    "drives_on_left": false
   },
   {
     "country": "Northern Mariana Islands",
-    "currency_name": "US Dollar"
+    "drives_on_left": false
   },
   {
     "country": "Norway",
-    "currency_name": "Norwegian Krone"
+    "drives_on_left": false
   },
   {
     "country": "Oman",
-    "currency_name": "Omani Rial"
+    "drives_on_left": false
   },
   {
     "country": "Pakistan",
-    "currency_name": "Pakistan Rupee"
+    "drives_on_left": true
   },
   {
     "country": "Palau",
-    "currency_name": "US Dollar"
+    "drives_on_left": false
   },
   {
     "country": "Palestine",
-    "currency_name": null
+    "drives_on_left": false
   },
   {
     "country": "Panama",
-    "currency_name": "Panamanian Balboa"
+    "drives_on_left": false
   },
   {
     "country": "Papua New Guinea",
-    "currency_name": "Papua New Guinea Kina"
+    "drives_on_left": true
   },
   {
     "country": "Paraguay",
-    "currency_name": "Paraguay Guarani"
+    "drives_on_left": false
   },
   {
     "country": "Peru",
-    "currency_name": "Peruvian Nuevo Sol"
+    "drives_on_left": false
   },
   {
     "country": "Philippines",
-    "currency_name": "Philippine Peso"
+    "drives_on_left": false
   },
   {
     "country": "Pitcairn",
-    "currency_name": "New Zealand Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Poland",
-    "currency_name": "Polish Zloty"
+    "drives_on_left": false
   },
   {
     "country": "Portugal",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Puerto Rico",
-    "currency_name": "US Dollar"
+    "drives_on_left": false
   },
   {
     "country": "Qatar",
-    "currency_name": "Qatari Rial"
+    "drives_on_left": false
   },
   {
     "country": "Reunion",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Romania",
-    "currency_name": "Romanian New Leu"
+    "drives_on_left": false
   },
   {
     "country": "Russian Federation",
-    "currency_name": "Russian Ruble"
+    "drives_on_left": false
   },
   {
     "country": "Rwanda",
-    "currency_name": "Rwanda Franc"
+    "drives_on_left": false
   },
   {
     "country": "Saint Helena",
-    "currency_name": "St. Helena Pound"
+    "drives_on_left": true
   },
   {
     "country": "Saint Kitts and Nevis",
-    "currency_name": "East Caribbean Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Saint Lucia",
-    "currency_name": "East Caribbean Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Saint Pierre and Miquelon",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Saint Vincent and the Grenadines",
-    "currency_name": "East Caribbean Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Samoa",
-    "currency_name": "Samoan Tala"
+    "drives_on_left": false
   },
   {
     "country": "San Marino",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Sao Tome and Principe",
-    "currency_name": " Dobra"
+    "drives_on_left": false
   },
   {
     "country": "Saudi Arabia",
-    "currency_name": "Saudi Riyal"
+    "drives_on_left": false
   },
   {
     "country": "Scotland",
-    "currency_name": "Pound Sterling"
+    "drives_on_left": false
   },
   {
     "country": "Senegal",
-    "currency_name": "CFA Franc BCEAO"
+    "drives_on_left": false
   },
   {
     "country": "Serbia",
-    "currency_name": "Serbian dinar"
+    "drives_on_left": false
   },
   {
     "country": "Seychelles",
-    "currency_name": "Seychelles Rupee"
+    "drives_on_left": true
   },
   {
     "country": "Sierra Leone",
-    "currency_name": "Sierra Leone Leone"
+    "drives_on_left": false
   },
   {
     "country": "Singapore",
-    "currency_name": "Singapore Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Slovakia",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Slovenia",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Solomon Islands",
-    "currency_name": "Solomon Islands Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Somalia",
-    "currency_name": "Somali Shilling"
+    "drives_on_left": false
   },
   {
     "country": "South Africa",
-    "currency_name": "South African Rand"
+    "drives_on_left": true
   },
   {
     "country": "South Georgia and the South Sandwich Islands",
-    "currency_name": "Pound Sterling"
+    "drives_on_left": false
   },
   {
     "country": "South Korea",
-    "currency_name": "Korean Won"
+    "drives_on_left": false
   },
   {
     "country": "South Sudan",
-    "currency_name": "South Sudan Pound"
+    "drives_on_left": false
   },
   {
     "country": "Spain",
-    "currency_name": "Euro"
+    "drives_on_left": false
   },
   {
     "country": "Sri Lanka",
-    "currency_name": "Sri Lankan Rupee"
+    "drives_on_left": true
   },
   {
     "country": "Sudan",
-    "currency_name": "Sudanese Pound"
+    "drives_on_left": false
   },
   {
     "country": "Suriname",
-    "currency_name": "Surinam Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Svalbard and Jan Mayen",
-    "currency_name": "Norwegian Krone"
+    "drives_on_left": false
   },
   {
     "country": "Swaziland",
-    "currency_name": "Swaziland Lilangeni"
+    "drives_on_left": true
   },
   {
     "country": "Sweden",
-    "currency_name": "Swedish Krona"
+    "drives_on_left": false
   },
   {
     "country": "Switzerland",
-    "currency_name": "Swiss Franc"
+    "drives_on_left": false
   },
   {
     "country": "Syria",
-    "currency_name": "Syrian Pound"
+    "drives_on_left": false
   },
   {
     "country": "Tajikistan",
-    "currency_name": "Tajik Somoni"
+    "drives_on_left": false
   },
   {
     "country": "Tanzania",
-    "currency_name": "Tanzanian Shilling"
+    "drives_on_left": true
   },
   {
     "country": "Thailand",
-    "currency_name": "Thai Baht"
+    "drives_on_left": true
   },
   {
     "country": "The Democratic Republic of Congo",
-    "currency_name": "Franc Congolais"
+    "drives_on_left": false
   },
   {
     "country": "Togo",
-    "currency_name": "CFA Franc BCEAO"
+    "drives_on_left": false
   },
   {
     "country": "Tokelau",
-    "currency_name": "New Zealand Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Tonga",
-    "currency_name": "Tongan Pa'anga"
+    "drives_on_left": true
   },
   {
     "country": "Trinidad and Tobago",
-    "currency_name": "Trinidad and Tobago Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Tunisia",
-    "currency_name": "Tunisian Dollar"
+    "drives_on_left": false
   },
   {
     "country": "Turkey",
-    "currency_name": "Turkish Lira"
+    "drives_on_left": false
   },
   {
     "country": "Turkmenistan",
-    "currency_name": "Manat"
+    "drives_on_left": false
   },
   {
     "country": "Turks and Caicos Islands",
-    "currency_name": "US Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Tuvalu",
-    "currency_name": "Australian Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Uganda",
-    "currency_name": "Uganda Shilling"
+    "drives_on_left": true
   },
   {
     "country": "Ukraine",
-    "currency_name": "Ukraine Hryvnia"
+    "drives_on_left": false
   },
   {
     "country": "United Arab Emirates",
-    "currency_name": "Arab Emirates Dirham"
+    "drives_on_left": false
   },
   {
     "country": "United Kingdom",
-    "currency_name": "Pound Sterling"
+    "drives_on_left": true
   },
   {
     "country": "United States of America",
-    "currency_name": "US Dollar"
+    "drives_on_left": false
   },
   {
     "country": "United States Minor Outlying Islands",
-    "currency_name": "US Dollar"
+    "drives_on_left": false
   },
   {
     "country": "Uruguay",
-    "currency_name": "Uruguayan Peso"
+    "drives_on_left": false
   },
   {
     "country": "Uzbekistan",
-    "currency_name": "Uzbekistan Sum"
+    "drives_on_left": false
   },
   {
     "country": "Vanuatu",
-    "currency_name": "Vanuatu Vatu"
+    "drives_on_left": false
   },
   {
     "country": "Venezuela",
-    "currency_name": "Venezuelan Bolivar"
+    "drives_on_left": false
   },
   {
     "country": "Vietnam",
-    "currency_name": "Vietnamese Dong"
+    "drives_on_left": false
   },
   {
     "country": "British Virgin Islands",
-    "currency_name": "US Dollar"
+    "drives_on_left": true
   },
   {
     "country": "United States Virgin Islands",
-    "currency_name": "US Dollar"
+    "drives_on_left": true
   },
   {
     "country": "Wales",
-    "currency_name": "Pound Sterling"
+    "drives_on_left": false
   },
   {
     "country": "Wallis and Futuna",
-    "currency_name": "CFP Franc"
+    "drives_on_left": false
   },
   {
     "country": "Western Sahara",
-    "currency_name": "Moroccan Dirham"
+    "drives_on_left": false
   },
   {
     "country": "Yemen",
-    "currency_name": "Yemeni Rial"
+    "drives_on_left": false
   },
   {
     "country": "Zambia",
-    "currency_name": "Zambian Kwacha"
+    "drives_on_left": true
   },
   {
     "country": "Zimbabwe",
-    "currency_name": "Zimbabwe Dollar"
+    "drives_on_left": true
   }
 ]

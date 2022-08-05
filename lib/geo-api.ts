@@ -5,6 +5,7 @@ import capitals from "./geo-data/capitals.json";
 import currencyNames from "./geo-data/currency-names.json";
 import currencyCodes from "./geo-data/currency-codes.json";
 import domainTlds from "./geo-data/domain-tlds.json";
+import drivingSides from "./geo-data/driving-sides.json";
 
 export function getCategorizedCountries() {
   let result = {};
@@ -58,6 +59,9 @@ export function getCountryData(countryCode: string) {
 
   const tld = domainTlds.find((geo) => geo.country === name)?.tld ?? "N/A";
 
+  const drivesOnLeft =
+    drivingSides.find((geo) => geo.country === name)?.drives_on_left ?? false;
+
   return {
     name,
     code3,
@@ -68,6 +72,6 @@ export function getCountryData(countryCode: string) {
     capital,
     currency,
     tld,
-    drivesOnLeft: false,
+    drivesOnLeft: drivesOnLeft,
   };
 }
