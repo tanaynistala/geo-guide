@@ -27,10 +27,8 @@ const FactCards = ({ country }: Props) => {
           <Card title="Domain TLD">
             {country.tld !== "N/A" ? (
               <>
-                <span className="text-gray-500 opacity-50 hidden md:inline-block">
-                  www.example
-                </span>
-                <span className="font-medium">{country.tld}</span>
+                <span className="text-gray-500 opacity-50">www.example</span>
+                <span className="font-medium inline-flex">{country.tld}</span>
               </>
             ) : (
               "N/A"
