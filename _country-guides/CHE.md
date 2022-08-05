@@ -59,7 +59,7 @@ In Switzerland there are 4 general tips for architecture. Note that these are al
 
 There are of course other things to watch out for concerning the architecture. The following tips are more vibebased and are usually harder to spot. Around the Jura mountains, near the western border with France, the architecture is heavily influenced by the French. In the hilly Emmental region of Bern canton, farm houses are typically wooden and have red flowers in front of their windows. This is not limited to Bern but nevertheless is very common there. In rural Valais houses are often vertically split into wood and white facade, unlike Graubünden where they are horizontally split. In Thurgau, St. Gallen, and the two Appenzell cantons, houses with wooden joints are very common.
 
-# Languages
+# Language
 
 Switzerland has four official languages:
 
@@ -90,7 +90,7 @@ Swiss Standard German is distinguished from German and Austrian varieties by its
 
 > Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
 
-## Sample
+## Samples
 
 ### Swiss German
 
