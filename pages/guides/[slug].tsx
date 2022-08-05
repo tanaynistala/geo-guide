@@ -12,15 +12,20 @@ import type GuideType from "../../interfaces/guide";
 
 type Props = {
   guide: GuideType;
+  moreGuides: GuideType[];
+  preview?: boolean;
 };
 
-export default function Guide({ guide }: Props) {
+export default function Guide({ guide, moreGuides, preview }: Props) {
   const router = useRouter();
+  console.log(guide);
+
   if (!router.isFallback && !guide?.slug) {
     return <ErrorPage statusCode={404} />;
   }
+
   return (
-    <Layout>
+    <Layout preview={preview}>
       <Container>
         <Header />
         {router.isFallback ? (
@@ -30,8 +35,14 @@ export default function Guide({ guide }: Props) {
             <article className="mb-32">
               <Head>
                 <title>{guide.title} | GeoGuide</title>
+                <meta property="og:image" content={guide.ogImage.url} />
               </Head>
-              <GuideHeader title={guide.title} />
+              <GuideHeader
+                title={guide.title}
+                coverImage={guide.coverImage}
+                date={guide.date}
+                author={guide.author}
+              />
               <GuideBody content={guide.content} />
             </article>
           </>
@@ -53,7 +64,7 @@ export async function getStaticProps({ params }: Params) {
 
   return {
     props: {
-      guide,
+      guide: guide.props,
     },
   };
 }

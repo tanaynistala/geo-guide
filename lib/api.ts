@@ -29,45 +29,73 @@ export function getSlugs(postType: string) {
 export function getGuides(postType: string) {
   const slugs = getSlugs(postType);
   const guides = slugs.map((slug) => getGuide(postType, slug));
+
+  if (postType === "country") {
+    return guides;
+  }
   return guides;
+  // .sort((post1, post2) => (post1.date > post2.date ? -1 : 1));
 }
 
 export async function getGuide(postType: string, slug: string) {
   const fullPath = path.join(getDirectory(postType), `${slug}.md`);
 
-  // read file contents
-  let content =
-    postType === "country"
-      ? `
-  ## Whoops!
-  Looks like we don't have a page for ${
-    getCountryData(slug).name
-  } yet. This may be because we haven't gotten around to it yet, or it doesn't have coverage altogether. Check back later!`
-      : "";
+  if (postType === "country") {
+    // read file contents
+    let content = `
+    ## Whoops!
+    Looks like we don't have a page for ${
+      getCountryData(slug).name
+    } yet. This may be because we haven't gotten around to it yet, or it doesn't have coverage altogether. Check back later!`;
 
-  if (fs.existsSync(fullPath)) {
-    content = fs.readFileSync(fullPath, { encoding: "utf8" });
+    if (fs.existsSync(fullPath)) {
+      content = fs.readFileSync(fullPath, { encoding: "utf8" });
+    }
+
+    const mdxSource = await serialize(content, {
+      // Optionally pass remark/rehype plugins
+      mdxOptions: {
+        rehypePlugins: [
+          rehypeSlug,
+          [imageSize, { dir: "public" }],
+          section,
+          rehypeTOC,
+        ],
+      },
+    });
+
+    const result = {
+      slug,
+      content: mdxSource,
+    };
+
+    return result;
+  } else {
+    const fileContents = fs.readFileSync(fullPath, "utf8");
+    const { data, content } = matter(fileContents);
+
+    const mdxSource = await serialize(content, {
+      mdxOptions: {
+        rehypePlugins: [
+          rehypeSlug,
+          [imageSize, { dir: "public" }],
+          section,
+          rehypeTOC,
+        ],
+      },
+      scope: data,
+    });
+
+    const result = {
+      props: {
+        slug,
+        content: mdxSource,
+        ...data,
+      },
+    };
+
+    return result;
   }
-
-  const mdxSource = await serialize(content, {
-    // Optionally pass remark/rehype plugins
-    parseFrontmatter: true,
-    mdxOptions: {
-      rehypePlugins: [
-        rehypeSlug,
-        [imageSize, { dir: "public" }],
-        section,
-        rehypeTOC,
-      ],
-    },
-  });
-
-  const result = {
-    slug,
-    content: mdxSource,
-  };
-
-  return result;
 }
 
 function getDirectory(postType: string) {

@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import subdivisionData from "../../lib/geo-data/subdivisions.json";
-import { getCountryData } from "../../lib/geo-api.ts";
+import { getCountryData } from "../../lib/geo-api";
 
 const List = ({ countryCode }) => {
   const [query, setQuery] = useState("");
