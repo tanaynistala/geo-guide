@@ -119,7 +119,7 @@ India is home to a variety of languages, being home to about six independent lan
 - Punjabi
   - `PB`
 
-All of these languages except English are written in _abugida_ scripts, and can have in excess of 500 individual character combinations of consonants and vowel diacritics. See [Sample](#sample) to see how these scripts look.
+All of these languages except English are written in _abugida_ scripts, and can have in excess of 500 individual character combinations of consonants and vowel diacritics. See [Samples](#samples) to see how these scripts look.
 
 ## Samples
 
