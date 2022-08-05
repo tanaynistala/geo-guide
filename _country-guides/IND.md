@@ -42,13 +42,17 @@ and 8 Union Territories:
 - Jammu and Kashmir `JK`
 - Ladakh `LA`
 - Lakshadweep `LD`
-- Puducherry `PY`
+- Puducherry/Pondicherry `PY`
 
-Odisha and Uttarakhand were renamed from Orissa and Uttaranchal, respectively, which is why two state codes are provided. Dadra and Nagar Haveli and Daman and Diu were previously two separate Union Territories, and codes for both are provided above, although today only the latter (`DD`) continues on.
+Odisha and Uttarakhand were renamed from Orissa and Uttaranchal, respectively, which is why two state codes are provided. Dadra and Nagar Haveli and Daman and Diu were previously two separate Union Territories, and codes for both are provided above, although today only the latter (`DD`) continues on. Telangana split off from Andhra Pradesh, so `AP` can still be found on signs in the area.
 
 # License Plates
 
-License plate designs in India are not strictly regulated, although there are primarily two types of license plates. Private vehicles carry white-backed license plates with black text, while commercial vehicles (taxis, trucks, government vehicles, etc.) carry yellow-backed license plates with black text. Occasionally these colors can be inverted, most commonly on luxury cars and higher-ranking government vehicles, or can be found using the local script (see [Language](#language)).
+License plate designs in India are not strictly regulated, although there are primarily two types of license plates. Private vehicles carry white-backed license plates with black text **{
+<span style={{padding: '0.25rem', color: 'black', backgroundColor: 'lightgray', borderRadius: '0.25rem', display: 'inline-block'}}>AB 12 CD 3456</span>
+}**, while commercial vehicles (taxis, trucks, government vehicles, etc.) carry yellow-backed license plates with black text **{
+<span style={{padding: '0.25rem', color: 'black', backgroundColor: 'gold', borderRadius: '0.25rem', display: 'inline-block'}}>AB 12 CD 3456</span>
+}**. Occasionally these colors can be inverted, most commonly on luxury cars and higher-ranking government vehicles, or can be found using the local script (see [Language](#language)).
 
 Indian license plates follow a simple format that can make it easy to narrow down your location if you find an unblurred plate:
 
@@ -57,23 +61,17 @@ Indian license plates follow a simple format that can make it easy to narrow dow
    - The exception to this rule is Delhi, where only the first character corresponds to this. The second character corresponds to the vehicle's class
 3. The next three to six characters are the vehicle's registered serial number, comprised of two letters and up to four numbers.
 
-**{
-<span style={{padding: '0.25rem', color: 'black', backgroundColor: 'gold', borderRadius: '0.25rem'}}>AB 12 CD 3456</span>
-} {
-<span style={{padding: '0.25rem', color: 'black', backgroundColor: 'lightgray', borderRadius: '0.25rem'}}>AB 12 CD 3456</span>
-}**
-
 # Phone Codes
 
 India uses different systems for mobile and telephone numbers. Mobile phone numbers are organized by carrier, and thus are not particularly useful in narrowing down your location. However, telephone codes, while slightly harder to find, can help you narrow down your location. These numbers are sometimes prefixed with a zero (0).
 
-1. North (`HR`, `JK`, `HP`, `DL`, `PB`, `UP`, `UK`, `RJ`)
-2. West (`MH`, `RJ`, `GJ`)
-3. Northeast (`AR`, `AS`, `BR`, `MN`, `MZ`, `NL`, `AN`, `ML`, `TR`)
-4. South (`TN`, `KL`, `AP`, `LA`, `TS`)
-5. North (`UP`, `RJ`)
-6. East (`OR`, `BR`)
-7. Central (`MH`, `MP`, `RJ`, `GJ`)
+1. North (`JK`, `HP`, `CH`, `PB`, `HR`, `UA`, `DL`, northern `RJ`)
+2. West (`GJ`, `DD`, western `MH`, western `RJ`)
+3. Northeast (`WB`, `SK`, `AS`, `ML`, `AR`, `AS`, `NL`, `MN`, `TR`, `MZ`, `AN`)
+4. South (`KL`, `TN`, `PY`, `LA`, Hyderabad `TS`)
+5. North (`UP`)
+6. East (`OR`, `JH`, `BR`)
+7. Central (`MP`, `CG`, eastern `MH`, southern `RJ`, Ahmedabad `GJ`)
 8. South (`AP`, `TS`, `GA`, `KA`)
 
 # Roads, Markings, and Signage
@@ -88,15 +86,25 @@ India is home to a variety of languages, being home to about six independent lan
 
 - English (Latin)
 - Hindi (Devanagari)
+  - `RJ`, `HR`, `UK`, `HP`, `UP`, `MP`, `CG`, `JH`, `BR`, `DL`, `CH`
 - Marathi (Devanagari)
+  - `MH`
 - Bengali
+  - `WB`, `AN`, `TR`
 - Telugu
+  - `TS`, `AP`
 - Tamil
+  - `TN`, `PY`
 - Gujarati
+  - `GJ`, `DD`
 - Kannada
+  - `KA`
 - Malayalam
+  - `KL`
 - Odia
+  - `OD`
 - Punjabi
+  - `PB`
 
 All of these languages except English are written in _abugida_ scripts, and can have in excess of 500 individual character combinations of consonants and vowel diacritics. See [Sample](#sample) to see how these scripts look.
 
@@ -148,6 +156,8 @@ All of these languages except English are written in _abugida_ scripts, and can 
 
 # Meta-gaming
 
+Street View in India has been a bit of a roller coaster ride, if we’re being honest. But in late July 2022, Google officially rolled out official street view coverage in partnership with various local companies. Due to government regulations, Google was required to use imagery captured by local companies, resulting in a lower resolution than you’re used to seeing in other South Asian countries, like Bangladesh, Bhutan, and Sri Lanka. This can help you tell India apart from those two countries, especially in the cities of Chennai and Kolkata, which each use the same script as Sri Lanka and Bangladesh, respectively (see [Language](#language)).
+
 As of early August 2022, coverage in India is limited to a small selection of Indian cities:
 
 - Ahmednagar `MH`
@@ -156,7 +166,6 @@ As of early August 2022, coverage in India is limited to a small selection of In
 - Chennai `TN`
 - Delhi `DL`
 - Hyderabad `TS`
-- Kolkata `WB`
 - Mumbai `MH`
 - Nashik `MH`
 - Pune `MH`
@@ -168,4 +177,8 @@ This means most coverage is concentrated on the western coast, around Mumbai and
 
 ## [Bangladesh](/countries/BGD)
 
+Bangladesh's official language is Bengali – the same as `WB`, `AN`, and `TR`. This means they can feature the same script. To tell them apart, pay attention to the car – the Bangladeshi Google car often has bars and red side-view mirrors.
+
 ## [Sri Lanka](/countries/LKA)
+
+Tamil is one of the official languages of Sri Lanka, predominantly spoken in the Northern and Eastern provinces, as well as the southern portion of Central province. Tamil is also spoken in Tamil Nadu, and with the introduction of coverage in Chennai this can make identifying the region difficult. In Sri Lanka, be on the lookout for Sinhalese, as it is only found in Sri Lanka. India also has white license plates, while both countries have yellow ones as well – so a white plate is a surefire indicator that you are in India.
