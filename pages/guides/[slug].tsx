@@ -18,7 +18,6 @@ type Props = {
 
 export default function Guide({ guide, moreGuides, preview }: Props) {
   const router = useRouter();
-  console.log(guide);
 
   if (!router.isFallback && !guide?.slug) {
     return <ErrorPage statusCode={404} />;
@@ -64,7 +63,7 @@ export async function getStaticProps({ params }: Params) {
 
   return {
     props: {
-      guide: guide.props,
+      guide,
     },
   };
 }
