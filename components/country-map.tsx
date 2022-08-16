@@ -13,9 +13,10 @@ import ReactTooltip from "react-tooltip";
 type Props = {
   code: string;
   scale: number;
+  level: number;
 };
 
-const CountryMap = ({ code, scale }: Props) => {
+const CountryMap = ({ code, scale, level = 1 }: Props) => {
   const [tooltipContent, setTooltipContent] = useState("");
 
   const country = getCountryData(code);
@@ -37,7 +38,7 @@ const CountryMap = ({ code, scale }: Props) => {
         >
           <Sphere className="fill-gray-100" />
           <Geographies
-            geography={`https://raw.githubusercontent.com/piwodlaiwo/TopoJSON-Data/master/diva-gis/${country.code3}_adm/${country.code3}_adm1.topo.json`}
+            geography={`https://raw.githubusercontent.com/piwodlaiwo/TopoJSON-Data/master/diva-gis/${country.code3}_adm/${country.code3}_adm${level}.topo.json`}
           >
             {({ geographies }) =>
               geographies.map((feature) => (
@@ -46,7 +47,13 @@ const CountryMap = ({ code, scale }: Props) => {
                   key={feature.rsmKey}
                   geography={feature}
                   onMouseEnter={() => {
-                    setTooltipContent(`${feature.properties.NAME_1}`);
+                    setTooltipContent(
+                      `${
+                        level == 1
+                          ? feature.properties.NAME_1
+                          : feature.properties.NAME_2
+                      }`
+                    );
                   }}
                   onMouseLeave={() => {
                     setTooltipContent("");
