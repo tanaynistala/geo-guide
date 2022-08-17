@@ -27,7 +27,7 @@ Vehicles in the Netherlands have yellow license plates, with black text and a bl
 
 # Phone Codes
 
-Phone numbers are prefixed with a zero (0), and are fairly well ordered:
+Phone numbers are prefixed with a zero (0), and are fairly well ordered, although there are some oddities:
 
 1. Southwest (`ZE`, `ZH`, and western `NB`)
 2. West (`NH`, Nijmegen `GE`, and Arnhem `GE`)
