@@ -141,7 +141,7 @@ In the cantons of Jura and Valais there are a couple roads with coverage, that i
 
 - [AI Generated](https://www.geoguessr.com/maps/62555efcb62ae4adaf76a28c)
 
-- [Switzerland](https://www.geoguessr.com/maps/56e4a542dc7cd6a164dc2be3) by`Ustatsch (8000 locs`
+- [Switzerland](https://www.geoguessr.com/maps/56e4a542dc7cd6a164dc2be3) by Ustatsch `8000 locs.`
 
 - [IntersectionGuessr](https://www.geoguessr.com/maps/612cf0736033f40001dea3b8) by slashP `20000 locs.`
 

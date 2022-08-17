@@ -31,6 +31,10 @@
       margin-bottom: 1rem;
     }
 
+    li {
+      margin-bottom: -0.5rem;
+    }
+
     figure {
       margin-bottom: 1rem;
       img {
