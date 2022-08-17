@@ -50,6 +50,11 @@ This means Swiss license plates differ from canton to canton, but in terms of Ge
 
 # Signage
 
+In Switzerland, there are 2 types of very useful signs.
+
+1. Green (highway) and blue (mainroads) directional signs to decently sized towns. They also have roadnumbers sometimes.
+2. Townexit/entry signs (blue for bigger towns and white for very small villages) sometimes have the canton abbreviations on them. On their backsides      they have distances to the next bigger town down the road.
+
 # Architecture
 
 In Switzerland there are 4 general tips for architecture. Note that these are all tendencies. There are always exceptions!
@@ -60,6 +65,8 @@ In Switzerland there are 4 general tips for architecture. Note that these are al
 4. Grison style. The Grison farm houses are often white or stoney around the ground floor and wooden on top (this is not limited to GR but very common there). Houses in villages often have paintings on their facades. This meta doesn't work for bigger towns like Chur, Davos, St. Moritz and similar.
 
 There are of course other things to watch out for concerning the architecture. The following tips are more vibebased and are usually harder to spot. Around the Jura mountains, near the western border with France, the architecture is heavily influenced by the French. In the hilly Emmental region of Bern canton, farm houses are typically wooden and have red flowers in front of their windows. This is not limited to Bern but nevertheless is very common there. In rural Valais houses are often vertically split into wood and white facade, unlike Graubünden where they are horizontally split. In Thurgau, St. Gallen, and the two Appenzell cantons, houses with wooden joints are very common.
+
+#Area- and zipcodes
 
 # Language
 
@@ -96,7 +103,7 @@ Swiss Standard German is distinguished from German and Austrian varieties by its
 
 ### Swiss German
 
-> Alli Mönshe send frey ond geboore met gliicher Wörd ond gliiche Rächt. Si send xägnet met Vernonft ond Gwösse ond sölled enand e brüederlechem Gäisht begägne.
+> Aui Mönshe sy frey und gebore mit gliicher Würd und gliiche Rächt. Si sy xägnet mit Vernunft und Gwüsse und söue enang mitemne brüederleche Geischt begägne.
 
 ### Swiss Standard German
 
