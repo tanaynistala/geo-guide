@@ -86,7 +86,7 @@ Lithuania has a three-tiered road numbering system with main (magistralinis), re
 
 ## Main roads (Magistralinis kelias)
 
-These highways are the highest tier of the Lithuanian highway network, and mostly exist on top of the E-road network. They are signposted on with white text on a red background **{
+These highways are the highest tier of the Lithuanian highway network, and mostly exist on top of the E-road network. They are signposted with white text on a red background **{
 <span style={{padding: '0.25rem', color: 'white', backgroundColor: 'red', borderRadius: '0.25rem'}}>A##</span>
 }**, and the number is often shown with the E-road number. A1-A4 radiate outwards from Vilius, arranged clockwise. A5-A13 are further west and north, with larger numbers being further away from Vilnius. A14-A16 are upgraded regional roads from Vilnius, and the A17-A19 are partial ring routes around Panevėžys, Šiauliai, and Vilnius, respectively.
 
