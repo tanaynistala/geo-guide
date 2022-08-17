@@ -96,6 +96,20 @@ Phone numbers are prefixed with a six (6), and are tied to the municipality:
 
 # Highways & Road Numbering Schemes
 
+The Latvian road numbering system splits roads into three tiers – main, first-class, and second-class – although only the first two are usually signposted.
+
+## Main Roads (Autocela)
+
+These routes are usually signposted with the letter A and up to two digits in white text on a red background: **{
+<span style={{padding: '0.25rem', color: 'white', backgroundColor: 'red', borderRadius: '0.25rem'}}>A##</span>
+}**. A1-A3 and A6-A10 are radial roads out of Riga, arranged clockwise, while A4 and A5 form a partial ring route around Riga. A11 is the coastal route south of Liepāja, A12 branches off to the east from Jēkabpils, and A13-A15 form connector roads between and around Daugavpils and Rēzekne.
+
+## First-Class Roads
+
+These routes are usually signposted with the letter P and up to three digits in white text on a blue background: **{
+<span style={{padding: '0.25rem', color: 'white', backgroundColor: 'blue', borderRadius: '0.25rem'}}>P###</span>
+}**. These roads are not very well-ordered but are loosely clustered and seem to increase in number going clockwise around Riga, although there are exceptions.
+
 # Architecture
 
 # Language
