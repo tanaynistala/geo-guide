@@ -117,9 +117,53 @@ _To form the area code, suffix the index numbers in hierarchical order onto a tw
 
 # Highways & Road Numbering Schemes
 
+The Portuguese highway numbering system has several tiers, from cross-country motorways down to municipal roads. In descending order of throughput, they are:
+
+- Autoestradas `A`
+- Itinerário Principal `IP`
+- Itinerário Complementar `IC`
+- Estrada Nacional `N`/`EN`
+- Estrada Regional `R`/`ER`
+- Estrada Municipal `M`/`EM`
+- Caminho Municipal `CM`
+
+## Autoestradas
+
+A-routes are the highest tier of highway in Portugal, and are signposted as blue signs with white text and a number up to 44: **{
+<span style={{padding: '0.25rem', color: 'white', backgroundColor: 'blue', borderRadius: '0.25rem'}}>A##</span>
+}**. There is no relation between the number and the region or direction of the motorway.
+
+## Itinerário Principal & Itinerário Complementar
+
+IP-routes are usually motorways, and form a different network from the A- and N-routes, resulting in some situations where a highway may be signposted as both an IP-route and an A- or N-route. There are 9 such highways, numbered from 1 to 9. IP1-IP3 are north-south highways, and IP4-IP9 are east-west routes. IC-routes can also be motorways, and form a lower class of highway compared to IP-routes. They can be numbered with up to two digits. IP-routes are signposted with white text on red signs: **{
+<span style={{padding: '0.25rem', color: 'white', backgroundColor: 'red', borderRadius: '0.25rem' }}>IP#</span>
+}**. IC-routes are signposted with black text on a white, black-bordered background: **{
+<span style={{padding: '0.25rem', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderWidth: '2px', borderColor: 'black' }}>IC##</span>
+}**.
+
+## Estrada Nacional & Estrada Regional
+
+These N- and R-routes form the bulk of the Portuguese highway network. N-routes form the national network, with R-routes being downgraded sections of the N-routes that bear the same number as the corresponding N-route; however, most of these sections are still signposted as N-routes, or occasionally as EN-routes. They are signposted the same way as IP- and IC-rotues, and are numbered with _either_ one (**{
+<span style={{padding: '0.25rem', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderWidth: '2px', borderColor: 'black' }}>N#</span>
+}**) or three (**{
+<span style={{padding: '0.25rem', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderWidth: '2px', borderColor: 'black' }}>N###</span>
+}**) digits. Single-digit N-routes have no discernable pattern – some can be long-cross-country roads (like the N2) while others are smaller urban roads (like the N6 in Lisbon). However, 3-digit N-routes are well organized: The first digit can be between 1 and 3, but does not describe the region, but the second and third digits increase sequentially from north to south. N-routes can also have a numerical suffix, added on using a hyphen (-) like so: **{
+<span style={{padding: '0.25rem', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderWidth: '2px', borderColor: 'black' }}>N###-#</span>
+}**.
+
+## Estrada Municipal & Caminho Municipal
+
+M- and CM-routes are the lowest tier of the Portuguese road network, and are numbered within their district, which means the number likely will not be useful unless the district is known. They can have up to four digits – M-routes are numbered starting from 400, while CM-routes are numbered from 1000 onwards, and they are signposted with black text on yellow signs: **{
+<span style={{padding: '0.25rem', color: 'black', backgroundColor: 'gold', borderRadius: '0.25rem' }}>M###</span>
+}** and **{
+<span style={{padding: '0.25rem', color: 'black', backgroundColor: 'gold', borderRadius: '0.25rem' }}>CM####</span>
+}**. They appear to loosely follow a numbering pattern, with numbers increasing from north to south and from west to east.
+
 # Architecture
 
 # Language
+
+Portuguese is the primary language used in Portugal, and is linguistically closest to Spanish, another Ibero-Romance language. It is characterized by its frequent use of the letters H and Ç as compared to Spanish, as well as tilde (~) diacritics.
 
 ## Alphabet
 
