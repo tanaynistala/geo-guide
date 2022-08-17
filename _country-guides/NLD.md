@@ -97,7 +97,7 @@ These N-routes roughly correspond to the provinces:
 
 S-routes, or _stadsroutes_, literally translates to _city routes_, and as such are only found in specific urban areas. Only six cities currently have S-route networks: Amsterdam, Zaanstad, and Almere in the north; Rotterdam and Den Haag in the south; and Nijmegen in the east. They are all numbered with three digits, and numbers begin with 1 or 2. All roads numbered
 **{
-<span style={{padding: '0.25rem', color: 'black', backgroundColor: '#EEE', borderRadius: '0.25rem'}}>S100</span>
+<span style={{padding: '0.25rem', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderWidth: '2px', borderColor: 'lightgray' }}>S100</span>
 }** are inner-city ring roads; there is typically no pattern to the other S-routes.
 
 # Architecture
