@@ -7,7 +7,7 @@ const HeroMap = () => {
   return (
     <section className="flex flex-col-reverse lg:flex-col">
       <div className="mb-4 lg:mb-8 lg:mt-16 lg:grid lg:grid-cols-4 lg:gap-x-8">
-        <div className="col-span-3 mb-4">
+        <div className="col-span-3 mb-4 overflow-clip">
           <Map />
         </div>
         <div className="hidden lg:block">
