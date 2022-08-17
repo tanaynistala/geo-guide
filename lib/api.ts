@@ -59,7 +59,12 @@ export async function getGuide(postType: string, slug: string) {
           rehypeSlug,
           [imageSize, { dir: "public" }],
           section,
-          rehypeTOC,
+          [
+            rehypeTOC,
+            {
+              headings: ["h1"],
+            },
+          ],
         ],
       },
     });

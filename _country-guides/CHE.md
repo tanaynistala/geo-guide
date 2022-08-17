@@ -133,7 +133,7 @@ Swiss Standard German is distinguished from German and Austrian varieties by its
 
 In the cantons of Jura and Valais there are a couple roads with coverage, that isn't visible on Google maps. Some maps use a trick to include those roads nevertheless.
 
-# Map database
+# Map Library
 
 ## Countrywide Maps
 

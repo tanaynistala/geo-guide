@@ -19,8 +19,14 @@ const Nav = ({ ...props }) => {
   );
 };
 
-const TextLink = ({ href, ...rest }) => {
-  if (href) {
+const TextLink = ({ href, className, ...rest }) => {
+  if (className === "toc-link") {
+    return (
+      <Link href={href}>
+        <a className="hover:text-blue-500" {...rest} />
+      </Link>
+    );
+  } else if (href) {
     return (
       <Link href={href}>
         <a
