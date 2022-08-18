@@ -56,6 +56,58 @@ Phone numbers are prefixed with a zero (0), and are fairly well arranged by regi
 
 # Highways & Road Numbering Schemes
 
+The Finnish road network is divided into four tiers: first- (_valtatie_) and second-class (_kantatie_) main roads, regional roads (_seututie_), and connecting roads (_yhdystiet_).
+
+## Class I Main Roads (Valtatie)
+
+These are the largest highways in Finland, and are signposted with white text on a red background. They can be numbered up to 29: **{
+<span style={{padding: '0.25rem', color: 'white', backgroundColor: 'red', borderRadius: '0.25rem'}}>##</span>
+}**. Highways 1-7 radiate outwards from Helsinki, 8-10 from Turku, and 11 and 12 start in Tampere. There is no discernible pattern to the numbering of the remaining routes, but they typically connect large cities together.
+
+## Class II Main Roads (Kantatie)
+
+These highways complement the Class I main roads, and are signposted with black text on a yellow background. They can be numbered between 40 and 93: **{
+<span style={{padding: '0.25rem', color: 'black', backgroundColor: 'gold', borderWidth: '2px', borderColor: 'black', borderRadius: '0.25rem'}}>##</span>
+}**. There is some clustering of the numbering system, and it generally increases to the north and to the east.
+
+## Regional and Connecting Roads (Maantie)
+
+These are more minor roads that are mostly regional. They can have either three or four digits, and the two kinds are signed differently. 3-digit roads are called _seututie_, and are signposted with black text on a white background: **{
+<span style={{padding: '0.25rem', color: 'black', backgroundColor: 'white', borderWidth: '2px', borderColor: 'black', borderRadius: '0.25rem'}}>###</span>
+}**. 4-digit roads are called _yhdystie_, and are signposted with white text on a blue background: **{
+<span style={{padding: '0.25rem', color: 'white', backgroundColor: 'blue', borderRadius: '0.25rem'}}>####</span>
+}**. _Yhdystie_ numbers are usually derived from a nearby _seututie_ number by adding a digit onto the end, so route **{
+<span style={{padding: '0.25rem', color: 'white', backgroundColor: 'blue', borderRadius: '0.25rem'}}>1456</span>
+}** branches off route **{
+<span style={{padding: '0.25rem', color: 'black', backgroundColor: 'white', borderWidth: '2px', borderColor: 'black', borderRadius: '0.25rem'}}>145</span>
+}**.
+
+These routes are roughly organized by region, but can spill over into neighboring areas. Here are the regions, by the first digit:
+
+1. South
+2. Southwest
+3. Central-East
+4. Southeast
+5. East
+6. Central-West
+7. Northwest
+8. North
+9. Far North / Lapland
+
+## Helsinki Ring Roads
+
+Helsinki has three ring roads that are signposted with Roman numerals. Since Helsinki is bilingual, these signs bear both the words _Kehä_ `FI` and _Ring_ `SE`, followed by the Roman numeral `I`, `II`, or `III`. However, these ring routes aren't shown on ht emap, instead using their traditional number:
+
+- Ring I: **{
+  <span style={{padding: '0px 0.25rem', lineHeight: '1.2', color: 'black', backgroundColor: 'white', borderWidth: '2px', borderColor: 'black', borderRadius: '0.25rem'}}>101</span>
+  }**
+- Ring II: **{
+  <span style={{padding: '0px 0.25rem', lineHeight: '1.2', color: 'black', backgroundColor: 'white', borderWidth: '2px', borderColor: 'black', borderRadius: '0.25rem'}}>102</span>
+  }**
+- Ring III: **{
+  <span style={{padding: '0px 0.25rem', lineHeight: '1.2', color: 'black', backgroundColor: 'gold', borderWidth: '2px', borderColor: 'black', borderRadius: '0.25rem'}}>50</span>
+  }**
+
 # Architecture
 
 # Language
