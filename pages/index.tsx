@@ -13,14 +13,14 @@ export default function Index() {
         </Head>
         <Container>
           <Header />
-          <LinkCard
+          {/* <LinkCard
             title="Guides"
             description="Check out our guides!"
             cta="Explore"
             href="/guides"
           >
             <img src="/img/license-plate.png" />
-          </LinkCard>
+          </LinkCard> */}
         </Container>
       </Layout>
     </>
