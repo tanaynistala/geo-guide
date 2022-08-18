@@ -36,9 +36,9 @@ Of the 5 external territories and dependencies of Norway, only Svalbard is inhab
 # License Plates
 
 Norwegian license plates feature a blue band on the left side of the plate with the Norwegian flag and the country code `N`, in a design very similar to that of EU countries. Most plates are white with black text: **{
-<span style={{padding: '0 0.25rem', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderWidth: '2px', borderColor: 'lightgray', display: 'inline-block'}}>AB 1234</span>
+<span style={{padding: '0px 0.25rem', lineHeight: '1.2', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderWidth: '2px', borderColor: 'lightgray', display: 'inline-block'}}>AB 1234</span>
 }**, but commercial plates with a bluish-green background are also often seen: **{
-<span style={{padding: '0 0.25rem', color: 'black', backgroundColor: 'lightseagreen', borderRadius: '0.25rem', display: 'inline-block'}}>AB 1234</span>
+<span style={{padding: '0px 0.25rem', lineHeight: '1.2', color: 'black', backgroundColor: 'lightseagreen', borderRadius: '0.25rem', display: 'inline-block'}}>AB 1234</span>
 }**
 
 # Phone Codes

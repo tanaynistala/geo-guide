@@ -31,7 +31,7 @@ Finland is divided into 19 regions, as follows (names provided are Finnish/Swedi
 # License Plates
 
 As a member of the EU, Finland's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `FIN`. Plates are white with black text: **{
-<span style={{padding: '0 0.25rem', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderWidth: '2px', bordorColor: 'lightgray', display: 'inline-block'}}>ABC-123</span>
+<span style={{padding: '0px 0.25rem', lineHeight: '1.2', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderWidth: '2px', bordorColor: 'lightgray', display: 'inline-block'}}>ABC-123</span>
 }**.
 
 # Phone Codes
