@@ -107,7 +107,7 @@ These routes are usually signposted with the letter A and up to two digits in wh
 ## First-Class Roads
 
 These routes are usually signposted with the letter P and up to three digits in white text on a blue background: **{
-<span style={{padding: '0.25rem', color: 'white', backgroundColor: 'blue', borderRadius: '0.25rem'}}>P###</span>
+<span style={{padding: '0.25rem', color: 'white', backgroundColor: 'dodgerblue', borderRadius: '0.25rem'}}>P###</span>
 }**. These roads are not very well-ordered but are loosely clustered and seem to increase in number going clockwise around Riga, although there are exceptions.
 
 # Architecture

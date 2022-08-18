@@ -75,9 +75,9 @@ These highways complement the Class I main roads, and are signposted with black 
 These are more minor roads that are mostly regional. They can have either three or four digits, and the two kinds are signed differently. 3-digit roads are called _seututie_, and are signposted with black text on a white background: **{
 <span style={{padding: '0.25rem', color: 'black', backgroundColor: 'white', borderWidth: '2px', borderColor: 'black', borderRadius: '0.25rem'}}>###</span>
 }**. 4-digit roads are called _yhdystie_, and are signposted with white text on a blue background: **{
-<span style={{padding: '0.25rem', color: 'white', backgroundColor: 'blue', borderRadius: '0.25rem'}}>####</span>
+<span style={{padding: '0.25rem', color: 'white', backgroundColor: 'dodgerblue', borderRadius: '0.25rem'}}>####</span>
 }**. _Yhdystie_ numbers are usually derived from a nearby _seututie_ number by adding a digit onto the end, so route **{
-<span style={{padding: '0.25rem', color: 'white', backgroundColor: 'blue', borderRadius: '0.25rem'}}>1456</span>
+<span style={{padding: '0.25rem', color: 'white', backgroundColor: 'dodgerblue', borderRadius: '0.25rem'}}>1456</span>
 }** branches off route **{
 <span style={{padding: '0.25rem', color: 'black', backgroundColor: 'white', borderWidth: '2px', borderColor: 'black', borderRadius: '0.25rem'}}>145</span>
 }**.
