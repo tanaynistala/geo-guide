@@ -25,7 +25,7 @@ Estonia is divided into 15 counties, also known as _maakonnad_:
 # License Plates
 
 As a member of the EU, Estonia's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `EST`. Plates are white with black text: **{
-<span style={{padding: '0 0.25rem', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderWidth: '2px', borderColor: 'lightgray', display: 'inline-block'}}>123 ABC</span>
+<span style={{padding: '0px 0.25rem', lineHeight: '1.2', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderWidth: '2px', borderColor: 'lightgray', display: 'inline-block'}}>123 ABC</span>
 }**.
 
 # Phone Codes
@@ -33,6 +33,28 @@ As a member of the EU, Estonia's license plates feature a blue band on the left 
 # Roads, Markings, and Signage
 
 # Highways & Road Numbering Schemes
+
+The Estonian road network is divided into three tiers: _põhimaantee_ (main roads), _tugimaantee_ (basic roads), and _korvalmaantee_ (community roads).
+
+## Main Roads (Põhimaantee)
+
+These are the main routes across the country, and are signposted with white text on a red background: **{
+<span style={{padding: '0.25rem', color: 'white', backgroundColor: 'red', borderRadius: '0.25rem'}}>##</span>
+}**. There appears to be no pattern as to the numbering, although there are only twelve routes that are distinctive on maps.
+
+They are numbered up to 11, plus an outlier in route 92. Routes 1, 2, 4, 8, and 9 extend outwards from Tallinn roughly clockwise, while routes 3, 5, and 7 are lateral routes running through Tartu, Pärnu, and Misso respectively. Route 10 is a disconnected route in the Lääne and Saare counties, and routes 6 and 92 run through the south of the country.
+
+## Basic Roads (Tugimaantee)
+
+These roads continue from the main roads numbering, being numbered from 12 to 95 (excluding 92). While there is no discernible pattern to their numbering, they are mostly clustered by their first digit. They are signposted with black text on a yellow background: **{
+<span style={{padding: '0.25rem', color: 'black', backgroundColor: 'gold', borderRadius: '0.25rem'}}>##</span>
+}**.
+
+## Community Roads (Korvalmaantee)
+
+These roads are signposted with black text on a white background: **{
+<span style={{padding: '0.25rem', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderWidth: '2px', borderColor: 'lightgray', display: 'inline-block'}}>###</span>
+}**. While officially they have five digits, with the first two representing the county, this code does not appear on signs; only the final three digits are used, and so are not unique to the county.
 
 # Architecture
 
