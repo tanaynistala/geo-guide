@@ -53,7 +53,7 @@ These roads continue from the main roads numbering, being numbered from 12 to 95
 ## Community Roads (Korvalmaantee)
 
 These roads are signposted with black text on a white background: **{
-<span style={{padding: '0.25rem', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderWidth: '2px', borderColor: 'lightgray', display: 'inline-block'}}>###</span>
+<span style={{padding: '0.25rem', color: 'black', backgroundColor: 'white', borderWidth: '2px', borderColor: 'lightgray', borderRadius: '0.25rem'}}>###</span>
 }**. While officially they have five digits, with the first two representing the county, this code does not appear on signs; only the final three digits are used, and so are not unique to the county.
 
 # Architecture
