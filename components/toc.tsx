@@ -23,7 +23,9 @@ export default function TOC({ children }: Props) {
             height="24"
             fill="none"
             viewBox="0 0 24 24"
-            className={`rotate-${visibility ? "18" : ""}0 transition-transform`}
+            className={`${
+              visibility ? "rotate-180" : "rotate-0"
+            } transition-transform`}
           >
             <path
               stroke="currentColor"
