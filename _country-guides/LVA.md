@@ -45,7 +45,7 @@ Latvia is divided into 36 municipalities, also known as _novads_:
 
 # License Plates
 
-As a member of the EU, Latvia's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `LV`. Plates are white with black text: <LicensePlate style="eu" code="LV" format="AB-1234"/>. License plates are required on both the front and rear of vehicles.
+As a member of the EU, Latvia's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `LV`. Plates are white with black text: <LicensePlate style="eu" code="LV" format="AB-1234"/>.
 
 # Phone Codes
 

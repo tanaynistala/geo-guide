@@ -24,7 +24,7 @@ Estonia is divided into 15 counties, also known as _maakonnad_:
 
 # License Plates
 
-As a member of the EU, Estonia's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `EST`. Plates are white with black text: <LicensePlate style="eu" code="EST" format="123 ABC"/>. License plates are required on both the front and rear of vehicles.
+As a member of the EU, Estonia's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `EST`. Plates are white with black text: <LicensePlate style="eu" code="EST" format="123 ABC"/>.
 
 # Phone Codes
 

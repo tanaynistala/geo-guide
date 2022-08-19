@@ -2,21 +2,25 @@ type Props = {
   style: string;
 
   code?: string;
+  codeColor?: string;
   format: string;
 
   backgroundColor?: string;
   textColor?: string;
   borderColor?: string;
+  borderStyle?: string;
   rightBandColor?: string;
 };
 
 const LicensePlate = ({
   style,
   code,
+  codeColor = "black",
   format,
   backgroundColor = "white",
   textColor = "black",
   borderColor = "black",
+  borderStyle = "solid",
   rightBandColor,
 }: Props) => {
   return (
@@ -24,14 +28,15 @@ const LicensePlate = ({
       className="rounded py-0.5 leading-tight inline-block overflow-clip border-2 align-bottom"
       style={{
         borderColor: borderColor,
+        borderStyle: borderStyle,
       }}
     >
       {code && (
         <span
-          className="p-1 font-mono"
+          className="p-1 font-mono font-bold"
           style={{
             backgroundColor: style === "eu" ? "blue" : "white",
-            color: style === "eu" ? "white" : "black",
+            color: style === "eu" ? "white" : codeColor,
           }}
         >
           {code}

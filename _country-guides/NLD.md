@@ -21,7 +21,7 @@ The Netherlands is comprised of the following twelve provinces:
 
 # License Plates
 
-Vehicles in the Netherlands have yellow license plates, with black text and a blue band on the left. The band bears standard the EU flag and the code `NL` for the Netherlands. License plates are required on both the front and back of cars. Dutch license plates are also a deeper shade of yellow than those found in Luxembourg and, unlike the United Kingdom, are yellow on both sides of the vehicle.
+Vehicles in the Netherlands have yellow license plates, with black text and a blue band on the left. The band bears standard the EU flag and the code `NL` for the Netherlands: <LicensePlate style="eu" code="NL" format="A-123-BC" backgroundColor="gold"/> Dutch license plates are typically a deeper shade of yellow than those found in Luxembourg and, unlike the United Kingdom, are yellow on both sides of the vehicle.
 
 <img src="/img/NLD/license-plate.png" alt="Dutch license plate" />
 

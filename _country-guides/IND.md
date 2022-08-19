@@ -50,7 +50,7 @@ Odisha and Uttarakhand were renamed from Orissa and Uttaranchal, respectively, w
 
 # License Plates
 
-License plate designs in India are not strictly regulated, although there are primarily two types of license plates. Private vehicles carry white-backed license plates with black text: <LicensePlate style="ind" format="AB 12 CD 3456"/>, while commercial vehicles (taxis, trucks, government vehicles, etc.) carry yellow-backed license plates with black text: <LicensePlate style="ind" format="AB 12 CD 3456" backgroundColor="gold"/>. Occasionally these colors can be inverted, most commonly on luxury cars and higher-ranking government vehicles, or can be found using the local script (see [Language](#language)). License plates are required on both the front and rear of vehicles.
+License plate designs in India are not strictly regulated, although there are primarily two types of license plates. Private vehicles carry white-backed license plates with black text: <LicensePlate style="ind" format="AB 12 CD 3456"/>, while commercial vehicles (taxis, trucks, government vehicles, etc.) carry yellow-backed license plates with black text: <LicensePlate style="ind" format="AB 12 CD 3456" backgroundColor="gold"/>. Occasionally these colors can be inverted, most commonly on luxury cars and higher-ranking government vehicles, or can be found using the local script (see [Language](#language)).
 
 Indian license plates follow a simple format that can make it easy to narrow down your location if you find an unblurred plate:
 
