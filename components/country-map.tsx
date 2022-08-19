@@ -48,7 +48,9 @@ const CountryMap = ({ code, scale, level = 1 }: Props) => {
         >
           <Sphere className="fill-gray-100" />
 
-          <Geographies geography={geoData}>
+          <Geographies
+            geography={`https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json`}
+          >
             {({ geographies }) =>
               geographies.map((feature) => (
                 <Geography
