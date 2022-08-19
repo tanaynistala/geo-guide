@@ -48,22 +48,22 @@ Odisha and Uttarakhand were renamed from Orissa and Uttaranchal, respectively, w
 
 <CountryMap code="IND" scale="800" />
 
-# Licence Plates
+# License Plates
 
-Licence plate designs in India are not strictly regulated, although there are primarily two types of licence plates. Private vehicles carry white-backed licence plates with black text: <LicencePlate style="ind" format="AB 12 CD 3456"/>, while commercial vehicles (taxis, trucks, government vehicles, etc.) carry yellow-backed licence plates with black text: <LicencePlate style="ind" format="AB 12 CD 3456" backgroundColor="gold"/>. Occasionally these colors can be inverted, most commonly on luxury cars and higher-ranking government vehicles, or can be found using the local script (see [Language](#language)). Licence plates are required on both the front and rear of vehicles.
+License plate designs in India are not strictly regulated, although there are primarily two types of license plates. Private vehicles carry white-backed license plates with black text: <LicensePlate style="ind" format="AB 12 CD 3456"/>, while commercial vehicles (taxis, trucks, government vehicles, etc.) carry yellow-backed license plates with black text: <LicensePlate style="ind" format="AB 12 CD 3456" backgroundColor="gold"/>. Occasionally these colors can be inverted, most commonly on luxury cars and higher-ranking government vehicles, or can be found using the local script (see [Language](#language)). License plates are required on both the front and rear of vehicles.
 
-Indian licence plates follow a simple format that can make it easy to narrow down your location if you find an unblurred plate:
+Indian license plates follow a simple format that can make it easy to narrow down your location if you find an unblurred plate:
 
 1. The first two characters correspond to the state code (see [Subdivisions](#subdivisions))
 2. The next two characters correspond to the region the car was registered in, numbered by state
    - The exception to this rule is Delhi, where only the first character corresponds to this. The second character corresponds to the vehicle's class
 3. The next three to six characters are the vehicle's registered serial number, comprised of two letters and up to four numbers.
 
-While most licence plates will be blurred, the sheer density of vehicles in urban areas means some are likely to be missed, or only partially blurred. In addition, auto rickshaws and taxis often have their licence plate printed on the side of the vehicle as well, which is often not blurred. Thus this makes it easier to narrow down your location.
+While most license plates will be blurred, the sheer density of vehicles in urban areas means some are likely to be missed, or only partially blurred. In addition, auto rickshaws and taxis often have their license plate printed on the side of the vehicle as well, which is often not blurred. Thus this makes it easier to narrow down your location.
 
 ## Western MH & Vadodara/Baroda
 
-As the most densely covered area on Street View (as of early August 2022), knowing the registration codes for `MH` vehicles can help narrow down which city you are in. Vadodara/Baroda is the only covered city in this region not in Maharashtra state – it will predominantly have `GJ` plates, from Gujarat. Here are the registration codes for the other cities (all prefixed with `MH` on licence plates):
+As the most densely covered area on Street View (as of early August 2022), knowing the registration codes for `MH` vehicles can help narrow down which city you are in. Vadodara/Baroda is the only covered city in this region not in Maharashtra state – it will predominantly have `GJ` plates, from Gujarat. Here are the registration codes for the other cities (all prefixed with `MH` on license plates):
 
 - Mumbai: `01`-`05`, `46`-`48`, `55`, `56`
 - Pune: `12`, `14`, `53`, `54`
@@ -196,4 +196,4 @@ Bangladesh's official language is Bengali – the same as `WB`, `AN`, and `TR`. 
 
 ## [Sri Lanka](/countries/LKA)
 
-Tamil is one of the official languages of Sri Lanka, predominantly spoken in the Northern and Eastern provinces, as well as the southern portion of Central province. Tamil is also spoken in Tamil Nadu, and with the introduction of coverage in Chennai this can make identifying the region difficult. In Sri Lanka, be on the lookout for Sinhalese, as it is only found in Sri Lanka. India also has white licence plates, while both countries have yellow ones as well – so a white plate is a surefire indicator that you are in India.
+Tamil is one of the official languages of Sri Lanka, predominantly spoken in the Northern and Eastern provinces, as well as the southern portion of Central province. Tamil is also spoken in Tamil Nadu, and with the introduction of coverage in Chennai this can make identifying the region difficult. In Sri Lanka, be on the lookout for Sinhalese, as it is only found in Sri Lanka. India also has white license plates, while both countries have yellow ones as well – so a white plate is a surefire indicator that you are in India.

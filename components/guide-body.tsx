@@ -5,7 +5,7 @@ import { MDXRemote, MDXRemoteSerializeResult } from "next-mdx-remote";
 import TOC from "./toc";
 import CountryMap from "./country-map";
 import SubdivisionMap from "./subdivision-map/subdivision-map";
-import LicencePlate from "./page-components/licence-plate";
+import LicensePlate from "./page-components/license-plate";
 
 // Custom components/renderers to pass to MDX.
 // Since the MDX files aren't loaded by webpack, they have no knowledge of how
@@ -61,7 +61,7 @@ const components = {
   Link,
   CountryMap,
   SubdivisionMap,
-  LicencePlate,
+  LicensePlate,
   a: TextLink,
   nav: Nav,
   img: Img,

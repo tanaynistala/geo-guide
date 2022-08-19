@@ -41,16 +41,16 @@ There are a couple ways to direytly identify Switzerland by the following things
 2. The camera generations in Switzerland are gen 3 and 4 plus some sparse gen 2 trekkers. Gen 4 is mostly seen in and around bigger cities.
 3. The bollards are distinct.
 
-# Licence Plates
+# License Plates
 
-Swiss licence plates are typically white with black lettering. Since Switzerland is not in the EU, they do not have a blue band on the left side of the plate; instead they have, going from left to right, the following:
+Swiss license plates are typically white with black lettering. Since Switzerland is not in the EU, they do not have a blue band on the left side of the plate; instead they have, going from left to right, the following:
 
 1. The coat of arms of Switzerland,
 2. A 2 letter abbreviation of the canton (see above list) the vehicle is registered in,
 3. A number with up to 6 digits, and
 4. The coat of arms of the canton
 
-This means Swiss licence plates differ from canton to canton, but in terms of Geoguessr the blur renders these differences useless. In contrast to other European countries, Switzerland has taller versions of licence plates in addition to long ones. Diplomatic vehicles have a green `CD` or `CC` on the left. They are often seen around Bern and Geneva due to the presence of embassies and international agencies in each city, respectively. Utility vehicle registration plates are blue, agricultural vehicle registration plates are green, military vehicles have black plates and mopeds, segways and e-bikes have yellow plates.
+This means Swiss license plates differ from canton to canton, but in terms of Geoguessr the blur renders these differences useless. In contrast to other European countries, Switzerland has taller versions of license plates in addition to long ones. Diplomatic vehicles have a green `CD` or `CC` on the left. They are often seen around Bern and Geneva due to the presence of embassies and international agencies in each city, respectively. Utility vehicle registration plates are blue, agricultural vehicle registration plates are green, military vehicles have black plates and mopeds, segways and e-bikes have yellow plates.
 
 # Roads and Markings
 

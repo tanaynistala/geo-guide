@@ -9,7 +9,7 @@ type Props = {
   borderColor?: string;
 };
 
-const LicencePlate = ({
+const LicensePlate = ({
   style,
   code,
   format,
@@ -48,4 +48,4 @@ const LicencePlate = ({
   );
 };
 
-export default LicencePlate;
+export default LicensePlate;

@@ -19,7 +19,7 @@ export default function Index() {
             cta="Explore"
             href="/guides"
           >
-            <img src="/img/licence-plate.png" />
+            <img src="/img/license-plate.png" />
           </LinkCard> */}
         </Container>
       </Layout>
