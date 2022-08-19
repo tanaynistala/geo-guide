@@ -52,7 +52,7 @@ const CountryMap = ({ code, scale, level = 1 }: Props) => {
             {({ geographies }) =>
               geographies.map((feature) => (
                 <Geography
-                  className="outline-none fill-gray-300 stroke-gray-400 stroke-1 hover:fill-gray-400"
+                  className="outline-none fill-gray-300 stroke-gray-400 stroke-[0.5] hover:fill-gray-400 rounded"
                   key={feature.rsmKey}
                   geography={feature}
                   onMouseEnter={() => {

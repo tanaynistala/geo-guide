@@ -29,7 +29,7 @@ Portugal is subdivided into 18 districts, plus two autonomous regions:
 
 # License Plates
 
-As a member of the EU, Portugal's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `P`. Plates are white with black text: <LicensePlate style="eu" code="FIN" format="AB 12 CD"/>. Until March 2020, Portuguese license plates were notable for having an additional yellow band on the right side of the plate, which is very distinctive, and can still be seen in coverage. License plates are required on both the front and rear of vehicles.
+As a member of the EU, Portugal's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `P`. Plates are white with black text: <LicensePlate style="eu" code="P" format="AB 12 CD"/>. Until March 2020, Portuguese license plates were notable for having an additional yellow band on the right side of the plate, which is very distinctive and can still be seen in coverage: <LicensePlate style="eu" code="P" format="AB 12 CD" rightBandColor="gold" />. License plates are required on both the front and rear of vehicles.
 
 # Phone Codes
 

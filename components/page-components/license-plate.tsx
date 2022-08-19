@@ -7,6 +7,7 @@ type Props = {
   backgroundColor?: string;
   textColor?: string;
   borderColor?: string;
+  rightBandColor?: string;
 };
 
 const LicensePlate = ({
@@ -16,6 +17,7 @@ const LicensePlate = ({
   backgroundColor = "white",
   textColor = "black",
   borderColor = "black",
+  rightBandColor,
 }: Props) => {
   return (
     <span
@@ -44,6 +46,18 @@ const LicensePlate = ({
       >
         {format}
       </span>
+
+      {rightBandColor && (
+        <span
+          className="p-1 font-mono"
+          style={{
+            backgroundColor: rightBandColor,
+            color: rightBandColor,
+          }}
+        >
+          #
+        </span>
+      )}
     </span>
   );
 };
