@@ -52,7 +52,7 @@ const CountryMap = ({ code, scale, level = 1 }: Props) => {
             {({ geographies }) =>
               geographies.map((feature) => (
                 <Geography
-                  className="outline-none fill-gray-200"
+                  className="outline-none fill-gray-200 stroke-gray-300"
                   key={feature.rsmKey}
                   geography={feature}
                 />
