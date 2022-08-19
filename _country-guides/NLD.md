@@ -1,4 +1,4 @@
-Welcome to the land of tulips, bicycles, and dams! The Netherlands is easily distinguishable from the rest of Europe thanks to flat terrain, distinctive license plates, and the aforementioned abundance of bicycles. Read on to learn more about the Netherlands in GeoGuessr!
+Welcome to the land of tulips, bicycles, and dams! The Netherlands is easily distinguishable from the rest of Europe thanks to flat terrain, distinctive licence plates, and the aforementioned abundance of bicycles. Read on to learn more about the Netherlands in GeoGuessr!
 
 # Subdivisions
 
@@ -19,11 +19,11 @@ The Netherlands is comprised of the following twelve provinces:
 
 <CountryMap code="NLD" scale="10000" />
 
-# License Plates
+# Licence Plates
 
-Vehicles in the Netherlands have yellow license plates, with black text and a blue band on the left. The band bears standard the EU flag and the code `NL` for the Netherlands. License plates are required on both the front and back of cars. Dutch license plates are also a deeper shade of yellow than those found in Luxembourg and, unlike the United Kingdom, are yellow on both sides of the vehicle.
+Vehicles in the Netherlands have yellow licence plates, with black text and a blue band on the left. The band bears standard the EU flag and the code `NL` for the Netherlands. Licence plates are required on both the front and back of cars. Dutch licence plates are also a deeper shade of yellow than those found in Luxembourg and, unlike the United Kingdom, are yellow on both sides of the vehicle.
 
-<img src="/img/NLD/license-plate.png" alt="Dutch license plate" />
+<img src="/img/NLD/licence-plate.png" alt="Dutch licence plate" />
 
 # Phone Codes
 
@@ -134,7 +134,7 @@ West Frisian uses the same alphabet, but can also have circumflex (ˆ) or acute 
 
 ## [Denmark](/countries/DNK)
 
-Denmark is often confused with the Netherlands due to the similarly flat landscape, blue street signs, and occasionally a yellow license plate. To tell them apart, be on the lookout for bike paths – in the Netherlands, they are typically painted red, while in Denmark they are simply lined with dashed lines on either side. Highway signs are also a good indicator, since the Netherlands has blue signs, while Danish ones are typically white with a red outline, and are lower to the ground than Dutch ones.
+Denmark is often confused with the Netherlands due to the similarly flat landscape, blue street signs, and occasionally a yellow licence plate. To tell them apart, be on the lookout for bike paths – in the Netherlands, they are typically painted red, while in Denmark they are simply lined with dashed lines on either side. Highway signs are also a good indicator, since the Netherlands has blue signs, while Danish ones are typically white with a red outline, and are lower to the ground than Dutch ones.
 
 ## [Belgium](/countries/BEL)
 

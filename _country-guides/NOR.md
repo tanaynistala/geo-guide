@@ -33,13 +33,9 @@ Norway is divided into counties known as _fylker_. There were 19 of them until 2
 
 Of the 5 external territories and dependencies of Norway, only Svalbard is inhabited and has Street View coverage (the others being Jan Mayen, Queen Maud Land, Peter I Island, and Bouvet Island). Svalbard is administered outside of the _fylker_ system, as it has a special status granted by the Svalbard Treaty.
 
-# License Plates
+# Licence Plates
 
-Norwegian license plates feature a blue band on the left side of the plate with the Norwegian flag and the country code `N`, in a design very similar to that of EU countries. Most plates are white with black text: **{
-<span style={{padding: '0px 0.25rem', lineHeight: '1.2', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderWidth: '2px', borderColor: 'lightgray', display: 'inline-block'}}>AB 1234</span>
-}**, but commercial plates with a bluish-green background are also often seen: **{
-<span style={{padding: '0px 0.25rem', lineHeight: '1.2', color: 'black', backgroundColor: 'lightseagreen', borderRadius: '0.25rem', display: 'inline-block'}}>AB 1234</span>
-}**
+Norwegian licence plates feature a blue band on the left side of the plate with the Norwegian flag and the country code `N`, in a design very similar to that of EU countries. Most plates are white with black text: <LicencePlate style="eu" code="N" format="AB 1234"/>, but commercial plates with a green background are also often seen: <LicencePlate style="eu" code="N" format="AB 1234" backgroundColor="lightseagreen"/>. Licence plates are required on both the front and rear of vehicles.
 
 # Phone Codes
 

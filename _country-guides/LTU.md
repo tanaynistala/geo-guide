@@ -17,11 +17,9 @@ Lithuania is divided into 10 counties, also known as _apskritys_:
 
 <CountryMap code="LTU" scale="6400" />
 
-# License Plates
+# Licence Plates
 
-As a member of the EU, Lithuania's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `LT`. Plates are white with black text: **{
-<span style={{padding: '0px 0.25rem', lineHeight: '1.2', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderWidth: '2px', borderColor: 'lightgray', display: 'inline-block'}}>ABC 123</span>
-}**.
+As a member of the EU, Lithuania's licence plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `LT`. Plates are white with black text: <LicencePlate style="eu" code="LT" format="ABC 123"/>. Licence plates are required on both the front and rear of vehicles.
 
 # Phone Codes
 

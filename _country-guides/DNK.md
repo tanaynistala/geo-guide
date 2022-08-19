@@ -26,13 +26,9 @@ Denmark can also be divided up by its islands, in addition to divisions on the m
 - Sjælland/Zealand
 - Vendsyssel-Thy/North Jutlandic Island
 
-# License Plates
+# Licence Plates
 
-As a member of the EU, Denmark's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `DK`. However, this band is currently optional, and so it is possible (and common) to see plates without the band. Private vehicles use white plates with black text and a red outline: **{
-<span style={{padding: '0px 0.25rem', lineHeight: '1.2', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderColor: 'red', borderWidth: '2px', display: 'inline-block'}}>AB 12 345</span>
-}**, while commercial vehicles use yellow-backed plates with the same black text and red outline: **{
-<span style={{padding: '0px 0.25rem', lineHeight: '1.2', color: 'black', backgroundColor: 'gold', borderRadius: '0.25rem', borderColor: 'red', borderWidth: '2px', display: 'inline-block'}}>AB 12 345</span>
-}**.
+As a member of the EU, Denmark's licence plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `DK`. However, this band is currently optional, and so it is possible (and common) to see plates without the band. Private vehicles use white plates with black text and a red outline: <LicencePlate style="eu" code="DK" format="AB 12 345" borderColor="red"/>, while commercial vehicles use yellow-backed plates with the same black text and red outline: <LicencePlate style="eu" code="DK" format="AB 12 345" backgroundColor="gold" borderColor="red"/>. Licence plates are required on both the front and rear of vehicles.
 
 # Phone Codes
 

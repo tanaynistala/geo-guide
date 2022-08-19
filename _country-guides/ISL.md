@@ -15,11 +15,9 @@ Iceland is divided into eight regions, containing 69 municipalities in all:
 
 <CountryMap code="ISL" scale="5600" />
 
-# License Plates
+# Licence Plates
 
-Icelandic license plates are white with blue text, and have the Icelandic flag and country code `IS` on the left side of the plate: **{
-<span style={{padding: '0px 0.25rem', lineHeight: '1.2', color: 'blue', backgroundColor: 'white', borderRadius: '0.25rem', borderColor: 'lightbray', borderWidth: '2px', display: 'inline-block'}}>AB 1234</span>
-}**.
+Icelandic licence plates are white with blue text, and have the Icelandic flag and country code `IS` on the left side of the plate: <LicencePlate style="isl" code="IS" format="AB 1234" textColor="blue"/>. Licence plates are required on both the front and rear of vehicles.
 
 # Phone Codes
 

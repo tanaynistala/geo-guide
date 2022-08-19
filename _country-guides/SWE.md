@@ -28,11 +28,9 @@ Sweden is divided into 21 counties, also known as _län_:
 
 <CountryMap code="SWE" scale="2000" />
 
-# License Plates
+# Licence Plates
 
-As a member of the EU, Sweden's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `S`. Plates are white with black text: **{
-<span style={{padding: '0px 0.25rem', lineHeight: '1.2', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderWidth: '2px', borderColor: 'lightgray', display: 'inline-block'}}>ABC 123</span>
-}**.
+As a member of the EU, Sweden's licence plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `S`. Plates are white with black text: <LicencePlate style="eu" code="S" format="ABC 123"/>. Licence plates are required on both the front and rear of vehicles.
 
 # Phone Codes
 
