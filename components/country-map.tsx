@@ -7,6 +7,7 @@ import {
   Marker,
 } from "react-simple-maps";
 import { getCountryData } from "../lib/geo-api";
+import geoData from "../lib/geo-data/geography.geo.json";
 import Country from "../interfaces/country";
 import { useState, memo } from "react";
 import ReactTooltip from "react-tooltip";
@@ -31,7 +32,7 @@ const CountryMap = ({ code, scale, level = 1 }: Props) => {
         projection="geoAzimuthalEqualArea"
         width={mapWidth}
         height={mapHeight}
-        className="rounded-lg mt-12"
+        className="rounded-lg mt-12 outline-none"
         data-tip=""
         projectionConfig={{
           rotate: [-country.coordinates[0], -country.coordinates[1], 0],
@@ -46,6 +47,19 @@ const CountryMap = ({ code, scale, level = 1 }: Props) => {
           ]}
         >
           <Sphere className="fill-gray-100" />
+
+          <Geographies geography={geoData}>
+            {({ geographies }) =>
+              geographies.map((feature) => (
+                <Geography
+                  className="outline-none fill-gray-200"
+                  key={feature.rsmKey}
+                  geography={feature}
+                />
+              ))
+            }
+          </Geographies>
+
           <Geographies
             geography={`https://raw.githubusercontent.com/piwodlaiwo/TopoJSON-Data/master/diva-gis/${country.code3}_adm/${country.code3}_adm${level}.topo.json`}
           >
