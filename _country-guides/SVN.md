@@ -2,7 +2,7 @@
 
 # Subdivisions
 
-Slovenia is officially divided into 212 municipalities, but the country can be divided into the following statistical regions:
+Slovenia is officially divided into 212 municipalities, but the country can also be divided into the following statistical regions:
 
 - Gorenjska / Upper Carniola
 - Goriška / Gorizia
@@ -21,9 +21,19 @@ Slovenia is officially divided into 212 municipalities, but the country can be d
 
 # License Plates
 
-As a member of the EU, Slovenia's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `SLO`. Plates are white with black text and a green borger: <LicensePlate style="eu" code="SLO" format="AB∇123-CD" borderColor="lightgreen"/>. The first one or two letters represent the region of registration, and is followed by the coat of arms the city of registration (represented by a `∇` above).
+As a member of the EU, Slovenia's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `SLO`. Plates are white with black text and a green borger: <LicensePlate style="eu" code="SLO" format="AB∇123-CD" borderColor="lightgreen"/>. The first one or two letters represent the region of registration, and is followed by the coat of arms the city of registration (represented by a `∇` above). The regional codes are organized by city, and surrounding towns are also covered by the same code:
 
-`TODO: add region codes`
+- `CE`: Celje
+- `GO`: Nova Gorica
+- `KK`: Krško
+- `KP`: Koper
+- `KR`: Kranj
+- `LJ`: Ljubljana
+- `MB`: Maribor
+- `MS`: Murska Sobota
+- `NM`: Novo Mesto
+- `PO`: Postojna
+- `SG`: Slovenj Gradec
 
 # Phone Codes
 

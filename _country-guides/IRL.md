@@ -5,54 +5,53 @@
 Ireland has traditionally been divided into four provinces, each divided into several counties, or _contaetha_:
 
 - Connacht
-  - Galway `C`
-  - Leitrim
-  - Mayo
-  - Roscommon
-  - Sligo
+  - Galway `G`
+  - Leitrim `LM`
+  - Mayo `MO`
+  - Roscommon `RN`
+  - Sligo `SO`
 - Leinster
-  - Carlow
-  - Dublin
+  - Carlow `CW`
+  - Dublin `D`
+    - Dublin City
     - Dún Laoghaire-Rathdown
     - Fingal
     - South Dublin
-  - Kildare
-  - Kilkenny
-  - Laois
-  - Longford
-  - Louth
-  - Meath
-  - Offaly
-  - Westmeath
-  - Wexford
-  - Wicklow
+  - Kildare `KE`
+  - Kilkenny `KK`
+  - Laois `LS`
+  - Longford `LD`
+  - Louth `LH`
+  - Meath `MH`
+  - Offaly `OY`
+  - Westmeath `WH`
+  - Wexford `WX`
+  - Wicklow `WW`
 - Munster
-  - Clare
+  - Clare `CE`
   - Cork `C`
-  - Kerry
-  - Limerick
-  - Tipperary
-  - Waterford
+  - Kerry `KY`
+  - Limerick `L`
+  - Tipperary `T`
+  - Waterford `W`
 - Ulster
-  - Antrim `NI`
-  - Armagh `NI`
-  - Cavan
-  - Donegal
-  - Down `NI`
-  - Fermanagh `NI`
-  - Londonderry `NI`
-  - Monaghan
-  - Tyrone `NI`
+  - Antrim _NI_
+  - Armagh _NI_
+  - Cavan `CN`
+  - Donegal `DL`
+  - Down _NI_
+  - Fermanagh _NI_
+  - Londonderry _NI_
+  - Monaghan `MN`
+  - Tyrone _NI_
 
-Counties labeled `NI` are in Northern Ireland, which is a part of the [United Kingdom](/countries/GBR). The word "county" is usually prefixed to the county's name rather than suffixed; thus it would be _County Sligo_, and not _Sligo County_. In counties labeled `C`, the city by the same name is a separate county-level entity as the county itself. And Dublin was split up into three city-level counties in addition to Dublin City itself.
+Counties labeled _NI_ are in Northern Ireland, which is a part of the [United Kingdom](/countries/GBR). The word "county" is usually prefixed to the county's name rather than suffixed; thus it would be _County Sligo_, and not _Sligo County_. Galway and Cork are separate entities from Counties Galway and Sligo, respectively In addition, County Dublin was split up into three city-level counties in addition to Dublin City itself.
 
 <CountryMap code="IRL" scale="6500" />
 
 # License Plates
 
-As a member of the EU, Ireland's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `IRL`. Plates are white with black text: <LicensePlate style="eu" code="IRL" format="123-AB-45678"/>. The one or two letters in between represent the county of registration.
-
-`TODO: Add county codes`
+As a member of the EU, Ireland's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `IRL`. Plates are white with black text: <LicensePlate style="eu" code="IRL" format="123-AB-45678"/>. The one or two letters in between represent the county of registration, the codes for which can be found in the [Subdivisions](#subdivisions) list above. These codes are typically the first and last letters of the county's name, with some exceptions.
 
 # Phone Codes
 

@@ -20,8 +20,6 @@ Austria is made up of nine states, or _Länder_/_Bundesländer_:
 
 As a member of the EU, Austria's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `A`. Plates are white with black text, and a red-white-red triband (the Austrian flag's colors) on the top and bottom of the license plate: <LicensePlate style="eu" code="A" format="AB ∇ 12CD" borderColor="red" borderStyle="double"/>. The first one or two letters represent the district of registration, and is followed by the coat of arms of the respective state (represented by a `∇` above).
 
-`TODO: Add district codes`
-
 # Phone Codes
 
 # Roads, Markings, and Signage

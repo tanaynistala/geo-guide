@@ -17,9 +17,80 @@ Slovakia is divided into eight Regions, or _kraje_:
 
 # License Plates
 
-As a member of the EU, Slovakia's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `SK`. Plates are white with black text: <LicensePlate style="eu" code="SK" format="AB∇123CD"/>. The first one or two letters represent the district of registration, and is followed by the coat of arms of Slovakia (represented by a `∇` above).
+As a member of the EU, Slovakia's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `SK`. Plates are white with black text: <LicensePlate style="eu" code="SK" format="AB∇123CD"/>. The first one or two letters represent the district of registration, and is followed by the coat of arms of Slovakia (represented by a `∇` above). There are 79 districts, with the following codes:
 
-`TODO: add district codes`
+- `BA`: Bratislava
+- `BB`: Banská Bystrica
+- `BJ`: Bardejov
+- `BN`: Bánovce nad Bebravou
+- `BR`: Brezno
+- `BS`: Banská Štiavnica
+- `BY`: Bytča
+- `CA`: Čadca
+- `DK`: Dolný Kubín
+- `DS`: Dunajská Streda
+- `DT`: Detva
+- `GA`: Galanta
+- `GL`: Gelnica
+- `HC`: Hlohovec
+- `HE`: Humenné
+- `IL`: Ilava
+- `KA`: Krupina
+- `KE`: Košice
+- `KK`: Kežmarok
+- `KM`: Kysucké Nové Mesto
+- `KN`: Komárno
+- `KS`: Košice-okolie
+- `LC`: Lučenec
+- `LE`: Levoča
+- `LM`: Liptovský Mikuláš
+- `LV`: Levice
+- `MA`: Malacky
+- `MI`: Michalovce
+- `ML`: Medzilaborce
+- `MT`: Martin
+- `MY`: Myjava
+- `NR`: Nitra
+- `NM`: Nové Mesto nad Váhom
+- `NO`: Námestovo
+- `NZ`: Nové Zámky
+- `PB`: Považská Bystrica
+- `PD`: Prievidza
+- `PE`: Partizánske
+- `PK`: Pezinok
+- `PN`: Piešťany
+- `PO`: Prešov
+- `PP`: Poprad
+- `PT`: Poltár
+- `PU`: Púchov
+- `RA`: Revúca
+- `RK`: Ružomberok
+- `RS`: Rimavská Sobota
+- `RV`: Rožňava
+- `SA`: Šaľa
+- `SB`: Sabinov
+- `SC`: Senec
+- `SE`: Senica
+- `SI`: Skalica
+- `SK`: Svidník
+- `SL`: Stará Ľubovňa
+- `SN`: Spišská Nová Ves
+- `SO`: Sobrance
+- `SP`: Stropkov
+- `SV`: Snina
+- `TT`: Trnava
+- `TN`: Trenčín
+- `TO`: Topoľčany
+- `TR`: Turčianske Teplice
+- `TS`: Tvrdošín
+- `TV`: Trebišov
+- `VK`: Veľký Krtíš
+- `VT`: Vranov nad Topľou
+- `ZA`: Žilina
+- `ZC`: Žarnovica
+- `ZH`: Žiar nad Hronom
+- `ZM`: Zlaté Moravce
+- `ZV`: Zvolen
 
 # Phone Codes
 
