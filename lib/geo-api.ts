@@ -1,7 +1,7 @@
 import geographies from "./geo-data/geography.geo.json";
 import centroids from "./geo-data/centroids.geo.json";
 
-import capitals from "./geo-data/capitals.json";
+import capitals from "./geo-data/capitals.geo.json";
 import currencyNames from "./geo-data/currency-names.json";
 import currencyCodes from "./geo-data/currency-codes.json";
 import domainTlds from "./geo-data/domain-tlds.json";
@@ -50,7 +50,12 @@ export function getCountryData(countryCode: string) {
   const continent = countryGeoData.properties.continent;
   const subregion = countryGeoData.properties.subregion;
 
-  const capital = capitals.find((geo) => geo.country === name)?.city ?? "N/A";
+  const capital =
+    capitals.features.find((geo) => geo.properties.iso2 === code2)?.properties
+      .city ?? "N/A";
+  const capitalCoords = capitals.features.find(
+    (geo) => geo.properties.iso2 === code2
+  )?.geometry.coordinates ?? [0, 0];
 
   const currency = [
     currencyNames.find((geo) => geo.country === name)?.currency_name ?? "N/A",
@@ -70,6 +75,7 @@ export function getCountryData(countryCode: string) {
     continent,
     subregion,
     capital,
+    capitalCoords,
     currency,
     tld,
     drivesOnLeft: drivesOnLeft,
