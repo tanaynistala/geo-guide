@@ -2,7 +2,15 @@
 
 # Subdivisions
 
-`Subdivision list`
+Andorra consists of seven communities known as parishes, or _parròquies_:
+
+- Andorra la Vella
+- Canillo
+- Encamp
+- Escaldes-Engordany
+- La Massana
+- Ordino
+- Sant Julià de Lòria
 
 <CountryMap code="AND" scale="80000" />
 

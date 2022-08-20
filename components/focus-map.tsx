@@ -44,7 +44,7 @@ const Map = ({ country }: Props) => {
       {geoData.features
         .filter((feature) => {
           return (
-            (feature.properties.scalerank > 2 || feature.properties.tiny > 0) &&
+            (feature.properties.scalerank < 2 || feature.properties.tiny > 0) &&
             country.code3 == feature.properties.adm0_a3
           );
         })

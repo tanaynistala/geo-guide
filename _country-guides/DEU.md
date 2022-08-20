@@ -2,7 +2,24 @@
 
 # Subdivisions
 
-`Subdivision list`
+Germany consists of sixteen federated states, also known as _Länder_/_Bundesländer_:
+
+- Baden-Württemberg
+- Bayern / Bavaria
+- Berlin
+- Brandenburg
+- Bremen
+- Hamburg
+- Hessen / Hesse
+- Mecklenburg-Vorpommern
+- Niedersachsen / Lower Saxony
+- Nordrhein-Westfalen / North Rhine-Westphalia
+- Rheinland-Pfalz / Rhineland-Palatinate
+- Saarland
+- Sachsen / Saxony
+- Sachsen-Anhalt / Saxony-Anhalt
+- Schleswig-Holstein
+- Thüringen / Thuringia
 
 <CountryMap code="DEU" scale="3500" />
 

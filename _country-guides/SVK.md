@@ -2,7 +2,16 @@
 
 # Subdivisions
 
-`Subdivision list`
+Slovakia is divided into eight Regions, or _kraje_:
+
+- Banská Bystrica
+- Bratislava
+- Košice
+- Nitra
+- Prešov
+- Trenčin
+- Trnava
+- Žilina
 
 <CountryMap code="SVK" scale="7000" />
 

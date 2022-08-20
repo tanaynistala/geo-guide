@@ -2,7 +2,20 @@
 
 # Subdivisions
 
-`Subdivision list`
+Slovenia is officially divided into 212 municipalities, but the country can be divided into the following statistical regions:
+
+- Gorenjska / Upper Carniola
+- Goriška / Gorizia
+- Jugovzhodna Slovenija / Southeast Slovenia
+- Koroška / Carinthia
+- Obalno-kraška / Coastal–Karst
+- Osrednjeslovenska / Central Slovenia
+- Podravska / Drava
+- Pomurska / Mura
+- Posavska / Lower Sava
+- Primorsko-notranjska / Littoral–Inner Carniola
+- Savinjska / Savinja
+- Zasavska / Central Sava
 
 <CountryMap code="SVN" scale="12000" />
 

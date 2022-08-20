@@ -2,7 +2,17 @@
 
 # Subdivisions
 
-`Subdivision list`
+San Marino is divided into 9 municipalities, or _castelli_:
+
+- Acquaviva
+- Borgo Maggiore
+- Chiesanuova
+- Città di San Marino / City of San Marino
+- Domagnano
+- Faetano
+- Fiorentino
+- Montegiardino
+- Serravalle
 
 <CountryMap code="SMR" scale="200000" />
 

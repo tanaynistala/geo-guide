@@ -2,7 +2,32 @@
 
 # Subdivisions
 
-`Subdivision list`
+Montenegro is divided into 24 municipalities, or _opštine_ (општине in Cyrillic):
+
+- Andrijevica
+- Bar
+- Berane
+- Bijelo Polje
+- Budva
+- Cetinje
+- Danilovgrad
+- Gusinje
+- Herceg Novi
+- Kolašin
+- Kotor
+- Mojkovac
+- Nikšić
+- Petnjica
+- Plav
+- Pljevlja
+- Plužine
+- Podgorica
+- Rožaje
+- Šavnik
+- Tivat
+- Tuzi
+- Ulcinj
+- Žabljak
 
 <CountryMap code="MNE" scale="15000" />
 

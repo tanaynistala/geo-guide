@@ -2,9 +2,22 @@
 
 # Subdivisions
 
-`Subdivision list`
+Luxembourg is divided into twelve cantons:
 
-<CountryMap code="LUX" scale="32000" />
+- Clervaux
+- Wiltz
+- Vianden
+- Redange
+- Diekirch
+- Mersch
+- Echternach
+- Cappellen
+- Luxembourg
+- Grevenmacher
+- Esch-sur-Alzette
+- Remich
+
+<CountryMap code="LUX" scale="32000" level="2" />
 
 # License Plates
 

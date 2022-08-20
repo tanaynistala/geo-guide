@@ -2,7 +2,29 @@
 
 # Subdivisions
 
-`Subdivision list`
+Croatia is divided into twenty counties, or _županije_, plus one city-county, or _grad_:
+
+- Bjelovar-Bilogora
+- Brod-Posavina
+- Dubrovnik-Neretva
+- Istria
+- Karlovac
+- Koprivnica-Križevci
+- Krapina-Zagorje
+- Lika-Senj
+- Međimurje
+- Osijek-Baranja
+- Požega-Slavonia
+- Primorje-Gorski Kotar
+- Šibenik-Knin
+- Sisak-Moslavina
+- Split-Dalmatia
+- Varaždin
+- Virovitica-Podravina
+- Vukovar-Syrmia
+- Zadar
+- Zagreb
+- Grad Zagreb (City)
 
 <CountryMap code="HRV" scale="6000" />
 

@@ -2,9 +2,72 @@
 
 # Subdivisions
 
-`Subdivision list`
+Spain is divided into 50 provinces, or _provincias_, organized into 17 autonomous communities (_comunidades autónomas_):
 
-<CountryMap code="ESP" scale="1000" />
+- Andalucia
+  - Sevilla
+  - Córdoba
+  - Jaén
+  - Granada
+  - Huelva
+  - Almería
+  - Cádiz
+  - Málaga
+- Aragón
+  - Zaragoza
+  - Huesca
+  - Teruel
+- Asturias
+- Islas Baleares / Balearic Islands
+- Pais Vasco / Basque Community
+  - Araba / Álava
+  - Bizkaia / Biscay
+  - Gipúzkoa
+- Canarias / Canary Islands
+  - Las Palmas
+  - Santa Cruz de Tenerife
+- Cantabria
+- Castilla y León
+  - León
+  - Burgos
+  - Salamanca
+  - Zamora
+  - Soria
+  - Valladolid
+  - Palencia
+  - Ávila
+  - Segovia
+- Castilla-La Mancha
+  - Guadalajara
+  - Ciudad Real
+  - Cuenca
+  - Toledo
+  - Albacete
+- Catalunya / Catalonia
+  - Lleida
+  - Barcelona
+  - Tarragona
+  - Girona
+- Ceuta
+- Extremadura
+  - Badajoz
+  - Cáceres
+- Galicia
+  - Lugo
+  - A Coruña
+  - Ourense
+  - Pontevedra
+- La Rioja
+- Madrid
+- Melilla
+- Murcia
+- Navarra
+- Comunitat Valenciana / Valencian Community
+  - Valencia
+  - Castellón
+  - Alicante
+
+<CountryMap code="ESP" scale="1000" level="2" />
 
 # License Plates
 

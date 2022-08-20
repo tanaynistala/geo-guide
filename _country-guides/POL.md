@@ -2,7 +2,24 @@
 
 # Subdivisions
 
-`Subdivision list`
+Poland is divided into 16 voivodeships, or _województwa_:
+
+- Dolnośląskie / Lower Silesian `DS`/`D`
+- Kujawsko-Pomorskie / Kuyavian-Pomeranian `KP`/`C`
+- Lubelskie / Lublin `LU`/`L`
+- Lubuskie / Lubusz `LB`/`F`
+- Łódzkie / Łódź `LD`/`E`
+- Małopolskie / Lesser Poland `MA`/`K`
+- Mazowieckie / Masovian `MZ`/`W`
+- Opolskie / Opole `OP`/`O`
+- Podkarpackie / Subcarpathian `PK`/`R`
+- Podlaskie `PD`/`B`
+- Pomorskie / Pomeranian `PM`/`G`
+- Śląskie / Silesian `SL`/`S`
+- Świętokrzyskie / Holy Cross `SK`/`T`
+- Warmińsko-Mazurskie / Warmian-Masurian `WN`/`N`
+- Wielkopolskie / Greater Poland `WP`/`P`
+- Zachodniopomorskie / West Pomeranian `ZP`/`Z`
 
 <CountryMap code="POL" scale="4000" />
 

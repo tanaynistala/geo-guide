@@ -2,7 +2,17 @@
 
 # Subdivisions
 
-`Subdivision list`
+Austria is made up of nine states, or _Länder_/_Bundesländer_:
+
+- Burgenland
+- Kärnten / Carinthia
+- Niederösterreich / Lower Austria
+- Oberösterreich / Upper Austria
+- Salzburg
+- Steiermark / Styria
+- Tirol / Tyrol
+- Vorarlberg
+- Wien / Vienna
 
 <CountryMap code="AUT" scale="5000" />
 

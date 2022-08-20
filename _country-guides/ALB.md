@@ -2,7 +2,20 @@
 
 # Subdivisions
 
-`Subdivision list`
+Albania is divided into 12 counties, or _qarqet_:
+
+- Berat
+- Dibër
+- Durrës
+- Elbasan
+- Fier
+- Gjirokastër
+- Korçë
+- Kukës
+- Lezhë
+- Shkodër
+- Tiranë/Tirana
+- Vlorë
 
 <CountryMap code="ALB" scale="8000" />
 

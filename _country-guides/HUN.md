@@ -2,7 +2,28 @@
 
 # Subdivisions
 
-`Subdivision list`
+Hungary is divided into 19 counties, or _megyék_, plus the capital city, or _főváros_:
+
+- Baranya `BA`
+- Bács-Kiskun `BK`
+- Békés `BE`
+- Borsod-Abaúj-Zemplén `BZ`
+- Budapest `BU`
+- Csongrád-Csanád `CS`
+- Fejér `FE`
+- Győr-Moson-Sopron `GS`
+- Hajdú-Bihar `HB`
+- Heves `HE`
+- Jász-Nagykun-Szolnok `JN`
+- Komárom-Esztergom `KE`
+- Nógrád `MP`
+- Pest `PE`
+- Somogy `SO`
+- Szabolcs-Szatmár-Bereg `SZ`
+- Tolna `TO`
+- Vas `VA`
+- Veszprém `VE`
+- Zala `ZA`
 
 <CountryMap code="HUN" scale="6000" />
 
