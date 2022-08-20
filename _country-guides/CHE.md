@@ -4,38 +4,38 @@ Welcome to the lowcam paradise of Europe - Switzerland! From the beautiful and i
 
 Switzerland is comprised of cantons, of which there are 20 "full" cantons and 4 "half" cantons:
 
-- Aargau `AG`
-- Appenzell Ausserrhoden `AR`
-- Appenzell Innerrhoden `AI`
-- Basel-Landschaft `BL`
-- Basel-Stadt `BS`
-- Bern/Berne `BE`
-- Fribourg/Freiburg `FR`
-- Genève `GE`
-- Glarus `GL`
-- Graubünden/Grischun/Grigioni `GR`
-- Jura `JU`
-- Luzern `LU`
-- Neuchâtel `NE`
-- Nidwalden `NW`
-- Obwalden `OW`
-- Schaffhausen `SH`
-- Schwyz `SZ`
-- Solothurn `SO`
-- St. Gallen `SG`
-- Thurgau `TG`
-- Ticino `TI`
-- Uri `UR`
-- Valais/Wallis `VS`
-- Vaud `VD`
-- Zug `ZU`
-- Zürich `ZH`
+- `AG`: Aargau
+- `AR`: Appenzell Ausserrhoden
+- `AI`: Appenzell Innerrhoden
+- `BL`: Basel-Landschaft
+- `BS`: Basel-Stadt
+- `BE`: Bern/Berne
+- `FR`: Fribourg/Freiburg
+- `GE`: Genève
+- `GL`: Glarus
+- `GR`: Graubünden/Grischun/Grigioni
+- `JU`: Jura
+- `LU`: Luzern
+- `NE`: Neuchâtel
+- `NW`: Nidwalden
+- `OW`: Obwalden
+- `SH`: Schaffhausen
+- `SZ`: Schwyz
+- `SO`: Solothurn
+- `SG`: St. Gallen
+- `TG`: Thurgau
+- `TI`: Ticino
+- `UR`: Uri
+- `VS`: Valais/Wallis
+- `VD`: Vaud
+- `ZU`: Zug
+- `ZH`: Zürich
 
 <CountryMap code="CHE" scale="8000" />
 
 # Meta
 
-There are a couple ways to direytly identify Switzerland by the following things:
+There are a couple ways to directly identify Switzerland by the following things:
 
 1. Lowcam. The camera is a bit lower than in other countries. It's easy to recognize with the big blur where the Google car is supposed to be. With the new gen 4, the lowcam is harder to spot.
 2. The camera generations in Switzerland are gen 3 and 4 plus some sparse gen 2 trekkers. Gen 4 is mostly seen in and around bigger cities.
@@ -45,12 +45,12 @@ There are a couple ways to direytly identify Switzerland by the following things
 
 Swiss license plates are typically white with black lettering. Since Switzerland is not in the EU, they do not have a blue band on the left side of the plate; instead they have, going from left to right, the following:
 
-1. The coat of arms of Switzerland,
-2. A 2 letter abbreviation of the canton (see above list) the vehicle is registered in,
+1. The coat of arms of Switzerland (represented by a `+` below),
+2. A 2 letter abbreviation of the canton (see the [Subdivisions](#subdivisions) list) the vehicle is registered in,
 3. A number with up to 6 digits, and
-4. The coat of arms of the canton
+4. The coat of arms of the canton (represented by a `∇` below)
 
-This means Swiss license plates differ from canton to canton, but in terms of Geoguessr the blur renders these differences useless. In contrast to other European countries, Switzerland has taller versions of license plates in addition to long ones. Diplomatic vehicles have a green `CD` or `CC` on the left. They are often seen around Bern and Geneva due to the presence of embassies and international agencies in each city, respectively. Utility vehicle registration plates are blue, agricultural vehicle registration plates are green, military vehicles have black plates and mopeds, segways and e-bikes have yellow plates.
+for the following format: <LicensePlate style="ch" format="+ AB•123456 ∇" />. This means Swiss license plates differ from canton to canton, but in terms of Geoguessr the blur renders these differences useless. In contrast to other European countries, Switzerland has taller versions of license plates in addition to long ones. Diplomatic vehicles have a green `CD` or `CC` on the left. They are often seen around Bern and Geneva due to the presence of embassies and international agencies in each city, respectively. Utility vehicle registration plates are blue, agricultural vehicle registration plates are green, military vehicles have black plates and mopeds, segways and e-bikes have yellow plates.
 
 # Roads and Markings
 
