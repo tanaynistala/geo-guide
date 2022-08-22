@@ -41,6 +41,85 @@ As a member of the EU, Bulgaria's license plates feature a blue band on the left
 
 # Phone Codes
 
+Phone numbers are prefixed with a zero (0), and are mostly organized by province and region:
+
+### Capital
+
+2. Sofia City
+
+### South
+
+30. Smolyan
+31. Plovdiv
+32. Plovdiv
+33. Plovdiv
+34. Pazardzhik
+35. Pazardzhik
+36. Kardzhali
+37. Haskovo
+38. Haskovo
+39. Haskovo
+40. `N/A`
+41. Stara Zagora
+42. Stara Zagora
+43. Stara Zagora (except `430`)
+44. Sliven
+45. Sliven
+46. Yambol
+47. Yambol and Haskovo
+
+### East
+
+51. Varna
+52. Varna
+53. Shumen
+54. Shumen
+55. Burgas
+56. Burgas
+57. Dobrich
+58. Dobrich
+59. Burgas
+
+### North
+
+60. Targovishte
+61. Veliko Tarnovo
+62. Veliko Tarnovo
+63. Veliko Tarnovo and Pleven
+64. Pleven
+65. Pleven
+66. Gabrovo
+67. Gabrovo and Lovech
+68. Lovech
+69. Lovech
+
+### West
+
+70. Kyustendil
+71. Sofia
+72. Sofia
+73. Blagoevgrad
+74. Blagoevgrad
+75. Blagoevgrad and Sofia
+76. Pernik
+77. Pernik
+78. Kyustendil
+79. Kyustendil
+
+### Northeast
+
+80. Ruse
+81. Ruse
+82. Razgrad
+83. Silistra
+
+### Northwest
+
+91. Vratsa
+92. Vidin
+93. Montana
+94. Vratsa and Montana
+
 # Roads, Markings, and Signage
 
 # Highways & Road Numbering Schemes
