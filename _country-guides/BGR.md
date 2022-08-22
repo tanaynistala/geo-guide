@@ -55,7 +55,11 @@ Bulgarian is the official langauge of Bulgaria, and is part of the South Slavic 
 
 Bulgarian uses the 30 letters of the standard Cyrillic alphabet:
 
-> Аа Бб Вв Гг Дд Ее Жж Зз Ии Йй Кк Лл Мм Нн Оо Пп Рр Сс Тт Уу Фф Хх Цц Чч Шш Щщ Ъъ Ьь Юю Яя
+> Аа Бб Вв Гг Дg Ее Жж Зз Ии Йй Кк Лл Мм Нн Оо Пп Рр Сс Тт Уу Фф Хх Цц Чч Шш Щщ Ъъ Ьь Юю Яя
+
+However, the modern Bulgarian script typically uses a more symmetric, triangular form of the letters _Дд_ and _Лл_, shown on the right in the image below:
+
+<img src="/img/BGR/script-differences.png" alt="Bulgarian Cyrillic vs. Traditional Cyrillic" />
 
 ## Sample
 
