@@ -133,39 +133,39 @@ All of these languages except English are written in _abugida_ scripts, and can 
 
 > सभी मनुष्यों को गौरव और अधिकारों के मामले में जन्मजात स्वतन्त्रता और समानता प्राप्त है। उन्हें बुद्धि और अन्तरात्मा की देन प्राप्त है और परस्पर उन्हें भाईचारे के भाव से बर्ताव करना चाहिए।
 
-### Marathi
+### Marathi (Maharashtra)
 
 > सर्व मनुष्यजात जन्मतःच स्वतंत्र आहे व सर्वजणांना समान प्रतिष्ठा व समान अधिकार आहेत. त्यांना विचारशक्ती व सदसद्विवेकबुद्धी लाभलेली आहे व त्यांनी एकमेकांशी बंधुत्वाच्या भावनेने आचरण करावे.
 
-### Bengali
+### Bengali (West Bengal)
 
 > সমস্ত মানুষ স্বাধীনভাবে সমান মর্যাদা এবং অধিকার নিয়ে জন্মগ্রহণ করে | তাঁদের বিবেক এবং বুদ্ধি আছে সুতরাং সকলেরই একে অপরের প্রতি ভ্রাতৃত্বসুলভ মনোভাব নিয়ে আচরণ করা উচিত্ |
 
-### Gujarati
+### Gujarati (Gujarat)
 
 > પ્રતિષ્ઠા અને અધિકારોની દૃષ્ટિએ સર્વ માનવો જન્મથી સવતંત્ર અને સમાન હોય છે. તેમનામાં વિચારશકતિ અને અંતઃકરણ હોય છે અને તેમણે પરસ્પર બંધુત્વની ભાવનાથી વર્તવું જોઇએ.
 
-### Punjabi
+### Punjabi (Punjab)
 
 > ਸਾਰਾ ਮਨੁੱਖੀ ਪਰਿਵਾਰ ਆਪਣੀ ਮਹਿਮਾ, ਸ਼ਾਨ ਅਤੇ ਹੱਕਾਂ ਦੇ ਪੱਖੋਂ ਜਨਮ ਤੋਂ ਹੀ ਆਜ਼ਾਦ ਹੈ ਅਤੇ ਸੁਤੇ ਸਿੱਧ ਸਾਰੇ ਲੋਕ ਬਰਾਬਰ ਹਨ । ਉਨ੍ਹਾਂ ਸਭਨਾ ਨੂੰ ਤਰਕ ਅਤੇ ਜ਼ਮੀਰ ਦੀ ਸੌਗਾਤ ਮਿਲੀ ਹੋਈ ਹੈ ਅਤੇ ਉਨ੍ਹਾਂ ਨੂੰ ਭਰਾਤਰੀਭਾਵ ਦੀ ਭਾਵਨਾ ਰਖਦਿਆਂ ਆਪਸ ਵਿਚ ਵਿਚਰਣਾ ਚਾਹੀਦਾ ਹੈ ।
 
-### Odia
+### Odia (Odisha)
 
 > ସବୁ ମନୁଷ୍ୟ ଜନ୍ମକାଳରୁ ସ୍ୱାଧୀନ. ସେମାନଙ୍କର ମର୍ଯ୍ୟାଦା ଓ ଅଧିକାର ସମାନ. ସେମାନଙ୍କଠାରେ ପ୍ରଜ୍ଞା ଓ ବିବେକ ନିହିତ ଅଛି. ସେମାନେ ପରସ୍ପର ପ୍ରତି ଭାତୃଭାବ ପୋଷଣ କରି କାର୍ଯ୍ୟ କରିବା ଦରକାର.
 
-### Telugu
+### Telugu (Andhra Pradesh and Telangana)
 
 > ప్రతిపత్తిస్వత్వముల విషయమున మానవులెల్లరును జన్మతః స్వతంత్రులును సమానులును నగుదురు. వారు వివేదనాంతఃకరణ సంపన్నులగుటచే పరస్పరము భ్రాతృభావముతో వర్తింపవలయును.
 
-### Tamil
+### Tamil (Tamil Nadu)
 
 > மனிதப் பிறவியினர் சகலரும் சுதந்திரமாகவே பிறக்கின்றனர்; அவர்கள் மதிப்பிலும் உரிமைகளிலும் சமமானவர்கள். அவர்கள் நியாயத்தையும் மனசாட்சியையும் இயற்பண்பாகப் பெற்றவர்கள். அவர்கள் ஒருவருடனொருவர் சகோதர உணர்வுப் பாங்கில் நடந்துகொள்ளல் வேண்டும்.
 
-### Kannada
+### Kannada (Karnataka)
 
 > ಎಲ್ಲಾ ಮಾನವರೂ ಸ್ವತಂತ್ರರಾಗಿಯೇ ಜನಿಸಿದ್ದಾರೆ. ಹಾಗೂ ಘನತೆ ಮತ್ತು ಹಕ್ಕು ಗಳಲ್ಲಿ ಸಮಾನರಾಗಿದ್ದರೆ. ವಿವೇಕ ಮತ್ತು ಅಂತಃಕರಣ ಗಳನ್ನು ಪಡೆದವರಾದ್ದರಿಂದ ಅವರು ಪರಸ್ಪರ ಸಹೋದರ ಭಾವದಿಂದ ವರ್ತಿಸಬೇಕು.
 
-### Malayalam
+### Malayalam (Kerala)
 
 > മനുഷ്യരെല്ലാവരും തുല്യാവകാശങ്ങളോടും അന്തസ്സോടും സ്വാതന്ത്ര്യത്തോടുംകൂടി ജനിച്ചവരാണ്. അന്യോന്യം ഭ്രാതൃഭാവത്തോടെ പെരുമാറുവാനാണ് മനുഷ്യന്നു വിവേകബുദ്ധിയും മനസ്സാക്ഷിയും സിദ്ധമായിരിക്കുന്നത്.
 
@@ -173,26 +173,73 @@ All of these languages except English are written in _abugida_ scripts, and can 
 
 Street View in India has been a bit of a roller coaster ride, if we’re being honest. But in late July 2022, Google officially rolled out official street view coverage in partnership with various local companies. Due to government regulations, Google was required to use imagery captured by local companies, resulting in a lower resolution than you’re used to seeing in other South Asian countries, like Bangladesh, Bhutan, and Sri Lanka. This can help you tell India apart from those two countries, especially in the cities of Chennai and Kolkata, which each use the same script as Sri Lanka and Bangladesh, respectively (see [Language](#language)).
 
-As of early August 2022, coverage in India is limited to a small selection of Indian cities:
+As of late August 2022, coverage in India is limited to about 32 cities (not including cities within the Mumbai and Delhi metropolitan areas):
 
-- Ahmednagar `MH`
-- Amritsar `PB`
-- Bengaluru `KA`
-- Chennai `TN`
-- Delhi `DL`
-- Hyderabad `TS`
-- Mumbai `MH`
+### West
+
+- Ahmedabad `GJ`
+- Anand `GJ`
+- Bharuch `GJ`
+- Mumbai Metro
+  - Mumbai `MH`
+  - Navi Mumbai `MH`
+  - Thane `MH`
+  - Kalyan `MH`
+  - Bhiwandi `MH`
+  - Dombivli `MH`
 - Nashik `MH`
 - Pune `MH`
-- Vadodara/Baroda `GJ`
+- Surat `GJ`
+- Vadodara `GJ`
 
-This means most coverage is concentrated on the western coast, around Mumbai and the state of Maharashtra, where five of the eleven covered cities are located. Of the remaining six, three are in the south, two in the north, and one in the northeast.
+### Central
+
+- Ahmednagar `MH`
+- Aurangabad `MH`
+- Chandrapur `MH`
+- Malegaon `MH`
+- Nagpur `MH`
+- Nanded `MH`
+- Solapur `MH`
+
+### South
+
+- Bengaluru `KA`
+- Chennai `TN`
+- Hyderabad `TS`
+- Srikakulam `AP`
+- Visakhapatnam `AP`
+
+### North
+
+- Amritsar `PB`
+- Chandigarh `CH`
+- Dehradun `UA`
+- Delhi Metro
+  - New Delhi `DL`
+  - Gurugram `HR`
+  - Faridabad `HR`
+  - Noida `UP`
+  - Ghaziabad `UP`
+- Jalandhar `PB`
+- Ludhiana `PB`
+- Meerut `UP`
+
+### East
+
+- Gorakhpur `UP`
+- Kanpur `UP`
+- Lucknow `UP`
+- Prayagraj `UP`
+- Varanasi `UP`
+
+This means most coverage is concentrated in two places: on the west coast between Pune and Ahmedabad, and northwards from Delhi.
 
 # Most Similar
 
 ## [Bangladesh](/countries/BGD)
 
-Bangladesh's official language is Bengali – the same as `WB`, `AN`, and `TR`. This means they can feature the same script. To tell them apart, pay attention to the car – the Bangladeshi Google car often has bars and red side-view mirrors.
+Bangladesh's official language is Bengali – the same as `WB`, `AN`, and `TR`. This means they can feature the same script. To tell them apart, pay attention to the car – the Bangladeshi Google car often has bars and red side-view mirrors, and with newer Generation 4 coverage has much higher-resolution coverage than India.
 
 ## [Sri Lanka](/countries/LKA)
 
