@@ -38,10 +38,16 @@ San Marino's license plates feature the Sammarinese coat of arms (represented by
 
 > Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
 
-## Sample
+## Samples
 
-> `Language Sample`
+### Italian
+
+> Tutti gli esseri umani nascono liberi ed eguali in dignità e diritti. Essi sono dotati di ragione e di coscienza e devono agire gli uni verso gli altri in spirito di fratellanza.
+
+### Romagnol/Sammarinese
+
+> Tot j essèri umèn i nàs lébri e cumpagn in dignità e dirét. Lou i è dutid ad rasoun e ad cuscinza e i à da operè, ognun ti cunfrunt at ch'j ilt, sa sentimint ad fratelènza.
 
 # Most Similar
 
-## [Spain](/countries/ESP)
+## [Italy](/countries/ITA)

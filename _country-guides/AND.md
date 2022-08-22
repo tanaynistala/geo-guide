@@ -38,8 +38,10 @@ Andorra's license plates feature the Andorran coat of arms on the left side of t
 
 ## Sample
 
-> `Language Sample`
+> Tots els éssers humans neixen lliures i iguals en dignitat i en drets. Són dotats de raó i de consciència, i han de comportar-se fraternalment els uns amb els altres.
 
 # Most Similar
 
 ## [Spain](/countries/ESP)
+
+## [France](/countries/FRA)

@@ -57,8 +57,8 @@ Ukraine's license plates feature a blue band on the left side of the plate with 
 
 ## Sample
 
-> `Language Sample`
+> Всі люди народжуються вільними і рівними у своїй гідності та правах. Вони наділені розумом і совістю і повинні діяти у відношенні один до одного в дусі братерства.
 
 # Most Similar
 
-## [Spain](/countries/ESP)
+## [Russia](/countries/RUS)

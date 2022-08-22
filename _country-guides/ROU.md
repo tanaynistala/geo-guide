@@ -71,10 +71,16 @@ As a member of the EU, Romania's license plates feature a blue band on the left 
 
 > Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
 
-## Sample
+## Samples
 
-> `Language Sample`
+### Romanian
+
+> Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.
+
+### Hungarian
+
+> Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.
 
 # Most Similar
 
-## [Spain](/countries/ESP)
+## [Hungary](/countries/HUN)

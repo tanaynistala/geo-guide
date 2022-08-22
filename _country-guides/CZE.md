@@ -45,8 +45,10 @@ As a member of the EU, Czechia's license plates feature a blue band on the left 
 
 ## Sample
 
-> `Language Sample`
+> Všichni lidé se rodí svobodní a sobě rovní co do důstojnosti a práv. Jsou nadáni rozumem a svědomím a mají spolu jednat v duchu bratrství.
 
 # Most Similar
 
-## [Spain](/countries/ESP)
+## [Slovakia](/countries/SVK)
+
+## [Poland](/countries/POL)

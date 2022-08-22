@@ -26,8 +26,10 @@ Monaco's license plates feature the coat of arms of Monaco on the left side of t
 
 ## Sample
 
-> `Language Sample`
+> Tous les êtres humains naissent libres et égaux en dignité et en droits. Ils sont doués de raison et de conscience et doivent agir les uns envers les autres dans un esprit de fraternité
 
 # Most Similar
 
-## [Spain](/countries/ESP)
+## [France](/countries/FRA)
+
+## [Italy](/countries/ITA)

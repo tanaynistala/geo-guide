@@ -55,8 +55,10 @@ Montenegro's license plates feature a blue band on the left side of the plate wi
 
 ## Sample
 
-> `Language Sample`
+> Sva ljudska bića rađaju se slobodna i jednaka u dostojanstvu i pravima. Ona su obdarena razumom isavješću i jedni prema drugima treba da postupaju u duhu bratstva.
 
 # Most Similar
 
-## [Spain](/countries/ESP)
+## [Albania](/countries/ALB)
+
+## [Croatia](/countries/HRV)

@@ -4,22 +4,22 @@
 
 Poland is divided into 16 voivodeships, or _województwa_:
 
-- `DS`/`D`: Dolnośląskie / Lower Silesian
-- `KP`/`C`: Kujawsko-Pomorskie / Kuyavian-Pomeranian
-- `LU`/`L`: Lubelskie / Lublin
-- `LB`/`F`: Lubuskie / Lubusz
-- `LD`/`E`: Łódzkie / Łódź
-- `MA`/`K`: Małopolskie / Lesser Poland
-- `MZ`/`W`: Mazowieckie / Masovian
-- `OP`/`O`: Opolskie / Opole
-- `PK`/`R`: Podkarpackie / Subcarpathian
-- `PD`/`B`: Podlaskie
-- `PM`/`G`: Pomorskie / Pomeranian
-- `SL`/`S`: Śląskie / Silesian
-- `SK`/`T`: Świętokrzyskie / Holy Cross
-- `WN`/`N`: Warmińsko-Mazurskie / Warmian-Masurian
-- `WP`/`P`: Wielkopolskie / Greater Poland
-- `ZP`/`Z`: Zachodniopomorskie / West Pomeranian
+- `DS`/`D` Dolnośląskie / Lower Silesian
+- `KP`/`C` Kujawsko-Pomorskie / Kuyavian-Pomeranian
+- `LU`/`L` Lubelskie / Lublin
+- `LB`/`F` Lubuskie / Lubusz
+- `LD`/`E` Łódzkie / Łódź
+- `MA`/`K` Małopolskie / Lesser Poland
+- `MZ`/`W` Mazowieckie / Masovian
+- `OP`/`O` Opolskie / Opole
+- `PK`/`R` Podkarpackie / Subcarpathian
+- `PD`/`B` Podlaskie
+- `PM`/`G` Pomorskie / Pomeranian
+- `SL`/`S` Śląskie / Silesian
+- `SK`/`T` Świętokrzyskie / Holy Cross
+- `WN`/`N` Warmińsko-Mazurskie / Warmian-Masurian
+- `WP`/`P` Wielkopolskie / Greater Poland
+- `ZP`/`Z` Zachodniopomorskie / West Pomeranian
 
 <CountryMap code="POL" scale="4000" />
 
@@ -47,8 +47,10 @@ As a member of the EU, Poland's license plates feature a blue band on the left s
 
 ## Sample
 
-> `Language Sample`
+> Wszyscy ludzie rodzą się wolni i równi w swojej godności i prawach. Są obdarzeni rozumem i sumieniem i powinni postępować wobec siebie w duchu braterstwa.
 
 # Most Similar
 
-## [Spain](/countries/ESP)
+## [Czechia](/countries/CZE)
+
+## [Lithuania](/countries/LTU)

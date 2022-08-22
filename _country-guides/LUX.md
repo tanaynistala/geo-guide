@@ -41,10 +41,22 @@ As a member of the EU, Luxembourg's license plates feature a blue band on the le
 
 > Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
 
-## Sample
+## Samples
 
-> `Language Sample`
+### Luxembourgish
+
+> All Mënsch kënnt fräi a mat deer selwechter Dignitéit an dene selwechte Rechter op d'Welt. Jiddereen huet säi Verstand a säi Gewësse krut an soll an engem Geescht vu Bridderlechkeet denen anere géintiwwer handelen.
+
+### French
+
+> Tous les êtres humains naissent libres et égaux en dignité et en droits. Ils sont doués de raison et de conscience et doivent agir les uns envers les autres dans un esprit de fraternité.
+
+### German
+
+> Alle Menschen sind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft und Gewissen begabt und sollen einander im Geist der Brüderlichkeit begegnen.
 
 # Most Similar
 
-## [Spain](/countries/ESP)
+## [France](/countries/FRA)
+
+## [Belgium](/countries/BEL)

@@ -4,32 +4,32 @@ Welcome to the lowcam paradise of Europe - Switzerland! From the beautiful and i
 
 Switzerland is comprised of cantons, of which there are 20 "full" cantons and 4 "half" cantons:
 
-- `AG`: Aargau
-- `AR`: Appenzell Ausserrhoden
-- `AI`: Appenzell Innerrhoden
-- `BL`: Basel-Landschaft
-- `BS`: Basel-Stadt
-- `BE`: Bern/Berne
-- `FR`: Fribourg/Freiburg
-- `GE`: Genève
-- `GL`: Glarus
-- `GR`: Graubünden/Grischun/Grigioni
-- `JU`: Jura
-- `LU`: Luzern
-- `NE`: Neuchâtel
-- `NW`: Nidwalden
-- `OW`: Obwalden
-- `SH`: Schaffhausen
-- `SZ`: Schwyz
-- `SO`: Solothurn
-- `SG`: St. Gallen
-- `TG`: Thurgau
-- `TI`: Ticino
-- `UR`: Uri
-- `VS`: Valais/Wallis
-- `VD`: Vaud
-- `ZU`: Zug
-- `ZH`: Zürich
+- `AG` Aargau
+- `AR` Appenzell Ausserrhoden
+- `AI` Appenzell Innerrhoden
+- `BL` Basel-Landschaft
+- `BS` Basel-Stadt
+- `BE` Bern/Berne
+- `FR` Fribourg / Freiburg
+- `GE` Genève
+- `GL` Glarus
+- `GR` Graubünden / Grischun / Grigioni
+- `JU` Jura
+- `LU` Luzern
+- `NE` Neuchâtel
+- `NW` Nidwalden
+- `OW` Obwalden
+- `SH` Schaffhausen
+- `SZ` Schwyz
+- `SO` Solothurn
+- `SG` St. Gallen
+- `TG` Thurgau
+- `TI` Ticino
+- `UR` Uri
+- `VS` Valais/Wallis
+- `VD` Vaud
+- `ZU` Zug
+- `ZH` Zürich
 
 <CountryMap code="CHE" scale="8000" />
 

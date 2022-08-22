@@ -19,7 +19,7 @@ Spain is divided into 50 provinces, or _provincias_, organized into 17 autonomou
   - Teruel
 - Asturias
 - Islas Baleares / Balearic Islands
-- Pais Vasco / Basque Community
+- Pais Vasco / Euskadi / Basque Community
   - Araba / Álava
   - Bizkaia / Biscay
   - Gipúzkoa
@@ -91,10 +91,30 @@ As a member of the EU, Spain's license plates feature a blue band on the left si
 
 > Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
 
-## Sample
+## Samples
 
-> `Language Sample`
+### Spanish
+
+> Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros.
+
+### Occitan (Val d'Aran, Catalonia)
+
+> Totas las personas que naishen liuras e egaus en dignitat e en dreit. Que son dotadas de rason e de consciéncia e que'us cau agir enter eras dab un esperit de hrairessa.
+
+### Basque (Pais Vasco)
+
+> Gizon-emakume guztiak aske jaiotzen dira, duintasun eta eskubide berberak dituztela; eta ezaguera eta kontzientzia dutenez gero, elkarren artean senide legez jokatu beharra dute.
+
+### Catalan (Catalonia and Valencia)
+
+> Tots els éssers humans neixen lliures i iguals en dignitat i en drets. Són dotats de raó i de consciència, i han de comportar-se fraternalment els uns amb els altres.
+
+### Galician (Galicia)
+
+> Tódolos seres humanos nacen libres e iguais en dignidade e dereitos e, dotados como están de razón e conciencia, díbense comportar fraternalmente uns cos outros.
 
 # Most Similar
 
-## [Spain](/countries/ESP)
+## [Portugal](/countries/PRT)
+
+## [Italy](/countries/PRT)

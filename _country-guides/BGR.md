@@ -22,10 +22,10 @@ Bulgaria is divided into 28 provinces, also known as _oblasti_ (области i
 - Plovdiv `PB`
 - Pernik `PK`
 - Razgrad `PP`
-- Sofia City `C`
+- Grad Sofia / Sofia City `C`
 - Sliven `CH`
 - Smolyan `CM`
-- Sofia (province) `CO`
+- Sofia `CO`
 - Silistra `CC`
 - Stara Zagora `CT`
 - Targovishte `T`
@@ -33,7 +33,7 @@ Bulgaria is divided into 28 provinces, also known as _oblasti_ (области i
 - Yambol `Y`
 - Haskovo `X`
 
-<CountryMap code="BGR" scale="7000" />
+<CountryMap code="BGR" scale="5000" />
 
 # License Plates
 
@@ -49,18 +49,18 @@ As a member of the EU, Bulgaria's license plates feature a blue band on the left
 
 # Language
 
-`Language overview`
+Bulgarian is the official langauge of Bulgaria, and is part of the South Slavic group of languages, bearing close resemblance to Macedonian in particular. It is written in the Cyrillic script, as Bulgaria is where the script originated.
 
 ## Alphabet
 
-`Language` uses the 26 standard letters of the Latin alphabet:
+Bulgarian uses the 30 letters of the standard Cyrillic alphabet:
 
-> Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
+> Аа Бб Вв Гг Дд Ее Жж Зз Ии Йй Кк Лл Мм Нн Оо Пп Рр Сс Тт Уу Фф Хх Цц Чч Шш Щщ Ъъ Ьь Юю Яя
 
 ## Sample
 
-> `Language Sample`
+> Всички хора се раждат свободни и равни по достойнство и права. Tе са надарени с разум и съвест и следва да се отнасят помежду си в дух на братство.
 
 # Most Similar
 
-## [Spain](/countries/ESP)
+## [Hungary](/countries/HUN)

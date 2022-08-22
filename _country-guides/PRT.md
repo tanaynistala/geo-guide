@@ -165,17 +165,13 @@ Portuguese is the primary language used in Portugal, and is linguistically close
 
 ## Alphabet
 
-Portuguese uses the 26 standard letters of the Latin alphabet:
+Portuguese uses the 26 standard letters of the Latin alphabet, five diacritics, and has seven common digraphs:
 
 > Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
-
-There are several common digraphs used:
-
-> ch lh nh rr ss qu gu
-
-And five diacritics can be used on various letters:
-
-> Áá Éé Íí Óó Úú Ââ Êê Ôô Ãã Õõ Àà Çç
+>
+> Diacritics: Áá Éé Íí Óó Úú Ââ Êê Ôô Ãã Õõ Àà Çç
+>
+> Digraphs: ch lh nh rr ss qu gu
 
 ## Sample
 

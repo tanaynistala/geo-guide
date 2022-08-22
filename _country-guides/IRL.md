@@ -71,10 +71,16 @@ As a member of the EU, Ireland's license plates feature a blue band on the left 
 
 > Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
 
-## Sample
+## Samples
 
-> `Language Sample`
+### Irish
+
+> Saolaítear na daoine uile saor agus comhionann ina ndínit agus ina gcearta. Tá bua an réasúin agus an choinsiasa acu agus dlíd iad féin d'iompar de mheon bráithreachais i leith a chéile.
+
+### English
+
+> All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
 # Most Similar
 
-## [Spain](/countries/ESP)
+## [United Kingdom](/countries/GBR)

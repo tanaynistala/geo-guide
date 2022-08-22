@@ -47,8 +47,10 @@ As a member of the EU, Germany's license plates feature a blue band on the left 
 
 ## Sample
 
-> `Language Sample`
+> Alle Menschen sind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft und Gewissen begabt und sollen einander im Geist der Brüderlichkeit begegnen.
 
 # Most Similar
 
-## [Spain](/countries/ESP)
+## [Austria](/countries/AUT)
+
+## [Luxembourg](/countries/LUX)

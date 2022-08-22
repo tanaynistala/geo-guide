@@ -51,8 +51,10 @@ As a member of the EU, Hungary's license plates feature a blue band on the left 
 
 ## Sample
 
-> `Language Sample`
+> Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.
 
 # Most Similar
 
-## [Spain](/countries/ESP)
+## [Romania](/countries/ROU)
+
+## [Bulgaria](/countries/BGR)

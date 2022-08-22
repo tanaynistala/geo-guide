@@ -53,10 +53,28 @@ In addition, there are 17 dependent territories of the U.K., including three "Cr
 
 > Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
 
-## Sample
+## Samples
 
-> `Language Sample`
+### English
+
+> All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+### Welsh (Wales)
+
+> Genir pawb yn rhydd ac yn gydradd â'i gilydd mewn urddas a hawliau. Fe'u cynysgaeddir â rheswm a chydwybod, a dylai pawb ymddwyn y naill at y llall mewn ysbryd cymodlon.
+
+### Scots (Scottish Lowlands)
+
+> Aa bodie sauls ar born free and scleff in mense an richts. Thai ar dotit wi wit and stickles and suid ack thither ane anither in a spírit o britherheid.
+
+### Scottish Gaelic (Scottish Highlands)
+
+> Rugadh na h-uile duine saor agus co-ionnan nan urram 's nan còirichean. Tha iad reusanta is cogaiseach, agus bu chòir dhaibh a ghiùlain ris a chèile ann an spiorad bràthaireil.
+
+### Irish (Northern Ireland)
+
+> Saolaítear na daoine uile saor agus comhionann ina ndínit agus ina gcearta. Tá bua an réasúin agus an choinsiasa acu agus dlíd iad féin d'iompar de mheon bráithreachais i leith a chéile.
 
 # Most Similar
 
-## [Spain](/countries/ESP)
+## [Ireland](/countries/IRL)

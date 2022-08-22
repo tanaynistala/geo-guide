@@ -42,10 +42,18 @@ As a member of the EU, Belgium's license plates feature a blue band on the left 
 
 > Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
 
-## Sample
+## Samples
 
-> `Language Sample`
+### Dutch
+
+> Alle mensen worden vrij en gelijk in waardigheid en rechten geboren. Zij zijn begiftigd met verstand en geweten, en behoren zich jegens elkander in een geest van broederschap te gedragen.
+
+### French
+
+> Tous les êtres humains naissent libres et égaux en dignité et en droits. Ils sont doués de raison et de conscience et doivent agir les uns envers les autres dans un esprit de fraternité.
 
 # Most Similar
 
-## [Spain](/countries/ESP)
+## [Netherlands](/countries/NLD)
+
+## [France](/countries/FRA)
