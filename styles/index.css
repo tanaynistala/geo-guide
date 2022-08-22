@@ -33,6 +33,8 @@
 
     li {
       margin-bottom: -0.5rem;
+      margin-top: 0px;
+      padding-top: 0.5rem;
     }
 
     figure {
@@ -60,9 +62,9 @@
       p {
         max-width: 880px;
         width: 100%;
-        margin: 50px auto;
+        margin: 16px auto;
         line-height: 1.32;
-        font-weight: medium;
+        font-weight: bold;
       }
     }
 
