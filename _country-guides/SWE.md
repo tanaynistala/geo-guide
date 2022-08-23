@@ -60,7 +60,7 @@ Sweden has two highway systems: European roads, and national roads (riksväg). T
 
 The Swedish language is the primary language used in Sweden. As a Scandinavian language, it is very similar to Norwegian and Danish, but differs more from the, than they do each other.
 
-## Alphabet
+## Script
 
 The Swedish alphabet has 29 letters, using the 26 letters of the standard Latin alphabet plus three other letters, which are sorted to the end of the alphabet order:
 

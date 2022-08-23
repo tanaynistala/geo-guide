@@ -35,7 +35,7 @@ As a member of the EU, Luxembourg's license plates feature a blue band on the le
 
 `Language overview`
 
-## Alphabet
+## Script
 
 `Language` uses the 26 standard letters of the Latin alphabet:
 

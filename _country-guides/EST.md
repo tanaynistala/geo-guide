@@ -60,7 +60,7 @@ These roads are signposted with black text on a white background: **{
 
 The official language of Estonia is Estonian, which is a Uralic language of the Finnic branch, and is thus very similar to Finnish. Like Finnish, it has many double-vowel sequences, which is characteristic of the language.
 
-## Alphabet
+## Script
 
 Estonian uses the Latin alphabet, plus several extra characters:
 

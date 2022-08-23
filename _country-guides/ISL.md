@@ -41,7 +41,7 @@ Phone codes are very loosely followed in Iceland, although numbers can be ported
 
 The Icelandic language is the official language of Iceland, and is most closely related to Faroese. Its relative isolation means it is very distinctive, especially from mainland European languages; the written form of Icelandic is similar only to Faroese, with which it shares one of two unique letters.
 
-## Alphabet
+## Script
 
 The Icelandic alphabet contains two letters that no longer exist in the English alphabet: thorn (_Þþ_) and edh/eth (_Ðð_). Thorn is unique to Icelandic, while edh/eth is shared with Faroese.
 

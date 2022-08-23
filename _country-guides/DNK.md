@@ -103,7 +103,7 @@ Secondary routes are signposted with black text on a yellow background, and can 
 
 The Danish language is the primary language used in Denmark, although German is an official minority language in South Jutland. It especially bears many similarities to the Norwegian language, including sharing the same script.
 
-## Alphabet
+## Script
 
 The Danish alphabet uses the 26 letters of the Latin alphabet plus three characters unique to Scandinavian languages, which are sorted to the end of the alphabet order:
 

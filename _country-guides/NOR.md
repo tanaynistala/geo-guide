@@ -57,7 +57,7 @@ Norwegian license plates feature a blue band on the left side of the plate with 
 
 The Norwegian language is one of the official languages of Norway, including both written forms in common use: Bokmål and Nynorsk. In addition, three varieties of Sámi (Northern, Lule, and Southern) are also marked as official languages, and Kven is a recognized national language, mainly used in Troms og Finnmark.
 
-## Alphabet
+## Script
 
 The Norwegian alphabet is the same as the Danish alphabet, and uses the 26 letters of the Latin alphabet plus three extra characters, which are sorted to the end of the alphabet order:
 

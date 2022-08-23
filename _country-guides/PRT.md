@@ -163,7 +163,7 @@ M- and CM-routes are the lowest tier of the Portuguese road network, and are num
 
 Portuguese is the primary language used in Portugal, and is linguistically closest to Spanish, another Ibero-Romance language. It is characterized by its frequent use of the letters H and Ç as compared to Spanish, as well as tilde (~) diacritics.
 
-## Alphabet
+## Script
 
 Portuguese uses the 26 standard letters of the Latin alphabet, five diacritics, and has seven common digraphs:
 

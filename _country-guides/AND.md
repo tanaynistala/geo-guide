@@ -28,13 +28,23 @@ Andorra's license plates feature the Andorran coat of arms on the left side of t
 
 # Language
 
-`Language overview`
+Catalan is the official language of Andorra. It is a Romance language closely related to Spanish and French, and so can look like a combination of the two languages.
 
-## Alphabet
+## Script
 
-`Language` uses the 26 standard letters of the Latin alphabet:
+Catalan uses the 26 letters of the standard Latin alphabet, but adds some accented letters and one digraph:
+
+### Base Alphabet
 
 > Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
+
+### Accents
+
+> Àà Çç Éé Èè Íí Ïï Óó Òò Úú Üü
+
+### Digraphs
+
+> l·l
 
 ## Sample
 

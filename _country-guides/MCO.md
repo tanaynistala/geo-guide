@@ -18,7 +18,7 @@ Monaco's license plates feature the coat of arms of Monaco on the left side of t
 
 `Language overview`
 
-## Alphabet
+## Script
 
 `Language` uses the 26 standard letters of the Latin alphabet:
 

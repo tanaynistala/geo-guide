@@ -18,7 +18,7 @@
 
 The Swedish language is the official language of Åland, unlike the rest of Finland where Finnish and Swedish are both official languages. Swedish itself is similar to Danish and Norwegian, which are both Scandinavian languages.
 
-## Alphabet
+## Script
 
 The Swedish alphabet has 29 letters, using the 26 letters of the standard Latin alphabet plus three accented letters, which are sorted to the end of the alphabet order:
 

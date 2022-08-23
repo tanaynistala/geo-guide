@@ -31,7 +31,7 @@ Despite Denmark being a part of the EU, the Faroe Islands are not. Faroese licen
 
 Faroese is the main language of the Faroe Islands, although Danish is an official second language. Due to the islands' relative isolation, the Faroese language is fairly distinctive from other North Germanic languages, with its closest relative being Icelandic, which does resemble it in written form.
 
-## Alphabet
+## Script
 
 The Faroese alphabet uses 22 letters of the Latin alphabet, plus 7 additional letters:
 

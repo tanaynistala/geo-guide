@@ -32,7 +32,7 @@ San Marino's license plates feature the Sammarinese coat of arms (represented by
 
 `Language overview`
 
-## Alphabet
+## Script
 
 `Language` uses the 26 standard letters of the Latin alphabet:
 

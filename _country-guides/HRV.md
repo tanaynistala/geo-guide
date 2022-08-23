@@ -44,7 +44,7 @@ As a member of the EU, Croatia's license plates feature a blue band on the left 
 
 `Language overview`
 
-## Alphabet
+## Script
 
 The Serbo-Croatian alphabet contains 30 letters, including 22 standard Latin letters, five accented letters, and three digraphs:
 

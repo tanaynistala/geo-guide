@@ -106,7 +106,7 @@ Dutch is the official language of the Netherlands, and as such is the primary la
 
 In the province of Friesland/Fryslân, West Frisian is an official language, and can be found on signs. Town entry signs in Friesland are often bilingual, bearing both the West Frisian and Dutch names. Such signs are a good indicator that you are in Friesland.
 
-## Alphabet
+## Script
 
 Dutch uses the 26 letters of the standard Latin alphabet, plus an additional digraph _IJ_ which is a distinctive feature of the language.
 

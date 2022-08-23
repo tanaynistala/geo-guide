@@ -49,7 +49,7 @@ Ukraine's license plates feature a blue band on the left side of the plate with 
 
 `Language overview`
 
-## Alphabet
+## Script
 
 `Language` uses the 26 standard letters of the Latin alphabet:
 

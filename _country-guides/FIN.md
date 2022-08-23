@@ -112,7 +112,7 @@ Helsinki has three ring roads that are signposted with Roman numerals. Since Hel
 
 Finland has two official languages: Finnish and Swedish. Swedish bears many similarities to other Scandinavian languages like Danish and Norwegian, but Finnish, as a Uralic language, is vastly different from most European languages. It is most similar to Estonian, another Finnic Uralic language, and bears slightly less similarities to Hungarian, which is also Uralic but on a different branch. Finnish is characterized by the frequent presence of double vowels, especially of _A_ and _O_.
 
-## Alphabet
+## Script
 
 Finnish is written using the Latin alphabet, plus five additional characters:
 

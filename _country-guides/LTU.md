@@ -106,7 +106,7 @@ These are the lowest tier of the Lithuanian road network, but are not organized 
 
 Lithuanian is the primary language used in Lithuania, and is one of two major Baltic languages in use today (the other being Latvian). It is fairly unique compared to other European languages, as Baltic languages occupy their own branch of the Indo-European language family.
 
-## Alphabet
+## Script
 
 The Lithuanian alphabet consists of 32 letters, including 23 of the standard Latin alphabet, five digraphs, and several versions of traditional characters with diacritics:
 

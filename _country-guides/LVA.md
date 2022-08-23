@@ -114,7 +114,7 @@ These routes are usually signposted with the letter P and up to three digits in 
 
 Latvian is the primary language used in Latvia, and is one of two major Baltic languages in use today (the other being Lithuanian). It is fairly unique compared to other European languages, as Baltic languages occupy their own branch of the Indo-European language family.
 
-## Alphabet
+## Script
 
 Latvian uses 33 characters, including 22 letters of the standard Latin alphabet (all except _Q_, _W_, _X_, and _Y_):
 

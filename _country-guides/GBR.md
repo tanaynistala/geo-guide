@@ -47,7 +47,7 @@ In addition, there are 17 dependent territories of the U.K., including three "Cr
 
 `Language overview`
 
-## Alphabet
+## Script
 
 `Language` uses the 26 standard letters of the Latin alphabet:
 

@@ -87,7 +87,7 @@ Switzerland has four official languages:
 
 Swiss Standard German is distinguished from German and Austrian varieties by its lack of an _eszett_ (ßß), and is typically replaced by a double _s_. The easiest way to spot this difference is on street signs, where _"...straße"_ as used in Germany and Austria is written _"...strasse"_ in Switzerland.
 
-## Alphabet
+## Script
 
 ### Swiss German & Swiss Standard German
 

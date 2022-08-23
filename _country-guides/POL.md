@@ -39,7 +39,7 @@ As a member of the EU, Poland's license plates feature a blue band on the left s
 
 `Language overview`
 
-## Alphabet
+## Script
 
 `Language` uses the 26 standard letters of the Latin alphabet:
 
