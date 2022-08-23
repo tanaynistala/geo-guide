@@ -90,7 +90,7 @@ const CountryMap = ({ code, scale, level = 1 }: Props) => {
           </Geographies>
         </ZoomableGroup>
       </ComposableMap>
-      <ReactTooltip className="font-mono font-bold text-8xl bg-blue-200 text-blue-500 shadow-lg">
+      <ReactTooltip className="font-bold text-8xl bg-white border-2 shadow-lg">
         {tooltipContent}
       </ReactTooltip>
     </div>
