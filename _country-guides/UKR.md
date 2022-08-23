@@ -188,9 +188,13 @@ Territorial roads are numbered with four digits, including the two digit oblast 
 
 ## Script
 
-`Language` uses the 26 standard letters of the Latin alphabet:
+Ukrainian uses a 33-letter variant of the Cyrillic alphabet:
 
-> Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
+```
+Аа Бб Вв Гг Ґґ Дд Ее Єє Жж Зз Ии
+Іі Її Йй Кк Лл Мм Нн Оо Пп Рр Сс
+Тт Уу Фф Хх Цц Чч Шш Щщ Ьь Юю Яя
+```
 
 ## Sample
 

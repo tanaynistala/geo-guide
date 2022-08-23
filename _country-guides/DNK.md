@@ -121,7 +121,11 @@ The Danish language is the primary language used in Denmark, although German is 
 
 The Danish alphabet uses the 26 letters of the Latin alphabet plus three characters unique to Scandinavian languages, which are sorted to the end of the alphabet order:
 
-> Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz Ææ Åå Øø
+```
+Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj
+Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt
+Uu Vv Ww Xx Yy Zz Ææ Åå Øø
+```
 
 _C_, _Q_, _W_, _X_, and _Z_ are only used in loanwords.
 
