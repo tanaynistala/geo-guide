@@ -17,16 +17,18 @@
       color: black;
       font-weight: 600;
 
-      padding-left: 6rem;
-      padding-right: 4rem;
+      padding: 0 4rem 0 6rem;
     }
 
     .toc {
-      margin-left: 2rem;
+      margin-left: 1rem;
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+        "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+        "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+        "Noto Color Emoji";
 
       ol {
-        padding-left: 0;
-        padding-right: 0;
+        padding: 0;
 
         p {
           padding: 0px;
@@ -54,13 +56,11 @@
     }
 
     p {
-      padding-left: 6rem;
-      padding-right: 4rem;
+      margin: 2rem 4rem 2rem 6rem;
     }
 
     ul,
     ol {
-      padding-left: 7rem;
       padding-right: 4rem;
 
       * > ol,
@@ -98,7 +98,12 @@
     }
 
     ul {
+      padding-left: 7rem;
       list-style-type: square;
+    }
+
+    ol {
+      padding-left: 8rem;
     }
 
     hr {

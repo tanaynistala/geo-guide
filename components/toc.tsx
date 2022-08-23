@@ -11,7 +11,7 @@ export default function TOC({ children }: Props) {
   return (
     <div className="p-2 bg-gray-100 rounded-lg mb-8 font-mono">
       <div className="flex flex-row items-center justify-between text-gray-500">
-        <h6 className="-ml-10 md:my-2 text-sm font-medium leading-tight md:leading-none">
+        <h6 className="-ml-20 md:my-2 font-medium leading-tight md:leading-none">
           Table of Contents
         </h6>
         <button
@@ -19,8 +19,8 @@ export default function TOC({ children }: Props) {
           onClick={() => setVisibility(!visibility)}
         >
           <svg
-            width="24"
-            height="24"
+            width="36"
+            height="36"
             fill="none"
             viewBox="0 0 24 24"
             className={`${
