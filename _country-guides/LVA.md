@@ -1,5 +1,7 @@
 Welcome to Latvia, one of the three Baltic states!
 
+---
+
 # Subdivisions
 
 Latvia is divided into 36 municipalities, also known as _novads_:
@@ -43,9 +45,13 @@ Latvia is divided into 36 municipalities, also known as _novads_:
 
 <CountryMap code="LVA" scale="6400" level="2" />
 
+---
+
 # License Plates
 
 As a member of the EU, Latvia's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `LV`. Plates are white with black text: <LicensePlate style="eu" code="LV" format="AB-1234"/>.
+
+---
 
 # Phone Codes
 
@@ -90,7 +96,11 @@ Phone numbers are prefixed with a six (6), and are tied to the municipality:
 86: Jelgava
 9x: Riga
 
+---
+
 # Roads, Markings, and Signage
+
+---
 
 # Highways & Road Numbering Schemes
 
@@ -108,7 +118,11 @@ These routes are usually signposted with the letter P and up to three digits in 
 <span style={{padding: '0.25rem', color: 'white', backgroundColor: 'dodgerblue', borderRadius: '0.25rem'}}>P###</span>
 }**. These roads are not very well-ordered but are loosely clustered and seem to increase in number going clockwise around Riga, although there are exceptions.
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -127,6 +141,8 @@ The remaining eleven characters are nearly all unique to Latvian, being modified
 ## Sample
 
 > Visi cilvēki piedzimst brīvi un vienlīdzīgi savā pašcieņā un tiesībās. Viņi ir apveltīti ar saprātu un sirdsapziņu, un viņiem jāizturas citam pret citu brālības garā.
+
+---
 
 # Most Similar
 

@@ -1,5 +1,7 @@
 Welcome to Finland, the land of lakes! Explore the forested south or the vast Northern Lights-lit northern landscape in this guide.
 
+---
+
 # Subdivisions
 
 Finland is divided into 19 regions, as follows (names provided are Finnish/Swedish/English):
@@ -28,9 +30,13 @@ Finland is divided into 19 regions, as follows (names provided are Finnish/Swedi
 
 [Åland](/countries/ALD) is covered under a separate guide – click the link if you're looking for that!
 
+---
+
 # License Plates
 
 As a member of the EU, Finland's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `FIN`. Plates are white with black text: <LicensePlate style="eu" code="FIN" format="ABC-123" borderStyle="double"/>.
+
+---
 
 # Phone Codes
 
@@ -50,7 +56,11 @@ Phone numbers are prefixed with a zero (0), and are fairly well arranged by regi
 - 81-89: Northern Ostrobothnia and Kainuu
 - 90-99: Helsinki
 
+---
+
 # Roads, Markings, and Signage
+
+---
 
 # Highways & Road Numbering Schemes
 
@@ -106,7 +116,11 @@ Helsinki has three ring roads that are signposted with Roman numerals. Since Hel
   <span style={{padding: '0px 0.25rem', lineHeight: '1.2', color: 'black', backgroundColor: 'gold', borderWidth: '2px', borderColor: 'black', borderRadius: '0.25rem'}}>50</span>
   }**
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -131,6 +145,8 @@ The Swedish alphabet is similar, using all the same characters except the _Š_ a
 ### Swedish
 
 > Alla människor är födda fria och lika i värdighet och rättigheter. De är utrustade med förnuft och samvete och bör handla gentemot varandra i en anda av broderskap.
+
+---
 
 # Most Similar
 

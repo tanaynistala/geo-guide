@@ -1,5 +1,7 @@
 `Introduction`
 
+---
+
 # Subdivisions
 
 Andorra consists of seven communities known as parishes, or _parròquies_:
@@ -14,17 +16,29 @@ Andorra consists of seven communities known as parishes, or _parròquies_:
 
 <CountryMap code="AND" scale="80000" />
 
+---
+
 # License Plates
 
 Andorra's license plates feature the Andorran coat of arms on the left side of the plate, along with the country code `AND`. Plates are white with black text: <LicensePlate style="and" code="AND" format="A 1234" codeColor="blue"/>.
 
+---
+
 # Phone Codes
+
+---
 
 # Roads, Markings, and Signage
 
+---
+
 # Highways & Road Numbering Schemes
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -49,6 +63,8 @@ Catalan uses the 26 letters of the standard Latin alphabet, but adds some accent
 ## Sample
 
 > Tots els éssers humans neixen lliures i iguals en dignitat i en drets. Són dotats de raó i de consciència, i han de comportar-se fraternalment els uns amb els altres.
+
+---
 
 # Most Similar
 

@@ -1,5 +1,7 @@
 `Introduction`
 
+---
+
 # Subdivisions
 
 Spain is divided into 50 provinces, or _provincias_, organized into 17 autonomous communities (_comunidades autónomas_):
@@ -69,17 +71,29 @@ Spain is divided into 50 provinces, or _provincias_, organized into 17 autonomou
 
 <CountryMap code="ESP" scale="1000" level="2" />
 
+---
+
 # License Plates
 
 As a member of the EU, Spain's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `E`. Plates are white with black text: <LicensePlate style="eu" code="E" format="1234 ABC"/>.
 
+---
+
 # Phone Codes
+
+---
 
 # Roads, Markings, and Signage
 
+---
+
 # Highways & Road Numbering Schemes
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -112,6 +126,8 @@ As a member of the EU, Spain's license plates feature a blue band on the left si
 ### Galician (Galicia)
 
 > Tódolos seres humanos nacen libres e iguais en dignidade e dereitos e, dotados como están de razón e conciencia, díbense comportar fraternalmente uns cos outros.
+
+---
 
 # Most Similar
 

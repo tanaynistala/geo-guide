@@ -2,6 +2,8 @@ It's Denmark, but not quite – welcome to the Faroe Islands, a beautiful archip
 
 If you're looking for [Greenland](/countries/GRL) or [Denmark proper](/countries/FRO), click the previous links to check out those guides!
 
+---
+
 # Subdivisions
 
 The Faroe Islands are divided into six _sýslur_, which roughly translates to shires
@@ -15,17 +17,29 @@ The Faroe Islands are divided into six _sýslur_, which roughly translates to sh
 
 <CountryMap code="FRO" scale="20000"  />
 
+---
+
 # License Plates
 
 Despite Denmark being a part of the EU, the Faroe Islands are not. Faroese license plates have a blue band on the left, like EU countries, but it contains the Faroese flag and the country code `FO`. The license plates are white with blue text: <LicensePlate style="eu" format="AB 123" code="FO" textColor="darkblue" />.
 
+---
+
 # Phone Codes
+
+---
 
 # Roads, Markings, and Signage
 
+---
+
 # Highways & Road Numbering Schemes
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -42,6 +56,8 @@ It is one of only two major languages that uses the eth (_Ðð_), with the other
 ## Sample
 
 > Øll menniskju eru fødd fræls og jøvn til virðingar og mannarættindi. Tey hava skil og samvitsku og eiga at fara hvørt um annað í bróðuranda.
+
+---
 
 # Most Similar
 

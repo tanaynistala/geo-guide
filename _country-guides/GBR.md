@@ -1,5 +1,7 @@
 `Introduction`
 
+---
+
 # Subdivisions
 
 The United Kindom is divided into four constituent countries:
@@ -33,15 +35,27 @@ In addition, there are 17 dependent territories of the U.K., including three "Cr
 
 <CountryMap code="GBR" scale="2000" />
 
+---
+
 # License Plates
+
+---
 
 # Phone Codes
 
+---
+
 # Roads, Markings, and Signage
+
+---
 
 # Highways & Road Numbering Schemes
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -74,6 +88,8 @@ In addition, there are 17 dependent territories of the U.K., including three "Cr
 ### Irish (Northern Ireland)
 
 > Saolaítear na daoine uile saor agus comhionann ina ndínit agus ina gcearta. Tá bua an réasúin agus an choinsiasa acu agus dlíd iad féin d'iompar de mheon bráithreachais i leith a chéile.
+
+---
 
 # Most Similar
 

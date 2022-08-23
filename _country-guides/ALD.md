@@ -1,18 +1,32 @@
 `Introduction`
 
+---
+
 # Subdivisions
+
+---
 
 # License Plates
 
 Åland's license plates feature the text "Åland" with the flag and coat of arms of Åland on the top of the plate. Plates are white with blue text and a blue border, and always begin with the country code `ÅL`: <LicensePlate style="aland" format="ÅL 12345" textColor="dodgerblue" borderColor="dodgerblue" />.
 
+---
+
 # Phone Codes
+
+---
 
 # Roads, Markings, and Signage
 
+---
+
 # Highways & Road Numbering Schemes
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -27,6 +41,8 @@ The Swedish alphabet has 29 letters, using the 26 letters of the standard Latin 
 ## Sample
 
 > Alla människor är födda fria och lika i värdighet och rättigheter. De är utrustade med förnuft och samvete och bör handla gentemot varandra i en anda av broderskap.
+
+---
 
 # Most Similar
 

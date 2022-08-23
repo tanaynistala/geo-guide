@@ -1,5 +1,7 @@
 Welcome to the land of tulips, bicycles, and dams! The Netherlands is easily distinguishable from the rest of Europe thanks to flat terrain, distinctive license plates, and the aforementioned abundance of bicycles. Read on to learn more about the Netherlands in GeoGuessr!
 
+---
+
 # Subdivisions
 
 The Netherlands is comprised of the following twelve provinces:
@@ -19,9 +21,13 @@ The Netherlands is comprised of the following twelve provinces:
 
 <CountryMap code="NLD" scale="10000" />
 
+---
+
 # License Plates
 
 Vehicles in the Netherlands have yellow license plates, with black text and a blue band on the left. The band bears standard the EU flag and the code `NL` for the Netherlands: <LicensePlate style="eu" code="NL" format="A-123-BC" backgroundColor="gold"/> Dutch license plates are typically a deeper shade of yellow than those found in Luxembourg and, unlike the United Kingdom, are yellow on both sides of the vehicle.
+
+---
 
 # Phone Codes
 
@@ -35,6 +41,8 @@ Phone numbers are prefixed with a zero (0), and are fairly well ordered, althoug
 6. Mobile Phones
 7. Geographical, randomly scattered across the country
 
+---
+
 # Roads, Markings, and Signage
 
 Dutch pedestrian crossings are particularly distinctive, sporting parallel lines of alternating length that you will not find anywhere else. Bike lanes are incredibly common in the Netherlands, and are often painted red. When along the side of the road, they are demarcated using dashed white lines. In many areas, bike paths are completely separated form the road altogether, which is not very common in other countries.
@@ -44,6 +52,8 @@ Street names in the Netherlands typically end in _straat_ (street), _laan_ (lane
 On major roads, you will often find blue signs with white lettering pointing you to nearby towns, cities, or highways. Brown signs point you to historic or touristic locations, and white signs with red outlines and text denote directions for cyclists. And on highways, look for blue **UIT** signs to take the exits.
 
 A- and N-routes (see [Highways](#highways--road-numbering-schemes)) typically have green-backed kilometer markers bearing the route number and traversed distance on them. A-route markers are mostly standardized across the network, but N-route markers can vary by province.
+
+---
 
 # Highways & Road Numbering Schemes
 
@@ -98,7 +108,11 @@ S-routes, or _stadsroutes_, literally translates to _city routes_, and as such a
 <span style={{padding: '0.25rem', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderWidth: '2px', borderColor: 'lightgray' }}>S100</span>
 }** are inner-city ring roads; there is typically no pattern to the other S-routes.
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -126,7 +140,11 @@ West Frisian uses the same alphabet, but can also have circumflex (ˆ) or acute 
 
 > Alle minsken wurde frij en gelyk yn weardigens en rjochten berne. Hja hawwe ferstân en gewisse meikrigen en hearre har foar inoar oer yn in geast fan bruorskip te hâlden en te dragen.
 
+---
+
 # Meta-gaming
+
+---
 
 # Most Similar
 

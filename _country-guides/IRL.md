@@ -1,5 +1,7 @@
 `Introduction`
 
+---
+
 # Subdivisions
 
 Ireland has traditionally been divided into four provinces, each divided into several counties, or _contaetha_:
@@ -49,17 +51,29 @@ Counties labeled _NI_ are in Northern Ireland, which is a part of the [United Ki
 
 <CountryMap code="IRL" scale="6500" />
 
+---
+
 # License Plates
 
 As a member of the EU, Ireland's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `IRL`. Plates are white with black text: <LicensePlate style="eu" code="IRL" format="123-AB-45678"/>. The one or two letters in between represent the county of registration, the codes for which can be found in the [Subdivisions](#subdivisions) list above. These codes are typically the first and last letters of the county's name, with some exceptions.
 
+---
+
 # Phone Codes
+
+---
 
 # Roads, Markings, and Signage
 
+---
+
 # Highways & Road Numbering Schemes
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -80,6 +94,8 @@ As a member of the EU, Ireland's license plates feature a blue band on the left 
 ### English
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+---
 
 # Most Similar
 

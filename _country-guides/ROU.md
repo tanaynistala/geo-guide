@@ -1,5 +1,7 @@
 `Introduction`
 
+---
+
 # Subdivisions
 
 Romania is divided into 41 counties, or _judete_, plus the municipality of Bucharest:
@@ -49,17 +51,29 @@ Romania is divided into 41 counties, or _judete_, plus the municipality of Bucha
 
 <CountryMap code="ROU" scale="7000" />
 
+---
+
 # License Plates
 
 As a member of the EU, Romania's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `RO`. Plates are white with black text: <LicensePlate style="eu" code="RO" format="AB 12 CDE"/>. The first two letters denote the county code, which can be found in the [Subdivisions](#subdivisions) list above.
 
+---
+
 # Phone Codes
+
+---
 
 # Roads, Markings, and Signage
 
+---
+
 # Highways & Road Numbering Schemes
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -80,6 +94,8 @@ As a member of the EU, Romania's license plates feature a blue band on the left 
 ### Hungarian
 
 > Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.
+
+---
 
 # Most Similar
 

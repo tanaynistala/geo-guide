@@ -1,5 +1,7 @@
 `Introduction`
 
+---
+
 # Subdivisions
 
 Germany consists of sixteen federated states, also known as _Länder_/_Bundesländer_:
@@ -23,17 +25,29 @@ Germany consists of sixteen federated states, also known as _Länder_/_Bundeslä
 
 <CountryMap code="DEU" scale="3500" />
 
+---
+
 # License Plates
 
 As a member of the EU, Germany's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `D` (for _Deutschland_). Plates are white with black text: <LicensePlate style="eu" code="D" format="AB CD 1234"/>.
 
+---
+
 # Phone Codes
+
+---
 
 # Roads, Markings, and Signage
 
+---
+
 # Highways & Road Numbering Schemes
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -48,6 +62,8 @@ As a member of the EU, Germany's license plates feature a blue band on the left 
 ## Sample
 
 > Alle Menschen sind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft und Gewissen begabt und sollen einander im Geist der Brüderlichkeit begegnen.
+
+---
 
 # Most Similar
 

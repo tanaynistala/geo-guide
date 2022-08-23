@@ -2,6 +2,8 @@ A real-life Legoland awaits you in Denmark! Okay, that's not true – the buildi
 
 Despite being parts of Denmark, [Greenland](/countries/GRL) and the [Faroe Islands](/countries/FRO) aren't covered in this guide; click the above links if you're looking for one of those!
 
+---
+
 # Subdivisions
 
 Denmark is divided into five regions:
@@ -26,9 +28,13 @@ Denmark can also be divided up by its islands, in addition to divisions on the m
 - Sjælland/Zealand
 - Vendsyssel-Thy/North Jutlandic Island
 
+---
+
 # License Plates
 
 As a member of the EU, Denmark's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `DK`. However, this band is currently optional, and so it is possible (and common) to see plates without the band. Private vehicles use white plates with black text and a red outline: <LicensePlate style="eu" code="DK" format="AB 12 345" borderColor="red"/>, while commercial vehicles use yellow-backed plates with the same black text and red outline: <LicensePlate style="eu" code="DK" format="AB 12 345" backgroundColor="gold" borderColor="red"/>.
+
+---
 
 # Phone Codes
 
@@ -43,6 +49,8 @@ Phone codes have been absorbed into the phone numbers, but the first two digits 
 - 97: West Jutland
 - 98: North Jutland
 
+---
+
 # Roads, Markings, and Signage
 
 Danish road markings are very distinctive, sporting short dashed shoulder lines. There is a very small gap between the dashes, and the dashes are very short.
@@ -50,6 +58,8 @@ Danish road markings are very distinctive, sporting short dashed shoulder lines.
 Street signs and bike signs are typically blue, which can lead to some confusion with the Netherlands. Road names typically end in _vej_ (way) or _gade_ (street).
 
 Signs pointing to nearby towns are white with red text and a red outline forming an arrow shape, and are typically very low to the ground, which is a distinctive feature of Danish signage. Similar signs with blue text and outlines point to nearby points of interest, such as schools, stadiums, and shops. Larger signs with multiple towns can be raised, with a red outline, red text, and a white background. Directions to motorways or interchanges are typically green.
+
+---
 
 # Highways & Road Numbering Schemes
 
@@ -97,7 +107,11 @@ Secondary routes are signposted with black text on a yellow background, and can 
 4. Syddanmark and southern half of Midjylland
 5. Nordjylland and northern half of Midjylland
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -114,6 +128,8 @@ _C_, _Q_, _W_, _X_, and _Z_ are only used in loanwords.
 ## Sample
 
 > Alle mennesker er født frie og lige i værdighed og rettigheder. De er udstyret med fornuft og samvittighed, og de bør handle mod hverandre i en broderskabets ånd.
+
+---
 
 # Most Similar
 

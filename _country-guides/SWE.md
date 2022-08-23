@@ -1,5 +1,7 @@
 Welcome to Sweden, the land of IKEA and several thousand islands! Read on to learn more about the largest Scandinavian country.
 
+---
+
 # Subdivisions
 
 Sweden is divided into 21 counties, also known as _län_:
@@ -28,9 +30,13 @@ Sweden is divided into 21 counties, also known as _län_:
 
 <CountryMap code="SWE" scale="2000" />
 
+---
+
 # License Plates
 
 As a member of the EU, Sweden's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `S`. Plates are white with black text: <LicensePlate style="eu" code="S" format="ABC 123"/>.
+
+---
 
 # Phone Codes
 
@@ -46,7 +52,11 @@ Phone numbers are prefixed with a zero (0), and are fairly well arranged by regi
 8. Stockholm (`A`)
 9. Far-North (`AC` and `BD`)
 
+---
+
 # Roads, Markings, and Signage
+
+---
 
 # Highways & Road Numbering Schemes
 
@@ -54,7 +64,11 @@ Sweden has two highway systems: European roads, and national roads (riksväg). T
 <span style={{padding: '0.25rem', color: 'white', backgroundColor: 'dodgerblue', borderRadius: '0.25rem'}}>###</span>
 }**. They have two or three digits, and the numbering generally increases going north.
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -69,6 +83,8 @@ The Swedish alphabet has 29 letters, using the 26 letters of the standard Latin 
 ## Sample
 
 > Alla människor är födda fria och lika i värdighet och rättigheter. De är utrustade med förnuft och samvete och bör handla gentemot varandra i en anda av broderskap.
+
+---
 
 # Most Similar
 

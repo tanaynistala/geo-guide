@@ -1,5 +1,7 @@
 `Introduction`
 
+---
+
 # Subdivisions
 
 Malta is divided into five regions, or _reġjuni_:
@@ -10,17 +12,29 @@ Malta is divided into five regions, or _reġjuni_:
 - South Eastern
 - Southern
 
+---
+
 # License Plates
 
 As a member of the EU, Malta's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `M`. Plates are white with black text: <LicensePlate style="eu" code="M" format="ABC 123"/>.
 
+---
+
 # Phone Codes
+
+---
 
 # Roads, Markings, and Signage
 
+---
+
 # Highways & Road Numbering Schemes
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -41,6 +55,8 @@ As a member of the EU, Malta's license plates feature a blue band on the left si
 ### English
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+---
 
 # Most Similar
 

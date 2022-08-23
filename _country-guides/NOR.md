@@ -1,5 +1,7 @@
 The Chile of Europe, some would say. Welcome to Norway, the beautiful land of mountains and fjords.
 
+---
+
 # Subdivisions
 
 Norway is divided into counties known as _fylker_. There were 19 of them until 2019, with several merged to result in the 11 that exist today. These counties are listed below, and the old counties listed for any newly-merged ones.
@@ -33,9 +35,13 @@ Norway is divided into counties known as _fylker_. There were 19 of them until 2
 
 Of the 5 external territories and dependencies of Norway, only Svalbard is inhabited and has Street View coverage (the others being Jan Mayen, Queen Maud Land, Peter I Island, and Bouvet Island). Svalbard is administered outside of the _fylker_ system, as it has a special status granted by the Svalbard Treaty.
 
+---
+
 # License Plates
 
 Norwegian license plates feature a blue band on the left side of the plate with the Norwegian flag and the country code `N`, in a design very similar to that of EU countries. Most plates are white with black text: <LicensePlate style="eu" code="N" format="AB 1234"/>, but commercial plates with a green background are also often seen: <LicensePlate style="eu" code="N" format="AB 1234" backgroundColor="lightseagreen"/>.
+
+---
 
 # Phone Codes
 
@@ -47,11 +53,19 @@ Norwegian license plates feature a blue band on the left side of the plate with 
 6. Southeast (`34` and `30` except Buskerud)
 7. North (`15`, `18`, `50`, and `54`)
 
+---
+
 # Roads, Markings, and Signage
+
+---
 
 # Highways & Road Numbering Schemes
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -80,6 +94,8 @@ The Norwegian alphabet is the same as the Danish alphabet, and uses the 26 lette
 ### Kven
 
 > Kaikki ihmiset synnythään vaphaina, ja heilä kaikila oon sama ihmisarvo ja samat ihmisoikkeuet. Het oon saanheet järjen ja omatunnon, ja het piethään elläät toinen toisen kans niin ko veljet keskenhään.
+
+---
 
 # Most Similar
 

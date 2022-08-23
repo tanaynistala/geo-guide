@@ -1,5 +1,7 @@
 Welcome to the lowcam paradise of Europe - Switzerland! From the beautiful and impressive mountains of the Alps in the center to the agricultural plains of the Mittelland - read on to get Switzerland spot-on.
 
+---
+
 # Subdivisions
 
 Switzerland is comprised of cantons, of which there are 20 "full" cantons and 4 "half" cantons:
@@ -33,6 +35,8 @@ Switzerland is comprised of cantons, of which there are 20 "full" cantons and 4 
 
 <CountryMap code="CHE" scale="8000" />
 
+---
+
 # Meta
 
 There are a couple ways to directly identify Switzerland by the following things:
@@ -40,6 +44,8 @@ There are a couple ways to directly identify Switzerland by the following things
 1. Lowcam. The camera is a bit lower than in other countries. It's easy to recognize with the big blur where the Google car is supposed to be. With the new gen 4, the lowcam is harder to spot.
 2. The camera generations in Switzerland are gen 3 and 4 plus some sparse gen 2 trekkers. Gen 4 is mostly seen in and around bigger cities.
 3. The bollards are distinct.
+
+---
 
 # License Plates
 
@@ -52,9 +58,13 @@ Swiss license plates are typically white with black lettering. Since Switzerland
 
 for the following format: <LicensePlate style="ch" format="+ AB•123456 ∇" />. This means Swiss license plates differ from canton to canton, but in terms of Geoguessr the blur renders these differences useless. In contrast to other European countries, Switzerland has taller versions of license plates in addition to long ones. Diplomatic vehicles have a green `CD` or `CC` on the left. They are often seen around Bern and Geneva due to the presence of embassies and international agencies in each city, respectively. Utility vehicle registration plates are blue, agricultural vehicle registration plates are green, military vehicles have black plates and mopeds, segways and e-bikes have yellow plates.
 
+---
+
 # Roads and Markings
 
 2-lane roads have white center lines and solid white shoulder lines. Single-lane roads only rarely have any road markings. The swiss pedestrian crossings are long and thick yellow lines. Swiss bollards are usually but not only round and always white. In winter coverage, you can find wooden snow bollards with usually orange painting on the tip. On highways, you will find kilometer markers with the road numbers on the guardrail in the middle of the highway.
+
+---
 
 # Signage
 
@@ -62,6 +72,8 @@ In Switzerland, there are 2 types of very useful signs.
 
 1. Green (highway) and blue (mainroads) directional signs to decently sized towns. They also have roadnumbers sometimes.
 2. Townexit/entry signs (blue for bigger towns and white for very small villages) sometimes have the canton abbreviations on them. On their backsides they have distances to the next bigger town down the road.
+
+---
 
 # Architecture
 
@@ -74,7 +86,11 @@ In Switzerland there are 4 general tips for architecture. Note that these are al
 
 There are of course other things to watch out for concerning the architecture. The following tips are more vibebased and are usually harder to spot. Around the Jura mountains, near the western border with France, the architecture is heavily influenced by the French. In the hilly Emmental region of Bern canton, farm houses are typically wooden and have red flowers in front of their windows. This is not limited to Bern but nevertheless is very common there. In rural Valais houses are often vertically split into wood and white facade, unlike Graubünden where they are horizontally split. In Thurgau, St. Gallen, and the two Appenzell cantons, houses with wooden joints are very common.
 
+---
+
 # Area- and zipcodes
+
+---
 
 # Language
 
@@ -129,9 +145,13 @@ Swiss Standard German is distinguished from German and Austrian varieties by its
 
 > Tuots umans naschan libers ed eguals in dignità e drets. Els sun dotats cun intellet e conscienza e dessan agir tanter per in uin spiert da fraternità.
 
+---
+
 # Hidden coverage
 
 In the cantons of Jura and Valais there are a couple roads with coverage, that isn't visible on Google maps. Some maps use a trick to include those roads nevertheless.
+
+---
 
 # Map Library
 

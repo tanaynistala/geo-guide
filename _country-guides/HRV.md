@@ -1,5 +1,7 @@
 `Introduction`
 
+---
+
 # Subdivisions
 
 Croatia is divided into twenty counties, or _županije_, plus one city-county, or _grad_:
@@ -28,17 +30,29 @@ Croatia is divided into twenty counties, or _županije_, plus one city-county, o
 
 <CountryMap code="HRV" scale="6000" />
 
+---
+
 # License Plates
 
 As a member of the EU, Croatia's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `HR`. Plates are white with black text: <LicensePlate style="eu" code="HR" format="AB∇123-CD"/>. The first two characters represent the city of registration for the vehicle, and are followed by the Croatian coat of arms (represented by a `∇` above). The city codes can be found in the [Subdivisions](#subdivisions) list above.
 
+---
+
 # Phone Codes
+
+---
 
 # Roads, Markings, and Signage
 
+---
+
 # Highways & Road Numbering Schemes
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -53,6 +67,8 @@ The Serbo-Croatian alphabet contains 30 letters, including 22 standard Latin let
 ## Sample
 
 > Sva ljudska bića rađaju se slobodna i jednaka u dostojanstvu i pravima. Ona su obdarena razumom i sviješću i trebaju jedna prema drugima postupati u duhu bratstva.
+
+---
 
 # Most Similar
 

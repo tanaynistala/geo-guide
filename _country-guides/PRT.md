@@ -1,5 +1,7 @@
 Welcome to Portugal, the smaller sister to Spain! Enjoy landscapes from the mountainous north to the sunny beaches in the south, or one of the islands in the Açores or Madeira.
 
+---
+
 # Subdivisions
 
 Portugal is subdivided into 18 districts, plus two autonomous regions:
@@ -27,9 +29,13 @@ Portugal is subdivided into 18 districts, plus two autonomous regions:
 
 <CountryMap code="PRT" scale="1500" />
 
+---
+
 # License Plates
 
 As a member of the EU, Portugal's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `P`. Plates are white with black text: <LicensePlate style="eu" code="P" format="AB 12 CD"/>. Until March 2020, Portuguese license plates were notable for having an additional yellow band on the right side of the plate, which is very distinctive and can still be seen in coverage: <LicensePlate style="eu" code="P" format="AB 12 CD" rightBandColor="gold" />.
+
+---
 
 # Phone Codes
 
@@ -111,7 +117,11 @@ _To form the area code, suffix the index numbers in hierarchical order onto a tw
 2 + 4 (Central-South) + 2 (Ponte de Sôr) = 242
 ```
 
+---
+
 # Roads, Markings, and Signage
+
+---
 
 # Highways & Road Numbering Schemes
 
@@ -157,7 +167,11 @@ M- and CM-routes are the lowest tier of the Portuguese road network, and are num
 <span style={{padding: '0.25rem', color: 'black', backgroundColor: 'gold', borderRadius: '0.25rem' }}>CM####</span>
 }**. They appear to loosely follow a numbering pattern, with numbers increasing from north to south and from west to east.
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -176,6 +190,8 @@ Portuguese uses the 26 standard letters of the Latin alphabet, five diacritics, 
 ## Sample
 
 > Todos os seres humanos nascem livres e iguais em dignidade e em direitos. Dotados de razão e de consciência, devem agir uns para com os outros em espírito de fraternidade.
+
+---
 
 # Most Similar
 

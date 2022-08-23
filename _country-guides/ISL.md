@@ -1,5 +1,7 @@
 A far-away island of volcanoes, incredible landscapes, and not a lot of ice for being named after it – Iceland awaits you in this guide!
 
+---
+
 # Subdivisions
 
 Iceland is divided into eight regions, containing 69 municipalities in all:
@@ -15,9 +17,13 @@ Iceland is divided into eight regions, containing 69 municipalities in all:
 
 <CountryMap code="ISL" scale="5600" />
 
+---
+
 # License Plates
 
 Icelandic license plates are white with blue text, and have the Icelandic flag and country code `IS` on the left side of the plate: <LicensePlate style="isl" code="IS" format="AB 1234" textColor="blue"/>.
+
+---
 
 # Phone Codes
 
@@ -31,11 +37,19 @@ Phone codes are very loosely followed in Iceland, although numbers can be ported
 - 48: Suðurland
 - 5x: Höfuðborgarsvæðið
 
+---
+
 # Roads, Markings, and Signage
+
+---
 
 # Highways & Road Numbering Schemes
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -50,6 +64,8 @@ The Icelandic alphabet contains two letters that no longer exist in the English 
 ## Sample
 
 > Hver maður er borinn frjáls og jafn öðrum að virðingu og réttindum. Menn eru gæddir vitsmunum og samvisku, og ber þeim að breyta bróðurlega hverjum við annan.
+
+---
 
 # Most Similar
 

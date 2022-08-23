@@ -1,5 +1,7 @@
 `Introduction`
 
+---
+
 # Subdivisions
 
 Italy is divided twenty regions, five of which have autonomous status:
@@ -27,17 +29,29 @@ Italy is divided twenty regions, five of which have autonomous status:
 
 <CountryMap code="ITA" scale="2500" />
 
+---
+
 # License Plates
 
 As a member of the EU, Italy's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `I`. They also feature a blue band on the right side with the provincial code. Plates are white with black text: <LicensePlate style="eu" code="I" format="AB 123CD" rightBandColor="blue" />. Front plates are typically squarer and shorter, which can be used to tell Italian license plates apart from Albanian ones.
 
+---
+
 # Phone Codes
+
+---
 
 # Roads, Markings, and Signage
 
+---
+
 # Highways & Road Numbering Schemes
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -66,6 +80,8 @@ As a member of the EU, Italy's license plates feature a blue band on the left si
 ### Sardinian (Sardinia)
 
 > Totu sos èsseres umanos naschint lìberos e eguales in dinnidade e in deretos. Issos tenent sa resone e sa cussèntzia e depent operare s'unu cun s'àteru cun ispìritu de fraternidade.
+
+---
 
 # Most Similar
 

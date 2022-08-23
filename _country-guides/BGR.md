@@ -1,5 +1,7 @@
 `Introduction`
 
+---
+
 # Subdivisions
 
 Bulgaria is divided into 28 provinces, also known as _oblasti_ (области in Cyrillic):
@@ -35,9 +37,13 @@ Bulgaria is divided into 28 provinces, also known as _oblasti_ (области i
 
 <CountryMap code="BGR" scale="5000" />
 
+---
+
 # License Plates
 
 As a member of the EU, Bulgaria's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `BG`. Plates are white with black text: <LicensePlate style="eu" code="BG" format="AB 1234CD"/>. The first one or two letters represent the province of registration, the provincial code for which can be found in the [Subdivisions](#subdivisions) list above. Note that Sofia City exhausted all `C` codes, and so currently uses `CA` and `CB` as well.
+
+---
 
 # Phone Codes
 
@@ -120,7 +126,11 @@ Phone numbers are prefixed with a zero (0), and are mostly organized by province
 93. Montana
 94. Vratsa and Montana
 
+---
+
 # Roads, Markings, and Signage
+
+---
 
 # Highways & Road Numbering Schemes
 
@@ -152,7 +162,11 @@ Single-digit roads are the main national roads, and are well-organized – odd-n
 - <span className="px-2 py-1 text-white font-bold" style={{backgroundColor: 'royalblue', borderRadius: '0.25rem'}}>6</span>: (W-E) Sofia-Sliven-Burgas
 - <span className="px-2 py-1 text-white font-bold" style={{backgroundColor: 'royalblue', borderRadius: '0.25rem'}}>8</span>: (W-E) Sofia-Plovdiv-Haskovo-Svilengrad
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -171,6 +185,8 @@ However, the modern Bulgarian script typically uses a more symmetric, triangular
 ## Sample
 
 > Всички хора се раждат свободни и равни по достойнство и права. Tе са надарени с разум и съвест и следва да се отнасят помежду си в дух на братство.
+
+---
 
 # Most Similar
 

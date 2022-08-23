@@ -1,5 +1,7 @@
 `Introduction`
 
+---
+
 # Subdivisions
 
 Montenegro is divided into 24 municipalities, or _opštine_ (општине in Cyrillic):
@@ -31,17 +33,29 @@ Montenegro is divided into 24 municipalities, or _opštine_ (општине in C
 
 <CountryMap code="MNE" scale="15000" />
 
+---
+
 # License Plates
 
 Montenegro's license plates feature a blue band on the left side of the plate with the country code `MNE`. Plates are white with black text: <LicensePlate style="eu" code="MNE" format="AB∇CD123"/>. The first two characters represent the municipality of registration, and are followed by the Montenegrin coat of arms (represented by a `∇` above).
 
+---
+
 # Phone Codes
+
+---
 
 # Roads, Markings, and Signage
 
+---
+
 # Highways & Road Numbering Schemes
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -56,6 +70,8 @@ Montenegro's license plates feature a blue band on the left side of the plate wi
 ## Sample
 
 > Sva ljudska bića rađaju se slobodna i jednaka u dostojanstvu i pravima. Ona su obdarena razumom isavješću i jedni prema drugima treba da postupaju u duhu bratstva.
+
+---
 
 # Most Similar
 

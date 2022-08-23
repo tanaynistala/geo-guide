@@ -1,5 +1,7 @@
 `Introduction`
 
+---
+
 # Subdivisions
 
 Albania is divided into 12 counties, or _qarqet_:
@@ -19,17 +21,29 @@ Albania is divided into 12 counties, or _qarqet_:
 
 <CountryMap code="ALB" scale="8000" />
 
+---
+
 # License Plates
 
 Albania's license plates feature a blue band on both sides of the plate. The left band contains the Albanian coat of arms and the country code `AL`, while the right band contains registration information. Plates are white with black text: <LicensePlate style="eu" code="AL" format="AB 123 CD" rightBandColor="blue"/>. Unlike Italian license plates, the front plates are not smaller than the rear plates.
 
+---
+
 # Phone Codes
+
+---
 
 # Roads, Markings, and Signage
 
+---
+
 # Highways & Road Numbering Schemes
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -52,6 +66,8 @@ Albanian uses 25 standard letters of the Latin alphabet (_W_ excepted), plus two
 In the sample below, note the frequent use of *e*s with umlauts, as well as the digraphs listed above:
 
 > Të gjithë njerëzit lindin të lirë dhe të barabartë në dinjitet dhe në të drejta. Ata kanë arsye dhe ndërgjegje dhe duhet të sillen ndaj njëri tjetrit me frymë vëllazërimi.
+
+---
 
 # Most Similar
 

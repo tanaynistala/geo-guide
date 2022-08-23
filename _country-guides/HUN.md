@@ -1,5 +1,7 @@
 `Introduction`
 
+---
+
 # Subdivisions
 
 Hungary is divided into 19 counties, or _megyék_, plus the capital city, or _főváros_:
@@ -27,17 +29,29 @@ Hungary is divided into 19 counties, or _megyék_, plus the capital city, or _f�
 
 <CountryMap code="HUN" scale="6000" />
 
+---
+
 # License Plates
 
 As a member of the EU, Hungary's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `H`. Plates are white with black text: <LicensePlate style="eu" code="H" format="AB∇CD-123"/>. The first two characters are followed by the Hungarian coat of arms (represented by a `∇` above).
 
+---
+
 # Phone Codes
+
+---
 
 # Roads, Markings, and Signage
 
+---
+
 # Highways & Road Numbering Schemes
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -52,6 +66,8 @@ As a member of the EU, Hungary's license plates feature a blue band on the left 
 ## Sample
 
 > Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.
+
+---
 
 # Most Similar
 

@@ -1,5 +1,7 @@
 `Introduction`
 
+---
+
 # Subdivisions
 
 Luxembourg is divided into twelve cantons:
@@ -19,17 +21,29 @@ Luxembourg is divided into twelve cantons:
 
 <CountryMap code="LUX" scale="32000" level="2" />
 
+---
+
 # License Plates
 
 As a member of the EU, Luxembourg's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `L`. Plates are yellow with black text: <LicensePlate style="eu" code="L" format="AB 1234" backgroundColor="yellow" />. The yellow is typically brighter and has a fluorescent look compared to Dutch license plates.
 
+---
+
 # Phone Codes
+
+---
 
 # Roads, Markings, and Signage
 
+---
+
 # Highways & Road Numbering Schemes
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -54,6 +68,8 @@ As a member of the EU, Luxembourg's license plates feature a blue band on the le
 ### German
 
 > Alle Menschen sind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft und Gewissen begabt und sollen einander im Geist der Brüderlichkeit begegnen.
+
+---
 
 # Most Similar
 

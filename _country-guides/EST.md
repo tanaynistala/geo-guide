@@ -1,5 +1,7 @@
 Welcome to Estonia, the northernmost of the Baltic countries!
 
+---
+
 # Subdivisions
 
 Estonia is divided into 15 counties, also known as _maakonnad_:
@@ -22,13 +24,21 @@ Estonia is divided into 15 counties, also known as _maakonnad_:
 
 <CountryMap code="EST" scale="7000" />
 
+---
+
 # License Plates
 
 As a member of the EU, Estonia's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `EST`. Plates are white with black text: <LicensePlate style="eu" code="EST" format="123 ABC"/>.
 
+---
+
 # Phone Codes
 
+---
+
 # Roads, Markings, and Signage
+
+---
 
 # Highways & Road Numbering Schemes
 
@@ -54,7 +64,11 @@ These roads are signposted with black text on a white background: **{
 <span style={{padding: '0.25rem', color: 'black', backgroundColor: 'white', borderWidth: '2px', borderColor: 'lightgray', borderRadius: '0.25rem'}}>###</span>
 }**. While officially they have five digits, with the first two representing the county, this code does not appear on signs; only the final three digits are used, and so are not unique to the county.
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -71,6 +85,8 @@ The letters _C_, _Q_, _W_, _X_, and _Y_ are only used for foreign names, while _
 ## Sample
 
 > Kõik inimesed sünnivad vabadena ja võrdsetena oma väärikuselt ja õigustelt. Neile on antud mõistus ja südametunnistus ja nende suhtumist üksteisesse peab kandma vendluse vaim.
+
+---
 
 # Most Similar
 

@@ -1,5 +1,7 @@
 `Introduction`
 
+---
+
 # Subdivisions
 
 Ukraine is divided into 24 regions, or _oblasts_, plus two cities with special status and one autonomous republic:
@@ -33,17 +35,29 @@ Ukraine is divided into 24 regions, or _oblasts_, plus two cities with special s
 
 <CountryMap code="UKR" scale="2000" />
 
+---
+
 # License Plates
 
 Ukraine's license plates feature a blue band on the left side of the plate with the Ukrainian flag and the country code `UA`. Plates are white with black text: <LicensePlate style="eu" code="UA" format="AB 1234 CD"/>. The first two letters represent the region where the vehicle was registered, the codes for which can be found in the [Subdivisions](#subdivisions) list above.
 
+---
+
 # Phone Codes
+
+---
 
 # Roads, Markings, and Signage
 
+---
+
 # Highways & Road Numbering Schemes
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -58,6 +72,8 @@ Ukraine's license plates feature a blue band on the left side of the plate with 
 ## Sample
 
 > Всі люди народжуються вільними і рівними у своїй гідності та правах. Вони наділені розумом і совістю і повинні діяти у відношенні один до одного в дусі братерства.
+
+---
 
 # Most Similar
 

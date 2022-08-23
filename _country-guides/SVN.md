@@ -1,5 +1,7 @@
 `Introduction`
 
+---
+
 # Subdivisions
 
 Slovenia is officially divided into 212 municipalities, but the country can also be divided into the following statistical regions:
@@ -19,6 +21,8 @@ Slovenia is officially divided into 212 municipalities, but the country can also
 
 <CountryMap code="SVN" scale="12000" />
 
+---
+
 # License Plates
 
 As a member of the EU, Slovenia's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `SLO`. Plates are white with black text and a green borger: <LicensePlate style="eu" code="SLO" format="AB∇123-CD" borderColor="lightgreen"/>. The first one or two letters represent the region of registration, and is followed by the coat of arms the city of registration (represented by a `∇` above). The regional codes are organized by city, and surrounding towns are also covered by the same code:
@@ -35,13 +39,23 @@ As a member of the EU, Slovenia's license plates feature a blue band on the left
 - `PO` Postojna
 - `SG` Slovenj Gradec
 
+---
+
 # Phone Codes
+
+---
 
 # Roads, Markings, and Signage
 
+---
+
 # Highways & Road Numbering Schemes
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -56,6 +70,8 @@ As a member of the EU, Slovenia's license plates feature a blue band on the left
 ## Sample
 
 > Vsi ljudje se rodijo svobodni in imajo enako dostojanstvo in enake pravice. Obdarjeni so z razumom in vestjo in bi morali ravnati drug z drugim kakor bratje.
+
+---
 
 # Most Similar
 

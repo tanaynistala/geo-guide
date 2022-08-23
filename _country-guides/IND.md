@@ -1,5 +1,7 @@
 Welcome to one of the longest-awaited additions to Street View: India! This incredibly diverse country is a whole new world all on its own; read on to learn more about it!
 
+---
+
 # Subdivisions
 
 India is comprised of 28 states:
@@ -48,6 +50,8 @@ Odisha and Uttarakhand were renamed from Orissa and Uttaranchal, respectively, w
 
 <CountryMap code="IND" scale="800" />
 
+---
+
 # License Plates
 
 License plate designs in India are not strictly regulated, although there are primarily two types of license plates. Private vehicles carry white-backed license plates with black text: <LicensePlate style="ind" format="AB 12 CD 3456"/>, while commercial vehicles (taxis, trucks, government vehicles, etc.) carry yellow-backed license plates with black text: <LicensePlate style="ind" format="AB 12 CD 3456" backgroundColor="gold"/>. Occasionally these colors can be inverted, most commonly on luxury cars and higher-ranking government vehicles, or can be found using the local script (see [Language](#language)).
@@ -70,6 +74,8 @@ As the most densely covered area on Street View (as of early August 2022), knowi
 - Nashik: `15`
 - Ahmednagar: `16`, `17`
 
+---
+
 # Phone Codes
 
 India uses different systems for mobile and telephone numbers. Mobile phone numbers are organized by carrier, and thus are not particularly useful in narrowing down your location. However, telephone codes, while slightly harder to find, can help you narrow down your location. These numbers are sometimes prefixed with a zero (0).
@@ -83,6 +89,8 @@ India uses different systems for mobile and telephone numbers. Mobile phone numb
 7. Central (`MP`, `CG`, eastern `MH`, southern `RJ`, Ahmedabad `GJ`)
 8. South (`AP`, `TS`, `GA`, `KA`)
 
+---
+
 # Roads, Markings, and Signage
 
 Roads in India aren't marked very consistently – while they typically sport white lines, they are often missing altogether. However, main roads often have planted dividers in the middle, mainly in or near cities. These are particularly distinctive, as they feature alternating yellow and black stripes, as do the curbs.
@@ -91,9 +99,15 @@ Road signs in India often feature English text in addition to the local language
 
 Mumbai in particular uses a directional system to neighborhood names, which are suffixed with _East_ (पूर्व) or _West_ (पश्चिम) corresponding to whether you are east or west of the nearest railway line. Look out for these indicators (typically just the first character) to figure out where to look!
 
+---
+
 # Highways & Road Numbering Schemes
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -169,6 +183,8 @@ All of these languages except English are written in _abugida_ scripts, and can 
 
 > മനുഷ്യരെല്ലാവരും തുല്യാവകാശങ്ങളോടും അന്തസ്സോടും സ്വാതന്ത്ര്യത്തോടുംകൂടി ജനിച്ചവരാണ്. അന്യോന്യം ഭ്രാതൃഭാവത്തോടെ പെരുമാറുവാനാണ് മനുഷ്യന്നു വിവേകബുദ്ധിയും മനസ്സാക്ഷിയും സിദ്ധമായിരിക്കുന്നത്.
 
+---
+
 # Meta-gaming
 
 Street View in India has been a bit of a roller coaster ride, if we’re being honest. But in late July 2022, Google officially rolled out official street view coverage in partnership with various local companies. Due to government regulations, Google was required to use imagery captured by local companies, resulting in a lower resolution than you’re used to seeing in other South Asian countries, like Bangladesh, Bhutan, and Sri Lanka. This can help you tell India apart from those two countries, especially in the cities of Chennai and Kolkata, which each use the same script as Sri Lanka and Bangladesh, respectively (see [Language](#language)).
@@ -234,6 +250,8 @@ As of late August 2022, coverage in India is limited to about 32 cities (not inc
 - Varanasi `UP`
 
 This means most coverage is concentrated in two places: on the west coast between Pune and Ahmedabad, and northwards from Delhi.
+
+---
 
 # Most Similar
 

@@ -1,5 +1,7 @@
 Welcome to Lithuania, the southernmost of the Baltic countries!
 
+---
+
 # Subdivisions
 
 Lithuania is divided into 10 counties, also known as _apskritys_:
@@ -17,9 +19,13 @@ Lithuania is divided into 10 counties, also known as _apskritys_:
 
 <CountryMap code="LTU" scale="6400" />
 
+---
+
 # License Plates
 
 As a member of the EU, Lithuania's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `LT`. Plates are white with black text: <LicensePlate style="eu" code="LT" format="ABC 123"/>.
+
+---
 
 # Phone Codes
 
@@ -76,7 +82,11 @@ Phone numbers are prefixed with an eight (8), and are organized by municipality:
 - 528: Trakai `Vilnius`
 - 5xx: Vilnius `Vilnius`
 
+---
+
 # Roads, Markings, and Signage
+
+---
 
 # Highways & Road Numbering Schemes
 
@@ -100,7 +110,11 @@ These are the lowest tier of the Lithuanian road network, but are not organized 
 <span style={{padding: '0.25rem', color: 'white', backgroundColor: 'blue', borderRadius: '0.25rem'}}>####</span>
 }**.
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -117,6 +131,8 @@ The Lithuanian alphabet consists of 32 letters, including 23 of the standard Lat
 ## Sample
 
 > Visi žmonės gimsta laisvi ir lygūs savo orumu ir teisėmis. Jiems suteiktas protas ir sąžinė ir jie turi elgtis vienas kito atžvilgiu kaip broliai.
+
+---
 
 # Most Similar
 

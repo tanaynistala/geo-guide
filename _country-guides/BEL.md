@@ -1,5 +1,7 @@
 `Introduction`
 
+---
+
 # Subdivisions
 
 Belgium is divided into three regions, of which the first two (Flanders and Wallonia) are each divided into five provinces:
@@ -20,17 +22,29 @@ Belgium is divided into three regions, of which the first two (Flanders and Wall
 
 <CountryMap code="BEL" scale="10000" level="2" />
 
+---
+
 # License Plates
 
 As a member of the EU, Belgium's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `B`. Plates are white with red text and red borders: <LicensePlate style="eu" code="B" format="AB 12 CD" borderColor="red" textColor="red" />.
 
+---
+
 # Phone Codes
+
+---
 
 # Roads, Markings, and Signage
 
+---
+
 # Highways & Road Numbering Schemes
 
+---
+
 # Architecture
+
+---
 
 # Language
 
@@ -51,6 +65,8 @@ As a member of the EU, Belgium's license plates feature a blue band on the left 
 ### French
 
 > Tous les êtres humains naissent libres et égaux en dignité et en droits. Ils sont doués de raison et de conscience et doivent agir les uns envers les autres dans un esprit de fraternité.
+
+---
 
 # Most Similar
 
