@@ -12,7 +12,7 @@ const RoadNumber = ({
   number,
   backgroundColor = "white",
   textColor = "black",
-  borderColor = backgroundColor,
+  borderColor = "white",
   borderStyle = "solid",
 }: Props) => {
   return (
