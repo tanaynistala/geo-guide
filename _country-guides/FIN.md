@@ -116,8 +116,6 @@ Finland is divided into 19 regions, of which [Åland](/countries/ALD) is covered
 
 <CountryMap code="FIN" scale="2400" level="2" />
 
-[Åland](/countries/ALD) is covered under a separate guide – click the link if you're looking for that!
-
 ---
 
 # License Plates

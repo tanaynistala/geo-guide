@@ -6,12 +6,12 @@ type Props = {
 };
 
 export default function TOC({ children }: Props) {
-  const [visibility, setVisibility] = useState(true);
+  const [visibility, setVisibility] = useState(false);
 
   return (
-    <div id="toc" className="p-2 bg-gray-100 rounded-lg mb-8 font-mono">
-      <div className="flex flex-row items-center justify-between text-gray-500">
-        <h6 className="-ml-20 md:my-2 font-medium leading-tight md:leading-none">
+    <div id="toc" className="p-2 bg-gray-100 rounded-lg mb-8">
+      <div className="flex flex-row items-center justify-between">
+        <h6 className="ml-2 font-serif font-bold leading-tight md:leading-none">
           Table of Contents
         </h6>
         <button
@@ -19,8 +19,8 @@ export default function TOC({ children }: Props) {
           onClick={() => setVisibility(!visibility)}
         >
           <svg
-            width="36"
-            height="36"
+            width="24"
+            height="24"
             fill="none"
             viewBox="0 0 24 24"
             className={`${
@@ -37,7 +37,7 @@ export default function TOC({ children }: Props) {
           </svg>
         </button>
       </div>
-      <div className="px-4 md:mx-4">{visibility && children}</div>
+      <div className="md:mx-4">{visibility && children}</div>
     </div>
   );
 }
