@@ -3,6 +3,7 @@ import Header from "../../components/header";
 import Layout from "../../components/layout";
 import Head from "next/head";
 import HeroMap from "../../components/hero-map";
+import { getGuides } from "../../lib/api";
 
 export default function Index() {
   return (
@@ -23,4 +24,15 @@ export default function Index() {
       </Layout>
     </>
   );
+}
+
+export async function getStaticProps() {
+  const guides = await getGuides("other");
+  const allGuides = JSON.stringify(guides);
+
+  return {
+    props: {
+      allGuides,
+    },
+  };
 }

@@ -34,7 +34,6 @@ export function getGuides(postType: string) {
     return guides;
   }
   return guides;
-  // .sort((post1, post2) => (post1.date > post2.date ? -1 : 1));
 }
 
 export async function getGuide(postType: string, slug: string) {
@@ -92,11 +91,9 @@ export async function getGuide(postType: string, slug: string) {
     });
 
     const result = {
-      props: {
-        slug,
-        content: mdxSource,
-        ...data,
-      },
+      slug,
+      content: mdxSource,
+      ...data,
     };
 
     return result;

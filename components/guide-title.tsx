@@ -4,7 +4,7 @@ type Props = {
 
 const GuideTitle = ({ title }: Props) => {
   return (
-    <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight leading-tight md:leading-none text-left">
+    <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold font-serif tracking-tight leading-tight md:leading-none text-left">
       {title}
     </h1>
   );
