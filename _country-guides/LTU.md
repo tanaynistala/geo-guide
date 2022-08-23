@@ -92,19 +92,19 @@ Phone numbers are prefixed with an eight (8), and are organized by municipality:
 
 Lithuania has a three-tiered road numbering system with main (magistralinis), regional (krasto), and municipal (rajoniniu) roads.
 
-## Main roads (Magistralinis kelias)
+## Main roads (_Magistralinis kelias_)
 
 These highways are the highest tier of the Lithuanian highway network, and mostly exist on top of the E-road network. They are signposted with white text on a red background **{
 <span style={{padding: '0.25rem', color: 'white', backgroundColor: 'red', borderRadius: '0.25rem'}}>A##</span>
 }**, and the number is often shown with the E-road number. A1-A4 radiate outwards from Vilius, arranged clockwise. A5-A13 are further west and north, with larger numbers being further away from Vilnius. A14-A16 are upgraded regional roads from Vilnius, and the A17-A19 are partial ring routes around Panevėžys, Šiauliai, and Vilnius, respectively.
 
-## Regional Roads (Krasto kelias)
+## Regional Roads (_Krasto kelias_)
 
 These are smaller routes, and are numbered starting from 101 around Vilnius, and generally increase going west and north, although there are some higher numbers to the southwest of Vilnius. Most are numbered in the 100s, although there are a few in the 200s, mostly in the northwest. They are signposted with black text on a yellow background: **{
 <span style={{padding: '0.25rem', color: 'black', backgroundColor: 'gold', borderRadius: '0.25rem'}}>1##</span>
 }**.
 
-## Municipal Roads (Rajoniniu kelias)
+## Municipal Roads (_Rajoniniu kelias_)
 
 These are the lowest tier of the Lithuanian road network, but are not organized very well. Numbered with up to 4 digits, those beginning with a one (1) are mostly in the center or the east, those beginning with a two (2) are mainly in the west, but 3-, 4-, and 5-series highways are spread out all across the country. They are signposted with white text on a blue background: **{
 <span style={{padding: '0.25rem', color: 'white', backgroundColor: 'blue', borderRadius: '0.25rem'}}>####</span>

@@ -44,7 +44,7 @@ As a member of the EU, Estonia's license plates feature a blue band on the left 
 
 The Estonian road network is divided into three tiers: _põhimaantee_ (main roads), _tugimaantee_ (basic roads), and _korvalmaantee_ (community roads).
 
-## Main Roads (Põhimaantee)
+## Main Roads (_Põhimaantee_)
 
 These are the main routes across the country, and are signposted with white text on a red background: **{
 <span style={{padding: '0.25rem', color: 'white', backgroundColor: 'red', borderRadius: '0.25rem'}}>##</span>
@@ -52,13 +52,13 @@ These are the main routes across the country, and are signposted with white text
 
 They are numbered up to 11, plus an outlier in route 92. Routes 1, 2, 4, 8, and 9 extend outwards from Tallinn roughly clockwise, while routes 3, 5, and 7 are lateral routes running through Tartu, Pärnu, and Misso respectively. Route 10 is a disconnected route in the Lääne and Saare counties, and routes 6 and 92 run through the south of the country.
 
-## Basic Roads (Tugimaantee)
+## Basic Roads (_Tugimaantee_)
 
 These roads continue from the main roads numbering, being numbered from 12 to 95 (excluding 92). While there is no discernible pattern to their numbering, they are mostly clustered by their first digit. They are signposted with black text on a yellow background: **{
 <span style={{padding: '0.25rem', color: 'black', backgroundColor: 'gold', borderRadius: '0.25rem'}}>##</span>
 }**.
 
-## Community Roads (Korvalmaantee)
+## Community Roads (_Korvalmaantee_)
 
 These roads are signposted with black text on a white background: **{
 <span style={{padding: '0.25rem', color: 'black', backgroundColor: 'white', borderWidth: '2px', borderColor: 'lightgray', borderRadius: '0.25rem'}}>###</span>

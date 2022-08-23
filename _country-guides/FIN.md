@@ -152,19 +152,19 @@ Phone numbers are prefixed with a zero (0), and are fairly well arranged by regi
 
 The Finnish road network is divided into four tiers: first- (_valtatie_) and second-class (_kantatie_) main roads, regional roads (_seututie_), and connecting roads (_yhdystiet_).
 
-## Class I Main Roads (Valtatie)
+## Class I Main Roads (_Valtatie_)
 
 These are the largest highways in Finland, and are signposted with white text on a red background. They can be numbered up to 29: **{
 <span style={{padding: '0.25rem', color: 'white', backgroundColor: 'red', borderRadius: '0.25rem'}}>##</span>
 }**. Highways 1-7 radiate outwards from Helsinki, 8-10 from Turku, and 11 and 12 start in Tampere. There is no discernible pattern to the numbering of the remaining routes, but they typically connect large cities together.
 
-## Class II Main Roads (Kantatie)
+## Class II Main Roads (_Kantatie_)
 
 These highways complement the Class I main roads, and are signposted with black text on a yellow background. They can be numbered between 40 and 93: **{
 <span style={{padding: '0.25rem', color: 'black', backgroundColor: 'gold', borderWidth: '2px', borderColor: 'black', borderRadius: '0.25rem'}}>##</span>
 }**. There is some clustering of the numbering system, and it generally increases to the north and to the east.
 
-## Regional and Connecting Roads (Maantie)
+## Regional and Connecting Roads (_Maantie_)
 
 These are more minor roads that are mostly regional. They can have either three or four digits, and the two kinds are signed differently. 3-digit roads are called _seututie_, and are signposted with black text on a white background: **{
 <span style={{padding: '0.25rem', color: 'black', backgroundColor: 'white', borderWidth: '2px', borderColor: 'black', borderRadius: '0.25rem'}}>###</span>

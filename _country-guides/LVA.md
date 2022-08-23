@@ -106,7 +106,7 @@ Phone numbers are prefixed with a six (6), and are tied to the municipality:
 
 The Latvian road numbering system splits roads into three tiers – main, first-class, and second-class – although only the first two are usually signposted.
 
-## Main Roads (Autocela)
+## Main Roads (_Autocela_)
 
 These routes are usually signposted with the letter A and up to two digits in white text on a red background: **{
 <span style={{padding: '0.25rem', color: 'white', backgroundColor: 'red', borderRadius: '0.25rem'}}>A##</span>

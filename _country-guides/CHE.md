@@ -112,8 +112,10 @@ Swiss Standard German is distinguished from German and Austrian varieties by its
 ### French
 
 > Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
->
-> Diacritics: Àà Ââ Ææ Çç Éé Èè Êê Ëë Îî Ïï Ôô Œœ Ùù Ûû Üü Ÿÿ
+
+#### (Diacritics)
+
+> Àà Ââ Ææ Çç Éé Èè Êê Ëë Îî Ïï Ôô Œœ Ùù Ûû Üü Ÿÿ
 
 ### Italian
 

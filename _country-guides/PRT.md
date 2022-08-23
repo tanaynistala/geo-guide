@@ -135,13 +135,13 @@ The Portuguese highway numbering system has several tiers, from cross-country mo
 - Estrada Municipal `M`/`EM`
 - Caminho Municipal `CM`
 
-## Autoestradas
+## _Autoestradas_
 
 A-routes are the highest tier of highway in Portugal, and are signposted as blue signs with white text and a number up to 44: **{
 <span style={{padding: '0.25rem', color: 'white', backgroundColor: 'dodgerblue', borderRadius: '0.25rem'}}>A##</span>
 }**. There is no relation between the number and the region or direction of the motorway.
 
-## Itinerário Principal & Itinerário Complementar
+## _Itinerário Principal_ & _Itinerário Complementar_
 
 IP-routes are usually motorways, and form a different network from the A- and N-routes, resulting in some situations where a highway may be signposted as both an IP-route and an A- or N-route. There are 9 such highways, numbered from 1 to 9. IP1-IP3 are north-south highways, and IP4-IP9 are east-west routes. IC-routes can also be motorways, and form a lower class of highway compared to IP-routes. They can be numbered with up to two digits. IP-routes are signposted with white text on red signs: **{
 <span style={{padding: '0.25rem', color: 'white', backgroundColor: 'red', borderRadius: '0.25rem' }}>IP#</span>
@@ -149,7 +149,7 @@ IP-routes are usually motorways, and form a different network from the A- and N-
 <span style={{padding: '0.25rem', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderWidth: '2px', borderColor: 'black' }}>IC##</span>
 }**.
 
-## Estrada Nacional & Estrada Regional
+## _Estrada Nacional_ & _Estrada Regional_
 
 These N- and R-routes form the bulk of the Portuguese highway network. N-routes form the national network, with R-routes being downgraded sections of the N-routes that bear the same number as the corresponding N-route; however, most of these sections are still signposted as N-routes, or occasionally as EN-routes. They are signposted the same way as IP- and IC-rotues, and are numbered with _either_ one (**{
 <span style={{padding: '0.25rem', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderWidth: '2px', borderColor: 'black' }}>N#</span>
@@ -159,7 +159,7 @@ These N- and R-routes form the bulk of the Portuguese highway network. N-routes 
 <span style={{padding: '0.25rem', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderWidth: '2px', borderColor: 'black' }}>N###-#</span>
 }**.
 
-## Estrada Municipal & Caminho Municipal
+## _Estrada Municipal_ & _Caminho Municipal_
 
 M- and CM-routes are the lowest tier of the Portuguese road network, and are numbered within their district, which means the number likely will not be useful unless the district is known. They can have up to four digits – M-routes are numbered starting from 400, while CM-routes are numbered from 1000 onwards, and they are signposted with black text on yellow signs: **{
 <span style={{padding: '0.25rem', color: 'black', backgroundColor: 'gold', borderRadius: '0.25rem' }}>M###</span>

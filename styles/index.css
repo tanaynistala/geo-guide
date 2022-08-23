@@ -62,11 +62,11 @@
 
     ul,
     ol {
-      columns: 2;
-
       li {
         margin-top: 0;
         margin-right: 1rem;
+        margin-bottom: 1rem;
+        line-height: 1.4;
       }
 
       @media screen and (min-width: 540px) {
@@ -78,6 +78,11 @@
       * > ul {
         padding-left: 1rem;
         padding-right: 0;
+        columns: 1;
+
+        li {
+          line-height: 0.75;
+        }
       }
 
       p {
@@ -88,9 +93,6 @@
 
     blockquote {
       border: none;
-
-      margin-left: 2rem;
-      margin-right: 4rem;
 
       @media screen and (min-width: 540px) {
         margin-left: -6rem;
@@ -116,6 +118,7 @@
 
     ul {
       list-style-type: square;
+      columns: 2;
     }
 
     ol {
@@ -124,9 +127,8 @@
 
     hr {
       @media screen and (min-width: 540px) {
-        margin: 4rem 4rem 4rem 6rem;
+        margin: 4rem 2rem 4rem 6rem;
       }
-      position: relative;
       height: 1rem;
       border: none;
       background-image: url("data:image/svg+xml,%3Csvg width='10' height='15' viewBox='0 0 10 15' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect x='0.567383' y='14.1777' width='16' height='1' transform='rotate(-60 0.567383 14.1777)' fill='%232D2E33'/%3E%3C/svg%3E");

@@ -6,6 +6,7 @@ import TOC from "./toc";
 import CountryMap from "./country-map";
 import SubdivisionMap from "./subdivision-map/subdivision-map";
 import LicensePlate from "./page-components/license-plate";
+import RoadNumber from "./page-components/road-number";
 
 // Custom components/renderers to pass to MDX.
 // Since the MDX files aren't loaded by webpack, they have no knowledge of how
@@ -62,6 +63,7 @@ const components = {
   CountryMap,
   SubdivisionMap,
   LicensePlate,
+  RoadNumber,
   a: TextLink,
   nav: Nav,
   img: Img,
