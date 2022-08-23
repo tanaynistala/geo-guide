@@ -6,22 +6,69 @@
 
 Poland is divided into 16 voivodeships, or _województwa_:
 
-- `DS`/`D` Dolnośląskie / Lower Silesian
-- `KP`/`C` Kujawsko-Pomorskie / Kuyavian-Pomeranian
-- `LU`/`L` Lubelskie / Lublin
-- `LB`/`F` Lubuskie / Lubusz
-- `LD`/`E` Łódzkie / Łódź
-- `MA`/`K` Małopolskie / Lesser Poland
-- `MZ`/`W` Mazowieckie / Masovian
-- `OP`/`O` Opolskie / Opole
-- `PK`/`R` Podkarpackie / Subcarpathian
-- `PD`/`B` Podlaskie
-- `PM`/`G` Pomorskie / Pomeranian
-- `SL`/`S` Śląskie / Silesian
-- `SK`/`T` Świętokrzyskie / Holy Cross
-- `WN`/`N` Warmińsko-Mazurskie / Warmian-Masurian
-- `WP`/`P` Wielkopolskie / Greater Poland
-- `ZP`/`Z` Zachodniopomorskie / West Pomeranian
+- **Dolnośląskie** `DS`/`D`
+
+  Lower Silesian
+
+- **Kujawsko-Pomorskie** `KP`/`C`
+
+  Kuyavian-Pomeranian
+
+- **Lubelskie** `LU`/`L`
+
+  Lublin
+
+- **Lubuskie** `LB`/`F`
+
+  Lubusz
+
+- **Łódzkie** `LD`/`E`
+
+  Łódź
+
+- **Małopolskie** `MA`/`K`
+
+  Lesser Poland
+
+- **Mazowieckie** `MZ`/`W`
+
+  Masovian
+
+- **Opolskie** `OP`/`O`
+
+  Opole
+
+- **Podkarpackie** `PK`/`R`
+
+  Subcarpathian
+
+- **Podlaskie** `PD`/`B`
+
+  Polachian
+
+- **Pomorskie** `PM`/`G`
+
+  Pomeranian
+
+- **Śląskie** `SL`/`S`
+
+  Silesian
+
+- **Świętokrzyskie** `SK`/`T`
+
+  Holy Cross
+
+- **Warmińsko-Mazurskie** `WN`/`N`
+
+  Warmian-Masurian
+
+- **Wielkopolskie** `WP`/`P`
+
+  Greater Poland
+
+- **Zachodniopomorskie** `ZP`/`Z`
+
+  West Pomeranian
 
 <CountryMap code="POL" scale="4000" />
 

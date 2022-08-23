@@ -67,25 +67,25 @@ There are five E-routes/motorways running through Denmark that are signed as suc
 
 - **{
   <span style={{padding: '0 0.25rem', color: 'white', backgroundColor: 'green', borderRadius: '0.25rem', display: 'inline-block'}}>E20</span>
-  }**: (E-W) from Esbjerg, Syddanmark through Copenhagen, crossing the Øresund Strait to Malmö `SE`
+  }** (E-W) from Esbjerg, Syddanmark through Copenhagen, crossing the Øresund Strait to Malmö `SE`
 - **{
   <span style={{padding: '0 0.25rem', color: 'white', backgroundColor: 'green', borderRadius: '0.25rem', display: 'inline-block'}}>E39</span>
-  }**: (N-S) from Hirtshals, Nordjylland to Aalborg
+  }** (N-S) from Hirtshals, Nordjylland to Aalborg
 - **{
   <span style={{padding: '0 0.25rem', color: 'white', backgroundColor: 'green', borderRadius: '0.25rem', display: 'inline-block'}}>E45</span>
-  }**: (N-S) from Frederikshavn, Nordjylland to German border near Flensburg `DE`
+  }** (N-S) from Frederikshavn, Nordjylland to German border near Flensburg `DE`
 - **{
   <span style={{padding: '0 0.25rem', color: 'white', backgroundColor: 'green', borderRadius: '0.25rem', display: 'inline-block'}}>E47</span>
-  }**: (N-S) from Helsingør, Sjælland to Rødbyhavn, Lolland
+  }** (N-S) from Helsingør, Sjælland to Rødbyhavn, Lolland
 - **{
   <span style={{padding: '0 0.25rem', color: 'white', backgroundColor: 'green', borderRadius: '0.25rem', display: 'inline-block'}}>E55</span>
-  }**: (N-S) from E47 near Farø Bridge between Sjælland and Falster to Gedser, Falster
+  }** (N-S) from E47 near Farø Bridge between Sjælland and Falster to Gedser, Falster
 
 Exits on motorways are marked with red text on a white hexagon, and directions to numbered roads use the European norm of a solid border when the road is present at the junction, and a dashed border when the road at the junction leads to the numbered road.
 
 Other routes are divided into primary and secondary routes, as described below:
 
-## Primary Routes (primærrute)
+## Primary Routes (_primærrute_)
 
 These are the main national routes across Denmark. They are signposted with black text on a yellow background, and can have up to two digits: **{
 <span style={{padding: '0 0.75rem', color: 'black', backgroundColor: 'gold', borderRadius: '0.25rem', borderColor: 'black', borderWidth: '2px', display: 'inline-block'}}>16</span>
@@ -95,11 +95,11 @@ Route numbers 2 through 5 are reserved for ring routes; they are prefixed with a
 <span style={{padding: '0 0.75rem', color: 'black', backgroundColor: 'gold', borderRadius: '0.25rem', borderColor: 'black', borderWidth: '2px', display: 'inline-block'}}>O 2</span>
 }**. The remaining routes are not ordered in a particular way, although only 37 unique numbers are currently used.
 
-## Secondary Routes (sekundærrute)
+## Secondary Routes (_sekundærrute_)
 
 Secondary routes are signposted with black text on a yellow background, and can have up to three digits: **{
 <span style={{padding: '0 0.25rem', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderColor: 'black', borderWidth: '2px', display: 'inline-block'}}>265</span>
-}**. The routes are mostly organized by region, as follows:
+}**. The routes are mostly organized by region as per the first digit, as follows:
 
 1. All over Denmark, typically follow motorways or are main roads
 2. Sjælland, Falster, and Lolland
