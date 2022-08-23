@@ -24,14 +24,14 @@ const TextLink = ({ href, className, ...rest }) => {
   if (className === "toc-link") {
     return (
       <Link href={href}>
-        <a className="hover:text-blue-500" {...rest} />
+        <a className="inline-block hover:text-blue-500" {...rest} />
       </Link>
     );
   } else if (href) {
     return (
       <Link href={href}>
         <a
-          className="p-1 -m-0.5 hover:bg-blue-500 text-blue-500 hover:text-white rounded no-underline after:content-['_↗']"
+          className="px-1 -m-0.5 hover:bg-blue-500 text-blue-500 hover:text-white rounded no-underline inline-block after:content-['_↗']"
           {...rest}
           target={`${href.startsWith("#") ? "" : "_blank"}`}
         />

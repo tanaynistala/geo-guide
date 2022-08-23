@@ -17,11 +17,13 @@
       color: black;
       font-weight: 600;
 
-      padding: 0 4rem 0 6rem;
+      @media screen and (min-width: 540px) {
+        padding: 0 4rem 0 6rem;
+      }
     }
 
     .toc {
-      margin-left: 1rem;
+      margin-left: 2rem;
       font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
         "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
         "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
@@ -29,11 +31,6 @@
 
       ol {
         padding: 0;
-
-        p {
-          padding: 0px;
-          margin: 0px;
-        }
       }
     }
 
@@ -56,31 +53,50 @@
     }
 
     p {
-      margin: 2rem 4rem 2rem 6rem;
+      margin: 2rem auto 2rem auto;
+
+      @media screen and (min-width: 540px) {
+        margin: 2rem 4rem 2rem 6rem;
+      }
     }
 
     ul,
     ol {
-      padding-right: 4rem;
+      columns: 2;
+
+      li {
+        margin-top: 0;
+      }
+
+      @media screen and (min-width: 540px) {
+        padding-left: 7rem;
+        padding-right: 1rem;
+      }
 
       * > ol,
       * > ul {
         padding-left: 1rem;
-        padding-right: 0px;
+        padding-right: 0;
       }
 
       p {
-        padding: 0px;
-        margin: 0px;
+        padding: 0;
+        margin: 0;
       }
     }
 
     blockquote {
       border: none;
-      margin-left: -6rem;
-      margin-right: 2rem;
+
+      margin-left: 2rem;
+      margin-right: 4rem;
+
+      @media screen and (min-width: 540px) {
+        margin-left: -6rem;
+      }
       font-family: ui-serif, New York, Georgia, Cambria, "Times New Roman",
         Times, serif;
+      /* font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; */
       color: #08080b;
       font-weight: 500;
       font-size: 2rem;
@@ -98,126 +114,22 @@
     }
 
     ul {
-      padding-left: 7rem;
       list-style-type: square;
     }
 
     ol {
-      padding-left: 8rem;
+      margin-left: 1rem;
     }
 
     hr {
-      margin: 4rem 4rem 4rem 6rem;
+      @media screen and (min-width: 540px) {
+        margin: 4rem 4rem 4rem 6rem;
+      }
       position: relative;
       height: 1rem;
       border: none;
       background-image: url("data:image/svg+xml,%3Csvg width='10' height='15' viewBox='0 0 10 15' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect x='0.567383' y='14.1777' width='16' height='1' transform='rotate(-60 0.567383 14.1777)' fill='%232D2E33'/%3E%3C/svg%3E");
       background-repeat: repeat-x;
     }
-
-    /* h1 {
-      margin-top: 3rem;
-      margin-bottom: 1rem;
-    }
-
-    h2 {
-      margin-top: 1rem;
-      margin-bottom: 0.5rem;
-    }
-
-    h3,
-    h4 {
-      margin-top: 0.5rem;
-      margin-bottom: 0.5rem;
-    }
-
-    li {
-      margin-bottom: -0.5rem;
-      margin-top: 0px;
-      padding-top: 0.5rem;
-    }
-
-    figure {
-      margin-bottom: 1rem;
-      img {
-        margin-bottom: 15px;
-      }
-      figcaption {
-        font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
-          "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
-          "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
-          "Noto Color Emoji";
-        color: #000;
-        opacity: 0.5;
-        display: block;
-      }
-    }
-
-    blockquote {
-      margin-bottom: 50px;
-      color: black;
-      font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
-      font-style: italic;
-
-      p {
-        max-width: 880px;
-        width: 100%;
-        margin: 16px auto;
-        line-height: 1.32;
-        font-weight: bold;
-      }
-    }
-
-    img {
-      display: inline-block;
-      position: relative;
-      max-width: 100%;
-      height: auto;
-      z-index: 0;
-      border-radius: 5px;
-    }
-
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      border-top: 1px solid #dfe3e8;
-    }
-    tbody {
-      display: table-row-group;
-      vertical-align: middle;
-      border-color: inherit;
-      color: #000;
-    }
-    th {
-      text-transform: uppercase;
-      font-weight: 600;
-    }
-    tr {
-      &:hover {
-        background-color: #f4f6f8;
-      }
-    }
-    td {
-      padding: 10px 8px;
-      border-bottom: 1px solid #dfe3e8;
-      vertical-align: top;
-      white-space: nowrap;
-    }
-    hr {
-      width: 250px;
-      height: 1px;
-      margin: 30px auto;
-      opacity: 0.33;
-    }
-    hr {
-      position: relative;
-      width: 100%;
-      margin: 25px auto 60px;
-      border: 0;
-      height: 14.36px;
-      background-image: url("data:image/svg+xml,%3Csvg width='10' height='15' viewBox='0 0 10 15' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect x='0.432617' y='13.8564' width='16' height='1' transform='rotate(-60 0.432617 13.8564)' fill='%2350525B'/%3E%3C/svg%3E%0A");
-      background-repeat: repeat-x;
-      box-sizing: border-box;
-    } */
   }
 }
