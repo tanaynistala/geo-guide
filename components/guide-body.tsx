@@ -55,10 +55,6 @@ const Img = (props) => (
   <Image {...props} layout="responsive" loading="lazy" />
 );
 
-const ColumnList = (props) => <ul className="columns-3xs" {...props} />;
-
-const BlockQuote = (props) => <blockquote className="not-prose" {...props} />;
-
 const components = {
   Head,
   Image,
@@ -70,8 +66,6 @@ const components = {
   nav: Nav,
   img: Img,
   code: Code,
-  ul: ColumnList,
-  blockquote: BlockQuote,
 };
 
 type Props = {
