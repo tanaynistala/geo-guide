@@ -4,27 +4,115 @@ Welcome to Finland, the land of lakes! Explore the forested south or the vast No
 
 # Subdivisions
 
-Finland is divided into 19 regions, as follows (names provided are Finnish/Swedish/English):
+Finland is divided into 19 regions, of which [Åland](/countries/ALD) is covered in a separate guide. These are the 18 remaining regions (names are in **Finnish**-Swedish-English):
 
-- Ahvenanmaan maakunta / Landskapet Åland / Åland
-- Etelä-Karjala / Södra Karelen / Southern Karelia
-- Etelä-Pohjanmaa / Södra Österbotten / Southern Ostrobothnia
-- Etelä-Savo / Södra Savolax / Southern Savonia
-- Kainuu / Kajanaland / Kainuu
-- Kanta-Häme / Egentliga Tavastland / Tavastia Proper
-- Keski-Pohjanmaa / Mellersta Österbotten / Central Ostrobothnia
-- Kesky-Suomi / Mellersta Finland / Central Finland
-- Kymenlaakso / Kymmenedalen / Kymenlaakso
-- Lappi / Lappland / Lapland
-- Pirkanmaa / Birkaland / Pirkanmaa
-- Pohjanmaa / Österbotten / Ostrobothnia
-- Pohjois-Karjala / Norra Karelen / Northern Karelia
-- Pohjois-Pohjanmaa / Norra Österbotten / Northern Ostrobothnia
-- Pohjois-Savo / Norra Savolax / Northern Savonia
-- Päijät-Häme / Päijänne-Tavastland / Päijänne Tavastia
-- Satakunta / Satakunda / Satakunta
-- Uusimaa / Nyland / Uusimaa
-- Varsinais-Suomi / Egentliga Finland / Finland Proper
+- **Etelä-Karjala**
+
+  Södra Karelen
+
+  Southern Karelia
+
+- **Etelä-Pohjanmaa**
+
+  Södra Österbotten
+
+  Southern Ostrobothnia
+
+- **Etelä-Savo**
+
+  Södra Savolax
+
+  Southern Savonia
+
+- **Kainuu**
+
+  Kajanaland
+
+  Kainuu
+
+- **Kanta-Häme**
+
+  Egentliga Tavastland
+
+  Tavastia Proper
+
+- **Keski-Pohjanmaa**
+
+  Mellersta Österbotten
+
+  Central Ostrobothnia
+
+- **Kesky-Suomi**
+
+  Mellersta Finland
+
+  Central Finland
+
+- **Kymenlaakso**
+
+  Kymmenedalen
+
+  Kymenlaakso
+
+- **Lappi**
+
+  Lappland
+
+  Lapland
+
+- **Pirkanmaa**
+
+  Birkaland
+
+  Pirkanmaa
+
+- **Pohjanmaa**
+
+  Österbotten
+
+  Ostrobothnia
+
+- **Pohjois-Karjala**
+
+  Norra Karelen
+
+  Northern Karelia
+
+- **Pohjois-Pohjanmaa**
+
+  Norra Österbotten
+
+  Northern Ostrobothnia
+
+- **Pohjois-Savo**
+
+  Norra Savolax
+
+  Northern Savonia
+
+- **Päijät-Häme**
+
+  Päijänne-Tavastland
+
+  Päijänne Tavastia
+
+- **Satakunta**
+
+  Satakunda
+
+  Satakunta
+
+- **Uusimaa**
+
+  Nyland
+
+  Uusimaa
+
+- **Varsinais-Suomi**
+
+  Egentliga Finland
+
+  Finland Proper
 
 <CountryMap code="FIN" scale="2400" level="2" />
 

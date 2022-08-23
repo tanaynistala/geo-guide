@@ -33,7 +33,7 @@ const CountryMap = ({ code, scale, level = 1 }: Props) => {
         projection="geoAzimuthalEqualArea"
         width={mapWidth}
         height={mapHeight}
-        className="rounded-lg mt-12 outline-none"
+        className="rounded-lg my-12 outline-none"
         data-tip=""
         projectionConfig={{
           rotate: [-country.coordinates[0], -country.coordinates[1], 0],
