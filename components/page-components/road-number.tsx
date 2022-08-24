@@ -169,7 +169,7 @@ const TriangleRoadNumber = ({ style, num, bg, text, border }) => {
       className="inline-block font-semibold"
     >
       <svg
-        className="-z-10 w-8 p-px absolute"
+        className="-z-10 w-8 absolute md:translate-y-0.5"
         viewBox="-2 -2 104 102"
         xmlns="http://www.w3.org/2000/svg"
         fill="none"
@@ -266,7 +266,7 @@ const HexagonRoadNumber = ({ style, num, bg, text, border }) => {
       className="inline-block font-semibold"
     >
       <svg
-        className="-z-10 w-8 absolute -translate-y-0.5"
+        className="-z-10 w-8 absolute -translate-y-0.5 md:translate-y-0"
         viewBox="0 0 100 100"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -293,7 +293,7 @@ const LongHexagonRoadNumber = ({ style, num, bg, text, border }) => {
       className="inline-block font-semibold"
     >
       <svg
-        className="-z-10 w-12 absolute"
+        className="-z-10 w-12 absolute md:translate-y-0.5"
         viewBox="0 0 278 160"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -320,7 +320,7 @@ const BulletRoadNumber = ({ style, num, bg, text, border }) => {
       className="inline-block font-semibold"
     >
       <svg
-        className="-z-10 w-8 absolute"
+        className="-z-10 w-8 absolute md:translate-y-0.5"
         viewBox="-2 -2 104 104"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -374,7 +374,7 @@ const SquareBulletRoadNumber = ({ style, num, bg, text, border }) => {
       className="inline-block font-semibold"
     >
       <svg
-        className="-z-10 w-8 absolute"
+        className="-z-10 w-8 absolute md:translate-y-0.5"
         viewBox="0 0 100 100"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -401,7 +401,7 @@ const FrenchShieldRoadNumber = ({ style, num, bg, text, border, code }) => {
       className="inline-block font-semibold"
     >
       <svg
-        className="-z-10 w-8 absolute"
+        className="-z-10 w-8 absolute md:translate-y-0.5"
         viewBox="0 0 100 100"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -421,7 +421,7 @@ const FrenchShieldRoadNumber = ({ style, num, bg, text, border, code }) => {
           stroke-width="4"
         />
       </svg>
-      <span className="absolute text-xs flex justify-center w-8 -translate-y-0.5">
+      <span className="absolute text-xs flex justify-center w-8 -translate-y-0.5 md:translate-y-0">
         {code}
       </span>
 
@@ -439,7 +439,7 @@ const FlowerRoadNumber = ({ style, num, bg, text, border }) => {
       className="inline-block font-semibold"
     >
       <svg
-        className="-z-10 w-8 absolute -translate-y-0.5"
+        className="-z-10 w-8 absolute -translate-y-0.5 md:translate-y-0"
         viewBox="0 0 100 100"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -466,7 +466,7 @@ const ShieldRoadNumber = ({ style, num, bg, text, border }) => {
       className="inline-block font-semibold"
     >
       <svg
-        className="-z-10 w-8 absolute -translate-y-0.5"
+        className="-z-10 w-8 absolute -translate-y-0.5 md:translate-y-0"
         viewBox="-2 -2 104 104"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"

@@ -136,7 +136,9 @@
 
     ul {
       list-style-type: square;
-      columns: 2;
+      @media screen and (min-width: 480px) {
+        columns: 2;
+      }
     }
 
     ol {

@@ -178,11 +178,11 @@ These routes are roughly organized by region, but can spill over into neighborin
 
 ## Helsinki Ring Roads
 
-Helsinki has three ring roads that are signposted with Roman numerals. Since Helsinki is bilingual, these signs bear both the words _Kehä_ `FI` and _Ring_ `SE`, followed by the Roman numeral `I`, `II`, or `III`. However, these ring routes aren't shown on ht emap, instead using their traditional number:
+Helsinki has three ring roads that are signposted with Roman numerals. Since Helsinki is bilingual, these signs bear both the words _Kehä_ `FI` and _Ring_ `SE`, followed by the Roman numeral `I`, `II`, or `III`. However, these ring routes aren't shown on the map, instead using their traditional route number:
 
-- Ring I: <RoadNumber bg="white" num="101" />
-- Ring II: <RoadNumber bg="white" num="102" />
-- Ring III: <RoadNumber bg="gold" border="black" num="50" />
+1. Ring I: <RoadNumber border="black" num="101" />
+2. Ring II: <RoadNumber border="black" num="102" />
+3. Ring III: <RoadNumber bg="gold" border="black" num="50" />
 
 ---
 
