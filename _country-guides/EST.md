@@ -78,7 +78,11 @@ The official language of Estonia is Estonian, which is a Uralic language of the 
 
 Estonian uses the Latin alphabet, plus several extra characters:
 
-> Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz Ää Öö Üü Õõ Šš Žž
+```
+Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk
+Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv
+Ww Xx Yy Zz Ää Öö Üü Õõ Šš Žž
+```
 
 The letters _C_, _Q_, _W_, _X_, and _Y_ are only used for foreign names, while _F_, _Z_, _Š_, and _Ž_ are used for loanwords and foreign names.
 

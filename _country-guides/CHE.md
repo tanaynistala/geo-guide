@@ -64,6 +64,8 @@ for the following format: <LicensePlate style="ch" format="+ AB•123456 ∇" />
 
 2-lane roads have white center lines and solid white shoulder lines. Single-lane roads only rarely have any road markings. The swiss pedestrian crossings are long and thick yellow lines. Swiss bollards are usually but not only round and always white. In winter coverage, you can find wooden snow bollards with usually orange painting on the tip. On highways, you will find kilometer markers with the road numbers on the guardrail in the middle of the highway.
 
+<RoadNumber style="long-hex" number="12" backgroundColor="red" textColor="white" />
+
 ---
 
 # Signage
@@ -107,23 +109,41 @@ Swiss Standard German is distinguished from German and Austrian varieties by its
 
 ### Swiss German & Swiss Standard German
 
-> Aa Ää Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Öö Pp Qq Rr Ss Tt Uu Üü Vv Ww Xx Yy Zz
+```
+Aa Ää Bb Cc Dd Ee Ff Gg Hh Ii
+Jj Kk Ll Mm Nn Oo Öö Pp Qq Rr
+Ss Tt Uu Üü Vv Ww Xx Yy Zz
+```
 
 ### French
 
-> Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
+```
+Aa Bb Cc Dd Ee Ff Gg Hh Ii
+Jj Kk Ll Mm Nn Oo Pp Qq Rr
+Ss Tt Uu Vv Ww Xx Yy Zz
+```
 
 #### (Diacritics)
 
-> Àà Ââ Ææ Çç Éé Èè Êê Ëë Îî Ïï Ôô Œœ Ùù Ûû Üü Ÿÿ
+```
+Àà Ââ Ææ Çç Éé Èè Êê Ëë
+Îî Ïï Ôô Œœ Ùù Ûû Üü Ÿÿ
+```
 
 ### Italian
 
-> Aa Bb Cc Dd Ee Ff Gg Hh Ii Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Zz
+```
+Aa Bb Cc Dd Ee Ff Gg Hh Ii Ll Mm
+Nn Oo Pp Qq Rr Ss Tt Uu Vv Zz
+```
 
 ### Romansh
 
-> Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
+```
+Aa Bb Cc Dd Ee Ff Gg Hh Ii
+Jj Kk Ll Mm Nn Oo Pp Qq Rr
+Ss Tt Uu Vv Ww Xx Yy Zz
+```
 
 ## Samples
 

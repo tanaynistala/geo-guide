@@ -132,7 +132,11 @@ Latvian is the primary language used in Latvia, and is one of two major Baltic l
 
 Latvian uses 33 characters, including 22 letters of the standard Latin alphabet (all except _Q_, _W_, _X_, and _Y_):
 
-> Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Rr Ss Tt Uu Vv Zz
+```
+Aa Bb Cc Dd Ee Ff Gg Hh
+Ii Jj Kk Ll Mm Nn Oo
+Pp Rr Ss Tt Uu Vv Zz
+```
 
 The remaining eleven characters are nearly all unique to Latvian, being modified versions of other Latin characters. In particular, note the use of macrons on vowels, which is unique to Latvia.
 

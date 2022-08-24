@@ -116,11 +116,17 @@ In the province of Friesland/Fryslân, West Frisian is an official language, and
 
 Dutch uses the 26 letters of the standard Latin alphabet, plus an additional digraph _IJ_ which is a distinctive feature of the language.
 
-> Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy IJij Zz
+```
+Aa Bb Cc Dd Ee Ff Gg Hh Ii
+Jj Kk Ll Mm Nn Oo Pp Qq Rr
+Ss Tt Uu Vv Ww Xx Yy IJij Zz
+```
 
 West Frisian uses the same alphabet, but can also have circumflex (ˆ) or acute (´) accents on four vowels:
 
-> Ââ Êê Ôô Ûû Áá Éé Óó Úú
+```
+Ââ Êê Ôô Ûû Áá Éé Óó Úú
+```
 
 ## Samples
 

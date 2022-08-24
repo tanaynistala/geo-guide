@@ -53,13 +53,18 @@ Albanian is the official language of Albania, and is very distinctive compared t
 
 Albanian uses 25 standard letters of the Latin alphabet (_W_ excepted), plus two accented letters and nine digraphs:
 
-### Base Alphabet
-
-> Aa Bb Cc Çç Dd Ee Ëë Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Xx Yy Zz
+```
+Aa Bb Cc Çç Dd Ee Ëë Ff Gg
+Hh Ii Jj Kk Ll Mm Nn Oo Pp
+Qq Rr Ss Tt Uu Vv Xx Yy Zz
+```
 
 ### Digraphs
 
-> dh gj ll nj rr sh th xh zh
+```
+dh gj ll nj rr sh th xh zh
+
+```
 
 ## Sample
 

@@ -36,7 +36,11 @@ The Swedish language is the official language of Åland, unlike the rest of Finl
 
 The Swedish alphabet has 29 letters, using the 26 letters of the standard Latin alphabet plus three accented letters, which are sorted to the end of the alphabet order:
 
-> Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz Åå Ää Öö
+```
+Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj
+Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt
+Uu Vv Ww Xx Yy Zz Åå Ää Öö
+```
 
 ## Sample
 

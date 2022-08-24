@@ -50,7 +50,11 @@ San Marino's license plates feature the Sammarinese coat of arms (represented by
 
 `Language` uses the 26 standard letters of the Latin alphabet:
 
-> Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
+```
+Aa Bb Cc Dd Ee Ff Gg Hh Ii
+Jj Kk Ll Mm Nn Oo Pp Qq Rr
+Ss Tt Uu Vv Ww Xx Yy Zz
+```
 
 ## Samples
 

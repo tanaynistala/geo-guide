@@ -49,7 +49,11 @@ Faroese is the main language of the Faroe Islands, although Danish is an officia
 
 The Faroese alphabet uses 22 letters of the Latin alphabet, plus 7 additional letters:
 
-> Aa Áá Bb Dd Ðð Ee Ff Gg Hh Ii Íí Jj Kk Ll Mm Nn Oo Óó Pp Rr Ss Tt Uu Úú Vv Yy Ýý Ææ Øø
+```
+Aa Áá Bb Dd Ðð Ee Ff Gg Hh Ii
+Íí Jj Kk Ll Mm Nn Oo Óó Pp Rr
+Ss Tt Uu Úú Vv Yy Ýý Ææ Øø
+```
 
 It is one of only two major languages that uses the eth (_Ðð_), with the other being Icelandic. Icelandic also uses the thorn (_Þþ_), which is not present in Faroese.
 

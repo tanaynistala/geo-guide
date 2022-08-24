@@ -114,7 +114,10 @@ Phone codes in Portugal are organized by municipality, and are prefixed with a t
 _To form the area code, suffix the index numbers in hierarchical order onto a two (2). For instance, the area code for Ponte de Sôr would be found as follows:_
 
 ```
-2 + 4 (Central-South) + 2 (Ponte de Sôr) = 242
+2 +
+4 (Central-South) +
+2 (Ponte de Sôr)
+= 242
 ```
 
 ---
@@ -181,11 +184,24 @@ Portuguese is the primary language used in Portugal, and is linguistically close
 
 Portuguese uses the 26 standard letters of the Latin alphabet, five diacritics, and has seven common digraphs:
 
-> Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
->
-> Diacritics: Áá Éé Íí Óó Úú Ââ Êê Ôô Ãã Õõ Àà Çç
->
-> Digraphs: ch lh nh rr ss qu gu
+```
+Aa Bb Cc Dd Ee Ff Gg Hh Ii
+Jj Kk Ll Mm Nn Oo Pp Qq Rr
+Ss Tt Uu Vv Ww Xx Yy Zz
+```
+
+### Diacritics
+
+```
+Áá Éé Íí Óó Úú Àà
+Ââ Êê Ôô Ãã Õõ Çç
+```
+
+### Digraphs
+
+```
+ch lh nh rr ss qu gu
+```
 
 ## Sample
 

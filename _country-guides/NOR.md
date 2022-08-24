@@ -75,7 +75,11 @@ The Norwegian language is one of the official languages of Norway, including bot
 
 The Norwegian alphabet is the same as the Danish alphabet, and uses the 26 letters of the Latin alphabet plus three extra characters, which are sorted to the end of the alphabet order:
 
-> Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz Ææ Åå Øø
+```
+Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj
+Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt
+Uu Vv Ww Xx Yy Zz Ææ Åå Øø
+```
 
 ## Samples
 

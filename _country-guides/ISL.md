@@ -59,7 +59,11 @@ The Icelandic language is the official language of Iceland, and is most closely 
 
 The Icelandic alphabet contains two letters that no longer exist in the English alphabet: thorn (_Þþ_) and edh/eth (_Ðð_). Thorn is unique to Icelandic, while edh/eth is shared with Faroese.
 
-> Aa Áá Bb Dd Ðð Ee Éé Ff Gg Hh Ii Íí Jj Kk Ll Mm Nn Oo Óó Pp Rr Ss Tt Uu Úú Vv Xx Yy Ýý Þþ Ææ Öö
+```
+Aa Áá Bb Dd Ðð Ee Éé Ff Gg Hh Ii
+Íí Jj Kk Ll Mm Nn Oo Óó Pp Rr Ss
+Tt Uu Úú Vv Xx Yy Ýý Þþ Ææ Öö
+```
 
 ## Sample
 

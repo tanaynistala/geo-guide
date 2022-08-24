@@ -216,11 +216,15 @@ Finland has two official languages: Finnish and Swedish. Swedish bears many simi
 
 Finnish is written using the Latin alphabet, plus five additional characters:
 
-> Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz Åå Ää Öö Šš Žž
+```
+Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj
+Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt
+Uu Vv Ww Xx Yy Zz Åå Ää Öö Šš Žž
+```
 
 Only _Ä_ and _Ö_ are frequently used in Finnish; _Å_ is mainly used for Swedish names, while _Š_ and _Ž_ are used rarely, typically in loanwords. _B_, _C_, _F_, _Q_, _W_, _X_, _Z_, _Å_, _Š_, and _Ž_ are reserved for foreign words.
 
-The Swedish alphabet is similar, using all the same characters except the _Š_ and _Ž_.
+The Swedish alphabet is similar, using all the same characters except _Š_ and _Ž_.
 
 ## Samples
 

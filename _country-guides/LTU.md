@@ -124,9 +124,17 @@ Lithuanian is the primary language used in Lithuania, and is one of two major Ba
 
 The Lithuanian alphabet consists of 32 letters, including 23 of the standard Latin alphabet, five digraphs, and several versions of traditional characters with diacritics:
 
-> Aa Ąą Bb Cc Čč Dd Ee Ęę Ėė Ff Gg Hh Ii Įį Yy Jj Kk Ll Mm Nn Oo Pp Rr Ss Tt Uu Ųų Ūū Vv Zz Žž
->
-> Digraphs: ch dz dž ie uo
+```
+Aa Ąą Bb Cc Čč Dd Ee Ęę Ėė Ff Gg
+Hh Ii Įį Yy Jj Kk Ll Mm Nn Oo
+Pp Rr Ss Tt Uu Ųų Ūū Vv Zz Žž
+```
+
+### (Digraphs)
+
+```
+ch dz dž ie uo
+```
 
 ## Sample
 
