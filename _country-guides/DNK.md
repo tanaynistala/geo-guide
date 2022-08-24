@@ -67,19 +67,19 @@ There are five E-routes/motorways running through Denmark that are signed as suc
 
 - **{
   <span style={{padding: '0 0.25rem', color: 'white', backgroundColor: 'green', borderRadius: '0.25rem', display: 'inline-block'}}>E20</span>
-  }** (E-W) from Esbjerg, Syddanmark through Copenhagen, crossing the Øresund Strait to Malmö `SE`
+  }** `E-W` from Esbjerg, Syddanmark through Copenhagen, crossing the Øresund Strait to Malmö `SE`
 - **{
   <span style={{padding: '0 0.25rem', color: 'white', backgroundColor: 'green', borderRadius: '0.25rem', display: 'inline-block'}}>E39</span>
-  }** (N-S) from Hirtshals, Nordjylland to Aalborg
+  }** `N-S` from Hirtshals, Nordjylland to Aalborg
 - **{
   <span style={{padding: '0 0.25rem', color: 'white', backgroundColor: 'green', borderRadius: '0.25rem', display: 'inline-block'}}>E45</span>
-  }** (N-S) from Frederikshavn, Nordjylland to German border near Flensburg `DE`
+  }** `N-S` from Frederikshavn, Nordjylland to German border near Flensburg `DE`
 - **{
   <span style={{padding: '0 0.25rem', color: 'white', backgroundColor: 'green', borderRadius: '0.25rem', display: 'inline-block'}}>E47</span>
-  }** (N-S) from Helsingør, Sjælland to Rødbyhavn, Lolland
+  }** `N-S` from Helsingør, Sjælland to Rødbyhavn, Lolland
 - **{
   <span style={{padding: '0 0.25rem', color: 'white', backgroundColor: 'green', borderRadius: '0.25rem', display: 'inline-block'}}>E55</span>
-  }** (N-S) from E47 near Farø Bridge between Sjælland and Falster to Gedser, Falster
+  }** `N-S` from E47 near Farø Bridge between Sjælland and Falster to Gedser, Falster
 
 Exits on motorways are marked with red text on a white hexagon, and directions to numbered roads use the European norm of a solid border when the road is present at the junction, and a dashed border when the road at the junction leads to the numbered road.
 

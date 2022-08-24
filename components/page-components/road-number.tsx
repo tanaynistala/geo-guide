@@ -10,8 +10,8 @@ type Props = {
 const RoadNumber = ({
   style,
   number,
-  backgroundColor = "white",
-  textColor = "black",
+  backgroundColor = style,
+  textColor = style === "gold" ? "black" : "white",
   borderColor = "white",
   borderStyle = "solid",
 }: Props) => {
@@ -48,20 +48,21 @@ const RoadNumber = ({
         borderStyle={borderStyle}
       />
     );
+  } else {
+    return (
+      <span
+        className="rounded py-0.5 m-0 px-2 leading-tight inline-block border-2 font-semibold"
+        style={{
+          borderColor: borderColor,
+          borderStyle: borderStyle,
+          backgroundColor: backgroundColor,
+          color: textColor,
+        }}
+      >
+        {number}
+      </span>
+    );
   }
-  return (
-    <span
-      className="rounded py-0.5 px-1 leading-tight inline-block overflow-clip border-2 align-bottom font-semibold"
-      style={{
-        borderColor: borderColor,
-        borderStyle: borderStyle,
-        backgroundColor: backgroundColor,
-        color: textColor,
-      }}
-    >
-      {number}
-    </span>
-  );
 };
 
 const TriangleRoadNumber = ({

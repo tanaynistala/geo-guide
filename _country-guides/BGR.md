@@ -47,56 +47,58 @@ As a member of the EU, Bulgaria's license plates feature a blue band on the left
 
 # Phone Codes
 
-Phone numbers are prefixed with a zero (0), and are mostly organized by province and region:
+Phone numbers are prefixed with a zero (0), and are mostly organized by province and region. In the list below, places suffixed with `C` denote that the phone code is specific to the city of the same name.
 
 ### Capital
 
-2. Sofia City
+2. Sofia `C`
 
 ### South
 
 30. Smolyan
 31. Plovdiv
-32. Plovdiv
+32. Plovdiv `C`
 33. Plovdiv
-34. Pazardzhik
+34. Pazardzhik `C`
 35. Pazardzhik
 36. Kardzhali
 37. Haskovo
-38. Haskovo
+38. Haskovo `C`
 39. Haskovo
-40. `N/A`
-41. Stara Zagora
-42. Stara Zagora
-43. Stara Zagora (except `430`)
+
+### Southeast
+
+40. Stara Zagora
+41. Stara Zagora `C`
+42. Stara Zagora (except `430`)
+43. Sliven `C`
 44. Sliven
-45. Sliven
-46. Yambol
-47. Yambol and Haskovo
+45. Yambol `C`
+46. Yambol and Haskovo
 
 ### East
 
 51. Varna
-52. Varna
+52. Varna `C`
 53. Shumen
-54. Shumen
+54. Shumen `C`
 55. Burgas
-56. Burgas
+56. Burgas `C`
 57. Dobrich
-58. Dobrich
+58. Dobrich `C`
 59. Burgas
 
 ### North
 
 60. Targovishte
 61. Veliko Tarnovo
-62. Veliko Tarnovo
+62. Veliko Tarnovo `C`
 63. Veliko Tarnovo and Pleven
-64. Pleven
+64. Pleven `C`
 65. Pleven
-66. Gabrovo
+66. Gabrovo `C`
 67. Gabrovo and Lovech
-68. Lovech
+68. Lovech `C`
 69. Lovech
 
 ### West
@@ -104,27 +106,32 @@ Phone numbers are prefixed with a zero (0), and are mostly organized by province
 70. Kyustendil
 71. Sofia
 72. Sofia
-73. Blagoevgrad
+73. Blagoevgrad `C`
 74. Blagoevgrad
 75. Blagoevgrad and Sofia
-76. Pernik
+76. Pernik `C`
 77. Pernik
-78. Kyustendil
+78. Kyustendil `C`
 79. Kyustendil
 
 ### Northeast
 
-80. Ruse
 81. Ruse
-82. Razgrad
-83. Silistra
+82. Ruse `C`
+83. `N/A`
+84. Razgrad `C`
+85. `N/A`
+86. Silistra `C`
 
 ### Northwest
 
 91. Vratsa
-92. Vidin
-93. Montana
-94. Vratsa and Montana
+92. Vratsa `C`
+93. Vidin
+94. Vidin `C`
+95. Montana
+96. Montana `C`
+97. Vratsa and Montana
 
 ---
 
@@ -140,11 +147,15 @@ The Bulgarian road network consists of motorways, of which there are currently o
 
 Motorways are prefixed with the letter `A`. There are currently five motorways, most of which are unfinished. They are signposted with white text on a green background, much like E-routes.
 
-- <span style={{padding: '0 0.5rem', color: 'white', backgroundColor: 'green', borderRadius: '0.25rem', display: 'inline-block', fontWeight: 'bold'}}>A1</span>: (W-E) from Sofia to Burgas
-- <span style={{padding: '0 0.5rem', color: 'white', backgroundColor: 'green', borderRadius: '0.25rem', display: 'inline-block', fontWeight: 'bold'}}>A2</span>: (W-E) from Sofia to Yablanitsa, continues from Shumen to Varna
-- <span style={{padding: '0 0.5rem', color: 'white', backgroundColor: 'green', borderRadius: '0.25rem', display: 'inline-block', fontWeight: 'bold'}}>A3</span>: (N-S) from Pernik to Greek border at Kulata
-- <span style={{padding: '0 0.5rem', color: 'white', backgroundColor: 'green', borderRadius: '0.25rem', display: 'inline-block', fontWeight: 'bold'}}>A4</span>: (W-E) from Plovdiv to Turkish border at Svilengrad
-- <span style={{padding: '0 0.5rem', color: 'white', backgroundColor: 'green', borderRadius: '0.25rem', display: 'inline-block', fontWeight: 'bold'}}>A5</span>: (N-S) from Varna towards Burgas (incomplete)
+<RoadNumber style="green" number="A1" /> `W-E` from Sofia to Burgas
+
+<RoadNumber style="green" number="A2" /> `W-E` from Sofia to Yablanitsa, continues from Shumen to Varna
+
+<RoadNumber style="green" number="A3" /> `N-S` from Pernik to Greek border at Kulata
+
+<RoadNumber style="green" number="A4" /> `W-E` from Plovdiv to Turkish border at Svilengrad
+
+<RoadNumber style="green" number="A5" /> `N-S` from Varna towards Burgas (incomplete)
 
 ## National Roads
 
@@ -152,15 +163,23 @@ National roads form the bulk of the Bulgarian road network, and are tiered accor
 
 Single-digit roads are the main national roads, and are well-organized – odd-numebred routes go north-south, with numbering increasing to the east, while even-numbered routes go east-west with numbering increasing to the south:
 
-- <span className="px-2 py-1 text-white font-bold" style={{backgroundColor: 'royalblue', borderRadius: '0.25rem'}}>1</span>: (N-S) Vidin-Sofia
-- <span className="px-2 py-1 text-white font-bold" style={{backgroundColor: 'royalblue', borderRadius: '0.25rem'}}>3</span>: (N-S) Ruse/Veliko Tarnovo-Pleven-Botevgrad (exception to the rule)
-- <span className="px-2 py-1 text-white font-bold" style={{backgroundColor: 'royalblue', borderRadius: '0.25rem'}}>5</span>: (N-S) Ruse-Veliko Tarnovo-Stara Zagora-Haskovo
-- <span className="px-2 py-1 text-white font-bold" style={{backgroundColor: 'royalblue', borderRadius: '0.25rem'}}>7</span>: (N-S) Silistra-Shumen-Yambol
-- <span className="px-2 py-1 text-white font-bold" style={{backgroundColor: 'royalblue', borderRadius: '0.25rem'}}>9</span>: (N-S) Varna-Burgas
-- <span className="px-2 py-1 text-white font-bold" style={{backgroundColor: 'royalblue', borderRadius: '0.25rem'}}>2</span>: (W-E) Ruse-Shumen-Varna
-- <span className="px-2 py-1 text-white font-bold" style={{backgroundColor: 'royalblue', borderRadius: '0.25rem'}}>4</span>: (W-E) Veliko Tarnovo-Targovishte-Shumen
-- <span className="px-2 py-1 text-white font-bold" style={{backgroundColor: 'royalblue', borderRadius: '0.25rem'}}>6</span>: (W-E) Sofia-Sliven-Burgas
-- <span className="px-2 py-1 text-white font-bold" style={{backgroundColor: 'royalblue', borderRadius: '0.25rem'}}>8</span>: (W-E) Sofia-Plovdiv-Haskovo-Svilengrad
+<RoadNumber style="royalblue" number="1" /> `N-S` Vidin-Sofia
+
+<RoadNumber style="royalblue" number="2" /> `W-E` Ruse-Shumen-Varna
+
+<RoadNumber style="royalblue" number="3" /> `N-S` Ruse/Veliko Tarnovo-Pleven-Botevgrad (exception to the rule)
+
+<RoadNumber style="royalblue" number="4" /> `W-E` Veliko Tarnovo-Targovishte-Shumen
+
+<RoadNumber style="royalblue" number="5" /> `N-S` Ruse-Veliko Tarnovo-Stara Zagora-Haskovo
+
+<RoadNumber style="royalblue" number="6" /> `W-E` Sofia-Sliven-Burgas
+
+<RoadNumber style="royalblue" number="7" /> `N-S` Silistra-Shumen-Yambol
+
+<RoadNumber style="royalblue" number="8" /> `W-E` Sofia-Plovdiv-Haskovo-Svilengrad
+
+<RoadNumber style="royalblue" number="9" /> `N-S` Varna-Burgas
 
 ---
 
@@ -191,3 +210,5 @@ However, the modern Bulgarian script typically uses a more symmetric, triangular
 # Most Similar
 
 ## [Hungary](/countries/HUN)
+
+One feature that Bulgarian coverage shares with that of Hungary is winter coverage, which is an identifying oddity of the two countries' coverage. Both countries can also have similar architecture at times, which means the best way to tell the two apart is through language – and their scripts in particular. Bulgaria uses the Cyrillic script (see [Language](#language)), while Hungary uses the Latin alphabet.
