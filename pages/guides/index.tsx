@@ -4,7 +4,7 @@ import Layout from "../../components/layout";
 import Head from "next/head";
 import HeroMap from "../../components/hero-map";
 import { getGuides } from "../../lib/api";
-import GuideType from "../../interfaces/guide.ts";
+import GuideType from "../../interfaces/guide";
 
 type Props = {
   allGuides: GuideType[];

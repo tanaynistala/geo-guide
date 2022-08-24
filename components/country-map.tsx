@@ -22,7 +22,6 @@ const CountryMap = ({ code, scale, level = 1 }: Props) => {
   const [tooltipContent, setTooltipContent] = useState("");
 
   const country = getCountryData(code);
-  console.log(country.capitalCoords);
 
   const mapWidth = 512;
   const mapHeight = 512;

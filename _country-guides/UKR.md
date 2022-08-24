@@ -1,4 +1,4 @@
-`Introduction`
+Welcome to the land of sunflower fields and blue skies so good it's basically their flag. Their days aren't so bright nowadays, but we can still explore this beautiful country in GeoGuessr – Слава Україні!
 
 ---
 
@@ -126,21 +126,21 @@ The Ukrainian road network is divided into seven tiers, although only the first 
 3. Regional (P-series)
 4. Territorial (T-series)
 
-All tiers are signposted in the same format, with white text on a blue background: <RoadNumber number='P01' textColor='white' backgroundColor='royalblue' />.
+All tiers are signposted in the same format, with white text on a blue background: <RoadNumber number='P01' style='royalblue' />.
 
 ## International Roads (_Міжнародні_)
 
 These are the highest tier of roads in Ukraine, and form a national network with [H-series roads](#national-roads-національні).
 
-Roads <RoadNumber number='M01' textColor='white' backgroundColor='royalblue'/>-<RoadNumber number='M07' textColor='white' backgroundColor='royalblue'/> radiate in clockwise order out from Kyiv, and roads <RoadNumber number='M09' textColor='white' backgroundColor='royalblue'/>-<RoadNumber number='M11' textColor='white' backgroundColor='royalblue'/> radiate in counterclockwise order from L'viv. Other roads are numbered up to <RoadNumber number='M29' textColor='white' backgroundColor='royalblue'/>.
+Roads <RoadNumber number='M01' style='royalblue'/>-<RoadNumber number='M07' style='royalblue'/> radiate in clockwise order out from Kyiv, and roads <RoadNumber number='M09' style='royalblue'/>-<RoadNumber number='M11' style='royalblue'/> radiate in counterclockwise order from L'viv. Other roads are numbered up to <RoadNumber number='M29' style='royalblue'/>.
 
 ## National Roads (_Національні_)
 
-Along with the [M-series roads](#international-roads-міжнародні), these form the national road network. These routes are prefixed with an `H`, which is the Cyrillic equivalent to the Latin letter `N`, and are numbered from <RoadNumber number='H01' textColor='white' backgroundColor='royalblue'/> to <RoadNumber number='H33' textColor='white' backgroundColor='royalblue'/>.
+Along with the [M-series roads](#international-roads-міжнародні), these form the national road network. These routes are prefixed with an `H`, which is the Cyrillic equivalent to the Latin letter `N`, and are numbered from <RoadNumber number='H01' style='royalblue'/> to <RoadNumber number='H33' style='royalblue'/>.
 
 ## Regional Roads (_Регіональні_)
 
-Regional roads form a second road network across Ukraine. They are usually prefixed with a `P`, which is the Cyrillic equivalent to the Latin letter `R`, and are numbered from <RoadNumber number='P01' textColor='white' backgroundColor='royalblue'/> to <RoadNumber number='P84' textColor='white' backgroundColor='royalblue'/>. Road numbers roughly increase from west to east, although there are many exceptions.
+Regional roads form a second road network across Ukraine. They are usually prefixed with a `P`, which is the Cyrillic equivalent to the Latin letter `R`, and are numbered from <RoadNumber number='P01' style='royalblue'/> to <RoadNumber number='P84' style='royalblue'/>. Road numbers roughly increase from west to east, although there are many exceptions.
 
 ## Territorial Roads (_Територіальні_)
 
@@ -174,7 +174,7 @@ These are the lowest signed tier of roads, and are prefixed with a `T`. The firs
 26. Chernivtsi
 27. Sevastopol'
 
-Territorial roads are numbered with four digits, including the two digit oblast code; so <RoadNumber number='T1502' textColor='white' backgroundColor='royalblue'/> is in Mikolaiv Oblast.
+Territorial roads are numbered with four digits, including the two digit oblast code; so <RoadNumber number='T1502' style='royalblue'/> is in Mikolaiv Oblast.
 
 ---
 

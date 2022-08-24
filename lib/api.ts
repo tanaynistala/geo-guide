@@ -33,7 +33,7 @@ export function getGuides(postType: string) {
   if (postType === "country") {
     return guides;
   }
-  return guides.sort((guide1, guide2) => (guide1.date > guide2.date ? -1 : 1));
+  return guides;
 }
 
 export async function getGuide(postType: string, slug: string) {
@@ -87,7 +87,6 @@ export async function getGuide(postType: string, slug: string) {
           rehypeTOC,
         ],
       },
-      scope: data,
     });
 
     const result = {

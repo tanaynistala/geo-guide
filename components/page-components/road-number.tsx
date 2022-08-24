@@ -11,8 +11,8 @@ const RoadNumber = ({
   style,
   number,
   backgroundColor = style,
-  textColor = style === "gold" ? "black" : "white",
-  borderColor = "white",
+  textColor = style === "gold" || style === "white" ? "black" : "white",
+  borderColor = style === "white" ? "black" : style,
   borderStyle = "solid",
 }: Props) => {
   if (style === "hex") {
@@ -51,7 +51,7 @@ const RoadNumber = ({
   } else {
     return (
       <span
-        className="rounded py-0.5 m-0 px-2 leading-tight inline-block border-2 font-semibold"
+        className="rounded m-0 px-1 leading-tight inline-block border-2 font-semibold"
         style={{
           borderColor: borderColor,
           borderStyle: borderStyle,
@@ -144,7 +144,6 @@ const HexagonRoadNumber = ({
       <svg
         className="-z-10 w-8 absolute"
         viewBox="0 0 146 130"
-        fill="none"
         xmlns="http://www.w3.org/2000/svg"
         fill={backgroundColor}
       >

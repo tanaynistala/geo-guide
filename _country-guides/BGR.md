@@ -181,6 +181,19 @@ Single-digit roads are the main national roads, and are well-organized – odd-n
 
 <RoadNumber style="royalblue" number="9" /> `N-S` Varna-Burgas
 
+Two-, three-, and four-digit national roads derive their numbers from the road they branched off from. So the following hierarchy can exist (each road number branches off of the road one tier above it):
+
+1. <RoadNumber style="royalblue" number="1" /> 
+   1. <RoadNumber style="royalblue" number="12" />
+      1. <RoadNumber style="royalblue" number="123" />
+         1. <RoadNumber style="royalblue" number="1234" />
+      2. <RoadNumber style="royalblue" number="1204" />
+   2. <RoadNumber style="royalblue" number="103" />
+      1. <RoadNumber style="royalblue" number="1034" />
+   3. <RoadNumber style="royalblue" number="1004" />
+
+In the above hierarchy, roads <RoadNumber style="royalblue" number="12" />, <RoadNumber style="royalblue" number="103" />, and <RoadNumber style="royalblue" number="1004" /> all branch off of the <RoadNumber style="royalblue" number="1" />, but are of lower and lower tiers, linking smaller towns and villages. Roads <RoadNumber style="royalblue" number="123" /> and <RoadNumber style="royalblue" number="1204" /> branch off of the <RoadNumber style="royalblue" number="12" />, but are of differing tiers as well, while <RoadNumber style="royalblue" number="1234" /> is a further branch off of the <RoadNumber style="royalblue" number="123" />. Meanwhile, <RoadNumber style="royalblue" number="1034" /> is a branch off of the <RoadNumber style="royalblue" number="103" />
+
 ---
 
 # Architecture

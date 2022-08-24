@@ -42,6 +42,27 @@ A guide to GeoGuessr, currently in very early stages and still a work in progres
   - [x] Switzerland
   - [ ] Liechtenstein
   - [ ] Austria
+- Eastern Europe
+  - [ ] Czechia
+  - [ ] Slovakia
+  - [ ] Hungary
+  - [ ] Poland
+  - [ ] Belarus
+  - [x] Ukraine
+  - [ ] Moldova
+  - [ ] Romania
+  - [ ] Russia
+- Southeastern Europe
+  - [ ] Slovenia
+  - [ ] Croatia
+  - [ ] Serbia
+  - [ ] Bosnia & Herzegovina
+  - [ ] Montenegro
+  - [ ] Albania
+  - [ ] Kosovo
+  - [ ] North Macedonia
+  - [x] Bulgaria
+  - [ ] Greece
 
 ## Credits
 
