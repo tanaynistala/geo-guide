@@ -22,7 +22,7 @@ const RoadNumber = ({
         num={num}
         backgroundColor={bg}
         textColor={text}
-        borderColor={border}
+        border={border}
         borderStyle={borderStyle}
       />
     );
@@ -33,7 +33,7 @@ const RoadNumber = ({
         num={num}
         backgroundColor={bg}
         textColor={text}
-        borderColor={border}
+        border={border}
         borderStyle={borderStyle}
       />
     );
@@ -44,7 +44,7 @@ const RoadNumber = ({
         num={num}
         backgroundColor={bg}
         textColor={text}
-        borderColor={border}
+        border={border}
         borderStyle={borderStyle}
       />
     );
