@@ -1,11 +1,6 @@
 `Introduction`
 
----
-
-# Subdivisions
-
-Belgium is divided into three regions, of which the first two (Flanders and Wallonia) are each divided into five provinces:
-
+- Bruxelles / Brussels (Bilingual)
 - Vlaanderen / Flanders (Dutch-speaking)
   - Antwerpen
   - Oost-Vlaanderen
@@ -13,12 +8,106 @@ Belgium is divided into three regions, of which the first two (Flanders and Wall
   - Limbourg
   - West-Vlaanderen
 - Wallonie / Wallonia (French-speaking)
+
   - Hainaut
   - Liège / Lüttich
   - Luxembourg
   - Namur
-  - Brabant wallon
-- Bruxelles / Brussels (Bilingual)
+  - Brabant Wallon
+
+---
+
+# Subdivisions
+
+Belgium is divided into three regions, of which the first two (Flanders and Wallonia) are each divided into five provinces (the third being the capital region of Brussels / Bruxelles). The list below shows the names for the provinces (English-Dutch-French-German) with the official names in **bold**:
+
+- Flanders
+
+  **Vlaanderen** `Dutch`
+
+  - Antwerp
+
+    **Antwerpen**
+
+    Anvers
+
+    Antwerpen
+
+  - East Flanders
+
+    **Oost-Vlaanderen**
+
+    Flandre orientale
+
+    Ostflandern
+
+  - Flemish Brabant
+
+    **Vlaams-Brabant**
+
+    Brabant flamand
+
+    Flämisch-Brabant
+
+  - Limburg
+
+    **Limburg**
+
+    Limbourg
+
+    Limburg
+
+  - West Flanders
+
+    **West-Vlaanderen**
+
+    Flandre occidentale
+
+    Westflandern
+
+- Wallonia
+
+  **Wallonie** `French`
+
+  - Hainaut
+
+    Henegouwen
+
+    **Hainaut**
+
+    Hennegau
+
+  - Liège
+
+    Luik
+
+    **Liège**
+
+    **Lüttich**
+
+  - Luxembourg
+
+    Luxemburg
+
+    **Luxembourg**
+
+    Luxemburg
+
+  - Namur
+
+    Namen
+
+    **Namur**
+
+    Namür
+
+  - Walloon Brabant
+
+    Waals-Brabant
+
+    **Brabant wallon**
+
+    Wallonisch-Brabant
 
 <CountryMap code="BEL" scale="10000" level="2" />
 
@@ -31,6 +120,18 @@ As a member of the EU, Belgium's license plates feature a blue band on the left 
 ---
 
 # Phone Codes
+
+Telephone numebrs in Belgium are organized by municipality and region, and are nine digits long (as opposed to 10-digit mobile numbers). Phone numbers are typically prefixed with a zero (0):
+
+1. Northeast (Vlaams-Brabant, Limburg, Brabant Wallon)
+2. Brussels
+3. Antwerpen
+4. Liège
+5. Northwest (West-Vlaanderen, Oost-Vlaanderen)
+6. Southwest (Hainaut, Luxembourg)
+7. Charleroi
+8. Southeast (Liège, Namur)
+9. Gent
 
 ---
 

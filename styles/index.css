@@ -81,7 +81,7 @@
         columns: 1;
 
         li {
-          line-height: 0.75;
+          margin: 0 0 1rem 0;
         }
       }
 

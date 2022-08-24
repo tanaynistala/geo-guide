@@ -48,6 +48,16 @@ As a member of the EU, Austria's license plates feature a blue band on the left 
 
 # Phone Codes
 
+Austrian phone codes mostly follow the state borders, with some exceptions. Phone numbers are prefixed with a zero (0):
+
+1. Wien / Vienna
+2. Niederösterreich, Burgenland (northern half)
+3. Steiermark, Burgenland (southern half)
+4. Kärnten, Osttirol (eastern exclave of Tirol)
+5. Vorarlberg, Tirol
+6. Salzburg
+7. Oberösterreich, Niederösterreich (southwestern part)
+
 ---
 
 # Roads, Markings, and Signage
