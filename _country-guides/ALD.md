@@ -14,6 +14,8 @@
 
 # Phone Codes
 
+Åland uses the `18` area code in the Finnish system.
+
 ---
 
 # Roads, Markings, and Signage
