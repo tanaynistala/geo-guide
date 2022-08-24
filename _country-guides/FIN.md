@@ -154,15 +154,15 @@ The Finnish road network is divided into four tiers: first- (_valtatie_) and sec
 
 ## Class I Main Roads (_Valtatie_)
 
-These are the largest highways in Finland, and are signposted with white text on a red background. They can be numbered up to 29: <RoadNumber style="red" number="7" />. Highways 1-7 radiate outwards from Helsinki, 8-10 from Turku, and 11 and 12 start in Tampere. There is no discernible pattern to the numbering of the remaining routes, but they typically connect large cities together.
+These are the largest highways in Finland, and are signposted with white text on a red background. They can be numbered up to 29: <RoadNumber bg="red" num="7" />. Highways 1-7 radiate outwards from Helsinki, 8-10 from Turku, and 11 and 12 start in Tampere. There is no discernible pattern to the numbering of the remaining routes, but they typically connect large cities together.
 
 ## Class II Main Roads (_Kantatie_)
 
-These highways complement the Class I main roads, and are signposted with black text on a yellow background. They can be numbered between 40 and 93: <RoadNumber style="gold" borderColor="black" number="45" />. There is some clustering of the numbering system, and it generally increases to the north and to the east.
+These highways complement the Class I main roads, and are signposted with black text on a yellow background. They can be numbered between 40 and 93: <RoadNumber bg="gold" border="black" num="45" />. There is some clustering of the numbering system, and it generally increases to the north and to the east.
 
 ## Regional and Connecting Roads (_Maantie_)
 
-These are more minor roads that are mostly regional. They can have either three or four digits, and the two kinds are signed differently. 3-digit roads are called _seututie_, and are signposted with black text on a white background: <RoadNumber style="white" number="123" />. 4-digit roads are called _yhdystie_, and are signposted with white text on a blue background: <RoadNumber style="royalblue" number="1234" />. _Yhdystie_ numbers are usually derived from a nearby _seututie_ number by adding a digit onto the end, so route <RoadNumber style="royalblue" number="1456" /> branches off route <RoadNumber style="white" number="145" />.
+These are more minor roads that are mostly regional. They can have either three or four digits, and the two kinds are signed differently. 3-digit roads are called _seututie_, and are signposted with black text on a white background: <RoadNumber bg="white" num="123" />. 4-digit roads are called _yhdystie_, and are signposted with white text on a blue background: <RoadNumber bg="royalblue" num="1234" />. _Yhdystie_ numbers are usually derived from a nearby _seututie_ number by adding a digit onto the end, so route <RoadNumber bg="royalblue" num="1456" /> branches off route <RoadNumber bg="white" num="145" />.
 
 These routes are roughly organized by region, but can spill over into neighboring areas. Here are the regions, by the first digit:
 
@@ -180,9 +180,9 @@ These routes are roughly organized by region, but can spill over into neighborin
 
 Helsinki has three ring roads that are signposted with Roman numerals. Since Helsinki is bilingual, these signs bear both the words _Kehä_ `FI` and _Ring_ `SE`, followed by the Roman numeral `I`, `II`, or `III`. However, these ring routes aren't shown on ht emap, instead using their traditional number:
 
-- Ring I: <RoadNumber style="white" number="101" />
-- Ring II: <RoadNumber style="white" number="102" />
-- Ring III: <RoadNumber style="gold" borderColor="black" number="50" />
+- Ring I: <RoadNumber bg="white" num="101" />
+- Ring II: <RoadNumber bg="white" num="102" />
+- Ring III: <RoadNumber bg="gold" border="black" num="50" />
 
 ---
 

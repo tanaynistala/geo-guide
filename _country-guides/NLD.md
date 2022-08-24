@@ -25,7 +25,7 @@ The Netherlands is comprised of the following twelve provinces:
 
 # License Plates
 
-Vehicles in the Netherlands have yellow license plates, with black text and a blue band on the left. The band bears standard the EU flag and the code `NL` for the Netherlands: <LicensePlate style="eu" code="NL" format="A-123-BC" backgroundColor="gold"/> Dutch license plates are typically a deeper shade of yellow than those found in Luxembourg and, unlike the United Kingdom, are yellow on both sides of the vehicle.
+Vehicles in the Netherlands have yellow license plates, with black text and a blue band on the left. The band bears standard the EU flag and the code `NL` for the Netherlands: <LicensePlate style="eu" code="NL" format="A-123-BC" bg="gold"/> Dutch license plates are typically a deeper shade of yellow than those found in Luxembourg and, unlike the United Kingdom, are yellow on both sides of the vehicle.
 
 ---
 
@@ -61,11 +61,11 @@ The Dutch road network is one of the densest in the world, and is comprised of t
 
 ## A-routes (_Autosnelwegen_)
 
-The A-routes, as controlled-access, multi-carriageway freeways, have the highest capacity of any, and typically have speed limits in excess of 100 km/h. They can be numbered up to three digits in the following format: <RoadNumber number='A12' backgroundColor='red' textColor='white' />. They are easy to spot on the map, and only 45 such highways exist in the Netherlands. Exits are numbered sequentially. To learn more, check out [autosnelwegen.net](https://autosnelwegen.net)
+The A-routes, as controlled-access, multi-carriageway freeways, have the highest capacity of any, and typically have speed limits in excess of 100 km/h. They can be numbered up to three digits in the following format: <RoadNumber num='A12' bg='red' text="white" />. They are easy to spot on the map, and only 45 such highways exist in the Netherlands. Exits are numbered sequentially. To learn more, check out [autosnelwegen.net](https://autosnelwegen.net)
 
 ## N-routes (_Autowegen_)
 
-The N-routes are the most extensive of the Dutch highway networks, and are the network you will encounter most often in GeoGuessr. They can be numbered up to three digits in the following format: <RoadNumber number='N123' backgroundColor='gold' />. N-routes are fairly well-ordered, although the numbering is split into two sections.
+The N-routes are the most extensive of the Dutch highway networks, and are the network you will encounter most often in GeoGuessr. They can be numbered up to three digits in the following format: <RoadNumber num='N123' bg='gold' />. N-routes are fairly well-ordered, although the numbering is split into two sections.
 
 ### N198 - N399
 
@@ -95,10 +95,7 @@ These N-routes roughly correspond to the provinces:
 
 ## S-routes (_Stadsroutes_)
 
-S-routes, or _stadsroutes_, literally translates to _city routes_, and as such are only found in specific urban areas. Only six cities currently have S-route networks: Amsterdam, Zaanstad, and Almere in the north; Rotterdam and Den Haag in the south; and Nijmegen in the east. They are all numbered with three digits, and numbers begin with 1 or 2. All roads numbered
-**{
-<span style={{padding: '0.25rem', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderWidth: '2px', borderColor: 'lightgray' }}>S100</span>
-}** are inner-city ring roads; there is typically no pattern to the other S-routes.
+S-routes, or _stadsroutes_, literally translates to _city routes_, and as such are only found in specific urban areas. Only six cities currently have S-route networks: Amsterdam, Zaanstad, and Almere in the north; Rotterdam and Den Haag in the south; and Nijmegen in the east. They are all numbered with three digits, and numbers begin with 1 or 2. All roads numbered <RoadNumber style="long-hex" num="s100" border="black" /> are inner-city ring roads; there is typically no pattern to the other S-routes.
 
 ---
 

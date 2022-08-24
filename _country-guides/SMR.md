@@ -22,7 +22,7 @@ San Marino is divided into 9 municipalities, or _castelli_:
 
 # License Plates
 
-San Marino's license plates feature the Sammarinese coat of arms (represented by a `∇` below). on the left side of the plate. Plates are white with blue text: <LicensePlate style="sm" code="∇" format="A1234" textColor="blue" />.
+San Marino's license plates feature the Sammarinese coat of arms (represented by a `∇` below). on the left side of the plate. Plates are white with blue text: <LicensePlate style="sm" code="∇" format="A1234" text="blue" />.
 
 ---
 

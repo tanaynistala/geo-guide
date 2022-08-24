@@ -126,21 +126,21 @@ The Ukrainian road network is divided into seven tiers, although only the first 
 3. Regional (P-series)
 4. Territorial (T-series)
 
-All tiers are signposted in the same format, with white text on a blue background: <RoadNumber number='P01' style='royalblue' />.
+All tiers are signposted in the same format, with white text on a blue background: <RoadNumber num='P01' bg='royalblue' />.
 
 ## International Roads (_Міжнародні_)
 
 These are the highest tier of roads in Ukraine, and form a national network with [H-series roads](#national-roads-національні).
 
-Roads <RoadNumber number='M01' style='royalblue'/>-<RoadNumber number='M07' style='royalblue'/> radiate in clockwise order out from Kyiv, and roads <RoadNumber number='M09' style='royalblue'/>-<RoadNumber number='M11' style='royalblue'/> radiate in counterclockwise order from L'viv. Other roads are numbered up to <RoadNumber number='M29' style='royalblue'/>.
+Roads <RoadNumber num='M01' bg='royalblue'/>-<RoadNumber num='M07' bg='royalblue'/> radiate in clockwise order out from Kyiv, and roads <RoadNumber num='M09' bg='royalblue'/>-<RoadNumber num='M11' bg='royalblue'/> radiate in counterclockwise order from L'viv. Other roads are numbered up to <RoadNumber num='M29' bg='royalblue'/>.
 
 ## National Roads (_Національні_)
 
-Along with the [M-series roads](#international-roads-міжнародні), these form the national road network. These routes are prefixed with an `H`, which is the Cyrillic equivalent to the Latin letter `N`, and are numbered from <RoadNumber number='H01' style='royalblue'/> to <RoadNumber number='H33' style='royalblue'/>.
+Along with the [M-series roads](#international-roads-міжнародні), these form the national road network. These routes are prefixed with an `H`, which is the Cyrillic equivalent to the Latin letter `N`, and are numbered from <RoadNumber num='H01' bg='royalblue'/> to <RoadNumber num='H33' bg='royalblue'/>.
 
 ## Regional Roads (_Регіональні_)
 
-Regional roads form a second road network across Ukraine. They are usually prefixed with a `P`, which is the Cyrillic equivalent to the Latin letter `R`, and are numbered from <RoadNumber number='P01' style='royalblue'/> to <RoadNumber number='P84' style='royalblue'/>. Road numbers roughly increase from west to east, although there are many exceptions.
+Regional roads form a second road network across Ukraine. They are usually prefixed with a `P`, which is the Cyrillic equivalent to the Latin letter `R`, and are numbered from <RoadNumber num='P01' bg='royalblue'/> to <RoadNumber num='P84' bg='royalblue'/>. Road numbers roughly increase from west to east, although there are many exceptions.
 
 ## Territorial Roads (_Територіальні_)
 
@@ -174,7 +174,7 @@ These are the lowest signed tier of roads, and are prefixed with a `T`. The firs
 26. Chernivtsi
 27. Sevastopol'
 
-Territorial roads are numbered with four digits, including the two digit oblast code; so <RoadNumber number='T1502' style='royalblue'/> is in Mikolaiv Oblast.
+Territorial roads are numbered with four digits, including the two digit oblast code; so <RoadNumber num='T1502' bg='royalblue'/> is in Mikolaiv Oblast.
 
 ---
 

@@ -64,7 +64,7 @@ for the following format: <LicensePlate style="ch" format="+ AB•123456 ∇" />
 
 2-lane roads have white center lines and solid white shoulder lines. Single-lane roads only rarely have any road markings. The swiss pedestrian crossings are long and thick yellow lines. Swiss bollards are usually but not only round and always white. In winter coverage, you can find wooden snow bollards with usually orange painting on the tip. On highways, you will find kilometer markers with the road numbers on the guardrail in the middle of the highway.
 
-<RoadNumber style="long-hex" number="12" backgroundColor="red" textColor="white" />
+<RoadNumber style="long-hex" num="12" bg="red" />
 
 ---
 

@@ -25,7 +25,7 @@ Luxembourg is divided into twelve cantons:
 
 # License Plates
 
-As a member of the EU, Luxembourg's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `L`. Plates are yellow with black text: <LicensePlate style="eu" code="L" format="AB 1234" backgroundColor="yellow" />. The yellow is typically brighter and has a fluorescent look compared to Dutch license plates.
+As a member of the EU, Luxembourg's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `L`. Plates are yellow with black text: <LicensePlate style="eu" code="L" format="AB 1234" bg="yellow" />. The yellow is typically brighter and has a fluorescent look compared to Dutch license plates.
 
 ---
 

@@ -26,7 +26,7 @@ Belgium is divided into three regions, of which the first two (Flanders and Wall
 
 # License Plates
 
-As a member of the EU, Belgium's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `B`. Plates are white with red text and red borders: <LicensePlate style="eu" code="B" format="AB 12 CD" borderColor="red" textColor="red" />.
+As a member of the EU, Belgium's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `B`. Plates are white with red text and red borders: <LicensePlate style="eu" code="B" format="AB 12 CD" border="red" text="red" />.
 
 ---
 

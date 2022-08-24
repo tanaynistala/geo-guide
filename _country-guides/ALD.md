@@ -8,7 +8,7 @@
 
 # License Plates
 
-Åland's license plates feature the text "Åland" with the flag and coat of arms of Åland on the top of the plate. Plates are white with blue text and a blue border, and always begin with the country code `ÅL`: <LicensePlate style="aland" format="ÅL 12345" textColor="dodgerblue" borderColor="dodgerblue" />.
+Åland's license plates feature the text "Åland" with the flag and coat of arms of Åland on the top of the plate. Plates are white with blue text and a blue border, and always begin with the country code `ÅL`: <LicensePlate style="aland" format="ÅL 12345" text="dodgerblue" border="dodgerblue" />.
 
 ---
 

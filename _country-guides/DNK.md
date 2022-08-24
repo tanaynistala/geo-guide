@@ -32,7 +32,7 @@ Denmark can also be divided up by its islands, in addition to divisions on the m
 
 # License Plates
 
-As a member of the EU, Denmark's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `DK`. However, this band is currently optional, and so it is possible (and common) to see plates without the band. Private vehicles use white plates with black text and a red outline: <LicensePlate style="eu" code="DK" format="AB 12 345" borderColor="red"/>, while commercial vehicles use yellow-backed plates with the same black text and red outline: <LicensePlate style="eu" code="DK" format="AB 12 345" backgroundColor="gold" borderColor="red"/>.
+As a member of the EU, Denmark's license plates feature a blue band on the left side of the plate with the EU circle of stars and the country code `DK`. However, this band is currently optional, and so it is possible (and common) to see plates without the band. Private vehicles use white plates with black text and a red outline: <LicensePlate style="eu" code="DK" format="AB 12 345" border="red"/>, while commercial vehicles use yellow-backed plates with the same black text and red outline: <LicensePlate style="eu" code="DK" format="AB 12 345" bg="gold" border="red"/>.
 
 ---
 
@@ -65,21 +65,11 @@ Signs pointing to nearby towns are white with red text and a red outline forming
 
 There are five E-routes/motorways running through Denmark that are signed as such:
 
-- **{
-  <span style={{padding: '0 0.25rem', color: 'white', backgroundColor: 'green', borderRadius: '0.25rem', display: 'inline-block'}}>E20</span>
-  }** `E-W` from Esbjerg, Syddanmark through Copenhagen, crossing the Øresund Strait to Malmö `SE`
-- **{
-  <span style={{padding: '0 0.25rem', color: 'white', backgroundColor: 'green', borderRadius: '0.25rem', display: 'inline-block'}}>E39</span>
-  }** `N-S` from Hirtshals, Nordjylland to Aalborg
-- **{
-  <span style={{padding: '0 0.25rem', color: 'white', backgroundColor: 'green', borderRadius: '0.25rem', display: 'inline-block'}}>E45</span>
-  }** `N-S` from Frederikshavn, Nordjylland to German border near Flensburg `DE`
-- **{
-  <span style={{padding: '0 0.25rem', color: 'white', backgroundColor: 'green', borderRadius: '0.25rem', display: 'inline-block'}}>E47</span>
-  }** `N-S` from Helsingør, Sjælland to Rødbyhavn, Lolland
-- **{
-  <span style={{padding: '0 0.25rem', color: 'white', backgroundColor: 'green', borderRadius: '0.25rem', display: 'inline-block'}}>E55</span>
-  }** `N-S` from E47 near Farø Bridge between Sjælland and Falster to Gedser, Falster
+- <RoadNumber num="E20" bg="green" /> `E-W` from Esbjerg, Syddanmark through Copenhagen, crossing the Øresund Strait to Malmö `SE`
+- <RoadNumber num="E39" bg="green" /> `N-S` from Hirtshals, Nordjylland to Aalborg
+- <RoadNumber num="E45" bg="green" /> `N-S` from Frederikshavn, Nordjylland to German border near Flensburg `DE`
+- <RoadNumber num="E47" bg="green" /> `N-S` from Helsingør, Sjælland to Rødbyhavn, Lolland
+- <RoadNumber num="E55" bg="green" /> `N-S` from E47 near Farø Bridge between Sjælland and Falster to Gedser, Falster
 
 Exits on motorways are marked with red text on a white hexagon, and directions to numbered roads use the European norm of a solid border when the road is present at the junction, and a dashed border when the road at the junction leads to the numbered road.
 
@@ -87,19 +77,13 @@ Other routes are divided into primary and secondary routes, as described below:
 
 ## Primary Routes (_primærrute_)
 
-These are the main national routes across Denmark. They are signposted with black text on a yellow background, and can have up to two digits: **{
-<span style={{padding: '0 0.75rem', color: 'black', backgroundColor: 'gold', borderRadius: '0.25rem', borderColor: 'black', borderWidth: '2px', display: 'inline-block'}}>16</span>
-}**.
+These are the main national routes across Denmark. They are signposted with black text on a yellow background, and can have up to two digits: <RoadNumber num="12" bg="gold" border="black" />.
 
-Route numbers 2 through 5 are reserved for ring routes; they are prefixed with a zero (0) or the letter _O_: **{
-<span style={{padding: '0 0.75rem', color: 'black', backgroundColor: 'gold', borderRadius: '0.25rem', borderColor: 'black', borderWidth: '2px', display: 'inline-block'}}>O 2</span>
-}**. The remaining routes are not ordered in a particular way, although only 37 unique numbers are currently used.
+Route numbers 2 through 5 are reserved for ring routes; they are prefixed with a zero (0) or the letter _O_: <RoadNumber num="O 2" bg="gold" border="black" />. The remaining routes are not ordered in a particular way, although only 37 unique numbers are currently used.
 
 ## Secondary Routes (_sekundærrute_)
 
-Secondary routes are signposted with black text on a yellow background, and can have up to three digits: **{
-<span style={{padding: '0 0.25rem', color: 'black', backgroundColor: 'white', borderRadius: '0.25rem', borderColor: 'black', borderWidth: '2px', display: 'inline-block'}}>265</span>
-}**. The routes are mostly organized by region as per the first digit, as follows:
+Secondary routes are signposted with black text on a yellow background, and can have up to three digits: <RoadNumber num="123" border="black" />. The routes are mostly organized by region as per the first digit, as follows:
 
 1. All over Denmark, typically follow motorways or are main roads
 2. Sjælland, Falster, and Lolland

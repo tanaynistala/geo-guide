@@ -8,7 +8,7 @@
 
 # License Plates
 
-Monaco's license plates feature the coat of arms of Monaco on the left side of the plate with the country code `MC`. Plates are white with blue text: <LicensePlate style="mc" code="MC" format="1234" textColor="blue" />. They are shorter than most other European license plates.
+Monaco's license plates feature the coat of arms of Monaco on the left side of the plate with the country code `MC`. Plates are white with blue text: <LicensePlate style="mc" code="MC" format="1234" text="blue" />. They are shorter than most other European license plates.
 
 ---
 

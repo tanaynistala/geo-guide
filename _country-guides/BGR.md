@@ -147,15 +147,15 @@ The Bulgarian road network consists of motorways, of which there are currently o
 
 Motorways are prefixed with the letter `A`. There are currently five motorways, most of which are unfinished. They are signposted with white text on a green background, much like E-routes.
 
-<RoadNumber style="green" number="A1" /> `W-E` from Sofia to Burgas
+<RoadNumber bg="green" num="A1" /> `W-E` from Sofia to Burgas
 
-<RoadNumber style="green" number="A2" /> `W-E` from Sofia to Yablanitsa, continues from Shumen to Varna
+<RoadNumber bg="green" num="A2" /> `W-E` from Sofia to Yablanitsa, continues from Shumen to Varna
 
-<RoadNumber style="green" number="A3" /> `N-S` from Pernik to Greek border at Kulata
+<RoadNumber bg="green" num="A3" /> `N-S` from Pernik to Greek border at Kulata
 
-<RoadNumber style="green" number="A4" /> `W-E` from Plovdiv to Turkish border at Svilengrad
+<RoadNumber bg="green" num="A4" /> `W-E` from Plovdiv to Turkish border at Svilengrad
 
-<RoadNumber style="green" number="A5" /> `N-S` from Varna towards Burgas (incomplete)
+<RoadNumber bg="green" num="A5" /> `N-S` from Varna towards Burgas (incomplete)
 
 ## National Roads
 
@@ -163,36 +163,36 @@ National roads form the bulk of the Bulgarian road network, and are tiered accor
 
 Single-digit roads are the main national roads, and are well-organized – odd-numebred routes go north-south, with numbering increasing to the east, while even-numbered routes go east-west with numbering increasing to the south:
 
-<RoadNumber style="royalblue" number="1" /> `N-S` Vidin-Sofia
+<RoadNumber bg="royalblue" num="1" /> `N-S` Vidin-Sofia
 
-<RoadNumber style="royalblue" number="2" /> `W-E` Ruse-Shumen-Varna
+<RoadNumber bg="royalblue" num="2" /> `W-E` Ruse-Shumen-Varna
 
-<RoadNumber style="royalblue" number="3" /> `N-S` Ruse/Veliko Tarnovo-Pleven-Botevgrad (exception to the rule)
+<RoadNumber bg="royalblue" num="3" /> `N-S` Ruse/Veliko Tarnovo-Pleven-Botevgrad (exception to the rule)
 
-<RoadNumber style="royalblue" number="4" /> `W-E` Veliko Tarnovo-Targovishte-Shumen
+<RoadNumber bg="royalblue" num="4" /> `W-E` Veliko Tarnovo-Targovishte-Shumen
 
-<RoadNumber style="royalblue" number="5" /> `N-S` Ruse-Veliko Tarnovo-Stara Zagora-Haskovo
+<RoadNumber bg="royalblue" num="5" /> `N-S` Ruse-Veliko Tarnovo-Stara Zagora-Haskovo
 
-<RoadNumber style="royalblue" number="6" /> `W-E` Sofia-Sliven-Burgas
+<RoadNumber bg="royalblue" num="6" /> `W-E` Sofia-Sliven-Burgas
 
-<RoadNumber style="royalblue" number="7" /> `N-S` Silistra-Shumen-Yambol
+<RoadNumber bg="royalblue" num="7" /> `N-S` Silistra-Shumen-Yambol
 
-<RoadNumber style="royalblue" number="8" /> `W-E` Sofia-Plovdiv-Haskovo-Svilengrad
+<RoadNumber bg="royalblue" num="8" /> `W-E` Sofia-Plovdiv-Haskovo-Svilengrad
 
-<RoadNumber style="royalblue" number="9" /> `N-S` Varna-Burgas
+<RoadNumber bg="royalblue" num="9" /> `N-S` Varna-Burgas
 
 Two-, three-, and four-digit national roads derive their numbers from the road they branched off from. So the following hierarchy can exist (each road number branches off of the road one tier above it):
 
-1. <RoadNumber style="royalblue" number="1" /> 
-   1. <RoadNumber style="royalblue" number="12" />
-      1. <RoadNumber style="royalblue" number="123" />
-         1. <RoadNumber style="royalblue" number="1234" />
-      2. <RoadNumber style="royalblue" number="1204" />
-   2. <RoadNumber style="royalblue" number="103" />
-      1. <RoadNumber style="royalblue" number="1034" />
-   3. <RoadNumber style="royalblue" number="1004" />
+1. <RoadNumber bg="royalblue" num="1" /> 
+   1. <RoadNumber bg="royalblue" num="12" />
+      1. <RoadNumber bg="royalblue" num="123" />
+         1. <RoadNumber bg="royalblue" num="1234" />
+      2. <RoadNumber bg="royalblue" num="1204" />
+   2. <RoadNumber bg="royalblue" num="103" />
+      1. <RoadNumber bg="royalblue" num="1034" />
+   3. <RoadNumber bg="royalblue" num="1004" />
 
-In the above hierarchy, roads <RoadNumber style="royalblue" number="12" />, <RoadNumber style="royalblue" number="103" />, and <RoadNumber style="royalblue" number="1004" /> all branch off of the <RoadNumber style="royalblue" number="1" />, but are of lower and lower tiers, linking smaller towns and villages. Roads <RoadNumber style="royalblue" number="123" /> and <RoadNumber style="royalblue" number="1204" /> branch off of the <RoadNumber style="royalblue" number="12" />, but are of differing tiers as well, while <RoadNumber style="royalblue" number="1234" /> is a further branch off of the <RoadNumber style="royalblue" number="123" />. Meanwhile, <RoadNumber style="royalblue" number="1034" /> is a branch off of the <RoadNumber style="royalblue" number="103" />
+In the above hierarchy, roads <RoadNumber bg="royalblue" num="12" />, <RoadNumber bg="royalblue" num="103" />, and <RoadNumber bg="royalblue" num="1004" /> all branch off of the <RoadNumber bg="royalblue" num="1" />, but are of lower and lower tiers, linking smaller towns and villages. Roads <RoadNumber bg="royalblue" num="123" /> and <RoadNumber bg="royalblue" num="1204" /> branch off of the <RoadNumber bg="royalblue" num="12" />, but are of differing tiers as well, while <RoadNumber bg="royalblue" num="1234" /> is a further branch off of the <RoadNumber bg="royalblue" num="123" />. Meanwhile, <RoadNumber bg="royalblue" num="1034" /> is a branch off of the <RoadNumber bg="royalblue" num="103" />
 
 ---
 

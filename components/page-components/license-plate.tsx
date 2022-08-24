@@ -5,9 +5,9 @@ type Props = {
   codeColor?: string;
   format: string;
 
-  backgroundColor?: string;
-  textColor?: string;
-  borderColor?: string;
+  bg?: string;
+  text?: string;
+  border?: string;
   borderStyle?: string;
   rightBandColor?: string;
 };
@@ -17,9 +17,9 @@ const LicensePlate = ({
   code,
   codeColor = "black",
   format,
-  backgroundColor = "white",
-  textColor = "black",
-  borderColor = "black",
+  bg = "white",
+  text = "black",
+  border = "black",
   borderStyle = "solid",
   rightBandColor,
 }: Props) => {
@@ -27,7 +27,7 @@ const LicensePlate = ({
     <span
       className="rounded py-0.5 leading-tight inline-block overflow-clip border-2 align-bottom"
       style={{
-        borderColor: borderColor,
+        borderColor: border,
         borderStyle: borderStyle,
       }}
     >
@@ -45,8 +45,8 @@ const LicensePlate = ({
       <span
         className="py-1 px-2 font-semibold"
         style={{
-          backgroundColor: backgroundColor,
-          color: textColor,
+          backgroundColor: bg,
+          color: text,
         }}
       >
         {format}

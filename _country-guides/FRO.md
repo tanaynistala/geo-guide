@@ -21,7 +21,7 @@ The Faroe Islands are divided into six _sýslur_, which roughly translates to sh
 
 # License Plates
 
-Despite Denmark being a part of the EU, the Faroe Islands are not. Faroese license plates have a blue band on the left, like EU countries, but it contains the Faroese flag and the country code `FO`. The license plates are white with blue text: <LicensePlate style="eu" format="AB 123" code="FO" textColor="darkblue" />.
+Despite Denmark being a part of the EU, the Faroe Islands are not. Faroese license plates have a blue band on the left, like EU countries, but it contains the Faroese flag and the country code `FO`. The license plates are white with blue text: <LicensePlate style="eu" format="AB 123" code="FO" text="darkblue" />.
 
 ---
 

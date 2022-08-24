@@ -60,9 +60,7 @@ Phone numbers are prefixed with a zero (0), and are fairly well arranged by regi
 
 # Highways & Road Numbering Schemes
 
-Sweden has two highway systems: European roads, and national roads (riksväg). There is a county road (länsväg) system but this is not usually signed. They are signposted with white text on a blue background, and with a white border: **{
-<span style={{padding: '0.25rem', color: 'white', backgroundColor: 'dodgerblue', borderRadius: '0.25rem'}}>###</span>
-}**. They have two or three digits, and the numbering generally increases going north.
+Sweden has two highway systems: European roads, and national roads (riksväg). There is a county road (länsväg) system but this is not usually signed. They are signposted with white text on a blue background, and with a white border: <RoadNumber num="123" bg="dodgerblue" />. They have two or three digits, and the numbering generally increases going north.
 
 ---
 

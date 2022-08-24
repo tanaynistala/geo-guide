@@ -1,5 +1,5 @@
-<RoadNumber style="hex" number="12" backgroundColor="dodgerblue" textColor="white" />
+<RoadNumber style="hex" num="12" bg="dodgerblue" text="white" />
 
-<RoadNumber style="tri" number="12" backgroundColor="dodgerblue" textColor="white" />
+<RoadNumber style="tri" num="12" bg="dodgerblue" text="white" />
 
 <CountryMap code="JPN" scale="1000" />
