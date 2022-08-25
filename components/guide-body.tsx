@@ -4,7 +4,7 @@ import Link from "next/link";
 import { MDXRemote, MDXRemoteSerializeResult } from "next-mdx-remote";
 import TOC from "./toc";
 import CountryMap from "./country-map";
-import SubdivisionMap from "./subdivision-map/subdivision-map";
+import InteractiveMap from "./interactive-map";
 import LicensePlate from "./page-components/license-plate";
 import RoadNumber from "./page-components/road-number";
 
@@ -61,7 +61,7 @@ const components = {
   Image,
   Link,
   CountryMap,
-  SubdivisionMap,
+  InteractiveMap,
   LicensePlate,
   RoadNumber,
   a: TextLink,

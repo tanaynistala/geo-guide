@@ -7,6 +7,8 @@ import currencyCodes from "./geo-data/currency-codes.json";
 import domainTlds from "./geo-data/domain-tlds.json";
 import drivingSides from "./geo-data/driving-sides.json";
 
+import phoneCodes from "./geo-data/phone-codes.json";
+
 export function getCategorizedCountries() {
   let result = {};
 
@@ -80,4 +82,10 @@ export function getCountryData(countryCode: string) {
     tld,
     drivesOnLeft: drivesOnLeft,
   };
+}
+
+export function getSubdivisionData(countryCode: string) {
+  const countryName = getCountryData(countryCode).name;
+  const data = phoneCodes.find((geo) => geo.country === countryName).codes;
+  return data;
 }
