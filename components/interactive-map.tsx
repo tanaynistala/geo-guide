@@ -7,7 +7,7 @@ import {
   Marker,
 } from "react-simple-maps";
 import { getCountryData, getSubdivisionData } from "../lib/geo-api";
-import geoData from "../pages/api/geo-data/geography.geo.json";
+import geoData from "../lib/geo-data/geography.geo.json";
 import Country from "../interfaces/country";
 import { useState, memo } from "react";
 import ReactTooltip from "react-tooltip";
@@ -15,10 +15,10 @@ import ReactTooltip from "react-tooltip";
 type Props = {
   code: string;
   scale: number;
-  level: number;
+  level: string;
 };
 
-const InteractiveMap = ({ code, scale, level = 1 }: Props) => {
+const InteractiveMap = ({ code, scale, level = "1" }: Props) => {
   const [tooltipContent, setTooltipContent] = useState("");
 
   const country = getCountryData(code);
@@ -26,7 +26,7 @@ const InteractiveMap = ({ code, scale, level = 1 }: Props) => {
   const mapWidth = 512;
   const mapHeight = 512;
 
-  function getName(feature: string) {
+  function getName(feature) {
     switch (level) {
       case "1":
         return feature.properties.NAME_1;
@@ -46,7 +46,7 @@ const InteractiveMap = ({ code, scale, level = 1 }: Props) => {
     }
   }
 
-  function getID(feature: string) {
+  function getID(feature) {
     switch (level) {
       case "1":
         return feature.properties.ID_1;
@@ -66,7 +66,7 @@ const InteractiveMap = ({ code, scale, level = 1 }: Props) => {
     }
   }
 
-  function getCode(feature: string) {
+  function getCode(feature) {
     const id = getID(feature);
     const data = getSubdivisionData(code);
     return data.find((geo) => geo.id === id).code;
