@@ -29,50 +29,38 @@ const InteractiveMap = ({ code, scale, level = "1" }: Props) => {
 
   const data = getSubdivisionData(code);
 
-  function getName(feature) {
-    switch (level) {
-      case "1":
-        return feature.properties.NAME_1;
-        break;
+  const Disclosure = ({ phoneCode }) => {
+    return (
+      <li>
+        <button
+          className={`p-2 ${
+            focus === phoneCode ? "bg-blue-200" : "bg-gray-200"
+          } w-full rounded-lg hover:bg-gray-300`}
+          onClick={() => {
+            focus === phoneCode ? setFocus(-1) : setFocus(phoneCode);
+          }}
+        >
+          {phoneCode}
+        </button>
+        <ol>
+          {() => {
+            const children = data
+              .map((item) => item.code)
+              .filter(
+                (item) =>
+                  item.toString().slice(0, phoneCode.length) === phoneCode
+              );
 
-      case "2":
-        return feature.properties.NAME_2;
-        break;
-
-      case "3":
-        return feature.properties.NAME_2;
-        break;
-
-      default:
-        return feature.properties.NAME_1;
-        break;
-    }
-  }
-
-  function getID(feature) {
-    switch (level) {
-      case "1":
-        return feature.properties.ID_1;
-        break;
-
-      case "2":
-        return feature.properties.ID_2;
-        break;
-
-      case "3":
-        return feature.properties.ID_2;
-        break;
-
-      default:
-        return feature.properties.ID_1;
-        break;
-    }
-  }
-
-  function getCode(feature) {
-    const id = getID(feature);
-    return data.find((geo) => geo.id === id).code;
-  }
+            return children.map((item) => (
+              <Disclosure
+                phoneCode={item.toString().slice(0, phoneCode.length + 1)}
+              />
+            ));
+          }}
+        </ol>
+      </li>
+    );
+  };
 
   return (
     <div className="flex flex-col md:flex-row">
@@ -127,9 +115,7 @@ const InteractiveMap = ({ code, scale, level = "1" }: Props) => {
                     key={feature.rsmKey}
                     geography={feature}
                     onMouseEnter={() => {
-                      setTooltipContent(
-                        `${getName(feature)}: ${getCode(feature)}`
-                      );
+                      setTooltipContent(`${getName(feature)}`);
                     }}
                     onMouseLeave={() => {
                       setTooltipContent("");
@@ -151,21 +137,57 @@ const InteractiveMap = ({ code, scale, level = "1" }: Props) => {
             .filter((item, index, arr) => arr.indexOf(item) === index)
             .sort((a, b) => a - b)
             .map((value) => (
-              <li
-                onMouseEnter={() => {
-                  setFocus(value);
-                }}
-                onMouseLeave={() => {
-                  setFocus(-1);
-                }}
-              >
-                {value}
-              </li>
+              <Disclosure phoneCode={value} />
             ))}
         </ol>
       </div>
     </div>
   );
+
+  function getName(feature) {
+    switch (level) {
+      case "1":
+        return feature.properties.NAME_1;
+        break;
+
+      case "2":
+        return feature.properties.NAME_2;
+        break;
+
+      case "3":
+        return feature.properties.NAME_2;
+        break;
+
+      default:
+        return feature.properties.NAME_1;
+        break;
+    }
+  }
+
+  function getID(feature) {
+    switch (level) {
+      case "1":
+        return feature.properties.ID_1;
+        break;
+
+      case "2":
+        return feature.properties.ID_2;
+        break;
+
+      case "3":
+        return feature.properties.ID_2;
+        break;
+
+      default:
+        return feature.properties.ID_1;
+        break;
+    }
+  }
+
+  function getCode(feature) {
+    const id = getID(feature);
+    return data.find((geo) => geo.id === id).code;
+  }
 };
 
 export default memo(InteractiveMap);
