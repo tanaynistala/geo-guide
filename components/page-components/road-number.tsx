@@ -3,7 +3,7 @@ type Props = {
   num: string;
   code?: string;
   bg?: string;
-  textColor?: string;
+  text?: string;
   border?: string;
   borderStyle?: string;
 };
