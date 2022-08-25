@@ -20,11 +20,14 @@ type Props = {
 
 const InteractiveMap = ({ code, scale, level = "1" }: Props) => {
   const [tooltipContent, setTooltipContent] = useState("");
+  const [focus, setFocus] = useState(-1);
 
   const country = getCountryData(code);
 
   const mapWidth = 512;
   const mapHeight = 512;
+
+  const data = getSubdivisionData(code);
 
   function getName(feature) {
     switch (level) {
@@ -68,12 +71,11 @@ const InteractiveMap = ({ code, scale, level = "1" }: Props) => {
 
   function getCode(feature) {
     const id = getID(feature);
-    const data = getSubdivisionData(code);
     return data.find((geo) => geo.id === id).code;
   }
 
   return (
-    <div className="flex md:flex-row">
+    <div className="flex flex-col md:flex-row">
       <>
         <ComposableMap
           projection="geoAzimuthalEqualArea"
@@ -115,7 +117,13 @@ const InteractiveMap = ({ code, scale, level = "1" }: Props) => {
               {({ geographies }) =>
                 geographies.map((feature) => (
                   <Geography
-                    className="outline-none fill-gray-300 stroke-gray-400 stroke-[0.5] hover:fill-gray-400 rounded"
+                    className={`outline-none stroke-gray-400 stroke-[0.5] rounded
+                      ${
+                        focus === getCode(feature)
+                          ? "fill-gray-500"
+                          : "fill-gray-300"
+                      }
+                        `}
                     key={feature.rsmKey}
                     geography={feature}
                     onMouseEnter={() => {
@@ -136,6 +144,26 @@ const InteractiveMap = ({ code, scale, level = "1" }: Props) => {
           {tooltipContent}
         </ReactTooltip>
       </>
+      <div>
+        <ol>
+          {data
+            .map((item) => item.code)
+            .filter((item, index, arr) => arr.indexOf(item) === index)
+            .sort((a, b) => a - b)
+            .map((value) => (
+              <li
+                onMouseEnter={() => {
+                  setFocus(value);
+                }}
+                onMouseLeave={() => {
+                  setFocus(-1);
+                }}
+              >
+                {value}
+              </li>
+            ))}
+        </ol>
+      </div>
     </div>
   );
 };
