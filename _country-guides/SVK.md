@@ -100,6 +100,42 @@ As a member of the EU, Slovakia's license plates feature a blue band on the left
 
 # Phone Codes
 
+Phone codes in Slovakia are organized by municipality, and are prefixed with a zero (0):
+
+2. Bratislava
+3. **West**
+   1. Dunajská Streda
+   2. Trenčín
+   3. Trnava
+   4. Senica
+   5. Nové Zámky
+   6. Levice
+   7. Nitra
+   8. Topoľčany
+4. **North**
+
+   1. Žilina
+   2. Považská Bystrica
+   3. Martin
+   4. Liptovský Mikuláš
+
+   **South**
+
+   5. Zvolen
+   6. Prievidza
+   7. Lučenec
+   8. Banská Bystrica
+
+5. **East**
+   1. Prešov
+   2. Poprad
+   3. Spišská Nová Ves
+   4. Bardejov
+   5. Košice
+   6. Michalovce
+   7. Humenné
+   8. Rožňava
+
 ---
 
 # Roads, Markings, and Signage

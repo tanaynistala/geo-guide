@@ -43,6 +43,26 @@ As a member of the EU, Slovenia's license plates feature a blue band on the left
 
 # Phone Codes
 
+Phone codes in Slovenia are organized by region, and are prefixed with a zero (0):
+
+1. Ljubljana
+2. **Northeast**
+   - Maribor
+   - Murska Sobota
+   - Ravne na Koroškem
+3. **East**
+   - Celje
+   - Trbovlje
+4. Kranj
+5. **Southwest**
+   - Koper
+   - Postojna
+   - Nova Gorica
+6. `NA`
+7. **Southeast**
+   - Novo Mesto
+   - Krško
+
 ---
 
 # Roads, Markings, and Signage

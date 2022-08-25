@@ -6,28 +6,28 @@ The Chile of Europe, some would say. Welcome to Norway, the beautiful land of mo
 
 Norway is divided into counties known as _fylker_. There were 19 of them until 2019, with several merged to result in the 11 that exist today. These counties are listed below, and the old counties listed for any newly-merged ones.
 
-- Oslo `03`
-- Rogaland `11`
-- Møre og Romsdal `15`
-- Nordland `18`
-- Viken `30`
+- `03` Oslo
+- `11` Rogaland
+- `15` Møre og Romsdal
+- `18` Nordland
+- `30` Viken
   - Østfold
   - Akershus
   - Buskerud
-- Innlandet `34`
+- `34` Innlandet
   - Hedmark
   - Oppland
-- Vestfold og Telemark `38`
+- `38` Vestfold og Telemark
   - Vestfold
   - Telemark
-- Agder `42`
+- `42` Agder
   - Aust-Agder
   - Vest-Agder
-- Vestland `46`
+- `46` Vestland
   - Hordaland
   - Sogn og Fjordane
-- Trøndelag `50`
-- Troms og Finnmark `54`
+- `50` Trøndelag
+- `54` Troms og Finnmark
   - Troms
   - Finnmark
 

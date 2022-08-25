@@ -82,6 +82,34 @@ As a member of the EU, Poland's license plates feature a blue band on the left s
 
 # Phone Codes
 
+Phone codes in Poland are well-organized by region, and mostly follow voivodeship borders:
+
+1. **Southeast**
+   - Małopolskie
+   - Podkarpackie
+2. **North-Central**
+   - Mazowieckie
+3. **South**
+   - Śląskie
+4. **South-Central**
+   - Łódzkie
+   - Świętokrzyskie
+5. **North**
+   - Kujawsko-Pomorskie
+   - Pomorskie
+6. **West**
+   - Lubuskie
+   - Wielkopolskie
+7. **Southwest**
+   - Dolnośląskie
+   - Opolskie
+8. **East**
+   - Lubelskie
+   - Podlaskie
+   - Warmińsko-Mazurskie
+9. **Northwest**
+   - Zachodniopomorskie
+
 ---
 
 # Roads, Markings, and Signage

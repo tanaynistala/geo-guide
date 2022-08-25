@@ -43,6 +43,55 @@ Montenegro's license plates feature a blue band on the left side of the plate wi
 
 # Phone Codes
 
+Phone codes in Montenegro are organized by municipality, and are typically prefixed with a zero (0):
+
+2. Podgorica
+
+   Danilovgrad
+
+   Kolašin
+
+3. **Coast**
+
+   0. Bar
+
+      Ulcinj
+
+   1. Herceg Novi
+   2. Kotor
+
+      Tivat
+
+   3. Budva
+
+4. **West**
+
+   0. Nikšić
+
+      Plužine
+
+      Šavnik
+
+   1. Cetinje
+
+5. **North**
+
+   0. Bijelo Polje
+
+      Mojkovac
+
+   1. Berane
+
+      Plav
+
+      Rožaje
+
+      Andrijevica
+
+   2. Pljevlja
+
+      Žabljak
+
 ---
 
 # Roads, Markings, and Signage

@@ -74,7 +74,7 @@ Ukraine's license plates feature a blue band on the left side of the plate with 
 
 Phone codes in Ukraine are organized by zone and oblast, and are typically prefixed with a zero (0):
 
-3. West
+3. **West**
    1. Zakarpattia
    2. L'viv
    3. Volyn'
@@ -83,7 +83,7 @@ Phone codes in Ukraine are organized by zone and oblast, and are typically prefi
    6. Rivne
    7. Chernivtsi
    8. Khmel'nyts'kyi
-4. Central
+4. **Central**
    1. Zhytomyr
    2. `N/A`
    3. Vinnytsia
@@ -92,7 +92,7 @@ Phone codes in Ukraine are organized by zone and oblast, and are typically prefi
    6. Chernihiv
    7. Cherkasy
    8. Odessa
-5. East
+5. **East**
    1. Mykolaiv
    2. Kirovohrad
    3. Poltava
@@ -100,7 +100,7 @@ Phone codes in Ukraine are organized by zone and oblast, and are typically prefi
    5. Kherson
    6. Dnipropetrovs'k
    7. Kharkiv
-6. Southeast
+6. **Southeast**
    1. Zaporizhzhia
    2. Donets'k
    3. `N/A`

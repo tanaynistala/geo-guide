@@ -34,6 +34,8 @@ As a member of the EU, Estonia's license plates feature a blue band on the left 
 
 # Phone Codes
 
+Estonian telephone numbers are not geographically linked; as such, there is no area code system.
+
 ---
 
 # Roads, Markings, and Signage

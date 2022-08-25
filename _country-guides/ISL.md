@@ -6,14 +6,37 @@ A far-away island of volcanoes, incredible landscapes, and not a lot of ice for 
 
 Iceland is divided into eight regions, containing 69 municipalities in all:
 
-- Höfuðborgarsvæðið / Capital Region
-- Suðurnes / Southern Peninsula
-- Vesturland / Western Region
-- Vestfirðir / Westfjords
-- Norðurland Vestra / Northwestern Region
-- Norðurland Eystra / Northeastern Region
-- Austurland / Easatern Region
-- Suðurland / Southern Region
+- **Höfuðborgarsvæðið**
+
+  Capital Region
+
+- **Suðurnes**
+
+  Southern Peninsula
+
+- **Vesturland**
+
+  Western Region
+
+- **Vestfirðir**
+
+  Westfjords
+
+- **Norðurland Vestra**
+
+  Northwestern Region
+
+- **Norðurland Eystra**
+
+  Northeastern Region
+
+- **Austurland**
+
+  Easatern Region
+
+- **Suðurland**
+
+  Southern Region
 
 <CountryMap code="ISL" scale="5600" />
 
@@ -29,13 +52,19 @@ Icelandic license plates are white with blue text, and have the Icelandic flag a
 
 Phone codes are very loosely followed in Iceland, although numbers can be ported to any location in the country and so are not definitive:
 
-- 42: Suðurnes
-- 43: Vesturland
-- 45: Vestfirðir and Norðurland Vestra
-- 46: Norðurland Eystra
-- 47: Austurland
-- 48: Suðurland
-- 5x: Höfuðborgarsvæðið
+4. 1. `NA`
+   2. Suðurnes
+   3. Vesturland
+   4. `NA`
+   5. Vestfirðir,
+
+      Norðurland Vestra
+
+   6. Norðurland Eystra
+   7. Austurland
+   8. Suðurland
+
+5. Höfuðborgarsvæðið
 
 ---
 

@@ -49,7 +49,7 @@ Romania is divided into 41 counties, or _judete_, plus the municipality of Bucha
 - Vaslui `VS`
 - Vrancea `VN`
 
-<CountryMap code="ROU" scale="7000" />
+<CountryMap code="ROU" scale="4000" />
 
 ---
 
@@ -60,6 +60,64 @@ As a member of the EU, Romania's license plates feature a blue band on the left 
 ---
 
 # Phone Codes
+
+Phone codes in Romania are organized by county, and are prefixed with either `02` or `03`:
+
+1. București
+
+   Ilfov
+
+2. **East**
+
+   0. Suceava
+   1. Botoșani
+   2. Iași
+   3. Neamț
+   4. Bacău
+   5. Vaslui
+   6. Galați
+   7. Vrancea
+   8. Buzău
+   9. Brăila
+
+3. **South**
+
+   0. Tulcea
+   1. Constanța
+   2. Călărași
+   3. Ialomița
+   4. Prahova
+   5. Dâmbovița
+   6. Giurgiu
+   7. Teleorman
+   8. Argeș
+   9. Olt
+
+4. **West**
+
+   0. Vâlcea
+   1. Dolj
+   2. Mehedinți
+   3. Gorj
+   4. Hunedoara
+   5. Caraș-Severin
+   6. Timiș
+   7. Arad
+   8. Alba
+   9. Bihor
+
+5. **North**
+
+   0. Sălaj
+   1. Satu Mare
+   2. Maramureș
+   3. Bistrița-Năsăud
+   4. Cluj
+   5. Mureș
+   6. Harghita
+   7. Covasna
+   8. Brașov
+   9. Sibiu
 
 ---
 

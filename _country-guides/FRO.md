@@ -27,6 +27,8 @@ Despite Denmark being a part of the EU, the Faroe Islands are not. Faroese licen
 
 # Phone Codes
 
+Estonian telephone numbers are not geographically linked; as such, there is no area code system.
+
 ---
 
 # Roads, Markings, and Signage

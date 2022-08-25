@@ -57,44 +57,58 @@ As a member of the EU, Latvia's license plates feature a blue band on the left s
 
 Phone numbers are prefixed with a six (6), and are tied to the municipality:
 
-30: Jelgava
-31: Tukums
-32: Talsi
-33: Kuldiga
-34: Liepāja
-35: Ventspils
-36: Ventspils
-37: Dobele
-38: Saldus
-39: Bauska
-40: Limbaži
-41: Cēsis
-42: Valmiera
-43: Alūksne
-44: Gulbene
-45: Balvi
-46: Rēzekne
-47: Valka
-48: Madona
-49: Aizkraukle
-50: Ogre
-51: Aizkraukle
-52: Jēkabpils
-53: Preiļi
-54: Daugavpils
-55: Ogre
-56: Krāslava
-57: Ludza
-58: Daugavpils
-59: Cēsis
-6x: Riga
-7x: Riga
-80: landlines
-82: Valmiera
-83: Jēkabpils
-84: Liepāja
-86: Jelgava
-9x: Riga
+3. **West**
+
+   0. Jelgava
+   1. Tukums
+   2. Talsi
+   3. Kuldiga
+   4. Liepāja
+   5. Ventspils
+   6. Ventspils
+   7. Dobele
+   8. Saldus
+   9. Bauska
+
+4. **North**
+
+   0. Limbaži
+   1. Cēsis
+   2. Valmiera
+   3. Alūksne
+   4. Gulbene
+   5. Balvi
+   6. Rēzekne
+   7. Valka
+   8. Madona
+   9. Aizkraukle
+
+5. **East**
+
+   0. Ogre
+   1. Aizkraukle
+   2. Jēkabpils
+   3. Preiļi
+   4. Daugavpils
+   5. Ogre
+   6. Krāslava
+   7. Ludza
+   8. Daugavpils
+   9. Cēsis
+
+6. Riga
+7. Riga
+
+8. **Other**
+
+   1. `NA`
+   2. Valmiera
+   3. Jēkabpils
+   4. Liepāja
+   5. `NA`
+   6. Jelgava
+
+9. Riga
 
 ---
 

@@ -40,6 +40,43 @@ As a member of the EU, Croatia's license plates feature a blue band on the left 
 
 # Phone Codes
 
+Phone numbers in Croatia are organized by region and county, and are typically prefixed with a zero (0):
+
+1. Zagreb and Zagreb County
+2. **Dalmatia**
+
+   0. Dubrovnik-Neretva
+   1. Split-Dalmatia
+   2. Šibenik-Knin
+   3. Zadar
+
+3. **Slavonia**
+
+   1. Osijek-Baranja
+   2. Vukovar-Syrmia
+   3. Virovitica-Podravina
+   4. Požega-Slavonia
+   5. Brod-Posavina
+
+4. **Inland Croatia**
+
+   0. Međimurje
+   1. `N/A`
+   2. Varaždin
+   3. Bjelovar-Bilogora
+   4. Sisak-Moslavina
+   5. `NA`
+   6. `NA`
+   7. Karlovac
+   8. Koprivnica-Križevci
+   9. Krapina-Zagorje
+
+5. **Coastal Croatia and Istria**
+
+   1. Primorje-Gorski Kotar
+   2. Istria
+   3. Lika-Senj
+
 ---
 
 # Roads, Markings, and Signage

@@ -42,15 +42,37 @@ As a member of the EU, Sweden's license plates feature a blue band on the left s
 
 Phone numbers are prefixed with a zero (0), and are fairly well arranged by region:
 
-1. East (`C`, `D`, and `E`)
-2. Central (`U`, `W`, and `X`)
-3. Southwest (`F`, `N`, and `O`)
-4. Southeast (`G`, `H`, `I`, `K`, and `O`)
-5. West (`O`, `S`, and `T`)
-6. North (`X`, `Y`, and `Z`)
-7. Mobile
-8. Stockholm (`A`)
-9. Far-North (`AC` and `BD`)
+1. **East**
+   - Uppsala
+   - Södermanland
+   - Östergötland
+2. **Central**
+   - Västmanland
+   - Dalarna
+   - Gävleborg
+3. **Southwest**
+   - Jönköping
+   - Halland
+   - Västra Götaland
+4. **Southeast**
+   - Kronoberg
+   - Kalmar
+   - Gotland
+   - Blekinge
+   - Skåne
+5. **West**
+   - Västra Götaland
+   - Värmland
+   - Örebro
+6. **North**
+   - Gävleborg
+   - Vasternorrland
+   - Jämtland
+7. **Mobile**
+8. Stockholm
+9. **Far-North**
+   - Västerbotten
+   - Norrbotten
 
 ---
 

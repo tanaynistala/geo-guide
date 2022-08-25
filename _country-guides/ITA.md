@@ -7,8 +7,6 @@
 Italy is divided twenty regions, five of which have autonomous status:
 
 - Abruzzo
-- Valle d'Aosta `Autonomous`
-- Puglia
 - Basilicata
 - Calabria
 - Campania
@@ -20,11 +18,13 @@ Italy is divided twenty regions, five of which have autonomous status:
 - Marche
 - Molise
 - Piemonte
+- Puglia
 - Sardegna `Autonomous`
 - Sicilia `Autonomous`
-- Trentino-Alto Adige/Südtirol `Autonomous`
 - Toscana
+- Trentino-Alto Adige / Südtirol `Autonomous`
 - Umbria
+- Valle d'Aosta `Autonomous`
 - Veneto
 
 <CountryMap code="ITA" scale="2500" />
@@ -38,6 +38,56 @@ As a member of the EU, Italy's license plates feature a blue band on the left si
 ---
 
 # Phone Codes
+
+Phone codes in Italy are organized into zones, and are typically prefixed with a zero (0):
+
+1. Liguria
+
+   Piemonte
+
+   Valle d'Aosta
+
+2. Milano
+
+3. Lombardia
+
+   Eastern Piemonte
+
+4. Friuli-Venezia Giulia
+
+   Trentino-Alto Adige / Südtirol
+
+   Veneto
+
+5. Emilia-Romagna
+
+   Toscana
+
+6. Roma
+
+7. Marche
+
+   Lazio
+
+   Umbria
+
+   Sardegna
+
+8. Abruzzo
+
+   Molise
+
+   Campania
+
+   Puglia
+
+9. Calabria
+
+   Siciia
+
+   Basilicata
+
+   Puglia
 
 ---
 

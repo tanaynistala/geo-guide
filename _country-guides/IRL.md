@@ -7,47 +7,47 @@
 Ireland has traditionally been divided into four provinces, each divided into several counties, or _contaetha_:
 
 - Connacht
-  - Galway `G`
-  - Leitrim `LM`
-  - Mayo `MO`
-  - Roscommon `RN`
-  - Sligo `SO`
+  - `G` Galway
+  - `LM` Leitrim
+  - `MO` Mayo
+  - `RN` Roscommon
+  - `SO` Sligo
 - Leinster
-  - Carlow `CW`
-  - Dublin `D`
+  - `CW` Carlow
+  - `D` Dublin
     - Dublin City
     - Dún Laoghaire-Rathdown
     - Fingal
     - South Dublin
-  - Kildare `KE`
-  - Kilkenny `KK`
-  - Laois `LS`
-  - Longford `LD`
-  - Louth `LH`
-  - Meath `MH`
-  - Offaly `OY`
-  - Westmeath `WH`
-  - Wexford `WX`
-  - Wicklow `WW`
+  - `KE` Kildare
+  - `KK` Kilkenny
+  - `LS` Laois
+  - `LD` Longford
+  - `LH` Louth
+  - `MH` Meath
+  - `OY` Offaly
+  - `WH` Westmeath
+  - `WX` Wexford
+  - `WW` Wicklow
 - Munster
-  - Clare `CE`
-  - Cork `C`
-  - Kerry `KY`
-  - Limerick `L`
-  - Tipperary `T`
-  - Waterford `W`
+  - `CE` Clare
+  - `C` Cork
+  - `KY` Kerry
+  - `L` Limerick
+  - `T` Tipperary
+  - `W` Waterford
 - Ulster
   - Antrim _NI_
   - Armagh _NI_
-  - Cavan `CN`
-  - Donegal `DL`
+  - `CN` Cavan
+  - `DL` Donegal
   - Down _NI_
   - Fermanagh _NI_
   - Londonderry _NI_
-  - Monaghan `MN`
+  - `MN` Monaghan
   - Tyrone _NI_
 
-Counties labeled _NI_ are in Northern Ireland, which is a part of the [United Kingdom](/countries/GBR). The word "county" is usually prefixed to the county's name rather than suffixed; thus it would be _County Sligo_, and not _Sligo County_. Galway and Cork are separate entities from Counties Galway and Sligo, respectively In addition, County Dublin was split up into three city-level counties in addition to Dublin City itself.
+Counties labeled _NI_ are in Northern Ireland, which is a part of the [United Kingdom](/countries/GBR). The word "county" is usually prefixed to the county's name rather than suffixed; thus it would be _County Sligo_, and not _Sligo County_. Galway and Cork are separate entities from Counties Galway and Sligo, respectively. In addition, County Dublin was split up into three city-level counties in addition to Dublin City itself.
 
 <CountryMap code="IRL" scale="6500" />
 
@@ -60,6 +60,18 @@ As a member of the EU, Ireland's license plates feature a blue band on the left 
 ---
 
 # Phone Codes
+
+Phone numbers in Ireland are geographically organized, but don't always follow county borders. Phone numbers are typically prefixed with a zero (0):
+
+1. Dublin
+2. Cork
+3. `NA`
+4. East, Midlands, and North
+5. Midlands and Southeast
+6. Southwest
+7. Northwest
+8. _Mobile_
+9. West
 
 ---
 

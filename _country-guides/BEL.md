@@ -1,20 +1,5 @@
 `Introduction`
 
-- Bruxelles / Brussels (Bilingual)
-- Vlaanderen / Flanders (Dutch-speaking)
-  - Antwerpen
-  - Oost-Vlaanderen
-  - Vlaams-Brabant
-  - Limbourg
-  - West-Vlaanderen
-- Wallonie / Wallonia (French-speaking)
-
-  - Hainaut
-  - Liège / Lüttich
-  - Luxembourg
-  - Namur
-  - Brabant Wallon
-
 ---
 
 # Subdivisions

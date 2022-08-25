@@ -6,20 +6,20 @@
 
 Czechia is divided into 13 regions, plus the capital city of Praha/Prague
 
-- Praha / Prague `A`
-- South Moravia `B`
-- South Bohemia `C`
-- Pardubice `E`
-- Hradec Králové `H`
-- Highland / Vysočina `J`
-- Karlovy Vary `K`
-- Liberec `L`
-- Olomouc `M`
-- Plzeň `P`
-- Central Bohemia `S`
-- Moravia-Silesia `T`
-- Ústi nad Labem `U`
-- Zlín `Z`
+- `A` Praha / Prague
+- `B` South Moravia
+- `C` South Bohemia
+- `E` Pardubice
+- `H` Hradec Králové
+- `J` Vysočina
+- `K` Karlovy Vary
+- `L` Liberec
+- `M` Olomouc
+- `P` Plzeň
+- `S` Central Bohemia
+- `T` Moravia-Silesia
+- `U` Ústi nad Labem
+- `Z` Zlín
 
 <CountryMap code="CZE" scale="6000" />
 
@@ -32,6 +32,40 @@ As a member of the EU, Czechia's license plates feature a blue band on the left 
 ---
 
 # Phone Codes
+
+Phone codes in Czechia are organized by the region:
+
+- `2x` Praha / Prague
+- `31` Central Bohemia
+
+  `32`
+
+- `35` Karlovy Vary
+- `37` Plzeň
+- `38` South Bohemia
+
+  `39`
+
+- `41` Ústi nad Labem
+
+  `47`
+
+- `46` Pardubice
+- `48` Liberec
+- `49` Hradec Králové
+- `51` South Moravia
+
+  `53`
+
+  `54`
+
+- `55` Moravia-Silesia
+
+  `59`
+
+- `56` Vysočina
+- `57` Zlín
+- `58` Olomouc
 
 ---
 
