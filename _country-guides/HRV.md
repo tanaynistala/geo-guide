@@ -15,7 +15,7 @@ Croatia is divided into twenty counties, or _županije_, plus one city-county, o
 - Krapina-Zagorje `KR`
 - Lika-Senj `GS`
 - Međimurje `ČK`
-- Osijek-Baranja `BM`/`DJ`/`NA`/`OS`
+- Osijek-Baranja `BM`/`DJ`/`N/A`/`OS`
 - Požega-Slavonia `PŽ`
 - Primorje-Gorski Kotar `DE`/`RI`
 - Šibenik-Knin `ŠI`
@@ -42,40 +42,43 @@ As a member of the EU, Croatia's license plates feature a blue band on the left 
 
 Phone numbers in Croatia are organized by region and county, and are typically prefixed with a zero (0):
 
-1. Zagreb and Zagreb County
-2. **Dalmatia**
+### Capital `1x`
 
-   0. Dubrovnik-Neretva
-   1. Split-Dalmatia
-   2. Šibenik-Knin
-   3. Zadar
+1. Zagreb (_city and county_)
 
-3. **Slavonia**
+### Dalmatia `2x`
 
-   1. Osijek-Baranja
-   2. Vukovar-Syrmia
-   3. Virovitica-Podravina
-   4. Požega-Slavonia
-   5. Brod-Posavina
+20. Dubrovnik-Neretva
+21. Split-Dalmatia
+22. Šibenik-Knin
+23. Zadar
 
-4. **Inland Croatia**
+### Slavonia `3x`
 
-   0. Međimurje
-   1. `N/A`
-   2. Varaždin
-   3. Bjelovar-Bilogora
-   4. Sisak-Moslavina
-   5. `NA`
-   6. `NA`
-   7. Karlovac
-   8. Koprivnica-Križevci
-   9. Krapina-Zagorje
+31. Osijek-Baranja
+32. Vukovar-Syrmia
+33. Virovitica-Podravina
+34. Požega-Slavonia
+35. Brod-Posavina
 
-5. **Coastal Croatia and Istria**
+### Inland Croatia `4x`
 
-   1. Primorje-Gorski Kotar
-   2. Istria
-   3. Lika-Senj
+40. Međimurje
+41. `N/A`
+42. Varaždin
+43. Bjelovar-Bilogora
+44. Sisak-Moslavina
+45. `N/A`
+46. `N/A`
+47. Karlovac
+48. Koprivnica-Križevci
+49. Krapina-Zagorje
+
+### Coastal Croatia and Istria `5x`
+
+51. Primorje-Gorski Kotar
+52. Istria
+53. Lika-Senj
 
 ---
 

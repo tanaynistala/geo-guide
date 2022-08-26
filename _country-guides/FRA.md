@@ -133,8 +133,6 @@ France is divided into 13 regions, each subdivided into several departments:
 
 # Phone Codes
 
-<InteractiveMap code="FRA" scale="2000" level="2" />
-
 Phone codes in France are organized by region, and are prefixed with a zero (0):
 
 1. Île-de-France

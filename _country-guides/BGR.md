@@ -49,11 +49,14 @@ As a member of the EU, Bulgaria's license plates feature a blue band on the left
 
 Phone numbers are prefixed with a zero (0), and are mostly organized by province and region. In the list below, places suffixed with `C` denote that the phone code is specific to the city of the same name.
 
-### Capital
+<div className="flex columns-2 justify-around">
+<div>
+
+### Capital `2x`
 
 2. Sofia `C`
 
-### South
+### South `3x`
 
 30. Smolyan
 31. Plovdiv
@@ -66,7 +69,7 @@ Phone numbers are prefixed with a zero (0), and are mostly organized by province
 38. Haskovo `C`
 39. Haskovo
 
-### Southeast
+### Southeast `4x`
 
 40. Stara Zagora
 41. Stara Zagora `C`
@@ -76,7 +79,7 @@ Phone numbers are prefixed with a zero (0), and are mostly organized by province
 45. Yambol `C`
 46. Yambol and Haskovo
 
-### East
+### East `5x`
 
 51. Varna
 52. Varna `C`
@@ -88,7 +91,10 @@ Phone numbers are prefixed with a zero (0), and are mostly organized by province
 58. Dobrich `C`
 59. Burgas
 
-### North
+</div>
+<div>
+
+### North `6x`
 
 60. Targovishte
 61. Veliko Tarnovo
@@ -101,7 +107,7 @@ Phone numbers are prefixed with a zero (0), and are mostly organized by province
 68. Lovech `C`
 69. Lovech
 
-### West
+### West `7x`
 
 70. Kyustendil
 71. Sofia
@@ -114,7 +120,7 @@ Phone numbers are prefixed with a zero (0), and are mostly organized by province
 78. Kyustendil `C`
 79. Kyustendil
 
-### Northeast
+### Northeast `8x`
 
 81. Ruse
 82. Ruse `C`
@@ -123,7 +129,7 @@ Phone numbers are prefixed with a zero (0), and are mostly organized by province
 85. `N/A`
 86. Silistra `C`
 
-### Northwest
+### Northwest `9x`
 
 91. Vratsa
 92. Vratsa `C`
@@ -132,6 +138,9 @@ Phone numbers are prefixed with a zero (0), and are mostly organized by province
 95. Montana
 96. Montana `C`
 97. Vratsa and Montana
+
+</div>
+</div>
 
 ---
 

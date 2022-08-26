@@ -6,7 +6,7 @@
 
 Spain is divided into 50 provinces, or _provincias_, organized into 17 autonomous communities (_comunidades autónomas_):
 
-- Andalucia
+- **Andalucia**
   - Sevilla
   - Córdoba
   - Jaén
@@ -15,21 +15,36 @@ Spain is divided into 50 provinces, or _provincias_, organized into 17 autonomou
   - Almería
   - Cádiz
   - Málaga
-- Aragón
+- **Aragón**
   - Zaragoza
   - Huesca
   - Teruel
-- Asturias
-- Islas Baleares / Balearic Islands
-- Pais Vasco / Euskadi / Basque Community
-  - Araba / Álava
-  - Bizkaia / Biscay
+- **Asturias**
+- **Islas Baleares**
+
+  Balearic Islands
+
+- **Pais Vasco**
+
+  Euskadi
+
+  Basque Community
+
+  - Álava
+
+  - Biscay
+
   - Gipúzkoa
-- Canarias / Canary Islands
+
+- **Canarias**
+
+  Canary Islands
+
   - Las Palmas
   - Santa Cruz de Tenerife
-- Cantabria
-- Castilla y León
+
+- **Cantabria**
+- **Castilla y León**
   - León
   - Burgos
   - Salamanca
@@ -39,32 +54,39 @@ Spain is divided into 50 provinces, or _provincias_, organized into 17 autonomou
   - Palencia
   - Ávila
   - Segovia
-- Castilla-La Mancha
+- **Castilla-La Mancha**
   - Guadalajara
   - Ciudad Real
   - Cuenca
   - Toledo
   - Albacete
-- Catalunya / Catalonia
+- **Catalunya**
+
+  Catalonia
+
   - Lleida
   - Barcelona
   - Tarragona
   - Girona
-- Ceuta
-- Extremadura
+
+- **Ceuta**
+- **Extremadura**
   - Badajoz
   - Cáceres
-- Galicia
+- **Galicia**
   - Lugo
   - A Coruña
   - Ourense
   - Pontevedra
-- La Rioja
-- Madrid
-- Melilla
-- Murcia
-- Navarra
-- Comunitat Valenciana / Valencian Community
+- **La Rioja**
+- **Madrid**
+- **Melilla**
+- **Murcia**
+- **Navarra**
+- **Comunitat Valenciana**
+
+  Valencian Community
+
   - Valencia
   - Castellón
   - Alicante
@@ -80,6 +102,99 @@ As a member of the EU, Spain's license plates feature a blue band on the left si
 ---
 
 # Phone Codes
+
+Phone codes in Spain are organized by province, although occasionally they can spill over. Numbers are typically prefixed with a nine (9), although newer phone numbers can also be prefixed with an eight (8):
+
+<div className="flex columns-2 justify-around">
+<div>
+
+### Madrid `1`
+
+1. Madrid
+
+### West & Canary Islands `2`
+
+20. Ávila
+21. Segovia
+22. Santa Cruz de Tenerife
+23. Salamanca
+24. Badajoz
+25. Toledo
+26. Ciudad Real
+27. Cáceres
+28. Las Palmas
+
+### North `4`
+
+41. La Rioja
+42. Cantabria
+43. Gipuzkoa
+44. Biscay
+45. Álava
+46. Biscay
+47. Burgos
+48. Navarre
+49. Guadalajara
+
+### South `5`
+
+50. Almería
+51. Málaga
+52. Málaga
+53. Jaén
+54. Seville
+55. Seville
+56. Cádiz
+57. Córdoba
+58. Granada
+59. Huelva
+
+</div>
+<div>
+
+### Barcelona `3`
+
+3. Barcelona
+
+### East & Balearic Islands `6`
+
+60. Valencia
+61. Valencia (central)
+62. Valencia (south)
+63. Valencia (city)
+64. Castellón
+65. Alicante
+66. Alicante
+67. Albacete
+68. Murcia
+69. Cuenca
+
+### Northeast `7`
+
+71. Balearic Islands
+72. Girona
+73. Lleida
+74. Huesca
+75. Soria
+76. Zaragoza
+77. Tarragona
+78. Teruel
+79. Palencia
+
+### Northwest `8`
+
+80. Zamora
+81. A Coruña
+82. Lugo
+83. Valladolid
+84. Asturias
+85. Asturias
+86. Pontevedra
+87. León
+88. Ourense
+
+</div>
+</div>
 
 ---
 

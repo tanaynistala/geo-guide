@@ -74,42 +74,59 @@ Ukraine's license plates feature a blue band on the left side of the plate with 
 
 Phone codes in Ukraine are organized by zone and oblast, and are typically prefixed with a zero (0):
 
-3. **West**
-   1. Zakarpattia
-   2. L'viv
-   3. Volyn'
-   4. Ivano-Frankivs'k
-   5. Ternopil'
-   6. Rivne
-   7. Chernivtsi
-   8. Khmel'nyts'kyi
-4. **Central**
-   1. Zhytomyr
-   2. `N/A`
-   3. Vinnytsia
-   4. Kyiv (City)
-   5. Kyiv
-   6. Chernihiv
-   7. Cherkasy
-   8. Odessa
-5. **East**
-   1. Mykolaiv
-   2. Kirovohrad
-   3. Poltava
-   4. Sumy
-   5. Kherson
-   6. Dnipropetrovs'k
-   7. Kharkiv
-6. **Southeast**
-   1. Zaporizhzhia
-   2. Donets'k
-   3. `N/A`
-   4. Luhans'k
-   5. Crimea
-   6. `N/A`
-   7. `N/A`
-   8. `N/A`
-   9. Sevastopol'
+<div className="flex columns-2 justify-around">
+<div>
+
+### West `3x`
+
+31. Zakarpattia
+32. L'viv
+33. Volyn'
+34. Ivano-Frankivs'k
+35. Ternopil'
+36. Rivne
+37. Chernivtsi
+38. Khmel'nyts'kyi
+
+### Central `4x`
+
+41. Zhytomyr
+42. `N/A`
+43. Vinnytsia
+44. Kyiv (City)
+45. Kyiv
+46. Chernihiv
+47. Cherkasy
+48. Odessa
+
+</div>
+
+<div>
+
+### East `5x`
+
+51. Mykolaiv
+52. Kirovohrad
+53. Poltava
+54. Sumy
+55. Kherson
+56. Dnipropetrovs'k
+57. Kharkiv
+
+### Southeast `6x`
+
+61. Zaporizhzhia
+62. Donets'k
+63. `N/A`
+64. Luhans'k
+65. Crimea
+66. `N/A`
+67. `N/A`
+68. `N/A`
+69. Sevastopol'
+
+</div>
+</div>
 
 ---
 

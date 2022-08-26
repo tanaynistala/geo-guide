@@ -129,7 +129,155 @@
   },
   {
     "country": "Bulgaria",
-    "calling_code": 359
+    "calling_code": 359,
+    "regions": [
+      {
+        "region": "Capital",
+        "code": "2"
+      },
+      {
+        "region": "South",
+        "code": "3"
+      },
+      {
+        "region": "Southeast",
+        "code": "4"
+      },
+      {
+        "region": "East",
+        "code": "5"
+      },
+      {
+        "region": "North",
+        "code": "6"
+      },
+      {
+        "region": "West",
+        "code": "7"
+      },
+      {
+        "region": "Northeast",
+        "code": "8"
+      },
+      {
+        "region": "Northwest",
+        "code": "9"
+      }
+    ],
+    "codes": [
+      {
+        "id": 1,
+        "codes": [73, 74, 75]
+      },
+      {
+        "id": 2,
+        "codes": [55, 56, 59]
+      },
+      {
+        "id": 3,
+        "codes": [57, 58]
+      },
+      {
+        "id": 4,
+        "codes": [66, 67]
+      },
+      {
+        "id": 5,
+        "codes": [2]
+      },
+      {
+        "id": 6,
+        "codes": [37, 38, 39, 46]
+      },
+      {
+        "id": 7,
+        "codes": [36]
+      },
+      {
+        "id": 8,
+        "codes": [70, 78, 79]
+      },
+      {
+        "id": 9,
+        "codes": [67, 68, 69]
+      },
+      {
+        "id": 10,
+        "codes": [95, 96, 97]
+      },
+      {
+        "id": 11,
+        "codes": [34, 35]
+      },
+      {
+        "id": 12,
+        "codes": [76, 77]
+      },
+      {
+        "id": 13,
+        "codes": [63, 64, 65]
+      },
+      {
+        "id": 14,
+        "codes": [31, 32, 33]
+      },
+      {
+        "id": 15,
+        "codes": [84]
+      },
+      {
+        "id": 16,
+        "codes": [81, 82]
+      },
+      {
+        "id": 17,
+        "codes": [53, 54]
+      },
+      {
+        "id": 18,
+        "codes": [86]
+      },
+      {
+        "id": 19,
+        "codes": [43, 44]
+      },
+      {
+        "id": 20,
+        "codes": [30]
+      },
+      {
+        "id": 21,
+        "codes": [71, 72, 75]
+      },
+      {
+        "id": 22,
+        "codes": [40, 41, 42]
+      },
+      {
+        "id": 23,
+        "codes": [60]
+      },
+      {
+        "id": 24,
+        "codes": [51, 52]
+      },
+      {
+        "id": 25,
+        "codes": [61, 62, 63]
+      },
+      {
+        "id": 26,
+        "codes": [93, 94]
+      },
+      {
+        "id": 27,
+        "codes": [91, 92, 97]
+      },
+      {
+        "id": 28,
+        "codes": [45, 46]
+      }
+    ]
   },
   {
     "country": "Burkina Faso",
@@ -293,387 +441,387 @@
     "codes": [
       {
         "id": 1,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 2,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 3,
-        "code": 5
+        "codes": [5]
       },
       {
         "id": 4,
-        "code": 5
+        "codes": [5]
       },
       {
         "id": 5,
-        "code": 5
+        "codes": [5]
       },
       {
         "id": 6,
-        "code": 5
+        "codes": [5]
       },
       {
         "id": 7,
-        "code": 5
+        "codes": [5]
       },
       {
         "id": 8,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 9,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 10,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 11,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 12,
-        "code": 1
+        "codes": [1]
       },
       {
         "id": 13,
-        "code": 1
+        "codes": [1]
       },
       {
         "id": 14,
-        "code": 1
+        "codes": [1]
       },
       {
         "id": 15,
-        "code": 1
+        "codes": [1]
       },
       {
         "id": 16,
-        "code": 1
+        "codes": [1]
       },
       {
         "id": 17,
-        "code": 1
+        "codes": [1]
       },
       {
         "id": 18,
-        "code": 1
+        "codes": [1]
       },
       {
         "id": 19,
-        "code": 1
+        "codes": [1]
       },
       {
         "id": 20,
-        "code": 2
+        "codes": [2]
       },
       {
         "id": 21,
-        "code": 2
+        "codes": [2]
       },
       {
         "id": 22,
-        "code": 2
+        "codes": [2]
       },
       {
         "id": 23,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 24,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 25,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 26,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 27,
-        "code": 2
+        "codes": [2]
       },
       {
         "id": 28,
-        "code": 2
+        "codes": [2]
       },
       {
         "id": 29,
-        "code": 2
+        "codes": [2]
       },
       {
         "id": 30,
-        "code": 2
+        "codes": [2]
       },
       {
         "id": 31,
-        "code": 2
+        "codes": [2]
       },
       {
         "id": 32,
-        "code": 2
+        "codes": [2]
       },
       {
         "id": 33,
-        "code": 2
+        "codes": [2]
       },
       {
         "id": 34,
-        "code": 2
+        "codes": [2]
       },
       {
         "id": 35,
-        "code": 2
+        "codes": [2]
       },
       {
         "id": 36,
-        "code": 2
+        "codes": [2]
       },
       {
         "id": 37,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 38,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 39,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 40,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 41,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 42,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 43,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 44,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 45,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 46,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 47,
-        "code": 2
+        "codes": [2]
       },
       {
         "id": 48,
-        "code": 2
+        "codes": [2]
       },
       {
         "id": 49,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 50,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 51,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 52,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 53,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 54,
-        "code": 5
+        "codes": [5]
       },
       {
         "id": 55,
-        "code": 5
+        "codes": [5]
       },
       {
         "id": 56,
-        "code": 5
+        "codes": [5]
       },
       {
         "id": 57,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 58,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 59,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 60,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 61,
-        "code": 5
+        "codes": [5]
       },
       {
         "id": 62,
-        "code": 5
+        "codes": [5]
       },
       {
         "id": 63,
-        "code": 5
+        "codes": [5]
       },
       {
         "id": 64,
-        "code": 5
+        "codes": [5]
       },
       {
         "id": 65,
-        "code": 5
+        "codes": [5]
       },
       {
         "id": 66,
-        "code": 5
+        "codes": [5]
       },
       {
         "id": 67,
-        "code": 5
+        "codes": [5]
       },
       {
         "id": 68,
-        "code": 5
+        "codes": [5]
       },
       {
         "id": 69,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 70,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 71,
-        "code": 2
+        "codes": [2]
       },
       {
         "id": 72,
-        "code": 2
+        "codes": [2]
       },
       {
         "id": 73,
-        "code": 2
+        "codes": [2]
       },
       {
         "id": 74,
-        "code": 2
+        "codes": [2]
       },
       {
         "id": 75,
-        "code": 2
+        "codes": [2]
       },
       {
         "id": 76,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 77,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 78,
-        "code": 3
+        "codes": [3]
       },
       {
         "id": 79,
-        "code": 5
+        "codes": [5]
       },
       {
         "id": 80,
-        "code": 5
+        "codes": [5]
       },
       {
         "id": 81,
-        "code": 5
+        "codes": [5]
       },
       {
         "id": 82,
-        "code": 5
+        "codes": [5]
       },
       {
         "id": 83,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 84,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 85,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 86,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 87,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 88,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 89,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 90,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 91,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 92,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 93,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 94,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 95,
-        "code": 4
+        "codes": [4]
       },
       {
         "id": 96,
-        "code": 4
+        "codes": [4]
       }
     ]
   },

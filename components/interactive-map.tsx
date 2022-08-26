@@ -30,40 +30,53 @@ const InteractiveMap = ({ code, scale, level = "1" }: Props) => {
   const data = getSubdivisionData(code);
 
   const Disclosure = ({ phoneCode }) => {
+    const [vis, setVis] = useState(false);
+
+    const phoneCodes = data.codes
+      .map((item) => item.codes)
+      .flatMap((item) => item);
+
     return (
-      <li>
-        <button
-          className={`p-2 ${
-            focus === phoneCode ? "bg-blue-200" : "bg-gray-200"
-          } w-full rounded-lg hover:bg-gray-300`}
-          onClick={() => {
-            focus === phoneCode ? setFocus(-1) : setFocus(phoneCode);
-          }}
-        >
-          {phoneCode}
-        </button>
-        <ol>
-          {() => {
-            const children = data
-              .map((item) => item.code)
+      <div>
+        <div className="flex">
+          <button
+            className={`p-2 ${
+              focus === phoneCode ? "bg-blue-200" : "bg-gray-100"
+            } w-full rounded-lg hover:bg-gray-200`}
+            onClick={() => {
+              focus === phoneCode ? setFocus(-1) : setFocus(phoneCode);
+            }}
+          >
+            {phoneCode}:
+          </button>
+          <button
+            className={`p-2 w-16 rounded-lg bg-gray-200 hover:bg-gray-300`}
+            onClick={() => {
+              setVis(!vis);
+            }}
+          >
+            Show/Hide
+          </button>
+        </div>
+        {vis && (
+          <>
+            {phoneCodes
               .filter(
                 (item) =>
-                  item.toString().slice(0, phoneCode.length) === phoneCode
-              );
-
-            return children.map((item) => (
-              <Disclosure
-                phoneCode={item.toString().slice(0, phoneCode.length + 1)}
-              />
-            ));
-          }}
-        </ol>
-      </li>
+                  item.toString().startsWith(phoneCode) && item !== phoneCode
+              )
+              .sort((a, b) => a - b)
+              .map((item) => (
+                <Disclosure phoneCode={item} />
+              ))}
+          </>
+        )}
+      </div>
     );
   };
 
   return (
-    <div className="flex flex-col md:flex-row">
+    <div>
       <>
         <ComposableMap
           projection="geoAzimuthalEqualArea"
@@ -107,7 +120,9 @@ const InteractiveMap = ({ code, scale, level = "1" }: Props) => {
                   <Geography
                     className={`outline-none stroke-gray-400 stroke-[0.5] rounded
                       ${
-                        focus === getCode(feature)
+                        getCodes(feature).find((item) =>
+                          item.toString().startsWith(focus)
+                        )
                           ? "fill-gray-500"
                           : "fill-gray-300"
                       }
@@ -130,16 +145,16 @@ const InteractiveMap = ({ code, scale, level = "1" }: Props) => {
           {tooltipContent}
         </ReactTooltip>
       </>
-      <div>
-        <ol>
-          {data
-            .map((item) => item.code)
-            .filter((item, index, arr) => arr.indexOf(item) === index)
-            .sort((a, b) => a - b)
-            .map((value) => (
-              <Disclosure phoneCode={value} />
-            ))}
-        </ol>
+      <div className="overflow-scroll">
+        {data.codes
+          .map((item) => item.codes)
+          .flatMap((item) => item)
+          .map((item) => item.toString()[0])
+          .filter((item, index, arr) => arr.indexOf(item) === index)
+          .sort((a, b) => a - b)
+          .map((value) => (
+            <Disclosure phoneCode={value} />
+          ))}
       </div>
     </div>
   );
@@ -184,9 +199,9 @@ const InteractiveMap = ({ code, scale, level = "1" }: Props) => {
     }
   }
 
-  function getCode(feature) {
+  function getCodes(feature) {
     const id = getID(feature);
-    return data.find((geo) => geo.id === id).code;
+    return data.codes.find((geo) => geo.id === id).codes;
   }
 };
 

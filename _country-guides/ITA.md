@@ -41,53 +41,127 @@ As a member of the EU, Italy's license plates feature a blue band on the left si
 
 Phone codes in Italy are organized into zones, and are typically prefixed with a zero (0):
 
-1. Liguria
+<div className="flex columns-2 justify-around">
+<div>
 
-   Piemonte
+### Northwest `1`
 
-   Valle d'Aosta
+(_Liguria, Piedmonte, Val d'Aosta_)
 
-2. Milano
+10. Genoa
+11. Turin
+12. Turin
+13. Alessandria
+14. Asti
+15. Biella
+16. Vercelli, Val d'Aosta
+17. Cuneo
+18. Imperia, Genoa, La Spezia
+19. Savona
 
-3. Lombardia
+### Milan `2`
 
-   Eastern Piemonte
+2. Milan, parts of Varese and Como
 
-4. Friuli-Venezia Giulia
+### North `3`
 
-   Trentino-Alto Adige / Südtirol
+(_Lombardy, Eastern Piedmont_)
 
-   Veneto
+30. Brescia
+31. Como
+32. Novara, Verbano-Cusio-Ossola
+33. Varese
+34. Lecco, Sondrio, Como, Bergamo
+35. Bergamo
+36. Monza, Bergamo, Cremona, Brescia
+37. Lodi, Cremona, Mantua
+38. Pavia
+39. Monza, Brianza
 
-5. Emilia-Romagna
+### Northeast `4`
 
-   Toscana
+(_Friuli-Venezi Giulia, Trentino-Alto Adige/Südtirol, Veneto_)
 
-6. Roma
+40. Trieste
+41. Venice
+42. Treviso, Vicenza, Rovigo, Padua
+43. Udine, Pordenone, Treviso
+44. Vicenza
+45. Verona
+46. Trento
+47. Bolzano
+48. Gorizia
+49. Padua
 
-7. Marche
+### North-Central `5`
 
-   Lazio
+(_Emilia-Romagna, Tuscany_)
 
-   Umbria
+50. Pisa
+51. Bologna
+52. Parma, Reggio Emilia, Piacenza
+53. Ferrara
+54. Rimini, Forli-Cesena, Ravenna
+55. Florence
+56. Brosseto, Isola d'Elba
+57. Florence, Lucca, Pistoia, Prato, Arezzo, Siena
+58. Lucca, Massa, Carrara, Livorno, Pisa
+59. Modena
 
-   Sardegna
+</div>
+<div>
 
-8. Abruzzo
+### Rome `6`
 
-   Molise
+6. Rome, Vatican City
 
-   Campania
+### Central & Sardinia `7`
 
-   Puglia
+(_Marche, Lazio, Umbria, Sardinia_)
 
-9. Calabria
+70. Cagliari
+71. Ancona
+72. Pesaro, Urbino
+73. Macerata, Fermo, Ascoli Piceno
+74. `N/A`
+75. Perugia
+76. Viterbo, Rieti
+77. Latina, Rome, Frosinone
+78. Nuoro, Oristano, Sassari
+79. Sassari
 
-   Siciia
+### East `8`
 
-   Basilicata
+(_Abruzzo, Molise, Campania, Puglia_)
 
-   Puglia
+80. Bari
+81. Naples
+82. Caserta, Benevento, Avellino
+83. Brindisi, Lecce, Matera
+84. `N/A`
+85. Pescara
+86. Teramo, L'Aquila, Isernia
+87. Campobasso
+88. Foggia, Barletta-Andria-Trani
+89. Salerno
+
+### South `9`
+
+(_Calabria, Basilicata, Publia, Sicily_)
+
+90. Messina
+91. Palermo
+92. Palermo, Trapani, Agrigento
+93. Siracusa, Ragusa, Caltanissetta, Enna
+94. Messina
+95. Catania
+96. Catanzaro, Crotone, Vibo Valentia, Reggio Calabria
+97. Salerno, Potenza
+98. Cosenza
+99. Taranto
+
+</div>
+</div>
 
 ---
 

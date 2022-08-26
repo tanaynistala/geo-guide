@@ -6,18 +6,53 @@
 
 Slovenia is officially divided into 212 municipalities, but the country can also be divided into the following statistical regions:
 
-- Gorenjska / Upper Carniola
-- Goriška / Gorizia
-- Jugovzhodna Slovenija / Southeast Slovenia
-- Koroška / Carinthia
-- Obalno-kraška / Coastal–Karst
-- Osrednjeslovenska / Central Slovenia
-- Podravska / Drava
-- Pomurska / Mura
-- Posavska / Lower Sava
-- Primorsko-notranjska / Littoral–Inner Carniola
-- Savinjska / Savinja
-- Zasavska / Central Sava
+- **Gorenjska**
+
+  Upper Carniola
+
+- **Goriška**
+
+  Gorizia
+
+- **Jugovzhodna Slovenija**
+
+  Southeast Slovenia
+
+- **Koroška**
+
+  Carinthia
+
+- **Obalno-kraška**
+
+  Coastal–Karst
+
+- **Osrednjeslovenska**
+
+  Central Slovenia
+
+- **Podravska**
+
+  Drava
+
+- **Pomurska**
+
+  Mura
+
+- **Posavska**
+
+  Lower Sava
+
+- **Primorsko-notranjska**
+
+  Littoral–Inner Carniola
+
+- **Savinjska**
+
+  Savinja
+
+- **Zasavska**
+
+  Central Sava
 
 <CountryMap code="SVN" scale="12000" />
 
@@ -45,23 +80,37 @@ As a member of the EU, Slovenia's license plates feature a blue band on the left
 
 Phone codes in Slovenia are organized by region, and are prefixed with a zero (0):
 
-1. Ljubljana
-2. **Northeast**
-   - Maribor
-   - Murska Sobota
-   - Ravne na Koroškem
-3. **East**
-   - Celje
-   - Trbovlje
-4. Kranj
-5. **Southwest**
-   - Koper
-   - Postojna
-   - Nova Gorica
-6. `NA`
-7. **Southeast**
-   - Novo Mesto
-   - Krško
+### Central `1`
+
+Central Slovenia,
+Littoral-Inner Carniola,
+Southeast Slovenia
+
+### Northeast `2`
+
+Carinthia,
+Drava,
+Mura
+
+### North `3`
+
+Savinja,
+Central Sava
+
+### Northwest `4`
+
+Upper Carniola
+
+### West `5`
+
+Gorizia,
+Coastal-Karst,
+Littoral-Inner Carniola
+
+### Southeast `7`
+
+Lower Sava,
+Southeast Slovenia
 
 ---
 

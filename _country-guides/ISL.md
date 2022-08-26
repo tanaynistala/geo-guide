@@ -52,10 +52,10 @@ Icelandic license plates are white with blue text, and have the Icelandic flag a
 
 Phone codes are very loosely followed in Iceland, although numbers can be ported to any location in the country and so are not definitive:
 
-4. 1. `NA`
+4. 1. `N/A`
    2. Suðurnes
    3. Vesturland
-   4. `NA`
+   4. `N/A`
    5. Vestfirðir,
 
       Norðurland Vestra

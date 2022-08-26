@@ -84,31 +84,122 @@ As a member of the EU, Poland's license plates feature a blue band on the left s
 
 Phone codes in Poland are well-organized by region, and mostly follow voivodeship borders:
 
-1. **Southeast**
-   - Małopolskie
-   - Podkarpackie
-2. **North-Central**
-   - Mazowieckie
-3. **South**
-   - Śląskie
-4. **South-Central**
-   - Łódzkie
-   - Świętokrzyskie
-5. **North**
-   - Kujawsko-Pomorskie
-   - Pomorskie
-6. **West**
-   - Lubuskie
-   - Wielkopolskie
-7. **Southwest**
-   - Dolnośląskie
-   - Opolskie
-8. **East**
-   - Lubelskie
-   - Podlaskie
-   - Warmińsko-Mazurskie
-9. **Northwest**
-   - Zachodniopomorskie
+<div className="flex columns-2 justify-around">
+<div>
+
+### Southeast `1`
+
+(_Małopolskie, Podkarpackie_)
+
+12. Kraków
+13. Krosno
+14. Tarnów
+15. Tarnobrzeg
+16. Przemyśl
+17. Rzeszów
+18. Nowy Sącz
+
+### North-Central `2`
+
+(_Mazowieckie_)
+
+22. Warsaw
+23. Ciechanów
+24. Płock
+25. Siedlce
+26. Ministry of National Defence
+27. `N/A`
+28. `N/A`
+29. Ostrołęka
+
+### South `3`
+
+(_Śląskie_)
+
+32. Katowice
+33. Bielsko-Biała
+34. Częstochowa
+
+### South-Central `4`
+
+(_Łódzkie, Świętokrzyskie_)
+
+41. Kielce
+42. Łódź
+43. Sieradz
+44. Piotrków Trybunalski
+45. `N/A`
+46. Skierniewice
+47. Ministry of the Interior
+48. Radom
+
+### North `5`
+
+(_Kujawsko-Pomorskie, Pomorskie_)
+
+52. Bydgoszcz
+53. `N/A`
+54. Włocławek
+55. Elbląg
+56. Toruń
+57. `N/A`
+58. Gdańsk
+59. Słupsk
+
+</div>
+<div>
+
+### West `6`
+
+(_Lubuskie, Wielkopolskie_)
+
+61. Poznań
+62. Kalisz
+63. Konin
+64. `N/A`
+65. Leszno
+66. `N/A`
+67. Piła
+68. Zielona Góra
+
+### Southwest `7`
+
+(_Dolnośląskie, Opolskie_)
+
+71. Wrocław
+72. `N/A`
+73. `N/A`
+74. Wałbrzych
+75. Jelenia Góra
+76. Legnica
+77. Opole
+
+### East `8`
+
+(_Lubelskie, Podlaskie, Warmińsko-Mazurskie_)
+
+81. Lublin
+82. Chełm
+83. Biała Podlaska
+84. Zamość
+85. Białystok
+86. Łomża
+87. Suwałki
+88. `N/A`
+89. Olsztyn
+
+### Northwest `9`
+
+(_Zachodniopomorskie_)
+
+91. Szczecin
+92. `N/A`
+93. `N/A`
+94. Koszalin
+95. Gorzów Wielkopolski
+
+</div>
+</div>
 
 ---
 

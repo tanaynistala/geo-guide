@@ -41,92 +41,121 @@ As a member of the EU, Hungary's license plates feature a blue band on the left 
 
 Phone numbers in Hungary are organized by municipality, and are typically prefixed with `06`:
 
+<div className="flex columns-2 justify-around">
+<div>
+
+### Capital `1`
+
 1. Budapest
-2. **Central** (Fejér, Pest)
 
-   2. Székesfehérvár
-   3. Biatorbágy
-   4. Szigetszentmiklós
-   5. Dunaújváros
-   6. Szentendre
-   7. Vác
-   8. Gödöllő
-   9. Monor
+### Central `2x`
 
-3. **North** (Heves, Komárom-Esztergom, Nógrád)
+(_Fejér, Pest_)
 
-   2. Salgótarján
-   3. Esztergom
-   4. Tatabánya
-   5. Balassagyarmat
-   6. Eger
-   7. Gyöngyös
+22. Székesfehérvár
+23. Biatorbágy
+24. Szigetszentmiklós
+25. Dunaújváros
+26. Szentendre
+27. Vác
+28. Gödöllő
+29. Monor
 
-4. **Northeast** (Borsod-Abaúj-Zemplén, Szabolcs-Szatmár-Bereg)
+### North `3x`
 
-   2. Nyíregyháza
-   3. `NA`
-   4. Mátészalka
-   5. Kisvárda
-   6. Miskolc
-   7. Szerencs
-   8. Ózd
-   9. Mezőkövesd
+(_Heves, Komárom-Esztergom, Nógrád_)
 
-5. **East** (Hajdú-Bihar, Jász-Nagykun-Szolnok)
+32. Salgótarján
+33. Esztergom
+34. Tatabánya
+35. Balassagyarmat
+36. Eger
+37. Gyöngyös
 
-   2. Debrecen
-   3. Cegléd
-   4. Berettyóújfalu
-   5. `NA`
-   6. Szolnok
-   7. Jászberény
-   8. `NA`
-   9. Karcag
+### Northeast `4x`
 
-6. **South** (Békés, Csongrád-Csanád)
+(_Borsod-Abaúj-Zemplén, Szabolcs-Szatmár-Bereg_)
 
-   2. Szeged
-   3. Szentes
-   4. `NA`
-   5. `NA`
-   6. Békéscsaba
-   7. `NA`
-   8. Orosháza
-   9. Mohács
+42. Nyíregyháza
+43. `N/A`
+44. Mátészalka
+45. Kisvárda
+46. Miskolc
+47. Szerencs
+48. Ózd
+49. Mezőkövesd
 
-7. **Southwest** (Bács-Kiskun, Baranya, Tolna)
+### East `5x`
 
-   2. Pécs
-   3. Szigetvár
-   4. Szekszárd
-   5. Paks
-   6. Kecskemét
-   7. Kiskunhalas
-   8. Kiskőrös
-   9. Baja
+(_Hajdú-Bihar, Jász-Nagykun-Szolnok_)
 
-8. **West** (Somogny, Veszprém)
+52. Debrecen
+53. Cegléd
+54. Berettyóújfalu
+55. `N/A`
+56. Szolnok
+57. Jászberény
+58. `N/A`
+59. Karcag
 
-   2. Kaposvár
-   3. Keszthely
-   4. Siófok
-   5. Marcali
-   6. `NA`
-   7. Tapolca
-   8. Veszprém
-   9. Pápa
+</div>
+<div>
 
-9. **Northwest** (Győr-Moson-Sopron, Vas, Zala)
+### South `6x`
 
-   2. Zalaegerszeg
-   3. Nagykanizsa
-   4. Szombathely
-   5. Sárvár
-   6. Győr
-   7. `NA`
-   8. `NA`
-   9. Sopron
+(_Békés, Csongrád-Csanád_)
+
+62. Szeged
+63. Szentes
+64. `N/A`
+65. `N/A`
+66. Békéscsaba
+67. `N/A`
+68. Orosháza
+69. Mohács
+
+### Southwest `7x`
+
+(_Bács-Kiskun, Baranya, Tolna_)
+
+72. Pécs
+73. Szigetvár
+74. Szekszárd
+75. Paks
+76. Kecskemét
+77. Kiskunhalas
+78. Kiskőrös
+79. Baja
+
+### West `8x`
+
+(_Somogny, Veszprém_)
+
+82. Kaposvár
+83. Keszthely
+84. Siófok
+85. Marcali
+86. `N/A`
+87. Tapolca
+88. Veszprém
+89. Pápa
+
+### Northwest `9x`
+
+(_Győr-Moson-Sopron, Vas, Zala_)
+
+92. Zalaegerszeg
+93. Nagykanizsa
+94. Szombathely
+95. Sárvár
+96. Győr
+97. `N/A`
+98. `N/A`
+99. Sopron
+
+</div>
+
+</div>
 
 ---
 

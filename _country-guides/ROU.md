@@ -63,61 +63,73 @@ As a member of the EU, Romania's license plates feature a blue band on the left 
 
 Phone codes in Romania are organized by county, and are prefixed with either `02` or `03`:
 
+### Capital `1x`
+
 1. București
 
    Ilfov
 
-2. **East**
+<div className="flex columns-2 justify-around">
+<div>
 
-   0. Suceava
-   1. Botoșani
-   2. Iași
-   3. Neamț
-   4. Bacău
-   5. Vaslui
-   6. Galați
-   7. Vrancea
-   8. Buzău
-   9. Brăila
+### East `2x`
 
-3. **South**
+20. Suceava
+21. Botoșani
+22. Iași
+23. Neamț
+24. Bacău
+25. Vaslui
+26. Galați
+27. Vrancea
+28. Buzău
+29. Brăila
 
-   0. Tulcea
-   1. Constanța
-   2. Călărași
-   3. Ialomița
-   4. Prahova
-   5. Dâmbovița
-   6. Giurgiu
-   7. Teleorman
-   8. Argeș
-   9. Olt
+### South `3x`
 
-4. **West**
+30. Tulcea
+31. Constanța
+32. Călărași
+33. Ialomița
+34. Prahova
+35. Dâmbovița
+36. Giurgiu
+37. Teleorman
+38. Argeș
+39. Olt
 
-   0. Vâlcea
-   1. Dolj
-   2. Mehedinți
-   3. Gorj
-   4. Hunedoara
-   5. Caraș-Severin
-   6. Timiș
-   7. Arad
-   8. Alba
-   9. Bihor
+</div>
+<div>
 
-5. **North**
+### West `4x`
 
-   0. Sălaj
-   1. Satu Mare
-   2. Maramureș
-   3. Bistrița-Năsăud
-   4. Cluj
-   5. Mureș
-   6. Harghita
-   7. Covasna
-   8. Brașov
-   9. Sibiu
+40. Vâlcea
+41. Dolj
+42. Mehedinți
+43. Gorj
+44. Hunedoara
+45. Caraș-Severin
+46. Timiș
+47. Arad
+48. Alba
+49. Bihor
+
+### North `5x`
+
+50. Sălaj
+51. Satu Mare
+52. Maramureș
+53. Bistrița-Năsăud
+54. Cluj
+55. Mureș
+56. Harghita
+57. Covasna
+58. Brașov
+59. Sibiu
+
+</div>
+
+</div>
 
 ---
 

@@ -33,13 +33,288 @@ Vehicles in the Netherlands have yellow license plates, with black text and a bl
 
 Phone numbers are prefixed with a zero (0), and are fairly well ordered, although there are some oddities:
 
-1. Southwest (`ZE`, `ZH`, and western `NB`)
-2. West (`NH`, Nijmegen `GE`, and Arnhem `GE`)
-3. Central (`UT`, `FL`, and eastern `GE`)
-4. South (`LI`, eastern `NB`, and southern `GE`)
-5. North (`FR`, `GR`, `DR`, `OV`, and Urk `FL`)
-6. Mobile Phones
-7. Geographical, randomly scattered across the country
+<div className="flex columns-2 justify-around">
+<div>
+
+### Southwest `1`
+
+(_Zeeland, Zuid-Holland, and western Noord-Brabant_)
+
+10. Rotterdam
+11. **Zeeland**
+
+    111. Zierikzee
+    112. `N/A`
+    113. Goes
+    114. Hulst
+    115. Terneuzen
+    116. `N/A`
+    117. Sluis
+    118. Middelburg / Vlissingen
+
+12. `N/A`
+13. Tilburg
+14. `N/A`
+15. Delft
+16. **Western Noord-Brabant**
+
+    161. Gilze-Rijen
+    162. Oosterhout
+    163. `N/A`
+    164. Bergen op Zoom
+    165. Roosendaal
+    166. Tholen
+    167. Steenbergen
+    168. Zevenbergen
+
+17. **Zuid-Holland**
+
+    172. Alphen aan den Rijn
+    173. `N/A`
+    174. Naaldwijk
+
+18. **Greater Rotterdam**
+
+    180. Ridderkerk and Zuidplas
+    181. Spijkenisse
+    182. Gouda
+    183. Gorinchem
+    184. Sliedrecht
+    185. `N/A`
+    186. Oud-Beijerland
+    187. Middelharnis
+
+### West `2`
+
+(_Noord-Holland, Nijmegen, and Arnhem_)
+
+20. Amsterdam
+21. `N/A`
+22. **West Friesland**
+
+    222. Texel
+    223. Den Helder
+    224. Schagen
+    225. `N/A`
+    226. Harenkarspel
+    227. Medemblik
+    228. Enkhuizen
+    229. Hoorn
+
+23. Haarlem
+24. Nijmegen
+25. **Coastal Noord-Holland**
+
+    251. Beverwijk
+    252. Hillegom
+    253. `N/A`
+    254. `N/A`
+    255. IJmuiden
+
+26. Arnhem
+27. `N/A`
+28. `N/A`
+29. **Greater Amsterdam**
+
+    294. Weesp
+    295. `N/A`
+    296. `N/A`
+    297. Aalsmeer
+    298. `N/A`
+    299. Purmerend
+
+### Central `3`
+
+(_Utrecht, Flevoland, and eastern Gelderland_)
+
+30. Utrecht
+31. **Gelderland**
+
+    313. Dieren
+    314. Doetinchem
+    315. Terborg
+    316. Zevenaar
+    317. Wageningen
+    318. Ede / Veenendaal
+
+32. **Flevoland**
+
+    320. Lelystad
+    321. Dronten
+
+33. Amersfoort
+34. **Greater Utrecht & Amersfoort**
+
+    341. Harderwijk
+    342. Barneveld
+    343. Doorn
+    344. Tiel
+    345. Culemborg
+    346. Maarssen
+    347. Vianen
+    348. Woerden
+
+35. Hilversum
+36. Almere
+37. `N/A`
+38. Zwolle
+
+</div>
+<div>
+
+### South `4`
+
+(_Limburg, eastern Noord-Brabant, and southern Gelderland_)
+
+40. Eindhoven
+41. **Greater 's-Hertogenbosch**
+
+    411. Boxtel
+    412. Oss
+    413. Veghel
+    414. `N/A`
+    415. `N/A`
+    416. Waalwijk
+    417. `N/A`
+    418. Zaltbommel
+
+42. `N/A`
+43. Maastricht
+44. `N/A`
+45. Heerlen
+46. Sittard
+47. **Maas**
+
+    475. Roermond
+    476. `N/A`
+    477. `N/A`
+    478. Venray
+
+48. **Greater Nijmegen**
+
+    481. Bemmel
+    482. `N/A`
+    483. `N/A`
+    484. `N/A`
+    485. Cuijk
+    486. Grave
+    487. Druten
+    488. Zetten
+
+49. **Greater Eindhoven**
+
+    492. Helmond
+    493. Deurne
+    494. `N/A`
+    495. Weert
+    496. `N/A`
+    497. Eersel
+    498. `N/A`
+    499. Best
+
+### North `5`
+
+(_Friesland, Groningen, Drenthe, and Overijssel_)
+
+50. Groningen
+51. **Friesland**
+
+    511. Veenwouden
+    512. Drachten
+    513. Heerenveen
+    514. Balk
+    515. Sneek
+    516. Oosterwolde
+    517. Franeker
+    518. St. Annaparochie
+    519. Dokkum
+
+52. **Northern Overijssel**
+
+    521. Steenwijk
+    522. Meppel
+    523. Hardenberg
+    524. Coevorden
+    525. Elburg
+    526. `N/A`
+    527. Emmeloord
+    528. Hoogeveen
+    529. Ommen
+
+53. Enschede
+54. **Southern Overijssel**
+
+    541. Oldenzaal
+    542. `N/A`
+    543. Winterswijk
+    544. Groenlo
+    545. Neede
+    546. Almelo
+    547. Goor
+    548. Rijssen
+
+55. Apeldoorn
+56. **Friesland**
+
+    561. Wolvega
+    562. Terschelling/Vlieland
+    563. `N/A`
+    564. `N/A`
+    565. `N/A`
+    566. Irnsum
+
+57. **Greater Apeldoorn**
+
+    570. Deventer
+    571. Voorst
+    572. Raalte
+    573. Lochem
+    574. `N/A`
+    575. Zutphen
+    576. `N/A`
+    577. Uddel
+    578. Epe
+
+58. Leeuwarden
+59. **Groningen**
+
+    591. Emmen
+    592. Assen
+    593. Beilen
+    594. Zuidhorn
+    595. Warffum
+    596. Appingedam
+    597. Winschoten
+    598. Hoogezand-Sappemeer
+    599. Stadskanaal
+
+</div>
+</div>
+
+### Other `7`
+
+_These are codes are tied to municipalities across the country._
+
+<div className="flex columns-2 justify-around">
+<div>
+
+70. The Hague
+71. Leiden
+72. Alkmaar
+73. 's-Hertogenbosch
+74. Hengelo
+
+</div>
+<div>
+
+75. Zaandam
+76. Breda
+77. Venlo
+78. Dordrecht
+79. Zoetermeer
+
+</div>
+</div>
 
 ---
 

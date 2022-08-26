@@ -37,16 +37,6 @@ Switzerland is comprised of cantons, of which there are 20 "full" cantons and 4 
 
 ---
 
-# Meta
-
-There are a couple ways to directly identify Switzerland by the following things:
-
-1. Lowcam. The camera is a bit lower than in other countries. It's easy to recognize with the big blur where the Google car is supposed to be. With the new gen 4, the lowcam is harder to spot.
-2. The camera generations in Switzerland are gen 3 and 4 plus some sparse gen 2 trekkers. Gen 4 is mostly seen in and around bigger cities.
-3. The bollards are distinct.
-
----
-
 # License Plates
 
 Swiss license plates are typically white with black lettering. Since Switzerland is not in the EU, they do not have a blue band on the left side of the plate; instead they have, going from left to right, the following:
@@ -57,6 +47,70 @@ Swiss license plates are typically white with black lettering. Since Switzerland
 4. The coat of arms of the canton (represented by a `∇` below)
 
 for the following format: <LicensePlate style="ch" format="+ AB•123456 ∇" />. This means Swiss license plates differ from canton to canton, but in terms of Geoguessr the blur renders these differences useless. In contrast to other European countries, Switzerland has taller versions of license plates in addition to long ones. Diplomatic vehicles have a green `CD` or `CC` on the left. They are often seen around Bern and Geneva due to the presence of embassies and international agencies in each city, respectively. Utility vehicle registration plates are blue, agricultural vehicle registration plates are green, military vehicles have black plates and mopeds, segways and e-bikes have yellow plates.
+
+---
+
+# Phone Codes
+
+Phone codes in Switzerland are organized around towns and cities, and are typically prefixed with a zero (0):
+
+<div className="flex columns-2 justify-around">
+<div>
+
+### South `2`
+
+21. Lausanne
+22. Genève
+23. `N/A`
+24. Yverdon, Aigle
+25. `N/A`
+26. Fribourg
+27. Valais / Wallis
+
+### West `3`
+
+31. Bern / Berne
+32. Biel / Bienne, Neuchâtel, Solothurn, Jura
+33. Berner Oberland
+34. Bern-Emme
+
+### Central `4`
+
+41. Luzern, Zug, Schwyz
+42. `N/A`
+43. Zürich
+44. Zürich
+
+</div>
+<div>
+
+### North `5`
+
+52. Winterthur, Schaffhausen `DE`
+53. `N/A`
+54. `N/A`
+55. Rapperswil
+56. Baden, Zurzach
+
+### Northwest `6`
+
+61. Basel
+62. Olten, Oberaargau, western Argau
+
+### Northeast `7`
+
+71. St. Gallen
+
+### East `8`
+
+81. Chur
+
+### Southeast `9`
+
+91. Ticino, Bellinzona
+
+</div>
+</div>
 
 ---
 
@@ -172,6 +226,16 @@ Ss Tt Uu Vv Ww Xx Yy Zz
 # Hidden coverage
 
 In the cantons of Jura and Valais there are a couple roads with coverage, that isn't visible on Google maps. Some maps use a trick to include those roads nevertheless.
+
+---
+
+# Meta
+
+There are a couple ways to directly identify Switzerland by the following things:
+
+1. Lowcam. The camera is a bit lower than in other countries. It's easy to recognize with the big blur where the Google car is supposed to be. With the new gen 4, the lowcam is harder to spot.
+2. The camera generations in Switzerland are gen 3 and 4 plus some sparse gen 2 trekkers. Gen 4 is mostly seen in and around bigger cities.
+3. The bollards are distinct.
 
 ---
 

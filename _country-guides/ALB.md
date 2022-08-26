@@ -33,13 +33,25 @@ Albania's license plates feature a blue band on both sides of the plate. The lef
 
 Phone codes in Albania are organized by municipality and county. Based on the first digit, these are the counties covered under the code:
 
-2. Shkodër, Kukës, Lezhë, Dibër
-3. Berat, Fier, Vlorë
-4. Tiranë
-5. Durrës, Elbasan, Lezhë (Laç and Mamurras)
-6. `N/A`
-7. `N/A`
-8. Korçë, Gjirokastër
+### North `2`
+
+Shkodër, Kukës, Lezhë, Dibër
+
+### Southwest `3`
+
+Berat, Fier, Vlorë
+
+### Capital `4`
+
+Tiranë
+
+### Central `5`
+
+Durrës, Elbasan, Lezhë (Laç and Mamurras)
+
+### Southeast `8`
+
+Korçë, Gjirokastër
 
 ---
 

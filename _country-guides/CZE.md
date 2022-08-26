@@ -35,37 +35,51 @@ As a member of the EU, Czechia's license plates feature a blue band on the left 
 
 Phone codes in Czechia are organized by the region:
 
-- `2x` Praha / Prague
-- `31` Central Bohemia
+<div className="flex columns-2 justify-around">
+<div>
 
-  `32`
+### Capital `2x`
 
-- `35` Karlovy Vary
-- `37` Plzeň
-- `38` South Bohemia
+2. Praha / Prague
 
-  `39`
+### West `3x`
 
-- `41` Ústi nad Labem
+31. Central Bohemia
+32. Central Bohemia
+33. `N/A`
+34. `N/A`
+35. Karlovy Vary
+36. `N/A`
+37. Plzeň
+38. South Bohemia
+39. South Bohemia
+40. `N/A`
+41. Ústi nad Labem
 
-  `47`
+</div>
+<div>
 
-- `46` Pardubice
-- `48` Liberec
-- `49` Hradec Králové
-- `51` South Moravia
+### North `4x`
 
-  `53`
+46. Pardubice
+47. `N/A`
+48. Liberec
+49. Hradec Králové
 
-  `54`
+### East `5x`
 
-- `55` Moravia-Silesia
+51. South Moravia
+52. `N/A`
+53. South Moravia
+54. South Moravia
+55. Moravia-Silesia
+56. Vysočina
+57. Zlín
+58. Olomouc
+59. Moravia-Silesia
 
-  `59`
-
-- `56` Vysočina
-- `57` Zlín
-- `58` Olomouc
+</div>
+</div>
 
 ---
 

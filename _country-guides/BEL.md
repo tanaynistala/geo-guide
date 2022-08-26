@@ -108,15 +108,94 @@ As a member of the EU, Belgium's license plates feature a blue band on the left 
 
 Telephone numebrs in Belgium are organized by municipality and region, and are nine digits long (as opposed to 10-digit mobile numbers). Phone numbers are typically prefixed with a zero (0):
 
-1. Northeast (Vlaams-Brabant, Limburg, Brabant Wallon)
-2. Brussels
-3. Antwerpen
-4. Liège
-5. Northwest (West-Vlaanderen, Oost-Vlaanderen)
-6. Southwest (Hainaut, Luxembourg)
-7. Charleroi
-8. Southeast (Liège, Namur)
-9. Gent
+### Brussels `2`
+
+2. Brussels (Bruxelles/Brussel)
+
+### Antwerpen `3`
+
+3. Antwerp (Antwerpen/Anvers), Sint-Niklaas
+
+### Liège `4`
+
+4. Liège (Luik), Voeren
+
+### Charleroi `7`
+
+71. Charleroi
+
+### Gent `9`
+
+9. Ghent (Gent)
+
+<div className="flex columns-2 justify-around">
+<div>
+
+### Northwest `5`
+
+(_West-Vlaanderen, Oost-Vlaanderen_)
+
+50. Bruges (Brugge), Zeebrugge
+51. Roeselare
+52. Dendermonde
+53. Aalst
+54. Ninove
+55. Ronse
+56. Kortrijk, Comines-Warneton, Mouscron
+57. Ypres
+58. Veurne
+59. Ostend, Bredene, Gistel
+
+### Southwest `6`
+
+(_Hainaut, Luxembourg_)
+
+60. Chimay
+61. Bastogne, Libramont-Chevigny
+62. `N/A`
+63. Arlon
+64. La Louvière
+65. Mons, Casteau
+66. `N/A`
+67. Nivelles, Soignies
+68. Ath
+69. Tournai
+
+</div>
+<div>
+
+### Northeast `1`
+
+(_Vlaams-Brabant, Limburg, Brabant Wallon_)
+
+10. Wavre
+11. Hasselt
+12. Tongeren
+13. Diest
+14. Geel, Herentals, Turnhout
+15. Mechelen
+16. Leuven, Tienen
+17. `N/A`
+18. `N/A`
+19. Waremme
+
+### Southeast `8`
+
+(_Liège, Namur_)
+
+80. Stavelot
+81. Namur
+82. Dinant
+83. Ciney
+84. Marche-en-Famenne
+85. Huy
+86. Durbuy
+87. Verviers
+88. `N/A`
+89. Genk
+
+</div>
+</div>
 
 ---
 

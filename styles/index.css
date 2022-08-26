@@ -105,6 +105,7 @@
       @media screen and (min-width: 540px) {
         margin-left: -6rem;
       }
+
       font-family: ui-serif, New York, Georgia, Cambria, "Times New Roman",
         Times, serif;
       /* font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; */
@@ -128,9 +129,13 @@
 
       span {
         padding: 0;
-        font-size: 4vw;
         background: none;
         line-height: 3rem;
+
+        font-size: 4vw;
+        @media screen and (min-width: 1024px) {
+          font-size: 2rem;
+        }
       }
     }
 

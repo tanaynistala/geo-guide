@@ -86,6 +86,9 @@ export function getCountryData(countryCode: string) {
 
 export function getSubdivisionData(countryCode: string) {
   const countryName = getCountryData(countryCode).name;
-  const data = phoneCodes.find((geo) => geo.country === countryName).codes;
-  return data;
+  const data = phoneCodes.find((geo) => geo.country === countryName);
+  return {
+    regions: data.regions,
+    codes: data.codes,
+  };
 }

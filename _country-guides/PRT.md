@@ -17,7 +17,7 @@ Portugal is subdivided into 18 districts, plus two autonomous regions:
 - Faro
 - Guarda
 - Leiria
-- Lisboa/Lisbon
+- Lisbon
 - Madeira `Autonomous`
 - Portalegre
 - Porto
@@ -41,84 +41,125 @@ As a member of the EU, Portugal's license plates feature a blue band on the left
 
 Phone codes in Portugal are organized by municipality, and are prefixed with a two (2):
 
-1. Lisboa/Lisbon
+<div className="flex columns-2 justify-around">
+<div>
+
+### Lisbon `1`
+
+1. Lisbon
+
+### Central-North `3`
+
+(_Aveiro, Viseu, Coimbra_)
+
+31. Mealhada
+32. Viseu
+33. Figueira da Foz
+34. Aveiro
+35. Arganil
+36. Pombal
+37. `N/A`
+38. Seia
+39. Coimbra
+
+### Central-South `4`
+
+(_Santarém, Portalegre, Leiria_)
+
+41. Abrantes
+42. Ponte de Sôr
+43. Santarém
+44. Leiria
+45. Portalegre
+46. `N/A`
+47. `N/A`
+48. `N/A`
+49. Torres Novas
+
+### Northwest `5`
+
+(_Viana do Castelo, Vila Real, Braga_)
+
+51. Valença
+52. Vila Nova de Famalicão
+53. Braga
+54. Peso da Régua
+55. Penafiel
+56. São João da Madeira
+57. Braga
+58. Viana do Castelo
+59. Vila Real
+
+</div>
+<div>
+
+### Porto `2`
+
 2. Porto
-3. Central-North
-   1. Mealhada `Aveiro`
-   2. Viseu `Viseu`
-   3. Figueira da Foz `Coimbra`
-   4. Aveiro `Aveiro`
-   5. Arganil `Coimbra`
-   6. Pombal `Leiria`
-   7. `N/A`
-   8. Seia `Guarda`
-   9. Coimbra `Coimbra`
-4. Central-South
-   1. Abrantes `Santarém`
-   2. Ponte de Sôr `Portalegre`
-   3. Santarém `Santarém`
-   4. Leiria `Leiria`
-   5. Portalegre `Portalegre`
-   6. `N/A`
-   7. `N/A`
-   8. `N/A`
-   9. Torres Novas `Santarém`
-5. Northwest
-   1. Valença `Viana do Castelo`
-   2. Vila Nova de Famalicão `Braga`
-   3. Braga `Braga`
-   4. Peso da Régua `Vila Real`
-   5. Penafiel `Porto`
-   6. São João da Madeira `Aveiro`
-   7. Braga `Braga`
-   8. Viana do Castelo `Viana do Castelo`
-   9. Vila Real `Vila Real`
-6. Southwest
-   1. Torres Vedras `Lisboa/Lisbon`
-   2. Caldas da Rainha `Leiria`
-   3. Vila Franca de Xira `Lisboa/Lisbon`
-   4. `N/A`
-   5. Setúbal `Setúbal`
-   6. Évora `Évora`
-   7. `N/A`
-   8. Estremoz `Évora`
-   9. Santiago do Cacém `Setúbal`
-7. Northeast
-   1. Guarda `Guarda`
-   2. Castelo Branco `Castelo Branco`
-   3. Bragança `Bragança`
-   4. Proença-a-Nova `Castelo Branco`
-   5. Covilhã `Castelo Branco`
-   6. Chaves `Vila Real`
-   7. Idanha-a-Nova `Castelo Branco`
-   8. Mirandela `Bragança`
-   9. Moncorvo `Bragança`
-8. South
-   1. Tavira `Faro`
-   2. Portimão `Faro`
-   3. Odemira `Beja`
-   4. Beja `Beja`
-   5. Moura `Beja`
-   6. Castro Verde `Beja`
-   7. `N/A`
-   8. `N/A`
-   9. Faro `Faro`
-9. Insular (Madeira and Açores/Azores)
-   1. Funchal `Madeira`
-   2. Horta `Açores/Azores`
-   3. `N/A`
-   4. `N/A`
-   5. Angra do Heroismo `Açores/Azores`
-   6. Ponta Delgada `Açores/Azores`
 
-_To form the area code, suffix the index numbers in hierarchical order onto a two (2). For instance, the area code for Ponte de Sôr would be found as follows:_
+### Southwest `6`
 
-```
-2 +
-4 (Central-South) +
-2 (Ponte de Sôr)
-= 242
-```
+(_Lisbon, Setúbal, Évora_)
+
+61. Torres Vedras
+62. Caldas da Rainha
+63. Vila Franca de Xira
+64. `N/A`
+65. Setúbal
+66. Évora
+67. `N/A`
+68. Estremoz
+69. Santiago do Cacém
+
+### Northeast `7`
+
+(_Guarda, Castelo Branco, Bragança_)
+
+71. Guarda
+72. Castelo Branco
+73. Bragança
+74. Proença-a-Nova
+75. Covilhã
+76. Chaves
+77. Idanha-a-Nova
+78. Mirandela
+79. Moncorvo
+
+### South `8`
+
+(_Faro, Beja_)
+
+81. Tavira
+82. Portimão
+83. Odemira
+84. Beja
+85. Moura
+86. Castro Verde
+87. `N/A`
+88. `N/A`
+89. Faro
+
+</div>
+</div>
+
+### Insular `9`
+
+(_Madeira, Açores/Azores_)
+
+<div className="flex columns-2 justify-around">
+<div>
+
+91. Funchal
+92. Horta
+
+</div>
+<div>
+
+95. Angra do Heroismo
+96. Ponta Delgada
+
+</div>
+</div>
 
 ---
 

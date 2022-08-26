@@ -65,7 +65,7 @@ Phone numbers in Ireland are geographically organized, but don't always follow c
 
 1. Dublin
 2. Cork
-3. `NA`
+3. `N/A`
 4. East, Midlands, and North
 5. Midlands and Southeast
 6. Southwest

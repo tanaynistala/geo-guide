@@ -128,19 +128,32 @@ As a member of the EU, Finland's license plates feature a blue band on the left 
 
 Phone numbers are prefixed with a zero (0), and are fairly well arranged by region:
 
-- 13: Northern Karelia
-- 14: Central Finland
-- 15: Southern Savonia
-- 16: Lapland
-- 17: Northern Savonia
-- 18: Åland
-- 19: Uusimaa
-- 21-28: Satakunta and Finland Proper
-- 30-39: Tavastia Proper and Päijänne Tavastia
-- 51-59: Southern Karelia and Kymenlaakso
-- 61-69: Ostrobothnia, Central Ostrobothnia, and Southern Ostrobothnia
-- 81-89: Northern Ostrobothnia and Kainuu
-- 90-99: Helsinki
+<div className="flex columns-2 justify-around">
+<div>
+
+1. **Various regions (_see next column →_)**
+2. Satakunta and Finland Proper
+3. Tavastia Proper and Päijänne Tavastia
+4. `N/A`
+5. Southern Karelia and Kymenlaakso
+6. Ostrobothnia, Central Ostrobothnia, and Southern Ostrobothnia
+7. `N/A`
+8. Northern Ostrobothnia and Kainuu
+9. Helsinki
+
+</div>
+<div>
+
+13. Northern Karelia
+14. Central Finland
+15. Southern Savonia
+16. Lapland
+17. Northern Savonia
+18. Åland
+19. Uusimaa
+
+</div>
+</div>
 
 ---
 
