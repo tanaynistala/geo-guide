@@ -121,7 +121,7 @@ const InteractiveMap = ({ code, scale, level = "1" }: Props) => {
                     className={`outline-none stroke-gray-400 stroke-[0.5] rounded
                       ${
                         getCodes(feature).find((item) =>
-                          item.toString().startsWith(focus)
+                          item.toString().startsWith(focus.toString())
                         )
                           ? "fill-gray-500"
                           : "fill-gray-300"
@@ -151,7 +151,7 @@ const InteractiveMap = ({ code, scale, level = "1" }: Props) => {
           .flatMap((item) => item)
           .map((item) => item.toString()[0])
           .filter((item, index, arr) => arr.indexOf(item) === index)
-          .sort((a, b) => a - b)
+          .sort((a, b) => (a > b ? 1 : -1))
           .map((value) => (
             <Disclosure phoneCode={value} />
           ))}
