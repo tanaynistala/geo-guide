@@ -118,27 +118,27 @@ In the sample below, note the frequent use of *e*s with umlauts, as well as the 
 
 ## Counties
 
-- [Berat](https://www.geoguessr.com/maps/630a3a130e0901110d1a3bb4) by Goaff (YT) paschtetli `950 locs.`
+- [Berat](https://www.geoguessr.com/maps/630a3a130e0901110d1a3bb4) 
 
-- [Dibër](https://www.geoguessr.com/maps/630a3ab388245ae8e2a8bfbf) by Goaff (YT paschtetli `980 locs.`
+- [Dibër](https://www.geoguessr.com/maps/630a3ab388245ae8e2a8bfbf) 
 
-- [Durrës](https://www.geoguessr.com/maps/630a3b5b5c49ce49d698f84c) by Goaff (YT) paschtetli) `1900 locs.`
+- [Durrës](https://www.geoguessr.com/maps/630a3b5b5c49ce49d698f84c)
 
-- [Elbsasn](https://www.geoguessr.com/maps/630a3be6a34f06008247c7d5) by Goaff (YT) paschtetli) `25000 locs.`
+- [Elbsasn](https://www.geoguessr.com/maps/630a3be6a34f06008247c7d5)
 
-- [Gjirokastër](https://www.geoguessr.com/maps/630a3c9eaf4aa8fcacc8647f) by Goaff (YT) paschtetli) `1800 locs.`
+- [Gjirokastër](https://www.geoguessr.com/maps/630a3c9eaf4aa8fcacc8647f)
 
-- [Korce](https://www.geoguessr.com/maps/630a3d8eef6ff6f792ca7782) by Goaff (YT) paschtetli) `3000 locs.`
+- [Korce](https://www.geoguessr.com/maps/630a3d8eef6ff6f792ca7782) 
 
-- [Kukes](https://www.geoguessr.com/maps/630a3dd62d1aa1ec8304aa54) by Goaff (YT) paschtetli) `1400 locs.`
+- [Kukes](https://www.geoguessr.com/maps/630a3dd62d1aa1ec8304aa54) 
 
-- [Lezhe](https://www.geoguessr.com/maps/630a3e1cb576e66b63a7b350) by Goaff (YT) paschtetli `1800 locs.`
+- [Lezhe](https://www.geoguessr.com/maps/630a3e1cb576e66b63a7b350)
 
-- [Shkoder](https://www.geoguessr.com/maps/630a3e605c49ce49d698f90a) by Goaff (YT) paschtetli `3300 locs.`
+- [Shkoder](https://www.geoguessr.com/maps/630a3e605c49ce49d698f90a)
 
-- [Tirana](https://www.geoguessr.com/maps/630a3ea9ba043def42869309) by Goaff (YT) paschtetli `4700 locs.`
+- [Tirana](https://www.geoguessr.com/maps/630a3ea9ba043def42869309)
 
-- [Vlore](https://www.geoguessr.com/maps/630a3ee5a34f06008247c896) by Goaff (YT) paschtetli `3000 locs.`
+- [Vlore](https://www.geoguessr.com/maps/630a3ee5a34f06008247c896)
 
 
 ## Thematic Maps
