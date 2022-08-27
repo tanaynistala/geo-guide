@@ -100,7 +100,7 @@ In the sample below, note the frequent use of *e*s with umlauts, as well as the 
 
 - [Official Map](https://www.geoguessr.com/maps/albania)
 
-- [AI generated](https://www.geoguessr.com/maps/6252ee7b0e09222be3a1b4ba) by Goaff (YT) paschtetli `5000 locs.`
+- [AI generated](https://www.geoguessr.com/maps/6252ee7b0e09222be3a1b4ba) 
 
 - [Albania](https://www.geoguessr.com/maps/5b0dcc661c70126adc543db2) by Mapper `500 locs.`
 
