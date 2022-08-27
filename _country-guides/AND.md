@@ -70,6 +70,38 @@ L·L and l·l
 
 > Tots els éssers humans neixen lliures i iguals en dignitat i en drets. Són dotats de raó i de consciència, i han de comportar-se fraternalment els uns amb els altres.
 
+# Map Library 
+
+## Countrywide
+
+- [Official Map](https://www.geoguessr.com/maps/andorra)
+
+- [AI generated](https://www.geoguessr.com/maps/6252f2995448289a386a7bee)
+
+- [Andorra](https://www.geoguessr.com/maps/5b81ca041ee0107188662a1c) by Mapper `1000 locs.`
+
+- [IntersectionGuessr](https://www.geoguessr.com/maps/6294c8eb7c72c1f3108ae51c) by Gabriel_ `3000 locs`
+
+- [Pinpointable](https://www.geoguessr.com/maps/604d338eac2a4800015bcea6) by Sverre `15 locs.`
+
+
+## Parishes
+
+- [Andorra La Vella](https://www.geoguessr.com/maps/630a5b91b576e66b63a7b97d) 
+
+- [Canillo](https://www.geoguessr.com/maps/630a5bec7f313d3a97e3c848)
+
+- [Encamp](https://www.geoguessr.com/maps/6171a6875b8d110001acf8c9)
+
+- [Escaldes-Engordany](https://www.geoguessr.com/maps/630a5cdd88245ae8e2a8c6e9)
+
+- [La Massana](https://www.geoguessr.com/maps/630a5d4ffe4f9049eb599d3c)
+
+- [Ordino](https://www.geoguessr.com/maps/630a5db1b576e66b63a7b9e9)
+
+- [Sant Julià de Lòria](https://www.geoguessr.com/maps/630a5e170e0901110d1a4320)
+
+
 ---
 
 # Most Similar
