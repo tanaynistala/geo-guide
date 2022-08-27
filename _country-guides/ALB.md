@@ -111,10 +111,12 @@ In the sample below, note the frequent use of *e*s with umlauts, as well as the 
 
 ## Regional Maps
 
+- [North Albania](https://www.geoguessr.com/maps/603e38cf3d893e0001bff04e) by NL Enzo `500 locs.´
+
+- [Southern Albania](https://www.geoguessr.com/maps/6306c37d7851a399084ed04b) by pcan `45 locs.`
 
 
-
-## Cantons
+## Counties
 
 - [Berat](https://www.geoguessr.com/maps/630a3a130e0901110d1a3bb4) by Goaff (YT) paschtetli `950 locs.`
 
@@ -126,10 +128,26 @@ In the sample below, note the frequent use of *e*s with umlauts, as well as the 
 
 - [Gjirokastër](https://www.geoguessr.com/maps/630a3c9eaf4aa8fcacc8647f) by Goaff (YT) paschtetli) `1800 locs.`
 
+- [Korce](https://www.geoguessr.com/maps/630a3d8eef6ff6f792ca7782) by Goaff (YT) paschtetli) `3000 locs.`
+
+- [Kukes](https://www.geoguessr.com/maps/630a3dd62d1aa1ec8304aa54) by Goaff (YT) paschtetli) `1400 locs.`
+
+- [Lezhe](https://www.geoguessr.com/maps/630a3e1cb576e66b63a7b350) by Goaff (YT) paschtetli `1800 locs.`
+
+- [Shkoder](https://www.geoguessr.com/maps/630a3e605c49ce49d698f90a) by Goaff (YT) paschtetli `3300 locs.`
+
+- [Tirana](https://www.geoguessr.com/maps/630a3ea9ba043def42869309) by Goaff (YT) paschtetli `4700 locs.`
+
+- [Vlore](https://www.geoguessr.com/maps/630a3ee5a34f06008247c896) by Goaff (YT) paschtetli `3000 locs.`
+
 
 ## Thematic Maps
 
-- [Bird's Eye, drones](https://www.geoguessr.com/maps/60101d7475533700013887b1) by flopes `1000+ locs.`
+- [Urban](https://www.geoguessr.com/maps/60faac56cd0a240001f3c549) by aramh `6651 locs.`
+
+- [Bunker](https://www.geoguessr.com/maps/624e135660780310060683ff) by Finntrovert `65 locs.`
+
+- [Bridges](https://www.geoguessr.com/maps/600c426894b5f40001eedffb) by Kurt `66 locs.`
 
 
 ---
