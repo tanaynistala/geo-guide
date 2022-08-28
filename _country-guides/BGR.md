@@ -227,6 +227,20 @@ However, the modern Bulgarian script typically uses a more symmetric, triangular
 
 > Всички хора се раждат свободни и равни по достойнство и права. Tе са надарени с разум и съвест и следва да се отнасят помежду си в дух на братство.
 
+# Map Library
+
+## Countrywide
+
+- [Official](https://www.geoguessr.com/maps/bulgaria)
+
+- [AI generated](https://www.geoguessr.com/maps/6253e5d71c1dc50b396fe72a)
+
+- [IntersectionGuessr](https://www.geoguessr.com/maps/6294aaa28e4f94c4246fc996) by PastequeHachee `60000 locs.`
+
+- [Bulgaria](https://www.geoguessr.com/maps/5a26e60ef3701413a09784c2) by Mapper `1000 locs.`
+
+- [Pinpointable](https://www.geoguessr.com/maps/6059feb4e43dda00015224be) by stanstoy `92 locs.`
+
 ---
 
 # Most Similar
