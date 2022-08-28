@@ -239,6 +239,20 @@ Ss Tt Uu Vv Ww Xx Yy Zz
 
 > Tous les êtres humains naissent libres et égaux en dignité et en droits. Ils sont doués de raison et de conscience et doivent agir les uns envers les autres dans un esprit de fraternité.
 
+# Map Library
+
+## Countrywide
+
+- [Official](https://www.geoguessr.com/maps/belgium)
+
+- [AI generated](https://www.geoguessr.com/maps/62530e0f13770530bfbdcb80)
+
+- [IntersectionGuessr](https://www.geoguessr.com/maps/60abde927d6ac000015caec8) by slashP `30000 lcos`
+
+- [Belgium](https://www.geoguessr.com/maps/59ccca2c572f0e4c689c5a28) by Mapper `500 locs`
+
+- [Pinpointable](https://www.geoguessr.com/maps/604ea942c89af10001e90e48) by Olliehs2 `50 locs`
+
 ---
 
 # Most Similar
