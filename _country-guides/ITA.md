@@ -203,11 +203,26 @@ Ss Tt Uu Vv Ww Xx Yy Zz
 
 ### German (Südtirol)
 
-> Alle Menschen sind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft und Gewissen begabt und sollen einander im Geist der Brüderlichkeit begegnen.
+> Alle Menschen sind mit den gleichen Rechten an Würde geboren. Sie sind mit Vernunft und Gewissen beschenkt und sollen einander im Geist der Brüderlichkeit begegnen.
 
 ### Sardinian (Sardinia)
 
 > Totu sos èsseres umanos naschint lìberos e eguales in dinnidade e in deretos. Issos tenent sa resone e sa cussèntzia e depent operare s'unu cun s'àteru cun ispìritu de fraternidade.
+
+# Map Library
+
+## Countrywide
+
+- [Official](https://www.geoguessr.com/maps/italy)
+
+- [AI generated](https://www.geoguessr.com/maps/6254397e084173261b7abe86)
+
+- [IntersectionGuessr](https://www.geoguessr.com/maps/60ac3a0243e0670001f548d2) by slashP `100000 locs.`
+
+- [Italy](https://www.geoguessr.com/maps/5bbc67612c01735208562ae7) by 5ai `150000 locs.`
+
+- [Pinpointable](https://www.geoguessr.com/maps/60464ef0c29076000117fcb3) by Requiem `100 locs.`
+
 
 ---
 
