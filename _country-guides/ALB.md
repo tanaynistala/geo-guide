@@ -111,7 +111,7 @@ In the sample below, note the frequent use of *e*s with umlauts, as well as the 
 
 ## Regional Maps
 
-- [North Albania](https://www.geoguessr.com/maps/603e38cf3d893e0001bff04e) by NL Enzo `500 locs.´
+- [North Albania](https://www.geoguessr.com/maps/603e38cf3d893e0001bff04e) by NL Enzo `500 locs.`
 
 - [Southern Albania](https://www.geoguessr.com/maps/6306c37d7851a399084ed04b) by pcan `45 locs.`
 
