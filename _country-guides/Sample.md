@@ -32,6 +32,12 @@ See Netherlands or Portugal for a good example of this
 
 ---
 
+# Geography
+
+New section that I had forgotten about. We need an example for this.
+
+---
+
 # Architecture
 
 Haven't done anything on this yet, Simi's the expert
@@ -59,9 +65,13 @@ Ss Tt Uu Vv Ww Xx Yy Zz
 > Sample of the language(s) from [https://www.omniglot.com/udhr/index.htm]()
 > See India, Switzerland, or Belgium for an example for multilingual countries
 
+---
+
 # Meta-Gaming
 
 `Anything specifically related to Street View goes here, including coverage, Google car, rifts, etc.`
+
+---
 
 # Map Library
 
