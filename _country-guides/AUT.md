@@ -90,6 +90,20 @@ Ss Tt Uu Vv Ww Xx Yy Zz
 
 > Alle Menschen sind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft und Gewissen begabt und sollen einander im Geist der Brüderlichkeit begegnen.
 
+# Map Library
+
+## Countrywide
+
+- [Official](https://www.geoguessr.com/maps/austria)
+
+- [AI generated](https://www.geoguessr.com/maps/6252ffe1e836fbcc3dee57b9)
+
+- [IntersectionGuessr](https://www.geoguessr.com/maps/6294a76cf6507e6b8d920280) by PastequeHachee `100000 locs.`
+
+- [Austria](https://www.geoguessr.com/maps/5b468099a6fd96096470f2b6) by Mapper `1000 locs`
+
+- [Pinpointable](https://www.geoguessr.com/maps/602b110f701dda0001ac4923) by janeeen `50 locs`
+
 ---
 
 # Most Similar
