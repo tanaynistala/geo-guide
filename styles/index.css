@@ -143,6 +143,16 @@
       list-style-type: square;
       @media screen and (min-width: 480px) {
         columns: 2;
+
+        li {
+          break-inside: avoid-column;
+        }
+
+        img {
+          @media screen and (min-width: 480px) {
+            margin: 0.5rem 0;
+          }
+        }
       }
     }
 

@@ -143,6 +143,21 @@ const RoadNumber = ({
         />
       );
 
+    case "oval":
+      return (
+        <span
+          className="m-0 px-1 leading-tight inline-block rounded-full border-2 font-semibold tabular-nums"
+          style={{
+            borderColor: border,
+            borderStyle: borderStyle,
+            backgroundColor: bg,
+            color: text,
+          }}
+        >
+          {num}
+        </span>
+      );
+
     default:
       return (
         <span
@@ -374,7 +389,7 @@ const SquareBulletRoadNumber = ({ style, num, bg, text, border }) => {
       className="inline-block font-semibold"
     >
       <svg
-        className="-z-10 w-8 absolute md:translate-y-0.5"
+        className="-z-10 w-8 absolute"
         viewBox="0 0 100 100"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
