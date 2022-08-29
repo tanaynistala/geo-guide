@@ -293,7 +293,7 @@ const LongHexagonRoadNumber = ({ style, num, bg, text, border }) => {
       className="inline-block font-semibold"
     >
       <svg
-        className="-z-10 w-12 absolute md:translate-y-0.5"
+        className="-z-10 w-12 absolute"
         viewBox="0 0 278 160"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -306,7 +306,7 @@ const LongHexagonRoadNumber = ({ style, num, bg, text, border }) => {
         />
       </svg>
 
-      <span className="flex justify-center w-12">{num}</span>
+      <span className="flex justify-center w-12 leading-7">{num}</span>
     </span>
   );
 };
