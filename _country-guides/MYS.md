@@ -1,4 +1,4 @@
-Welcome to one of the longest-awaited additions to Street View: India! This incredibly diverse country is a whole new world all on its own; read on to learn more about it!
+`Intro to Malaysia`
 
 ---
 
@@ -44,33 +44,33 @@ Road numbers appear on signposts as well as on kilometer posts. Kilometers posts
 ## road types
 
 There are 3 types of roads :
--Expressways E.
--Federal roads with just a simple number.
--Regional roads with a letter then a number.
+1. Expressways E.
+2. Federal roads with just a simple number.
+3. Regional roads with a letter then a number.
 
-##Expressways E
+## Expressways E
 
 Most of them are in Selangor region, around Kuala Lumpur, there are also a few in Johor near Singapore.
 Only 3 exceptions : E1, E2 and E8.
 <img src="/img/MYS/e_roads.png" />
 
-##Federal roads
+## Federal roads
 
 Roads with a simple number are federal roads, there are very few of them on Malaysian Borneo : only roads 1,13,22 and 5xx. But roads 1 and 13 are not unique, there is also a road 1 and a road 13 in Peninsular Malaysia.
 
-##Regional roads
+## Regional roads
 
 Regional roads start with a letter. Each state has its own letter, but both Perlis and Sabah use the letter R.
 <img src="/img/MYS/l_roads.png" />
 
-##road sign metas
+## road sign metas
 
--The state of Sabah in Malaysian Borneo has specific signs with the JKR logo indicating street names (street = Jalan, abbreviated JLN).
+- The state of Sabah in Malaysian Borneo has specific signs with the JKR logo indicating street names (street = Jalan, abbreviated JLN).
 <img src="/img/MYS/jkr01.png" />
 <img src="/img/MYS/jkr02.png" />
 
--Usually, signposts on Peninsular Malaysia will specify the road numbers, while signposts on Malaysian Borneo do not.
--You will almost never see bollards on Malaysian Borneo.
+- Usually, signposts on Peninsular Malaysia will specify the road numbers, while signposts on Malaysian Borneo do not.
+- You will almost never see bollards on Malaysian Borneo.
  
 ---
 
@@ -122,14 +122,14 @@ Malaysians speak Standard Malay. It is also possible to find some english here a
 ## [Indonesia](/countries/IDN)
 
 Indonesia and Malaysia share :
--the same religion (islam)
--similar languages, since Indonesian and Standard Malay are both malay languages.
--similar landscapes : tropical.
+- the same religion (islam)
+- similar languages, since Indonesian and Standard Malay are both malay languages.
+- similar landscapes : tropical.
 
 Even though they look alike, there are many ways to tell the difference, here are some easy ones :
--the currency in Malaysia is RM (Ringgit Malaysia) while in indonesia they use RP (Rupiah)
--the flags, malaysian flag looks like the US flag while the indonesian flag is just red and white.
--Indonesia doesnt have road numbers.
--Indonesia stop sign is written STOP while Malaysia stop sign is written Berhenti.
--Malaysia uses road signs written AWAS for signaling a danger.
--Indonesia has advertising for cigarettes everywhere, they mention the danger of smoking with a sentence starting with "PERINGATAN : MEROKOK ".
+- the currency in Malaysia is RM (Ringgit Malaysia) while in indonesia they use RP (Rupiah)
+- the flags, malaysian flag looks like the US flag while the indonesian flag is just red and white.
+- Indonesia doesnt have road numbers.
+- Indonesia stop sign is written STOP while Malaysia stop sign is written Berhenti.
+- Malaysia uses road signs written AWAS for signaling a danger.
+- Indonesia has advertising for cigarettes everywhere, they mention the danger of smoking with a sentence starting with "PERINGATAN : MEROKOK ".
