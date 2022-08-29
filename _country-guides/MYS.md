@@ -26,7 +26,7 @@ and 3 Federal Territories:
 - Labuan `LBN`
 - Putrajaya `PJY`
 
-<CountryMap code="MLY" scale="800" />
+<CountryMap code="MYS" scale="800" />
 
 The continental part on the malay penisula is reffered to as Peninsular Malaysia, while the part on Borneo island is reffered to as either East Malaysia or Malaysian Borneo.
 
@@ -38,8 +38,8 @@ The continental part on the malay penisula is reffered to as Peninsular Malaysia
 
 ## road signs
 Road numbers appear on signposts as well as on kilometer posts. Kilometers posts also tell you the next city on this road.          
-![signpost - Malaysia](/public/img/MLY/sign.png)
-![kilometer post - Malaysia](/public/img/MLY/kilometer_sign.png)
+<img src="/img/MLY/sign.png" />
+<img src="/img/MLY/kilometer_sign.png" />
 
 ## road types
 
@@ -52,7 +52,7 @@ There are 3 types of roads :
 
 Most of them are in Selangor region, around Kuala Lumpur, there are also a few in Johor near Singapore.
 Only 3 exceptions : E1, E2 and E8.
-![Expressways - Malaysia](/public/img/MLY/e_roads.png)
+<img src="/img/MLY/e_roads.png" />
 
 ##Federal roads
 
@@ -61,13 +61,13 @@ Roads with a simple number are federal roads, there are very few of them on Mala
 ##Regional roads
 
 Regional roads start with a letter. Each state has its own letter, but both Perlis and Sabah use the letter R.
-![regional roads in Malaysia](/public/img/MLY/l_roads.png)
+<img src="/img/MLY/l_roads.png" />
 
 ##road sign metas
 
 -The state of Sabah in Malaysian Borneo has specific signs with the JKR logo indicating street names (street = Jalan, abbreviated JLN).
-![Sabah road sign](/public/img/MLY/jkr01.png)
-![JKR logo](/public/img/MLY/jkr02.png)
+<img src="/img/MLY/jkr01.png" />
+<img src="/img/MLY/jkr02.png" />
 
 -Usually, signposts on Peninsular Malaysia will specify the road numbers, while signposts on Malaysian Borneo do not.
 -You will almost never see bollards on Malaysian Borneo.
@@ -114,8 +114,6 @@ Malaysians speak Standard Malay. It is also possible to find some english here a
 ### English
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
-
-
 
 ---
 
