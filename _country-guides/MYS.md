@@ -38,8 +38,8 @@ The continental part on the malay penisula is reffered to as Peninsular Malaysia
 
 ## road signs
 Road numbers appear on signposts as well as on kilometer posts. Kilometers posts also tell you the next city on this road.          
-<img src="/img/MLY/sign.png" />
-<img src="/img/MLY/kilometer_sign.png" />
+<img src="/img/MYS/sign.png" />
+<img src="/img/MYS/kilometer_sign.png" />
 
 ## road types
 
@@ -52,7 +52,7 @@ There are 3 types of roads :
 
 Most of them are in Selangor region, around Kuala Lumpur, there are also a few in Johor near Singapore.
 Only 3 exceptions : E1, E2 and E8.
-<img src="/img/MLY/e_roads.png" />
+<img src="/img/MYS/e_roads.png" />
 
 ##Federal roads
 
@@ -61,13 +61,13 @@ Roads with a simple number are federal roads, there are very few of them on Mala
 ##Regional roads
 
 Regional roads start with a letter. Each state has its own letter, but both Perlis and Sabah use the letter R.
-<img src="/img/MLY/l_roads.png" />
+<img src="/img/MYS/l_roads.png" />
 
 ##road sign metas
 
 -The state of Sabah in Malaysian Borneo has specific signs with the JKR logo indicating street names (street = Jalan, abbreviated JLN).
-<img src="/img/MLY/jkr01.png" />
-<img src="/img/MLY/jkr02.png" />
+<img src="/img/MYS/jkr01.png" />
+<img src="/img/MYS/jkr02.png" />
 
 -Usually, signposts on Peninsular Malaysia will specify the road numbers, while signposts on Malaysian Borneo do not.
 -You will almost never see bollards on Malaysian Borneo.
@@ -87,9 +87,9 @@ Landlines have a 3 digit area code ranging from 030 to 099. 01 is for cell phone
 # Electric poles
 
 In Peninsular Malaysia, most of the poles have a black square with white letters. Those do not exist on Malaysian Borneo.
-![Electric pole - Peninsular Malaysia](/public/img/MLY/pole1.png)
+<img src="/img/MYS/pole1.png" />
 In Malaysian Borneo, some of the electric poles have a double poles and some major discs on the wires.
-![Electric pole - Peninsular Malaysia](/public/img/MLY/pole2.png)
+<img src="/img/MYS/pole2.png" />
 
 ---
 
