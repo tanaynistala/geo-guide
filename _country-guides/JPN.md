@@ -23,3 +23,7 @@ TWN: <RoadNumber style="flower" num="12" border="green" />
 ROM: <RoadNumber style="shield" num="12" bg="red" />
 
 <CountryMap code="JPN" scale="1000" />
+
+<InteractiveMap code="BGR" scale="5000" />
+
+<InteractiveMap code="FRA" scale="2000" level="2" />
