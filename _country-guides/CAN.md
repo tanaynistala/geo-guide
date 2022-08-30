@@ -116,6 +116,8 @@ Canada is part of the [North American Numbering Plan](https://en.wikipedia.org/w
   - West: `819`/`873`
   - East: `418`/`367`/`581`
 
+_The most common area code is listed first for each region, and the region-specific area codes are more common than province-wide area codes._
+
 ---
 
 # Roads, Signage, and Poles
@@ -209,7 +211,7 @@ Other varieties of signage are shown below:
 
   <img src="/img/CAN/signage/highways/tch-nl.png" width="128" alt="Trans-Canada Highway shield in Newfoundland" />
 
-The main route runs west-east from Victoria `BC` to St. John's `NL`, mostly signed either as Highway 1 (western four provinces, P.E.I., and Newfoundland) or a numberless route (Ontario and Québec). New Brunswick sign the route as Highway 2, and Nova Scotia signs it as Highways 104 and 105. Asides from the main route, Highway 16 is another major highway on the network, running north of Highway 1 in the western four provinces. Other routes on the network are minor, mostly as alternate routes in Ontario and Québec, plus the Highway 100 ring road in Winnipeg `MB`.
+The main route runs west-east from Victoria `BC` to St. John's `NL`, mostly signed either as Highway 1 (western four provinces, P.E.I., and Newfoundland) or a numberless route (Ontario and Québec). New Brunswick signs the route as Highway 2, and Nova Scotia signs it as Highways 104-106. Asides from the main route, Highway 16 is another major highway on the network, running north of Highway 1 in the western four provinces. Other routes on the network are minor, mostly as alternate routes in Ontario and Québec, plus the Highway 100 ring road in Winnipeg `MB`.
 
 ## Provincial Highways and Roads
 
@@ -372,6 +374,12 @@ Like the other prairie provinces, Saskatchewan has a grid numbering system for r
 - **Range roads** run north-south, with numbering increasing to the west
 - **Township roads** run east-west, with numbering increasing to the north
 
+### Territorial Highways
+
+- **Northwest Territories:** There are ten territorial highways in the Northwest Territories, all signposted on a blue background with a polar bear and a white band with the code `NWT`.
+- **Yukon:** There are fourteen territorial highways in Yukon, all signposted on signs of different colors, and with the number in a serif font.
+- **Nunavut:** There are no numbered highways in Nunavut, and it is not connected by road to the rest of Canada.
+
 ---
 
 # Geography
@@ -461,18 +469,38 @@ In addition, French employs several accents and diacritics, shown below:
 
 # Map Library
 
-### Countrywide Maps
+## Countrywide Maps
 
-### Regional Maps
+- [Official Map](https://www.geoguessr.com/maps/canada)
+- [IntersectionGuessr](https://www.geoguessr.com/maps/6110358df4c8220001e87a12) by slashP
+- [Balanced](https://www.geoguessr.com/maps/61067f9608061c000157a851) by slashP
+- [AI-Generated](https://www.geoguessr.com/maps/6253edeaf437aafbd7d0f5fe) by Goaff (YT) paschtetli
 
-### Subdivision Maps
+## Regional Maps
 
-### Thematic Maps
+## Subdivision Maps
+
+- [British Columbia](https://www.geoguessr.com/maps/5ad836e62a3e0d4da46e53a1) by Werdok
+- [Alberta](https://www.geoguessr.com/maps/5a6f2a8e7d76146cf0b48a75) by Werdok
+- [Saskatchewan](https://www.geoguessr.com/maps/5ae07fce8861ee3ec0d5f0c1) by Werdok
+- [Manitoba](https://www.geoguessr.com/maps/5ae2d78630e0105e5c9ed923) by Werdok
+- [Ontario](https://www.geoguessr.com/maps/5a6efd62a1835d2820f9a5ce) by Werdok
+- [Québec](https://www.geoguessr.com/maps/57cd4546750837fd3c78ede5) by Werdok
+- [New Brunswick](https://www.geoguessr.com/maps/5ab507795dc1376b4c38250a) by Werdok
+- [Nova Scotia](https://www.geoguessr.com/maps/5ad5c6748861ee4cf4db033b) by Werdok
+- [Prince Edward Island](https://www.geoguessr.com/maps/5ab8df796d08340f706044e5) by Werdok
+- [Newfoundland and Labrador](https://www.geoguessr.com/maps/5ad4bdc230e0107eb8b5104f) by Werdok
+
+## Thematic Maps
 
 ---
 
 # Most Similar
 
-## [Country Name](/countries/country-code)
+## [United States](/countries/USA)
 
-## [Country Name](/countries/country-code)
+Canada's neighbor to the south looks and feels very similar, largely because most of the Canadian population (and coverage) is very close to the U.S. border. Be on the lookout for the following:
+
+- **French:** French is an official language in Canada, but is not in the U.S. Spanish is the _de facto_ second language of the U.S.
+- **Road lines:** While not a definitive tool, a single solid yellow line in the middle of the road is occasionally used in Canada, whereas it is incredibly rare in the U.S., where double-solid yellow center lines are standard.
+- **Signs in kilometers:** While the U.S. uses the imperial system, Canada has standardized the use of the metric system—so distances will be in kilometers (km), while speed limits will be in kilometers per hour (km/h).
