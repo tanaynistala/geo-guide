@@ -7,6 +7,7 @@ import CountryMap from "./country-map";
 import InteractiveMap from "./interactive-map";
 import LicensePlate from "./page-components/license-plate";
 import RoadNumber from "./page-components/road-number";
+import RoadShield from "./page-components/road-shield";
 
 // Custom components/renderers to pass to MDX.
 // Since the MDX files aren't loaded by webpack, they have no knowledge of how
@@ -64,6 +65,7 @@ const components = {
   InteractiveMap,
   LicensePlate,
   RoadNumber,
+  RoadShield,
   a: TextLink,
   nav: Nav,
   img: Img,

@@ -389,7 +389,7 @@ const SquareBulletRoadNumber = ({ style, num, bg, text, border }) => {
       className="inline-block font-semibold"
     >
       <svg
-        className="-z-10 w-8 absolute"
+        className="-z-10 w-8 absolute -translate-y-1"
         viewBox="0 0 100 100"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -481,7 +481,7 @@ const ShieldRoadNumber = ({ style, num, bg, text, border }) => {
       className="inline-block font-semibold"
     >
       <svg
-        className="-z-10 w-8 absolute -translate-y-0.5 md:translate-y-0"
+        className="-z-10 w-8 absolute -translate-y-0.5"
         viewBox="-2 -2 104 104"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
