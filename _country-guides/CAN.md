@@ -282,7 +282,7 @@ New Brunswick's highways are divided into three series, and are signposted on co
 
 - **Arterial Highways** are the primary highways of New Brunswick, and are marked by green signs. Most are numbered below 20, with Route 95 being the exception as an extension of the U.S. I-95.
 - **Collector Highways** are the secondary highways of New Brunswick, and can be either connector routes or old alignments of primary highways. They are marked with blue signs, and are numbered from 100 to 199.
-- **Local Highway** are the tertiary routes in New Brunswick, connecting smaller communities and areas to larger highways. They are marked with black signs, and are numbered from 200 onwards.
+- **Local Highways** are the tertiary routes in New Brunswick, connecting smaller communities and areas to larger highways. They are marked with black signs, and are numbered from 200 onwards.
 
 ### Newfoundland and Labrador
 
@@ -386,11 +386,11 @@ Like the other prairie provinces, Saskatchewan has a grid numbering system for r
 
 The geography of Canada varies immensely from west to east. These are teh geographic macroregions of Canada, with the rough region:
 
-- **Rockies and Coast Mountains**
+- **Pacific Cordillera**
 
   _British Columbia and western Alberta_
 
-  This region is densely forested, and has Canada's highest peaks. It looks similar to the United States' Pacific Northwest.
+  This region is densely forested, and has Canada's tallest mountains. It looks similar to the United States' Pacific Northwest.
 
 - **Prairies**
 
@@ -463,7 +463,17 @@ In addition, French employs several accents and diacritics, shown below:
 
 # Meta-Gaming
 
-`Anything specifically related to Street View goes here, including coverage, Google car, rifts, etc.`
+## Coverage
+
+Most of southern Canada is covered, although many minor dirt and gravel roads in the Prairie provinces do not have coverage, especially those further north.
+
+Yukon is the most widely covered of the territories, with most of the territory's highways having coverage; some portions of routes 4, 5, and 6 being the main holdouts.
+
+The Northwest Territories has only two major routes covered: from the Alberta border to Yellowknife, and from the Yukon border near Fort McPherson to the Arctic Ocean at Tuktoyaktuk. The hamlet of Tulita is covered as well. There is some additional spillover coverage as well: near Tungsten on the Yukon border, and in the northern reaches of Wood Buffalo National Park `AB`.
+
+Only two towns in Nunavut are covered: Cambridge Bay / Iqaluktuuttiaq and Iqaluit. Iqaluit is easily recognizable due to the snowy coverage, and both use bilingual [stop signs](#stop-signs).
+
+Elsewhere in Canada, the town of Churchill `MB` is notable for being disconnected from the rest of the Canadian road network, and is easily recognizable thanks to the snowy coverage and distinctive street signs with polar bears on them. In Labrador, the towns of Labrador City and Happy Valley-Goose Bay are covered, as well as the QC-389/NL-500 corridor that connects it to the rest of Canada, and the western section of the NL-510.
 
 ---
 
