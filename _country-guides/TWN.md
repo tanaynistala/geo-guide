@@ -38,7 +38,7 @@ Taïwan is divided in 16 counties and 6 special municipalities. They're often na
 
 <CountryMap code="TWN" scale="800" />
                 
-To learn the cities and counties you can use the [Seterra quiz](href="https://www.geoguessr.com/seterra/en/vgp/3273) and the [City quiz](https://super-duper.fr/country/quizz_cities_en.php). 
+To learn the cities and counties you can use the [Seterra quiz](https://www.geoguessr.com/seterra/en/vgp/3273) and the [City quiz](https://super-duper.fr/country/quizz_cities_en.php). 
 
 ---
 
@@ -48,6 +48,7 @@ Taïwan has a main island and quite a few secondary islands, some of which are q
 <img src="/img/TWN/islands.png" alt="map of Taïwan islands" />
 The Chungyang mountain range (Zhongyang shanmo in chinese) covers the center and eastern part of the main island.
 All the islands have streetview coverage except the small Wuqiu islands.
+
 ---
 
 # Roads, Markings, and Signage
@@ -68,7 +69,7 @@ A road can be split in different sections, identified by a symbol after the numb
 National freeways are numbered <RoadNumber style="flower" num="1" bg="green"/> to <RoadNumber style="flower" num="10" bg="green"/>. Every 100m, there s a kilometer sign telling you the distance with the north end of the road for north-south roads, or the west end of the road for east-west roads. Exit numbers also match this same distance.
 <img src="/img/TWN/national_highways.png" alt="national freeways in Taïwan">
 
-##Regional highways
+## Regional highways
 
 On the map, the triangle logo appears in blue, unless the number is 60+ in which case they appear in red. Beware, the color on the map doesnt necessarily match the color in the streetview.</p>           
 Some noteworthy regional highways :
@@ -77,7 +78,7 @@ Some noteworthy regional highways :
 -<RoadNumber style="tri" num="9" bg="blue"/> and <RoadNumber style="tri" num="11" bg="blue"/> follow the east coast.
 There is no global order but here are a few tricks : <RoadNumber style="tri" num="2" bg="blue"/>/<RoadNumber style="tri" num="4" bg="blue"/>/<RoadNumber style="tri" num="6" bg="blue"/>... until <RoadNumber style="tri" num="26" bg="blue"/> go from north to south, <RoadNumber style="tri" num="60's" bg="red"/> roads are rather north, <RoadNumber style="tri" num="70's" bg="red"/> rather center, and <RoadNumber style="tri" num="80's" bg="red"/> rather south.
 
-##County roads</h3>
+## County roads</h3>
 
 They range from 101 in the north to 200 in the south of the main island. Roads 201 to 205 are in Penghu county.
 
@@ -90,7 +91,7 @@ Exception : Keelung city, Hsinchu city et Chiaoyi city all use the 市 symbol wh
 
 ---
 
-#Phone codes
+# Phone codes
 
 In Taïwan, area codes range from 02 in the north to 08 in the south. 09 is for cell phone numbers.
 <img src="/img/TWN/areacodes.png" alt="map of phone area codes in Taïwan">
@@ -107,7 +108,7 @@ The main characteristic of taïwanese electric poles are the black and yellow di
 - similar to the japanese ones, except the japanese stripes are vertical.
 - the same as the korean stripes, except in taïwan they go all the way down to the ground.
 
-<img src="/img/TWN/electric pole.png" alt="Township road ">
+<img src="/img/TWN/electric pole.png" alt="Township road">
 
 other characteristic that are found on many (but not all) electric poles include :
 - a blue plaque
