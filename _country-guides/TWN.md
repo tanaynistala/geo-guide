@@ -79,11 +79,11 @@ Some noteworthy regional highways :
 
 ## County roads
 
-They range from 101 in the north to 200 in the south of the main island. Roads 201 to 205 are in Penghu county.
+They range from <RoadNumber bg="white" border="black" num="101" /> in the north to <RoadNumber bg="white" border="black" num="200" /> in the south of the main island. Roads <RoadNumber bg="white" border="black" num="201" /> to <RoadNumber bg="white" border="black" num="205" /> are in Penghu county.
 
 ## Township roads
 
-Township roads have a symbol in front of their number.
+Township roads have a symbol in front of their number, it looks like this : <RoadNumber bg="white" border="black" num="市12" />.
 You can learn the symbols with the [township roads quiz Taïwan](https://super-duper.fr/country/quiz_taiwan_roads_en.php), but you can also find them by scanning the map. Indeed, the road symbol is one of the first 2 symbols of the county name :
 <img src="/img/TWN/countyroad_example.png" alt="Township road " />
 Exception : Keelung city, Hsinchu city et Chiaoyi city all use the 市 symbol which simply means "city".

@@ -51,12 +51,12 @@ There are 3 types of roads :
 ## Expressways E
 
 Most of them are in Selangor region, around Kuala Lumpur, there are also a few in Johor near Singapore.
-Only 3 exceptions : E1, E2 and E8.
+Only 3 exceptions : <RoadNumber style="long-hex" num="E1" bg="yellow"/>, <RoadNumber style="long-hex" num="E2" bg="yellow"/> and <RoadNumber style="long-hex" num="E8" bg="yellow"/>.
 <img src="/img/MYS/e_roads.png" />
 
 ## Federal roads
 
-Roads with a simple number are federal roads, there are very few of them on Malaysian Borneo : only roads 1,13,22 and 5xx. But roads 1 and 13 are not unique, there is also a road 1 and a road 13 in Peninsular Malaysia.
+Roads with a simple number are federal roads, there are very few of them on Malaysian Borneo : only roads <RoadNumber style="long-hex" num="1" bg="yellow"/>,<RoadNumber style="long-hex" num="13" bg="yellow"/>, <RoadNumber style="long-hex" num="22" bg="yellow"/> and <RoadNumber style="long-hex" num="5xx" bg="yellow"/>. But roads <RoadNumber style="long-hex" num="1" bg="yellow"/> and <RoadNumber style="long-hex" num="13" bg="yellow"/> are not unique, there is also a <RoadNumber style="long-hex" num="1" bg="yellow"/> and a <RoadNumber style="long-hex" num="13" bg="yellow"/> in Peninsular Malaysia.
 
 ## Regional roads
 
@@ -89,7 +89,7 @@ Landlines have a 3 digit area code ranging from 030 to 099. 01 is for cell phone
 In Peninsular Malaysia, most of the poles have a black square with white letters. Those do not exist on Malaysian Borneo.
 <img src="/img/MYS/pole1.png" />
 In Malaysian Borneo, some of the electric poles have a double poles and some major discs on the wires.
-<img src="/img/MYS/pole2.png" />
+<img src="/img/MYS/pole02.png" />
 
 ---
 
