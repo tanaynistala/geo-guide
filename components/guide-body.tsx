@@ -33,7 +33,9 @@ const TextLink = ({ href, className, ...rest }) => {
     return (
       <Link href={href}>
         <a
-          className="px-1 -m-0.5 hover:bg-blue-500 text-blue-500 hover:text-white rounded no-underline inline-block after:content-['_↗']"
+          className={`px-1 -m-0.5 hover:bg-blue-500 text-blue-500 hover:text-white rounded no-underline inline-block after:content-['${
+            href.indexOf("#") ? "_↗" : "_#"
+          }']`}
           {...rest}
           target={`${href.startsWith("#") ? "" : "_blank"}`}
         />

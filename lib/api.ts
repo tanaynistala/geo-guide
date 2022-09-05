@@ -4,6 +4,7 @@ import matter from "gray-matter";
 
 // import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeSlug from "rehype-slug";
+import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeTOC from "@jsdevtools/rehype-toc";
 import imageSize from "rehype-img-size";
 import section from "@agentofuser/rehype-section";
@@ -56,6 +57,7 @@ export async function getGuide(postType: string, slug: string) {
       mdxOptions: {
         rehypePlugins: [
           rehypeSlug,
+          rehypeAutolinkHeadings,
           [imageSize, { dir: "public" }],
           section,
           rehypeTOC,
@@ -77,6 +79,7 @@ export async function getGuide(postType: string, slug: string) {
       mdxOptions: {
         rehypePlugins: [
           rehypeSlug,
+          rehypeAutolinkHeadings,
           [imageSize, { dir: "public" }],
           section,
           rehypeTOC,
