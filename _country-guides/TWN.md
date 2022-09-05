@@ -55,7 +55,7 @@ All the islands have streetview coverage except the small Wuqiu islands.
 
 There are 4 types of roads in Taïwan :
 
-- National freeways : <RoadNumber style="flower" num="1" bg="green"/>
+- National freeways : <RoadNumber style="flower" num="1" border="green" bg="white"/>
 - Regional highways :<RoadNumber style="tri" num="1" bg="blue"/> or <RoadNumber style="tri" num="60" bg="red"/>
 - County roads : white square.
 - Township roads : they have a county symbol in front of their number.
@@ -65,7 +65,7 @@ There are 4 types of roads in Taïwan :
 
 ## National freeways
 
-National freeways are numbered <RoadNumber style="flower" num="1" bg="green"/> to <RoadNumber style="flower" num="10" bg="green"/>. Every 100m, there s a kilometer sign telling you the distance with the north end of the road for north-south roads, or the west end of the road for east-west roads. Exit numbers also match this same distance.
+National freeways are numbered <RoadNumber style="flower" num="1" border="green" bg="white"/> to <RoadNumber style="flower" num="10" border="green" bg="white"/>. Every 100m, there s a kilometer sign telling you the distance with the north end of the road for north-south roads, or the west end of the road for east-west roads. Exit numbers also match this same distance.
 <img src="/img/TWN/national_highways.png" alt="national freeways in Taïwan" />
 
 ## Regional highways
