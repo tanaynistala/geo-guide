@@ -147,6 +147,10 @@
 
         li {
           break-inside: avoid-column;
+
+          a {
+            margin: 0;
+          }
         }
 
         img {
