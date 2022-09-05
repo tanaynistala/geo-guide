@@ -31,6 +31,19 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [121.078273, 22.920558]
+      },
+      "properties": {
+        "COUNTRY": "Taiwan",
+        "ISO": "TW",
+        "COUNTRYAFF": "Taiwan",
+        "AFF_ISO": "TW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-161.46513330483654, -17.435370030130244]
       },
       "properties": {

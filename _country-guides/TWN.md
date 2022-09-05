@@ -34,7 +34,7 @@ Taïwan is divided in 16 counties and 6 special municipalities. They're often na
 - Tainan City `臺南市`
 - Kaohsiung City `高雄市`
 
-<CountryMap code="TWN" scale="800" />
+<CountryMap code="TWN" scale="5000" level="2" />
                 
 To learn the cities and counties you can use the [Seterra quiz](https://www.geoguessr.com/seterra/en/vgp/3273) and the [City quiz](https://super-duper.fr/country/quizz_cities_en.php).
 
