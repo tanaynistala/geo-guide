@@ -46,7 +46,7 @@ Colombia is divided into 32 deparments, or _departamentos_, plus the Capital Dis
 
 # License Plates
 
-See Norway or Portugal for a good example of this
+License plates in Colombia are typically yellow with black text and borders: <LicensePlate style="other" format="ABC·123" bg="gold" border="black"/>. Commercial plates have white backgrounds instead: <LicensePlate style="other" format="ABC·123" border="black"/>. Both types of plates also have the department of issuance embossed on the bottom, and commercial vehicles are also required to print the license plate on the side of the vehicle. This "third" license plate is not usually blurred, and so can be used easily to find your location.
 
 ---
 

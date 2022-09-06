@@ -6,30 +6,30 @@
 
 Ecuador is divided into 24 provinces, or _provincias_:
 
-- Azuay
-- Bolívar
-- Cañar
-- Carchi
-- Chimborazo
-- Cotopaxi
-- El Oro
-- Esmeraldas
-- Galápagos
-- Guayas
-- Imbabura
-- Loja
-- Los Ríos
-- Manabí
-- Morona Santiago
-- Napo
-- Orellana
-- Pastaza
-- Pichincha
-- Santa Elena
-- Santo Domingo de los Tsáchilas
-- Sucumbíos
-- Tungurahua
-- Zamora Chinchipe
+- `A` Azuay
+- `B` Bolívar
+- `U` Cañar
+- `C` Carchi
+- `X` Chimborazo
+- `H` Cotopaxi
+- `O` El Oro
+- `E` Esmeraldas
+- `W` Galápagos
+- `G` Guayas
+- `I` Imbabura
+- `L` Loja
+- `R` Los Ríos
+- `M` Manabí
+- `V` Morona Santiago
+- `N` Napo
+- `Q` Orellana
+- `S` Pastaza
+- `P` Pichincha
+- `Y` Santa Elena
+- `J` Santo Domingo de los Tsáchilas
+- `K` Sucumbíos
+- `T` Tungurahua
+- `Z` Zamora Chinchipe
 
 <CountryMap code="ECU" scale="1500" />
 
@@ -37,7 +37,7 @@ Ecuador is divided into 24 provinces, or _provincias_:
 
 # License Plates
 
-See Norway or Portugal for a good example of this
+License plates in Ecuador are typically white with black text: <LicensePlate style="other" format="ABC-123" border="black"/>. The first character corresponds to the province of issuance, the codes for which can be found in the [subdivisions](#subdivisions) list above. `ECUADOR` is printed on top of the license plate. Older commercial plates had an orange background, which can sometimes be seen.
 
 ---
 

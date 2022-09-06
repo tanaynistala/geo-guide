@@ -31,7 +31,7 @@ The Metropolitan Region, which contains Santiago, is the only one that doesn't u
 
 # License Plates
 
-See Norway or Portugal for a good example of this
+License plates in Chile are white with black text and borders: <LicensePlate style="other" format="AB·CD·12" border="black"/>. Taxis have orange <LicensePlate style="other" format="AB·CD·12" bg="orange" border="black"/> or yellow <LicensePlate style="other" format="AB·CD·12" bg="gold" border="black"/> license plates instead. `CHILE` is printed on the bottom.
 
 ---
 

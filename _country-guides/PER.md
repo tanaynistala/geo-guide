@@ -39,7 +39,21 @@ Peru is divided into 25 regions, or _regiones_, and the Lima Province.
 
 # License Plates
 
-See Norway or Portugal for a good example of this
+License plates in Peru are white with black text and borders: <LicensePlate style="other" format="ABC-123" border="black"/>. Commercial plates have yellow backgrounds instead: <LicensePlate style="other" format="ABC-123" bg="gold" border="black"/>. `PERU` is printed on the top alongside the Peruvian flag, and like Colombia commercial vehicles are also required to print the license plate on the side of the vehicle. This "third" license plate is not usually blurred, and so the first character of the license plate can be used to find your region as follows:
+
+- `A`/`B`/`C`/`D`/`F` Lima
+- `H` Ancash
+- `L` Loreto
+- `M` Amazonas, Cajamarca, Lambayeque
+- `P` Piura, Tumbes
+- `S` San Martín
+- `T` La Libertad
+- `U` Ucayali
+- `V` Arequipa
+- `W` Huanuco, Junin, Pasco
+- `X` Apurimac, Cusco, Madre de Dios
+- `Y` Ayacucho, Huancavelica, Ica
+- `Z` Mopquegua, Puno, Tacna
 
 ---
 

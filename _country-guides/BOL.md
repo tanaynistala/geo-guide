@@ -6,15 +6,15 @@
 
 Bolivia is divided into nine departments, or _departamentos_:
 
-- Beni
-- Chuquisaca
-- Cochabamba
-- La Paz
-- Oruro
-- Pando
-- Potosí
-- Santa Cruz
-- Tarija
+- `B` Beni
+- `H` Chuquisaca
+- `C` Cochabamba
+- `L` La Paz
+- `O` Oruro
+- `N` Pando
+- `P` Potosí
+- `S` Santa Cruz
+- `T` Tarija
 
 <CountryMap code="BOL" scale="2000" />
 
@@ -22,7 +22,7 @@ Bolivia is divided into nine departments, or _departamentos_:
 
 # License Plates
 
-See Norway or Portugal for a good example of this
+License plates in Bolivia are white with blue text and borders: <LicensePlate style="other" format="ABC-123" text="royalblue" border="royalblue"/>. `BOLIVIA` is printed on top, alongside a box bearing a letter code for the issuing department that can be found using the [subdivisions](#subdivisions) list above.
 
 ---
 
