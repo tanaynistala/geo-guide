@@ -7,45 +7,153 @@
 Ireland has traditionally been divided into four provinces, each divided into several counties, or _contaetha_:
 
 - Connacht
+
   - `G` Galway
+
+    _Gaillimhe_
+
   - `LM` Leitrim
+
+    _Liatroim_
+
   - `MO` Mayo
+
+    _Maigh Eo_
+
   - `RN` Roscommon
+
+    _Ros Comáin_
+
   - `SO` Sligo
+
+    _Sligeach_
+
 - Leinster
+
   - `CW` Carlow
+
+    _Ceatharlach_
+
   - `D` Dublin
+
+    _Baile Átha Cliath_
+
     - Dublin City
     - Dún Laoghaire-Rathdown
+
+      _Dún Laoghaire-Ráth an Dúin_
+
     - Fingal
+
+      _Fine Gall_
+
     - South Dublin
+
+      _Áth Cliath Theas_
+
   - `KE` Kildare
+
+    _Cill Dara_
+
   - `KK` Kilkenny
+
+    _Cill Chainnigh_
+
   - `LS` Laois
+
+    _Laois_
+
   - `LD` Longford
+
+    _An Longfort_
+
   - `LH` Louth
+
+    _Lú_
+
   - `MH` Meath
+
+    _An Mhí_
+
   - `OY` Offaly
+
+    _Uíbh Fhailí_
+
   - `WH` Westmeath
+
+    _An Iarmhí_
+
   - `WX` Wexford
+
+    _Loch Garman_
+
   - `WW` Wicklow
+
+    _Cill Mhantáin_
+
 - Munster
+
   - `CE` Clare
+
+    _An Clár_
+
   - `C` Cork
+
+    _Corcaigh_
+
   - `KY` Kerry
+
+    _Ciarraí_
+
   - `L` Limerick
+
+    _Luimneach_
+
   - `T` Tipperary
+
+    _Tiobraid Árann_
+
   - `W` Waterford
+
+    _Port Láirge_
+
 - Ulster
+
   - Antrim _NI_
+
+    _Aontroim_
+
   - Armagh _NI_
+
+    _Ard Mhacha_
+
   - `CN` Cavan
+
+    _An Cabhán_
+
   - `DL` Donegal
+
+    _Dún na nGall_
+
   - Down _NI_
+
+    _Dún_
+
   - Fermanagh _NI_
-  - Londonderry _NI_
+
+    _Fear Manach_
+
+  - Derry/Londonderry _NI_
+
+    _Doire_
+
   - `MN` Monaghan
+
+    _Muineachán_
+
   - Tyrone _NI_
+
+    _Tír Eoghain_
 
 Counties labeled _NI_ are in Northern Ireland, which is a part of the [United Kingdom](/countries/GBR). The word "county" is usually prefixed to the county's name rather than suffixed; thus it would be _County Sligo_, and not _Sligo County_. Galway and Cork are separate entities from Counties Galway and Sligo, respectively. In addition, County Dublin was split up into three city-level counties in addition to Dublin City itself.
 
