@@ -106,6 +106,9 @@ Phone codes in Slovakia are organized by municipality, and are prefixed with a z
 
 2. Bratislava
 
+<div className="flex columns-2 justify-around">
+<div>
+
 ### West `3x`
 
 31. Dunajská Streda
@@ -124,6 +127,9 @@ Phone codes in Slovakia are organized by municipality, and are prefixed with a z
 43. Martin
 44. Liptovský Mikuláš
 
+</div>
+<div>
+
 ### South `45`-`48`
 
 45. Zvolen
@@ -141,6 +147,9 @@ Phone codes in Slovakia are organized by municipality, and are prefixed with a z
 56. Michalovce
 57. Humenné
 58. Rožňava
+
+</div>
+</div>
 
 ---
 
