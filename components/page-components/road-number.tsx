@@ -1,12 +1,12 @@
 type Props = {
-  style: string;
-  num: string;
-  code?: string;
-  bg?: string;
-  text?: string;
-  border?: string;
-  borderStyle?: string;
-};
+  style: string
+  num: string
+  code?: string
+  bg?: string
+  text?: string
+  border?: string
+  borderStyle?: string
+}
 
 const RoadNumber = ({
   style,
@@ -17,7 +17,7 @@ const RoadNumber = ({
   border = bg,
   borderStyle = "solid",
 }: Props) => {
-  var shield = "";
+  var shield = ""
   switch (style) {
     case "tri":
       return (
@@ -28,7 +28,7 @@ const RoadNumber = ({
           text={text}
           border={border}
         />
-      );
+      )
 
     case "diamond":
       return (
@@ -40,7 +40,7 @@ const RoadNumber = ({
           border={border}
           code={code}
         />
-      );
+      )
 
     case "pent":
       return (
@@ -52,7 +52,7 @@ const RoadNumber = ({
           border={border}
           code={code}
         />
-      );
+      )
 
     case "hex":
       return (
@@ -63,7 +63,7 @@ const RoadNumber = ({
           text={text}
           border={border}
         />
-      );
+      )
 
     case "long-hex":
       return (
@@ -74,7 +74,7 @@ const RoadNumber = ({
           text={text}
           border={border}
         />
-      );
+      )
 
     case "bullet":
       return (
@@ -85,7 +85,7 @@ const RoadNumber = ({
           text={text}
           border={border}
         />
-      );
+      )
 
     case "round-bullet":
       return (
@@ -96,7 +96,7 @@ const RoadNumber = ({
           text={text}
           border={border}
         />
-      );
+      )
 
     case "square-bullet":
       return (
@@ -107,7 +107,7 @@ const RoadNumber = ({
           text={text}
           border={border}
         />
-      );
+      )
 
     case "french-shield":
       return (
@@ -119,7 +119,7 @@ const RoadNumber = ({
           border={border}
           code={code}
         />
-      );
+      )
 
     case "flower":
       return (
@@ -130,7 +130,7 @@ const RoadNumber = ({
           text={text}
           border={border}
         />
-      );
+      )
 
     case "shield":
       return (
@@ -141,7 +141,7 @@ const RoadNumber = ({
           text={text}
           border={border}
         />
-      );
+      )
 
     case "oval":
       return (
@@ -156,7 +156,7 @@ const RoadNumber = ({
         >
           {num}
         </span>
-      );
+      )
 
     default:
       return (
@@ -171,9 +171,9 @@ const RoadNumber = ({
         >
           {num}
         </span>
-      );
+      )
   }
-};
+}
 
 const TriangleRoadNumber = ({ style, num, bg, text, border }) => {
   return (
@@ -199,8 +199,8 @@ const TriangleRoadNumber = ({ style, num, bg, text, border }) => {
 
       <span className="flex justify-center w-8">{num}</span>
     </span>
-  );
-};
+  )
+}
 
 const DiamondRoadNumber = ({ style, num, bg, text, border, code }) => {
   return (
@@ -234,8 +234,8 @@ const DiamondRoadNumber = ({ style, num, bg, text, border, code }) => {
       </span>
       <span className="flex justify-center w-8">{num}</span>
     </span>
-  );
-};
+  )
+}
 
 const PentagonRoadNumber = ({ style, num, bg, text, border, code }) => {
   return (
@@ -269,8 +269,8 @@ const PentagonRoadNumber = ({ style, num, bg, text, border, code }) => {
       </span>
       <span className="flex justify-center w-8 translate-y-1">{num}</span>
     </span>
-  );
-};
+  )
+}
 
 const HexagonRoadNumber = ({ style, num, bg, text, border }) => {
   return (
@@ -296,8 +296,8 @@ const HexagonRoadNumber = ({ style, num, bg, text, border }) => {
 
       <span className="flex justify-center w-8">{num}</span>
     </span>
-  );
-};
+  )
+}
 
 const LongHexagonRoadNumber = ({ style, num, bg, text, border }) => {
   return (
@@ -323,8 +323,8 @@ const LongHexagonRoadNumber = ({ style, num, bg, text, border }) => {
 
       <span className="flex justify-center w-12 leading-7">{num}</span>
     </span>
-  );
-};
+  )
+}
 
 const BulletRoadNumber = ({ style, num, bg, text, border }) => {
   return (
@@ -350,8 +350,8 @@ const BulletRoadNumber = ({ style, num, bg, text, border }) => {
 
       <span className="flex justify-center w-8">{num}</span>
     </span>
-  );
-};
+  )
+}
 
 const RoundBulletRoadNumber = ({ style, num, bg, text, border }) => {
   return (
@@ -377,8 +377,8 @@ const RoundBulletRoadNumber = ({ style, num, bg, text, border }) => {
 
       <span className="flex justify-center w-8">{num}</span>
     </span>
-  );
-};
+  )
+}
 
 const SquareBulletRoadNumber = ({ style, num, bg, text, border }) => {
   return (
@@ -404,8 +404,8 @@ const SquareBulletRoadNumber = ({ style, num, bg, text, border }) => {
 
       <span className="flex justify-center w-8">{num}</span>
     </span>
-  );
-};
+  )
+}
 
 const FrenchShieldRoadNumber = ({ style, num, bg, text, border, code }) => {
   return (
@@ -442,8 +442,8 @@ const FrenchShieldRoadNumber = ({ style, num, bg, text, border, code }) => {
 
       <span className="flex justify-center w-8 translate-y-1.5">{num}</span>
     </span>
-  );
-};
+  )
+}
 
 const FlowerRoadNumber = ({ style, num, bg, text, border }) => {
   return (
@@ -469,8 +469,8 @@ const FlowerRoadNumber = ({ style, num, bg, text, border }) => {
 
       <span className="flex justify-center w-8">{num}</span>
     </span>
-  );
-};
+  )
+}
 
 const ShieldRoadNumber = ({ style, num, bg, text, border }) => {
   return (
@@ -496,7 +496,7 @@ const ShieldRoadNumber = ({ style, num, bg, text, border }) => {
 
       <span className="flex justify-center w-8">{num}</span>
     </span>
-  );
-};
+  )
+}
 
-export default RoadNumber;
+export default RoadNumber

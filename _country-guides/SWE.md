@@ -78,6 +78,12 @@ Phone numbers are prefixed with a zero (0), and are fairly well arranged by regi
 
 # Roads, Markings, and Signage
 
+<RoadMarkings>
+   <RoadLine style="dashed" dashLength={10} spaceLength={10} />
+   <RoadLine color="gold" />
+   <RoadLine style="dashed" dashLength={40} spaceLength={40} />
+</RoadMarkings>
+
 ---
 
 # Highways & Road Numbering Schemes

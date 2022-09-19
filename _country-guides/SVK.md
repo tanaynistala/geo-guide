@@ -159,6 +159,18 @@ Phone codes in Slovakia are organized by municipality, and are prefixed with a z
 
 # Highways & Road Numbering Schemes
 
+Roads in Slovakia are divided into three main tiers: motorways, also known as _dial'nica_; expressways, known as _rýchlostná cesta_; and national roads, or _cesta_. Slovakia inherited the eastern part of the older Czechoslovak road network, and so road numbers largely continue on the old system with some newer roads, like the expressways, following their own system.
+
+### Motorways (D-routes)
+
+There are only four motorways in Slovakia, all prefixed with `D` on a red sign.
+
+1.
+
+### Expressways (R-routes)
+
+### National Roads
+
 ---
 
 # Architecture

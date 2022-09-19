@@ -1,9 +1,9 @@
 type Props = {
-  shield: string
-  num: string
-  color?: string
-  offset?: string
-}
+  shield: string;
+  num: string;
+  color?: string;
+  offset?: string;
+};
 
 const RoadShield = ({ shield, num, color = "black", offset = "" }: Props) => {
   return (
@@ -19,7 +19,7 @@ const RoadShield = ({ shield, num, color = "black", offset = "" }: Props) => {
         className="-z-10 w-10 absolute -translate-y-2.5"
       />
     </span>
-  )
-}
+  );
+};
 
-export default RoadShield
+export default RoadShield;
