@@ -11,6 +11,7 @@ import RoadNumber from "./page-components/road-number"
 import RoadShield from "./page-components/road-shield"
 import RoadMarkings from "./page-components/road-markings"
 import RoadLine from "./page-components/road-line"
+import RoadLane from "./page-components/road-lane"
 
 // Custom components/renderers to pass to MDX.
 // Since the MDX files aren't loaded by webpack, they have no knowledge of how
@@ -73,6 +74,7 @@ const components = {
   RoadShield,
   RoadMarkings,
   RoadLine,
+  RoadLane,
   a: TextLink,
   nav: Nav,
   img: Img,

@@ -80,7 +80,10 @@ Phone numbers are prefixed with a zero (0), and are fairly well arranged by regi
 
 <RoadMarkings>
    <RoadLine style="dashed" dashLength={10} spaceLength={10} />
+   <RoadLane/>
    <RoadLine color="gold" />
+   <RoadLine color="gold" />
+   <RoadLane/>
    <RoadLine style="dashed" dashLength={40} spaceLength={40} />
 </RoadMarkings>
 
