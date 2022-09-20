@@ -196,21 +196,23 @@ Phone codes in Spain are organized by province, although occasionally they can s
 </div>
 </div>
 
- <img src="/img/ESP/areacodes.png" alt="map of phone number area codes in Spain" />
+ <img src="/img/ESP/areacodes.png" alt="map of phone number area codes in Spain">
 
-## You can learn the phone numbers with the <a href="https://super-duper.fr/country/quizz_tel_en.php?country=ES2"> Phone number quiz for Spain</a>.
+You can learn the phone numbers with the <a href="https://super-duper.fr/country/quizz_tel_en.php?country=ES2"> Phone number quiz for Spain</a>.
+
+---
 
 # Roads, Markings, and Signage
 
 ## yellow reflectors
 
 yellow reflectors on the safety railing is unique to Spain.
-<img src="/img/ESP/yellow_reflector.png" alt="reflectors on the safety railing in Spain" />
+<img src="/img/ESP/yellow_reflector.png" alt="reflectors on the safety railing in Spain">
 
 ## speed limit
 
 blue square speed limit signs are typically in Spain, even though you can also find some in Portugal.
-<img src="/img/ESP/speed_limit.png" alt="speed limit sign in Spain" />
+<img src="/img/ESP/speed_limit.png" alt="speed limit sign in Spain">
 
 ---
 
@@ -220,18 +222,21 @@ blue square speed limit signs are typically in Spain, even though you can also f
 
 There are 6 main directions :
 
-<img src="/img/ESP/roads_n1_n6.png" alt="roads N-I to N-VI" />
+<img src="/img/ESP/roads_n1_n6.png" alt="roads N-I to N-VI">
 On direction 1, there is the <RoadNumber num="N-I" bg="red"/> (with a roman number), the <RoadNumber num="A-1" bg="blue"/> which stands for Autopista 1, and the <RoadNumber num="AP-1" bg="blue"/> that stands for Autopista Peaje 1.
 In general, for highways <RoadNumber num="A" bg="blue"/>, toll highways <RoadNumber num="AP" bg="blue"/> and national roads <RoadNumber num="N" bg="red"/>, if the first digit is 1, the best scanning zone is between direction 1 and direction 2. However, some roads cross the whole country, sometimes with gaps. So you might want to check if your road doesnt restart further away.
 Beware, roads A are not always highways, some regional roads can also be named A.
 
+
 ## Regional roads
 
 All the roads have a prefix, usually 2 letters, but it can range between 1 and 4 letters.
-The prefix is linked either : - to the region (comunidades autónomas) : roads C in Catalunya, roads CM in Castilla la Mancha. - or to the province : OU around Ourense, SA around Salamanca.
+The prefix is linked either :
+	- to the region (comunidades autónomas) : roads C in Catalunya, roads CM in Castilla la Mancha.
+	- or to the province : OU around Ourense, SA around Salamanca.
 Roads names can have an additional P or V at the end, for example around Barajoz there are BA and BAV roads.
 
-Most prefixes can be found in the <a href="https://super-duper.fr/country/quiz_spain_en.php">spanish road quiz</a>.
+Most prefixes can be found in the <a href="https://super-duper.fr/country/quiz_spain_en.php">spanish road quiz</a>.	
 
 ---
 
@@ -242,19 +247,19 @@ Most prefixes can be found in the <a href="https://super-duper.fr/country/quiz_s
 # Language
 
 Spanish is the official national language, but there are regional languages.
-<img src="/img/ESP/languages_en.png" alt="map of regional languages in Spain" />
-
+ <img src="/img/ESP/languages_en.png" alt="map of regional languages in Spain">
+ 
 ## Recognizing regional languages
 
 One option is to look at the street names :
-
 - In spanish , street = calle.
-- In catalan, street = carrer.
+- In catalan, street = carrer. 
 - In galician, street = rua (galician is close to portuguese).
 - In basque, street = kalea.
-  Some other tips :
+Some other tips :
 - Basque uses a lot of X and Z.
-- In Galicia you may find "A","O" or "As" at the beginning of some location names : "A Coruna", "O Toxino", "As pontes de Garcia Rodriguez"...
+- In Galicia you may find "A","O" or "As" at the beginning of some location names : "A Coruna", "O Toxino", "As pontes de Garcia Rodriguez"... </p>
+
 
 ## Script
 
