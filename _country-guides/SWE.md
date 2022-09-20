@@ -74,17 +74,44 @@ Phone numbers are prefixed with a zero (0), and are fairly well arranged by regi
    - Västerbotten
    - Norrbotten
 
+<img src="/img/SWE/area_codes.png" alt="map of phone numbers / area codes in Sweden">
+<a href="https://super-duper.fr/country/quizz_tel_en.php?country=SW">Phone number quiz : Sweden</a>.
+
 ---
 
 # Roads, Markings, and Signage
 
+## Roads markings
+On the side, painting length is one third painted, two thirds gap. The central line depends on the size of the road.
+
+Small road :
+
 <RoadMarkings>
-   <RoadLine style="dashed" dashLength={10} spaceLength={10} />
+   <RoadLine style="dashed" dashLength={20} spaceLength={40} />
    <RoadLane/>
-   <RoadLine color="gold" />
-   <RoadLine color="gold" />
    <RoadLane/>
-   <RoadLine style="dashed" dashLength={40} spaceLength={40} />
+   <RoadLine style="dashed" dashLength={20} spaceLength={40} />
+</RoadMarkings>
+
+Regular road :
+
+<RoadMarkings>
+   <RoadLine style="dashed" dashLength={20} spaceLength={40} />
+   <RoadLane/>
+   <RoadLine color="white" style="dashed" dashLength={180} spaceLength={40} />
+   <RoadLane/>
+   <RoadLine style="dashed" dashLength={20} spaceLength={40} />
+</RoadMarkings>
+
+Highway :
+ 
+<RoadMarkings>
+   <RoadLine style="dashed" dashLength={20} spaceLength={40} />
+   <RoadLane/>
+   <RoadLine color="white" />
+   <RoadLine color="white" />
+   <RoadLane/>
+   <RoadLine style="dashed" dashLength={20} spaceLength={40} />
 </RoadMarkings>
 
 ---
@@ -92,6 +119,7 @@ Phone numbers are prefixed with a zero (0), and are fairly well arranged by regi
 # Highways & Road Numbering Schemes
 
 Sweden has two highway systems: European roads, and national roads (riksväg). There is a county road (länsväg) system but this is not usually signed. They are signposted with white text on a blue background, and with a white border: <RoadNumber num="123" bg="dodgerblue" />. They have two or three digits, and the numbering generally increases going north.
+<img src="/img/SWE/roads.png" alt="map of the road numbering system in Sweden">
 
 ---
 
