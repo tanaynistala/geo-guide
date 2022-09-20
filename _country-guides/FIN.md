@@ -159,6 +159,39 @@ Phone numbers are prefixed with a zero (0), and are fairly well arranged by regi
 
 # Roads, Markings, and Signage
 
+## Road Markings
+
+Lines on the side are continuous except at intersections. Small roads have no central line.
+Central line is dashed, and an additional continuous central line appears where it is prohibited to overtake other cars.
+
+Regular : 
+<RoadMarkings>
+   <RoadLine color="white" />
+   <RoadLane/>
+   <RoadLine style="dashed" dashLength={40} spaceLength={120} />
+   <RoadLane/>
+   <RoadLine color="white" />
+</RoadMarkings>
+
+No overtaking, central line is either white or yellow : 
+<RoadMarkings>
+   <RoadLine color="white" />
+   <RoadLane/>
+   <RoadLine style="dashed" dashLength={40} spaceLength={120} />
+   <RoadLine color="white" />
+   <RoadLane/>
+   <RoadLine color="white" />
+</RoadMarkings>
+
+<RoadMarkings>
+   <RoadLine color="white" />
+   <RoadLane/>
+   <RoadLine style="dashed" dashLength={40} spaceLength={120} />
+   <RoadLine color="gold" />
+   <RoadLane/>
+   <RoadLine color="white" />
+</RoadMarkings>
+
 ---
 
 # Highways & Road Numbering Schemes
