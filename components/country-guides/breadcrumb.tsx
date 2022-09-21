@@ -1,9 +1,9 @@
-import { Title } from "./typography";
-import Country from "../interfaces/country";
+import { Title } from "../typography"
+import Country from "../../interfaces/country"
 
 type Props = {
-  country: Country;
-};
+  country: Country
+}
 
 const Breadcrumb = ({ country }: Props) => {
   return (
@@ -22,7 +22,7 @@ const Breadcrumb = ({ country }: Props) => {
         <span>{country.subregion}</span>
       </div>
     </>
-  );
-};
+  )
+}
 
-export default Breadcrumb;
+export default Breadcrumb

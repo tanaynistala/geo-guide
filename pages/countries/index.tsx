@@ -1,9 +1,9 @@
-import Container from "../../components/container";
-import Header from "../../components/header";
-import Layout from "../../components/layout";
-import Head from "next/head";
-import HeroMap from "../../components/hero-map";
-import { getGuides } from "../../lib/api";
+import Container from "../../components/container"
+import Header from "../../components/header"
+import Layout from "../../components/layout"
+import Head from "next/head"
+import WorldMap from "../../components/world-map/world-map"
+import { getGuides } from "../../lib/api"
 
 export default function Index() {
   return (
@@ -19,20 +19,20 @@ export default function Index() {
             Guides
           </h1>
 
-          <HeroMap />
+          <WorldMap />
         </Container>
       </Layout>
     </>
-  );
+  )
 }
 
 export async function getStaticProps() {
-  const guides = await getGuides("country");
-  const allGuides = JSON.stringify(guides);
+  const guides = await getGuides("country")
+  const allGuides = JSON.stringify(guides)
 
   return {
     props: {
       allGuides,
     },
-  };
+  }
 }

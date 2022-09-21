@@ -1,9 +1,9 @@
-import Container from "../components/container";
-import Header from "../components/header";
-import Layout from "../components/layout";
-import Head from "next/head";
-import LinkCard from "../components/link-card";
-import HeroMap from "../components/hero-map";
+import Container from "../components/container"
+import Header from "../components/header"
+import Layout from "../components/layout"
+import Head from "next/head"
+import LinkCard from "../components/link-card"
+import WorldMap from "../components/world-map/world-map"
 
 export default function Index() {
   return (
@@ -27,9 +27,9 @@ export default function Index() {
             Guides
           </h1>
 
-          <HeroMap />
+          <WorldMap />
         </Container>
       </Layout>
     </>
-  );
+  )
 }

@@ -2,16 +2,16 @@ import Head from "next/head"
 import Image from "next/image"
 import Link from "next/link"
 import { MDXRemote, MDXRemoteSerializeResult } from "next-mdx-remote"
-import TOC from "./toc"
-import CountryMap from "./country-map"
-import InteractiveMap from "./interactive-map"
+import TOC from "../toc"
+import InteractiveMap from "../interactive-map"
 
-import LicensePlate from "./page-components/license-plate"
-import RoadNumber from "./page-components/road-number"
-import RoadShield from "./page-components/road-shield"
-import RoadMarkings from "./page-components/road-markings"
-import RoadLine from "./page-components/road-line"
-import RoadLane from "./page-components/road-lane"
+import CountryMap from "../page-components/country-map"
+import LicensePlate from "../page-components/license-plate"
+import RoadNumber from "../page-components/road-number"
+import RoadShield from "../page-components/road-shield"
+import RoadMarkings from "../page-components/road-markings"
+import RoadLine from "../page-components/road-line"
+import RoadLane from "../page-components/road-lane"
 
 // Custom components/renderers to pass to MDX.
 // Since the MDX files aren't loaded by webpack, they have no knowledge of how
@@ -85,7 +85,7 @@ type Props = {
   content: MDXRemoteSerializeResult
 }
 
-const GuideBody = ({ content }: Props) => {
+const Body = ({ content }: Props) => {
   return (
     <div className="mb-32 prose lg:prose-lg max-w-full lg:max-w-3xl mx-auto">
       <MDXRemote {...content} components={components} />
@@ -93,4 +93,4 @@ const GuideBody = ({ content }: Props) => {
   )
 }
 
-export default GuideBody
+export default Body

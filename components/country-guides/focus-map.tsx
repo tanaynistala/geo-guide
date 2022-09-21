@@ -5,13 +5,13 @@ import {
   Sphere,
   Graticule,
   Marker,
-} from "react-simple-maps";
-import geoData from "../lib/geo-data/geography.geo.json";
-import Country from "../interfaces/country";
+} from "react-simple-maps"
+import geoData from "../../lib/geo-data/geography.geo.json"
+import Country from "../../interfaces/country"
 
 type Props = {
-  country: Country;
-};
+  country: Country
+}
 
 const Map = ({ country }: Props) => {
   return (
@@ -46,7 +46,7 @@ const Map = ({ country }: Props) => {
           return (
             (feature.properties.scalerank > 2 || feature.properties.tiny > 0) &&
             country.code3 == feature.properties.adm0_a3
-          );
+          )
         })
         .map(({ type, properties, geometry }) => (
           <Marker
@@ -64,7 +64,7 @@ const Map = ({ country }: Props) => {
           </Marker>
         ))}
     </ComposableMap>
-  );
-};
+  )
+}
 
-export default Map;
+export default Map

@@ -1,25 +1,25 @@
 import { useRouter } from "next/router"
 import ErrorPage from "next/error"
 import Container from "../../components/container"
-import Body from "../../components/guides/body"
+import Body from "../../components/events/body"
 import Header from "../../components/header"
-import GuideHeader from "../../components/guides/header"
+import GuideHeader from "../../components/events/header"
 import Layout from "../../components/layout"
 import { getGuide, getSlugs } from "../../lib/api"
 import { Title } from "../../components/typography"
 import Head from "next/head"
-import type GuideType from "../../interfaces/guide"
+import type EventType from "../../interfaces/event"
 
 type Props = {
-  guide: GuideType
-  moreGuides: GuideType[]
+  event: EventType
+  moreEvents: EventType[]
   preview?: boolean
 }
 
-export default function Guide({ guide, moreGuides, preview }: Props) {
+export default function Guide({ event, moreEvents, preview }: Props) {
   const router = useRouter()
 
-  if (!router.isFallback && !guide?.slug) {
+  if (!router.isFallback && !event?.slug) {
     return <ErrorPage statusCode={404} />
   }
 
@@ -33,16 +33,16 @@ export default function Guide({ guide, moreGuides, preview }: Props) {
           <>
             <article className="mb-32">
               <Head>
-                <title>{guide.title} | GeoGuide</title>
-                <meta property="og:image" content={guide.ogImage.url} />
+                <title>{event.title} | GeoGuide</title>
+                <meta property="og:image" content={event.ogImage.url} />
               </Head>
               <GuideHeader
-                title={guide.title}
-                coverImage={guide.coverImage}
-                date={guide.date}
-                author={guide.author}
+                title={event.title}
+                coverImage={event.coverImage}
+                date={event.date}
+                organizer={event.organizer}
               />
-              <Body content={guide.content} />
+              <Body content={event.content} />
             </article>
           </>
         )}
@@ -59,17 +59,17 @@ type Params = {
 
 export async function getStaticProps({ params }: Params) {
   const slug = params.slug
-  const guide = await getGuide("other", slug)
+  const event = await getGuide("event", slug)
 
   return {
     props: {
-      guide,
+      event,
     },
   }
 }
 
 export async function getStaticPaths() {
-  const paths = getSlugs("other").map((slug) => {
+  const paths = getSlugs("event").map((slug) => {
     return {
       params: {
         slug,

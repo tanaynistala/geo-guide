@@ -1,20 +1,20 @@
-import Avatar from "./avatar";
-import DateFormatter from "./date-formatter";
-import CoverImage from "./cover-image";
-import GuideTitle from "./guide-title";
-import type Author from "../interfaces/author";
+import Avatar from "../avatar"
+import DateFormatter from "../date-formatter"
+import CoverImage from "../cover-image"
+import { Title } from "../typography"
+import type Author from "../../interfaces/author"
 
 type Props = {
-  title: string;
-  coverImage: string;
-  date: string;
-  author: Author;
-};
+  title: string
+  coverImage: string
+  date: string
+  author: Author
+}
 
 const GuideHeader = ({ title, coverImage, date, author }: Props) => {
   return (
     <>
-      <GuideTitle title={title} />
+      <Title title={title} />
       <div className="hidden md:block md:mb-12">
         <Avatar name={author.name} picture={author.picture} />
       </div>
@@ -30,7 +30,7 @@ const GuideHeader = ({ title, coverImage, date, author }: Props) => {
         </div>
       </div>
     </>
-  );
-};
+  )
+}
 
-export default GuideHeader;
+export default GuideHeader

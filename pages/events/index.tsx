@@ -3,32 +3,32 @@ import Header from "../../components/header"
 import Layout from "../../components/layout"
 import Head from "next/head"
 import { getGuides } from "../../lib/api"
-import GuideType from "../../interfaces/guide"
+import EventType from "../../interfaces/event"
 
 type Props = {
-  allGuides: GuideType[]
+  allEvents: EventType[]
 }
 
-export default function Index({ allGuides }: Props) {
-  const heroGuide = allGuides[0]
-  const moreGuides = allGuides.slice(1)
+export default function Index({ allEvents }: Props) {
+  const heroEvent = allEvents[0]
+  const moreEvents = allEvents.slice(1)
   return (
     <>
       <Layout>
         <Head>
-          <title>Guides | GeoGuide</title>
+          <title>Events | GeoGuide</title>
         </Head>
         <Container>
           <Header />
 
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left">
-            Guides
+            Events
           </h1>
 
-          {heroGuide && <h1>Hero: {heroGuide.title}</h1>}
+          {heroEvent && <h1>Hero: {heroEvent.title}</h1>}
 
-          {moreGuides.length > 0 &&
-            moreGuides.map((guide) => <h1>{guide.title}</h1>)}
+          {moreEvents.length > 0 &&
+            moreEvents.map((event) => <h1>{event.title}</h1>)}
         </Container>
       </Layout>
     </>
@@ -36,12 +36,12 @@ export default function Index({ allGuides }: Props) {
 }
 
 export async function getStaticProps() {
-  const allGuides = await Promise.all(getGuides("other"))
+  const allEvents = await Promise.all(getGuides("event"))
   // const allGuides = JSON.stringify(guides);
 
   return {
     props: {
-      allGuides,
+      allEvents,
     },
   }
 }

@@ -161,7 +161,7 @@ const RoadNumber = ({
     default:
       return (
         <span
-          className="rounded m-0 px-1 leading-tight inline-block border-2 font-semibold tabular-nums"
+          className="m-0 px-1 leading-tight inline-block rounded border-2 font-semibold tabular-nums"
           style={{
             borderColor: border,
             borderStyle: borderStyle,

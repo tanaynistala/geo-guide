@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "next/link"
 
 const Header = () => {
   return (
@@ -22,9 +22,9 @@ const Header = () => {
           </li>
         </Link>
 
-        <Link href="/competitive" passHref>
+        <Link href="/events" passHref>
           <li className="hover:text-blue-400 py-2 px-3 hover:bg-gray-100 hover:cursor-pointer rounded-lg">
-            Competitive
+            Events
           </li>
         </Link>
 
@@ -35,7 +35,7 @@ const Header = () => {
         </Link>
       </ul>
     </nav>
-  );
-};
+  )
+}
 
-export default Header;
+export default Header

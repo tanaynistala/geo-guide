@@ -1,9 +1,9 @@
-import Map from "./map";
-import CountryList from "./country-list";
-import CountryGrid from "./country-grid";
-import Link from "next/link";
+import Map from "../map"
+import CountryList from "./country-list"
+import CountryGrid from "./country-grid"
+import Link from "next/link"
 
-const HeroMap = () => {
+const WorldMap = () => {
   return (
     <section className="flex flex-col-reverse lg:flex-col">
       <div className="mb-4 lg:mb-8 lg:mt-16 lg:grid lg:grid-cols-4 lg:gap-x-8">
@@ -29,7 +29,7 @@ const HeroMap = () => {
         </div>
       </div>
     </section>
-  );
-};
+  )
+}
 
-export default HeroMap;
+export default WorldMap

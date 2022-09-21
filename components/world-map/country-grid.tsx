@@ -1,9 +1,9 @@
-import Link from "next/link";
-import { getCategorizedCountries } from "../lib/geo-api";
-import { useState } from "react";
+import Link from "next/link"
+import { getCategorizedCountries } from "../../lib/geo-api"
+import { useState } from "react"
 
 export default function CountryGrid({ country = "" }) {
-  const [query, setQuery] = useState("");
+  const [query, setQuery] = useState("")
 
   return (
     <div className="overflow-y-auto shrink max-h-96 lg:max-h-[32rem] bg-gray-100 rounded-xl snap-y snap-mandatory scroll-py-24 pb-2">
@@ -28,7 +28,7 @@ export default function CountryGrid({ country = "" }) {
                   ? true
                   : feature.properties.name_long
                       .toLowerCase()
-                      .includes(query.toLowerCase());
+                      .includes(query.toLowerCase())
               })
               .map((feature) => (
                 <Link
@@ -50,5 +50,5 @@ export default function CountryGrid({ country = "" }) {
         </>
       ))}
     </div>
-  );
+  )
 }

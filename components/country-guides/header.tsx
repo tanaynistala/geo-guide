@@ -1,11 +1,11 @@
-import GuideTitle from "./guide-title";
-import Map from "./focus-map";
-import Country from "../interfaces/country";
+import { Title } from "../typography"
+import Map from "./focus-map"
+import Country from "../../interfaces/country"
 
 type Props = {
-  title: string;
-  country: Country;
-};
+  title: string
+  country: Country
+}
 
 const GuideHeader = ({ title, country }: Props) => {
   return (
@@ -26,11 +26,11 @@ const GuideHeader = ({ title, country }: Props) => {
             </svg>
             <span>{country.subregion}</span>
           </div>
-          <GuideTitle title={title} />
+          <Title title={title} />
         </div>
       </div>
     </>
-  );
-};
+  )
+}
 
-export default GuideHeader;
+export default GuideHeader

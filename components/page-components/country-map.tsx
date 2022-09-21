@@ -5,26 +5,26 @@ import {
   Sphere,
   ZoomableGroup,
   Marker,
-} from "react-simple-maps";
-import { getCountryData } from "../lib/geo-api";
-import geoData from "../lib/geo-data/geography.geo.json";
-import Country from "../interfaces/country";
-import { useState, memo } from "react";
-import ReactTooltip from "react-tooltip";
+} from "react-simple-maps"
+import { getCountryData } from "../../lib/geo-api"
+import geoData from "../../lib/geo-data/geography.geo.json"
+import Country from "../../interfaces/country"
+import { useState, memo } from "react"
+import ReactTooltip from "react-tooltip"
 
 type Props = {
-  code: string;
-  scale: number;
-  level: number;
-};
+  code: string
+  scale: number
+  level: number
+}
 
 const CountryMap = ({ code, scale, level = 1 }: Props) => {
-  const [tooltipContent, setTooltipContent] = useState("");
+  const [tooltipContent, setTooltipContent] = useState("")
 
-  const country = getCountryData(code);
+  const country = getCountryData(code)
 
-  const mapWidth = 512;
-  const mapHeight = 512;
+  const mapWidth = 512
+  const mapHeight = 512
 
   return (
     <div>
@@ -78,10 +78,10 @@ const CountryMap = ({ code, scale, level = 1 }: Props) => {
                           ? feature.properties.NAME_1
                           : feature.properties.NAME_2
                       }`
-                    );
+                    )
                   }}
                   onMouseLeave={() => {
-                    setTooltipContent("");
+                    setTooltipContent("")
                   }}
                 />
               ))
@@ -93,7 +93,7 @@ const CountryMap = ({ code, scale, level = 1 }: Props) => {
         {tooltipContent}
       </ReactTooltip>
     </div>
-  );
-};
+  )
+}
 
-export default memo(CountryMap);
+export default memo(CountryMap)

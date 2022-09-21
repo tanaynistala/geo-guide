@@ -1,10 +1,10 @@
-import Country from "../interfaces/country";
-import Image from "next/image";
-import Card from "./card";
+import Country from "../../interfaces/country"
+import Image from "next/image"
+import Card from "../card"
 
 type Props = {
-  country: Country;
-};
+  country: Country
+}
 
 const FactCards = ({ country }: Props) => {
   return (
@@ -37,7 +37,7 @@ const FactCards = ({ country }: Props) => {
         </div>
       </div>
     </>
-  );
-};
+  )
+}
 
-export default FactCards;
+export default FactCards
