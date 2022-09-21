@@ -1,13 +1,12 @@
-import Link from "next/link";
-import { ReactNode } from "react";
+import Link from "next/link"
 
 type Props = {
-  children: React.ReactNode;
-  title: string;
-  description: string;
-  cta: string;
-  href: string;
-};
+  children: React.ReactNode
+  title: string
+  description: string
+  cta: string
+  href: string
+}
 
 const LinkCard = ({ children, title, description, cta, href }: Props) => {
   return (
@@ -54,7 +53,7 @@ const LinkCard = ({ children, title, description, cta, href }: Props) => {
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default LinkCard;
+export default LinkCard
