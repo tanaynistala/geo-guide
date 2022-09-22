@@ -1,4 +1,4 @@
-import Map from "../map"
+import Map from "./map"
 import CountryList from "./country-list"
 import CountryGrid from "./country-grid"
 import Link from "next/link"

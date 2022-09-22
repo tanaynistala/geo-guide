@@ -5,20 +5,20 @@ import {
   ZoomableGroup,
   useZoomPanContext,
   Marker,
-} from "react-simple-maps";
-import Link from "next/link";
-import geoData from "../lib/geo-data/geography.geo.json";
-import { useState, memo } from "react";
-import ReactTooltip from "react-tooltip";
+} from "react-simple-maps"
+import Link from "next/link"
+import geoData from "../../lib/geo-data/geography.geo.json"
+import { useState, memo } from "react"
+import ReactTooltip from "react-tooltip"
 
 const Map = ({ country = "" }) => {
-  const [tooltipContent, setTooltipContent] = useState("");
+  const [tooltipContent, setTooltipContent] = useState("")
 
-  const mapWidth = 1024;
-  const mapHeight = 512;
+  const mapWidth = 1024
+  const mapHeight = 512
 
   return (
-    <div className="lg:max-h-[32rem] bg-gray-100 rounded-2xl overflow-clip">
+    <div className="h-96 bg-gray-100 rounded-2xl overflow-clip">
       <ComposableMap
         projection="geoEquirectangular"
         width={mapWidth}
@@ -27,7 +27,7 @@ const Map = ({ country = "" }) => {
         projectionConfig={{
           rotate: [-10, 0, 0],
         }}
-        className="outline-none"
+        className="outline-none h-full w-full mx-auto"
       >
         <ZoomableGroup
           translateExtent={[
@@ -55,10 +55,10 @@ const Map = ({ country = "" }) => {
                       key={feature.rsmKey}
                       geography={feature}
                       onMouseEnter={() => {
-                        setTooltipContent(`${feature.properties.admin}`);
+                        setTooltipContent(`${feature.properties.admin}`)
                       }}
                       onMouseLeave={() => {
-                        setTooltipContent("");
+                        setTooltipContent("")
                       }}
                     />
                   </a>
@@ -69,7 +69,7 @@ const Map = ({ country = "" }) => {
 
           {geoData.features
             .filter((feature) => {
-              return feature.properties.tiny > 0;
+              return feature.properties.tiny > 0
             })
             .map(({ type, properties, geometry }) => (
               <Marker
@@ -80,10 +80,10 @@ const Map = ({ country = "" }) => {
                     : geometry.coordinates[0][0]
                 }
                 onMouseEnter={() => {
-                  setTooltipContent(`${properties.admin}`);
+                  setTooltipContent(`${properties.admin}`)
                 }}
                 onMouseLeave={() => {
-                  setTooltipContent("");
+                  setTooltipContent("")
                 }}
               >
                 <Link
@@ -109,7 +109,7 @@ const Map = ({ country = "" }) => {
         {tooltipContent}
       </ReactTooltip>
     </div>
-  );
-};
+  )
+}
 
-export default memo(Map);
+export default memo(Map)

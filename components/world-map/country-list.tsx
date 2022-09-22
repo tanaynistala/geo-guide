@@ -6,7 +6,7 @@ export default function CountryList({ country = "" }) {
   const [query, setQuery] = useState("")
 
   return (
-    <div className="overflow-y-auto shrink max-h-96 lg:max-h-[32rem] bg-gray-100 rounded-xl snap-y snap-mandatory scroll-py-12 pb-2">
+    <div className="overflow-y-auto shrink h-96 bg-gray-100 rounded-2xl snap-y snap-mandatory scroll-py-12 pb-2">
       <input
         type="text"
         className="py-2 px-4 outline-none w-full bg-gray-100 grow active:bg-gray-200 h-12 focus:bg-gray-200 font-mono snap-start sticky top-0"

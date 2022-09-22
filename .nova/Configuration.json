@@ -1,3 +1,5 @@
 {
-  "editor.default_syntax" : "tsx"
+  "editor.default_syntax" : "tsx",
+  "workspace.art_style" : 1,
+  "workspace.color" : 1
 }
