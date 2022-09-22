@@ -1,4 +1,4 @@
-import Head from "next/head";
+import Head from "next/head"
 
 const Meta = () => {
   return (
@@ -34,7 +34,7 @@ const Meta = () => {
       <meta name="description" content={`A guide to the world of GeoGuessr.`} />
       {/* <meta property="og:image" content={HOME_OG_IMAGE_URL} /> */}
     </Head>
-  );
-};
+  )
+}
 
-export default Meta;
+export default Meta
