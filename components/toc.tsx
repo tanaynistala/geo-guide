@@ -1,17 +1,17 @@
-import ReactNode from "react";
-import { useState } from "react";
+import ReactNode from "react"
+import { useState } from "react"
 
 type Props = {
-  children?: React.ReactNode;
-};
+  children?: React.ReactNode
+}
 
 export default function TOC({ children }: Props) {
-  const [visibility, setVisibility] = useState(false);
+  const [visibility, setVisibility] = useState(false)
 
   return (
-    <div id="toc" className="p-2 bg-gray-100 rounded-lg mb-8">
+    <div id="toc" className="p-2 bg-gray-100 rounded-xl mb-8">
       <div className="flex flex-row items-center justify-between">
-        <h6 className="ml-2 font-serif font-bold leading-tight md:leading-none">
+        <h6 className="ml-2 font-bold leading-tight md:leading-none">
           Table of Contents
         </h6>
         <button
@@ -39,5 +39,5 @@ export default function TOC({ children }: Props) {
       </div>
       <div className="md:mx-4">{visibility && children}</div>
     </div>
-  );
+  )
 }

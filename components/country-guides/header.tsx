@@ -26,7 +26,7 @@ const GuideHeader = ({ title, country }: Props) => {
             </svg>
             <span>{country.subregion}</span>
           </div>
-          <Title title={title} />
+          <Title text={title} />
         </div>
       </div>
     </>

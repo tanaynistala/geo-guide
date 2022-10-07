@@ -2,6 +2,11 @@ import Container from "../../components/container"
 import Header from "../../components/header"
 import Layout from "../../components/layout"
 import Head from "next/head"
+
+import HeroCard from "../../components/events/event-cards/hero-card"
+import EventCard from "../../components/events/event-cards/event-card"
+
+import { Title, Subtitle } from "../../components/typography"
 import { getGuides } from "../../lib/api"
 import EventType from "../../interfaces/event"
 
@@ -21,14 +26,20 @@ export default function Index({ allEvents }: Props) {
         <Container>
           <Header />
 
-          <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left">
-            Events
-          </h1>
+          <Title text="Events" />
 
-          {heroEvent && <h1>Hero: {heroEvent.title}</h1>}
+          <Subtitle text="There's always something going on in the world of GeoGuessr, whether you're a competitive player or just casually playing the game!" />
 
-          {moreEvents.length > 0 &&
-            moreEvents.map((event) => <h1>{event.title}</h1>)}
+          {heroEvent && (
+            <HeroCard event={heroEvent} href={`/events/${heroEvent.slug}`} />
+          )}
+
+          <div className="grid grid-flow-row grid-cols-2 gap-16 mb-32">
+            {moreEvents.length > 0 &&
+              moreEvents.map((event) => (
+                <EventCard event={event} href={`/events/${event.slug}`} />
+              ))}
+          </div>
         </Container>
       </Layout>
     </>
@@ -37,7 +48,7 @@ export default function Index({ allEvents }: Props) {
 
 export async function getStaticProps() {
   const allEvents = await Promise.all(getGuides("event"))
-  // const allGuides = JSON.stringify(guides);
+  // const allGuides = JSON.stringify(events);
 
   return {
     props: {

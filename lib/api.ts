@@ -2,7 +2,8 @@ import fs from "fs"
 import path from "path"
 import matter from "gray-matter"
 
-// import rehypeAutolinkHeadings from "rehype-autolink-headings";
+import remarkGfm from "remark-gfm"
+
 import rehypeSlug from "rehype-slug"
 import rehypeAutolinkHeadings from "rehype-autolink-headings"
 import rehypeTOC from "@jsdevtools/rehype-toc"
@@ -10,7 +11,6 @@ import imageSize from "rehype-img-size"
 import section from "@agentofuser/rehype-section"
 
 import { serialize } from "next-mdx-remote/serialize"
-import { MDXRemoteSerializeResult } from "next-mdx-remote"
 
 import geographies from "./geo-data/geography.geo.json"
 import { getCountryData } from "./geo-api"
@@ -55,6 +55,7 @@ export async function getGuide(postType: string, slug: string) {
     const mdxSource = await serialize(content, {
       // Optionally pass remark/rehype plugins
       mdxOptions: {
+        remarkPlugins: [remarkGfm],
         rehypePlugins: [
           rehypeSlug,
           rehypeAutolinkHeadings,
@@ -77,6 +78,7 @@ export async function getGuide(postType: string, slug: string) {
 
     const mdxSource = await serialize(content, {
       mdxOptions: {
+        remarkPlugins: [remarkGfm],
         rehypePlugins: [
           rehypeSlug,
           rehypeAutolinkHeadings,

@@ -14,7 +14,7 @@ type Props = {
 const GuideHeader = ({ title, coverImage, date, author }: Props) => {
   return (
     <>
-      <Title title={title} />
+      <Title text={title} />
       <div className="hidden md:block md:mb-12">
         <Avatar name={author.name} picture={author.picture} />
       </div>

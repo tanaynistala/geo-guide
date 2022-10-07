@@ -34,17 +34,17 @@ export default function Guide({ guide }: Props) {
       <Container>
         <Header />
         {router.isFallback ? (
-          <Title title="Loading…" />
+          <Title text="Loading…" />
         ) : (
           <>
-            <article className="my-8 max-w-5xl mx-auto space-y-4">
+            <article className="my-8 space-y-4">
               <Head>
                 <title>{country.name} | GeoGuide</title>
               </Head>
               <div className="flex flex-row gap-8 mb-8">
                 <div className="flex-1 self-start">
                   <Breadcrumb country={country} />
-                  <Title title={country.name} />
+                  <Title text={country.name} />
                 </div>
                 <div className="w-36 h-36">
                   <Map country={country} />

@@ -2,6 +2,11 @@ import Container from "../../components/container"
 import Header from "../../components/header"
 import Layout from "../../components/layout"
 import Head from "next/head"
+
+import HeroCard from "../../components/guides/guide-cards/hero-card"
+import GuideCard from "../../components/guides/guide-cards/guide-card"
+
+import { Title, Subtitle } from "../../components/typography"
 import { getGuides } from "../../lib/api"
 import GuideType from "../../interfaces/guide"
 
@@ -21,14 +26,23 @@ export default function Index({ allGuides }: Props) {
         <Container>
           <Header />
 
-          <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left">
-            Guides
-          </h1>
+          <Title text="Guides" />
 
-          {heroGuide && <h1>Hero: {heroGuide.title}</h1>}
+          <Subtitle
+            text="Explore our guides, from bollard-guessing to
+            telling Czechia and Slovakia apart."
+          />
 
-          {moreGuides.length > 0 &&
-            moreGuides.map((guide) => <h1>{guide.title}</h1>)}
+          {heroGuide && (
+            <HeroCard guide={heroGuide} href={`/guides/${heroGuide.slug}`} />
+          )}
+
+          <div className="grid grid-flow-row grid-cols-2 gap-16 mb-32">
+            {moreGuides.length > 0 &&
+              moreGuides.map((guide) => (
+                <GuideCard guide={guide} href={`/guides/${guide.slug}`} />
+              ))}
+          </div>
         </Container>
       </Layout>
     </>
