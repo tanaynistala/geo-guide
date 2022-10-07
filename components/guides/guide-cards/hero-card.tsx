@@ -17,16 +17,16 @@ const HeroCard = ({ guide, href }: Props) => {
               src={guide.coverImage}
               className="group-hover:opacity-50 transition-all rounded-xl"
             />
-            <a className="hidden group-hover:flex absolute py-2 px-4 bg-gray-50 rounded-lg font-mono border-blue-300 border-4 text-blue-300 font-bold">
+            <span className="hidden group-hover:flex absolute py-2 px-4 bg-gray-50 rounded-lg font-mono border-blue-300 border-4 text-blue-300 font-bold">
               Read Article →
-            </a>
+            </span>
           </div>
           <div className="mt-6 flex flex-col md:flex-row gap-4 md:gap-16">
             <div className="md:w-1/3">
               <h2 className="text-5xl 2xl:text-6xl font-semibold break-words">
                 {guide.title}
               </h2>
-              <p className="font-medium">
+              <p className="font-medium pt-2">
                 {guide.author.name} ∙ <DateFormatter dateString={guide.date} />
               </p>
             </div>
