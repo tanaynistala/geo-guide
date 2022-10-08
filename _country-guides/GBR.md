@@ -4,7 +4,7 @@
 
 # Subdivisions
 
-The United Kindom is divided into four constituent countries:
+The United Kingdom is divided into four constituent countries:
 
 - England
 - Wales
