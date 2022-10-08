@@ -34,6 +34,7 @@ export function getGuides(postType: string) {
   if (postType === "country") {
     return guides
   }
+
   return guides
 }
 
