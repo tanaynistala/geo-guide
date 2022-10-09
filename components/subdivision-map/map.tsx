@@ -4,21 +4,21 @@ import {
   Geography,
   Sphere,
   Marker,
-} from "react-simple-maps";
-import { getCountryData } from "../../lib/geo-api";
-import Country from "../../interfaces/country";
-import { useState, memo } from "react";
-import ReactTooltip from "react-tooltip";
+} from "react-simple-maps"
+import { getCountryData } from "../../lib/geo-api"
+import Country from "../../interfaces/country"
+import { useState, memo } from "react"
+import ReactTooltip from "react-tooltip"
 
 type Props = {
-  countryCode: string;
-  scale: number;
-};
+  countryCode: string
+  scale: number
+}
 
 const Map = ({ countryCode, scale }: Props) => {
-  const [tooltipContent, setTooltipContent] = useState("");
+  const [tooltipContent, setTooltipContent] = useState("")
 
-  const country = getCountryData(countryCode);
+  const country = getCountryData(countryCode)
 
   return (
     <div>
@@ -46,10 +46,10 @@ const Map = ({ countryCode, scale }: Props) => {
                   key={feature.rsmKey}
                   geography={feature}
                   onMouseEnter={() => {
-                    setTooltipContent(`${feature.properties.NAME_1}`);
+                    setTooltipContent(`${feature.properties.NAME_1}`)
                   }}
                   onMouseLeave={() => {
-                    setTooltipContent("");
+                    setTooltipContent("")
                   }}
                 />
               ))
@@ -61,7 +61,7 @@ const Map = ({ countryCode, scale }: Props) => {
         </ReactTooltip>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default memo(Map);
+export default memo(Map)

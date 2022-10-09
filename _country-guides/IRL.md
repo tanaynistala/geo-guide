@@ -155,7 +155,7 @@ Ireland has traditionally been divided into four provinces, each divided into se
 
     _Tír Eoghain_
 
-Counties labeled _NI_ are in Northern Ireland, which is a part of the [United Kingdom](/countries/GBR). The word "county" is usually prefixed to the county's name rather than suffixed; thus it would be _County Sligo_, and not _Sligo County_. Galway and Cork are separate entities from Counties Galway and Sligo, respectively. In addition, County Dublin was split up into three city-level counties in addition to Dublin City itself.
+Counties labeled _NI_ are in Northern Ireland, which is a part of the [United Kingdom](/countries/GBR). The word "county" is usually prefixed to the county's name rather than suffixed; thus it would be _County Sligo_, and not _Sligo County_. Galway and Cork are separate entities from Counties Galway and Sligo, respectively. County Dublin was split up into three city-level counties in addition to Dublin City itself.
 
 <CountryMap code="IRL" scale="6500" />
 

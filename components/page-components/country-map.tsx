@@ -16,9 +16,17 @@ type Props = {
   code: string
   scale: number
   level: number
+  offsetX: number
+  offsetY: number
 }
 
-const CountryMap = ({ code, scale, level = 1 }: Props) => {
+const CountryMap = ({
+  code,
+  scale,
+  level = 1,
+  offsetX = 0,
+  offsetY = 0,
+}: Props) => {
   const [tooltipContent, setTooltipContent] = useState("")
 
   const country = getCountryData(code)
@@ -35,7 +43,11 @@ const CountryMap = ({ code, scale, level = 1 }: Props) => {
         className="rounded-lg my-12 outline-none"
         data-tip=""
         projectionConfig={{
-          rotate: [-country.coordinates[0], -country.coordinates[1], 0],
+          rotate: [
+            offsetX - country.coordinates[0],
+            offsetY - country.coordinates[1],
+            0,
+          ],
           // center: country.coordinates,
           scale,
         }}
