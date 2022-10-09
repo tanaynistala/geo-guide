@@ -29,6 +29,8 @@ Italy is divided twenty regions, five of which have autonomous status:
 
 <CountryMap code="ITA" scale="2500" />
 
+<CountryMap code="ITA" scale="2500" level="2" />
+
 ---
 
 # License Plates
@@ -222,7 +224,6 @@ Ss Tt Uu Vv Ww Xx Yy Zz
 - [Italy](https://www.geoguessr.com/maps/5bbc67612c01735208562ae7) by 5ai `150000 locs.`
 
 - [Pinpointable](https://www.geoguessr.com/maps/60464ef0c29076000117fcb3) by Requiem `100 locs.`
-
 
 ---
 
