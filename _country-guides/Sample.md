@@ -6,6 +6,8 @@
 
 See Finland for a good example of this
 
+<CountryMap code="code" scale="5000" />
+
 ---
 
 # License Plates
