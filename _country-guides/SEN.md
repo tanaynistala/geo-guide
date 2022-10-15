@@ -42,8 +42,8 @@ Senegal does not have an extensive area code system, with just two codes: phone 
 # Roads, Markings, and Signage
 Senegal has very helpful kilometer markers. They show the road number as well as the next cities with distances. Primary (N roads) have a red top and secondary (R roads) have a green top.
 
-<img src="/img/marker1.png" alt="<Kilometer marker front>" /> 
-<img src="/img/marker-2" alt="<Kilometer marker side>" /> 
+<img src="/img/SEN/marker1.png" alt="<Kilometer marker front>" /> 
+<img src="/img/SEN/marker-2" alt="<Kilometer marker side>" /> 
 
 Senegal uses all white road markings. They are usually dashed on the side. 
 
