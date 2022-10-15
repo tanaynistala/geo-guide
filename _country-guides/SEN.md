@@ -40,14 +40,34 @@ Senegal does not have an extensive area code system, with just two codes: phone 
 ---
 
 # Roads, Markings, and Signage
+Senegal has very helpful kilometer markers. They show the road number as well as the next cities with distances. Primary (N roads) have a red top and secondary (R roads) have a green top.
+![Bildschirmfoto 2022-10-15 um 15 58 50](https://user-images.githubusercontent.com/110540417/195990505-aaffc553-ca9a-4940-9a70-1bd3efd8ea74.png)
+![Bildschirmfoto 2022-10-15 um 15 59 00](https://user-images.githubusercontent.com/110540417/195990515-f62ea65a-f7f0-43f5-aad3-ac02ad3ea406.png)
+Senegal uses all white road markings. They are usually dashed on the side. 
 
----
-
-# Highways & Road Numbering Schemes
+## Highways & Road Numbering Schemes
+There are only 2 separated highways, the A1 from Dakar to Mbour and the A2 from Thies to Touba. The primary national Roads N1-7. They are not sorted in a reasonable way but they are generally pretty easy to find. The secondary national roads are the green R20-70. They don't show up as well as the primary roads but as there aren't many, they are findable too.
 
 ---
 
 # Architecture
+The only city with multi-story buildings is Dakar. In Dakar, most houses are simple apartment complexes. In the outskirts and in smaller cities, the houses aren't taller than 2, maybe 3 stories. They have flat roofs and the facades are painted in basic brown and white tones with one other colour here and there. In poorer areas, houses tend to have a cheaper look with only a brick facade. In wealthy areas or city centers some houses also have a mosaic/ornament facade. 
+
+---
+
+# Meta
+There are 2 camera generations, 3 and 4. On the older, rare gen 3 car, you can see rifts in the sky, as well as a roof rack. The gen 4 Cars don't have that. They are white or silver pick-up trucks. Sometimes, the Google car is entirely blurred out.
+![Bildschirmfoto 2022-10-15 um 16 30 16](https://user-images.githubusercontent.com/110540417/195991914-e5621619-b3a5-4ea7-9978-0badbc1183bc.png)
+![Bildschirmfoto 2022-10-15 um 16 30 25](https://user-images.githubusercontent.com/110540417/195991918-c6385d42-a6ec-4b66-86c2-6f2274dcc7cb.png)
+![Senegal 1](https://user-images.githubusercontent.com/110540417/195991946-ea5751ae-7c12-4b48-a16a-8f2673ba8f8a.png)
+![Senegal 2](https://user-images.githubusercontent.com/110540417/195991952-e49b4549-1512-474c-8cef-47ee0cfc0dd6.png)
+![Senegal 3](https://user-images.githubusercontent.com/110540417/195991956-e365c5ae-4201-435b-8d45-fddb104ea526.png)
+
+---
+
+# Electricty Poles
+The Senegalese poles have a very distinct look. 
+![Bildschirmfoto 2022-10-15 um 16 35 24](https://user-images.githubusercontent.com/110540417/195992149-da36d2b5-a1ce-4faa-b059-87f035767908.png)
 
 ---
 
