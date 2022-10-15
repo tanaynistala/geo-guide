@@ -60,17 +60,19 @@ The only city with multi-story buildings is Dakar. In Dakar, most houses are sim
 # Meta
 There are 2 camera generations, 3 and 4. On the older, rare gen 3 car, you can see rifts in the sky, as well as a roof rack. The gen 4 Cars don't have that. They are white or silver pick-up trucks. Sometimes, the Google car is entirely blurred out.
 
-![Bildschirmfoto 2022-10-15 um 16 30 16](https://user-images.githubusercontent.com/110540417/195991914-e5621619-b3a5-4ea7-9978-0badbc1183bc.png)
-![Bildschirmfoto 2022-10-15 um 16 30 25](https://user-images.githubusercontent.com/110540417/195991918-c6385d42-a6ec-4b66-86c2-6f2274dcc7cb.png)
-![Senegal 1](https://user-images.githubusercontent.com/110540417/195991946-ea5751ae-7c12-4b48-a16a-8f2673ba8f8a.png)
-![Senegal 2](https://user-images.githubusercontent.com/110540417/195991952-e49b4549-1512-474c-8cef-47ee0cfc0dd6.png)
-![Senegal 3](https://user-images.githubusercontent.com/110540417/195991956-e365c5ae-4201-435b-8d45-fddb104ea526.png)
+<img src="/img/SEN/gen3-car" alt="<Gen 3 Car>" /> 
+<img src="/img/SEN/gen3-rift" alt="<Gen 3 Rift>" /> 
+<img src="/img/SEN/senegal-car-1" alt="<Gen 4 Car 1>" /> 
+<img src="/img/SEN/senegal-car-2" alt="<Gen 4 Car 2>" /> 
+<img src="/img/SEN/senegal-car-3" alt="<Gen 4 Car 3>" /> 
+
+There are other, rarer cars. But by knowing these you should be fine!
 
 ---
 
 # Electricty Poles
 The Senegalese poles have a very distinct look. 
-![Bildschirmfoto 2022-10-15 um 16 35 24](https://user-images.githubusercontent.com/110540417/195992149-da36d2b5-a1ce-4faa-b059-87f035767908.png)
+<img src="/img/SEN/senegal-pole" alt="<Pole example>" /> 
 
 ---
 
