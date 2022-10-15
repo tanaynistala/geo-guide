@@ -43,6 +43,7 @@ Senegal does not have an extensive area code system, with just two codes: phone 
 Senegal has very helpful kilometer markers. They show the road number as well as the next cities with distances. Primary (N roads) have a red top and secondary (R roads) have a green top.
 
 <img src="/img/SEN/marker1.png" alt="<Kilometer marker front>" /> 
+
 <img src="/img/SEN/marker-2" alt="<Kilometer marker side>" /> 
 
 Senegal uses all white road markings. They are usually dashed on the side. 
@@ -61,9 +62,13 @@ The only city with multi-story buildings is Dakar. In Dakar, most houses are sim
 There are 2 camera generations, 3 and 4. On the older, rare gen 3 car, you can see rifts in the sky, as well as a roof rack. The gen 4 Cars don't have that. They are white or silver pick-up trucks. Sometimes, the Google car is entirely blurred out.
 
 <img src="/img/SEN/gen3-car" alt="<Gen 3 Car>" /> 
+
 <img src="/img/SEN/gen3-rift" alt="<Gen 3 Rift>" /> 
+
 <img src="/img/SEN/senegal-car-1" alt="<Gen 4 Car 1>" /> 
+
 <img src="/img/SEN/senegal-car-2" alt="<Gen 4 Car 2>" /> 
+
 <img src="/img/SEN/senegal-car-3" alt="<Gen 4 Car 3>" /> 
 
 There are other, rarer cars. But by knowing these you should be fine!
