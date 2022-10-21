@@ -2,6 +2,8 @@ A guide to GeoGuessr, currently in very early stages and still a work in progres
 
 ## Completion
 
+### Africa
+- [x] Senegal
 ### Asia
 
 - South Asia
@@ -66,5 +68,5 @@ A guide to GeoGuessr, currently in very early stages and still a work in progres
 
 ## Credits
 
-- Goaff / Paschtetli
+- Paschtetli
 - More to come :)
