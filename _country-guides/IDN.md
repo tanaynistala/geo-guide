@@ -103,12 +103,93 @@ Typically, only the middle two are printed on signs (and occasionally the _desa_
 
 ## Sulawesi
 
-- Central Sulawesi
 - Gorontalo
+  - Gorontalo `City`
+  - Boalemo
+  - Bone Bolango
+  - Gorontalo
+  - North Gorontalo
+  - Pohuwato
+- Central Sulawesi
+  - Palu `City`
+  - Banggai
+  - Banggai Islands
+  - Banggai Laut
+  - Buol
+  - Donggala
+  - Morowali
+  - North Morowali
+  - Parigi Moutong
+  - Poso
+  - Sigi
+  - Tojo Una-Una
+  - Tolitoli
 - North Sulawesi
-- Southeast Sulawesi
+  - Bitung `City`
+  - Kotamobagu `City`
+  - Manado `City`
+  - Tomohon `City`
+  - Bolaang Mongondow
+  - East Bolaang Mongondow
+  - North Bolaang Mongondow
+  - South Bolaang Mongondow
+  - Minahasa
+  - North Minahasa
+  - South Minahasa
+  - Southeast Minahasa
+  - Sangihe Islands
+  - Sitaro Islands
+  - Talaud Islands
 - South Sulawesi
+  - Makassar `City`
+  - Palopo `City`
+  - Parepare `City`
+  - Bantaeng
+  - Barru
+  - Bone
+  - Bulukumba
+  - East Luwu
+  - Enrekang
+  - Gowa
+  - Jeneponto
+  - Luwu
+  - North Luwu
+  - Maros
+  - Pangkajene and Islands Regency
+  - Pinrang
+  - Selayar Islands
+  - Sinjai
+  - Sidenreng Rappang
+  - Soppeng
+  - Takalar
+  - Tana Toraja
+  - North Toraja
+  - Wajo
+- Southeast Sulawesi
+  - Baubau `City`
+  - Kendari `City`
+  - Bombana
+  - Buton
+  - Central Buton
+  - North Buton
+  - South Buton
+  - Kolaka
+  - North Kolaka
+  - East Kolaka
+  - Konawe
+  - North Konawe
+  - South Konawe
+  - Konawe Islands
+  - Muna
+  - West Muna
+  - Wakatobi
 - West Sulawesi
+  - Central Mamuju
+  - Majene
+  - Mamasa
+  - Mamuju
+  - Pasangkayu
+  - Polewali Mandar
 
 ## Lesser Sunda Islands
 
