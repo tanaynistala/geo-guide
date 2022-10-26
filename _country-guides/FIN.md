@@ -144,10 +144,7 @@ Phone numbers are not very helpful as most businesses don't use area codes. If y
 081 - 089 Northern Ostrobothnia and Kainuu
 <br />
 09x Helsinki
-
-</div>
-<div>
-
+<br />
 013 Northern Karelia
 <br />
 014 Central Finland
