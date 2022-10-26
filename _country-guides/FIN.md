@@ -134,23 +134,34 @@ Phone numbers are not very helpful as most businesses don't use area codes. If y
 **Various regions (_see next column →_)**
   
 021 - 028 Satakunta and Finland Proper
+  
 03x Tavastia Proper and Päijänne Tavastia
+  
 051 - 059 Southern Karelia and Kymenlaakso
+  
 061 - 069 Ostrobothnia, Central Ostrobothnia, and Southern Ostrobothnia
 
 081 - 089 Northern Ostrobothnia and Kainuu
+  
 09x Helsinki
 
 </div>
 <div>
 
 013 Northern Karelia
+  
 014 Central Finland
+  
 015 Southern Savonia
+  
 016 Lapland
+  
 017 Northern Savonia
+  
 018 Åland
+  
 019 Uusimaa
+ 
 
 </div>
 </div>
