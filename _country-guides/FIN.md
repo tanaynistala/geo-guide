@@ -131,7 +131,7 @@ Phone numbers are not very helpful as most businesses don't use area codes. If y
 <div className="flex columns-2 justify-around">
 <div>
 
-**Various regions (_see next column →_)**
+**Various regions**
   
 021 - 028 Satakunta and Finland Proper
 <br />
