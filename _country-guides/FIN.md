@@ -126,31 +126,39 @@ As a member of the EU, Finland's license plates feature a blue band on the left 
 
 # Phone Codes
 
-Phone numbers are prefixed with a zero (0), and are fairly well arranged by region:
+Phone numbers are not very helpful as most businesses don't use area codes. If you manage to stumble upon one of them, you are lucky, because they are fairly well arranged by region:
 
 <div className="flex columns-2 justify-around">
 <div>
 
-1. **Various regions (_see next column →_)**
-2. Satakunta and Finland Proper
-3. Tavastia Proper and Päijänne Tavastia
-4. `N/A`
-5. Southern Karelia and Kymenlaakso
-6. Ostrobothnia, Central Ostrobothnia, and Southern Ostrobothnia
-7. `N/A`
-8. Northern Ostrobothnia and Kainuu
-9. Helsinki
-
-</div>
-<div>
-
-13. Northern Karelia
-14. Central Finland
-15. Southern Savonia
-16. Lapland
-17. Northern Savonia
-18. Åland
-19. Uusimaa
+**Various regions**
+  
+021 - 028 Satakunta and Finland Proper
+<br />
+03x Tavastia Proper and Päijänne Tavastia
+<br />
+051 - 059 Southern Karelia and Kymenlaakso
+<br />
+061 - 069 Ostrobothnia, Central Ostrobothnia, and Southern Ostrobothnia
+<br />
+081 - 089 Northern Ostrobothnia and Kainuu
+<br />
+09x Helsinki
+<br />
+013 Northern Karelia
+<br />
+014 Central Finland
+<br />
+015 Southern Savonia
+<br />
+016 Lapland
+<br />
+017 Northern Savonia
+<br />
+018 Åland
+<br />
+019 Uusimaa
+ 
 
 </div>
 </div>
