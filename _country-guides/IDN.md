@@ -11,13 +11,13 @@ Indonesia is divided into four layers of administration:
 - Districts (_Kecamatan_)
 - Villages (_Desa_)
 
-Typically, only the middle two are printed on signs (and occasionally the _desa_ as well), which means it can be helpful to learn the _kabupaten_ names in addition to the provinces. Here we have organized them by region and province:
+Typically, only the middle two are printed on signs (and occasionally the _desa_ as well), which means it can be helpful to learn the _kabupaten_ names in addition to the _provinsi_. Here we have organized them by region and province:
 
 <CountryMap code="IDN" scale="500" level="2" />
 
 ## Sumatra
 
-- Aceh
+- Aceh (No Coverage)
 - Bangka Belitung Islands
 - Bengkulu
 - Jambi
@@ -110,7 +110,7 @@ Typically, only the middle two are printed on signs (and occasionally the _desa_
   - Gorontalo
   - North Gorontalo
   - Pohuwato
-- Central Sulawesi
+- Central Sulawesi (_Sulawesi Tengah_)
   - Palu `City`
   - Banggai
   - Banggai Islands
@@ -124,7 +124,7 @@ Typically, only the middle two are printed on signs (and occasionally the _desa_
   - Sigi
   - Tojo Una-Una
   - Tolitoli
-- North Sulawesi
+- North Sulawesi (_Sulawesi Utara_)
   - Bitung `City`
   - Kotamobagu `City`
   - Manado `City`
@@ -140,7 +140,7 @@ Typically, only the middle two are printed on signs (and occasionally the _desa_
   - Sangihe Islands
   - Sitaro Islands
   - Talaud Islands
-- South Sulawesi
+- South Sulawesi (_Sulawesi Selatan_)
   - Makassar `City`
   - Palopo `City`
   - Parepare `City`
@@ -165,7 +165,7 @@ Typically, only the middle two are printed on signs (and occasionally the _desa_
   - Tana Toraja
   - North Toraja
   - Wajo
-- Southeast Sulawesi
+- Southeast Sulawesi (_Sulawesi Selatantimur_)
   - Baubau `City`
   - Kendari `City`
   - Bombana
@@ -183,7 +183,7 @@ Typically, only the middle two are printed on signs (and occasionally the _desa_
   - Muna
   - West Muna
   - Wakatobi
-- West Sulawesi
+- West Sulawesi (_Sulawesi Barat_)
   - Central Mamuju
   - Majene
   - Mamasa
@@ -194,8 +194,49 @@ Typically, only the middle two are printed on signs (and occasionally the _desa_
 ## Lesser Sunda Islands
 
 - Bali
-- East Nusa Tenggara
-- West Nusa Tenggara
+  - Denpasar `City`
+  - Badung
+  - Bangli
+  - Buleleng
+  - Gianyar
+  - Jembrana
+  - Karangasen
+  - Klungkung
+  - Tabanan
+- West Nusa Tenggara (_Nusa Tenggara Barat_)
+  - Bima `City`
+  - Mataram `City`
+  - Bima
+  - Central Lombok
+  - North Lombok
+  - South Lombok
+  - East Lombok
+  - Dompu
+  - Sumbawa
+  - West Sumbawa
+- East Nusa Tenggara (_Nusa Tenggara Timur_)
+  - Kupang `City`
+  - Alor
+  - Belu
+  - Central Sumba
+  - West Sumba
+  - East Sumba
+  - Southwest Sumba
+  - East Flores
+  - Manggarai
+  - West Manggarai
+  - East Manggarai
+  - Ende
+  - Kupang
+  - Lembata
+  - Malaka
+  - Nagekeo
+  - Ngada
+  - North Central Timor
+  - South Central Timor
+  - Rote Ndao
+  - Sabu Raijua
+  - Sikka
 
 ## Maluku Islands (No Coverage)
 
