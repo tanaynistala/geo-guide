@@ -126,42 +126,47 @@ As a member of the EU, Finland's license plates feature a blue band on the left 
 
 # Phone Codes
 
-Phone numbers are not very helpful as most businesses don't use area codes. If you manage to stumble upon one of them, you are lucky, because they are fairly well arranged by region:
+Phone numbers are not very helpful as most businesses don't use area codes. If you manage to stumble upon one of them, they are typically prefixed with a zero (0) and are fairly well arranged by region:
 
-<div className="flex columns-2 justify-around">
-<div>
+- `01x` Series
 
-**Various regions**
-  
-021 - 028 Satakunta and Finland Proper
-<br />
-03x Tavastia Proper and Päijänne Tavastia
-<br />
-051 - 059 Southern Karelia and Kymenlaakso
-<br />
-061 - 069 Ostrobothnia, Central Ostrobothnia, and Southern Ostrobothnia
-<br />
-081 - 089 Northern Ostrobothnia and Kainuu
-<br />
-09x Helsinki
-<br />
-013 Northern Karelia
-<br />
-014 Central Finland
-<br />
-015 Southern Savonia
-<br />
-016 Lapland
-<br />
-017 Northern Savonia
-<br />
-018 Åland
-<br />
-019 Uusimaa
- 
+  13. Northern Karelia
+  14. Central Finland
+  15. Southern Savonia
+  16. Lapland
+  17. Northern Savonia
+  18. Åland
+  19. Uusimaa
 
-</div>
-</div>
+- `02x-09x` Series
+
+  _(Except `020`, `050`, `060`, `080`, and `029`)_
+
+  2. Satakunta
+
+     Finland Proper
+
+  3. Tavastia Proper
+
+     Päijänne Tavastia
+
+  4. `N/A`
+  5. Southern Karelia
+
+     Kymenlaakso
+
+  6. Ostrobothnia
+
+     Central Ostrobothnia
+
+     Southern Ostrobothnia
+
+  7. `N/A`
+  8. Northern Ostrobothnia
+
+     Kainuu
+
+  9. Helsinki
 
 ---
 
@@ -172,24 +177,26 @@ Phone numbers are not very helpful as most businesses don't use area codes. If y
 Lines on the side are continuous except at intersections. Small roads have no central line.
 Central line is dashed, and an additional continuous central line appears where it is prohibited to overtake other cars.
 
-Regular : 
+Regular :
 <RoadMarkings>
-   <RoadLine color="white" />
-   <RoadLane/>
-   <RoadLine style="dashed" dashLength={40} spaceLength={120} />
-   <RoadLane/>
-   <RoadLine color="white" />
+<RoadLine color="white" />
+<RoadLane/>
+<RoadLine style="dashed" dashLength={40} spaceLength={120} />
+<RoadLane/>
+<RoadLine color="white" />
 </RoadMarkings>
 
-No overtaking, central line is either white or yellow : 
+No overtaking, central line is either white or yellow :
 <RoadMarkings>
-   <RoadLine color="white" />
-   <RoadLane/>
-   <RoadLine style="dashed" dashLength={40} spaceLength={120} />
-   <RoadLine color="white" />
-   <RoadLane/>
-   <RoadLine color="white" />
+<RoadLine color="white" />
+<RoadLane/>
+<RoadLine style="dashed" dashLength={40} spaceLength={120} />
+<RoadLine color="white" />
+<RoadLane/>
+<RoadLine color="white" />
 </RoadMarkings>
+
+<br/>
 
 <RoadMarkings>
    <RoadLine color="white" />
