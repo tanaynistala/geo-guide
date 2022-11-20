@@ -62,7 +62,7 @@ export async function getGuide(postType: string, slug: string) {
           rehypeAutolinkHeadings,
           [imageSize, { dir: "public" }],
           section,
-          rehypeTOC,
+          // rehypeTOC,
         ],
       },
     })
@@ -111,4 +111,14 @@ function getDirectory(postType: string) {
     default:
       return path.resolve("_guides")
   }
+}
+
+export function getSheetDirs() {
+  const basePath = path.resolve("public/datasheets")
+
+  return fs.readdirSync(basePath).map((dir) => ({
+    dir,
+    dirName: dir.replace("-", " "),
+    files: fs.readdirSync(path.join(basePath, dir)),
+  }))
 }
