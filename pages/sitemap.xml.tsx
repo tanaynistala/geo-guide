@@ -1,4 +1,5 @@
 import fs from "fs"
+import path from "path"
 import { getSlugs } from "../lib/api"
 
 const Sitemap = () => {
@@ -7,9 +8,10 @@ const Sitemap = () => {
 
 export async function getServerSideProps ( { res } ) {
   const BASE_URL = "https://geo-guide.vercel.app"
+  const pagesPath = path.resolve("pages")
 
   const staticPaths = fs
-    .readdirSync("pages")
+    .readdirSync(pagesPath)
     .filter((staticPage) => {
       return ![
         "api",
