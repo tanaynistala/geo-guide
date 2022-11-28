@@ -14,5 +14,5 @@
     }
   },
   "buildBeforeRunning" : true,
-  "openLogOnRun" : "fail"
+  "openLogOnRun" : "start"
 }

@@ -4,6 +4,47 @@
 
 @layer components {
   .prose {
+    hr {
+      height: 1rem;
+      border: none;
+      background-image: url("data:image/svg+xml,%3Csvg width='10' height='15' viewBox='0 0 10 15' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect x='0.567383' y='14.1777' width='16' height='1' transform='rotate(-60 0.567383 14.1777)' fill='%232D2E33'/%3E%3C/svg%3E");
+      background-repeat: repeat-x;
+    }
+
+    ul {
+      columns: 2;
+      list-style-type: square;
+    }
+
+    ol,
+    ul {
+      li {
+        break-inside: avoid-column;
+        margin: 0 1rem 1rem 0;
+      }
+
+      * > ol,
+      * > ul {
+        padding-left: 1rem;
+        padding-right: 0;
+        columns: 1;
+
+        li {
+          margin: 0 0 1rem 0;
+        }
+      }
+
+      p {
+        padding: 0;
+        margin: 0;
+      }
+    }
+  }
+}
+
+/*
+@layer components {
+  .prose {
     position: relative;
 
     h1,
@@ -111,7 +152,7 @@
 
       font-family: ui-serif, New York, Georgia, Cambria, "Times New Roman",
         Times, serif;
-      /* font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; */
+      /* font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
       color: #08080b;
       font-weight: 500;
       font-size: 2rem;
@@ -178,3 +219,4 @@
     }
   }
 }
+*/

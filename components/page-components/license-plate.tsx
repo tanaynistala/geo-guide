@@ -1,16 +1,16 @@
 type Props = {
-  style: string;
+  style: string
 
-  code?: string;
-  codeColor?: string;
-  format: string;
+  code?: string
+  codeColor?: string
+  format: string
 
-  bg?: string;
-  text?: string;
-  border?: string;
-  borderStyle?: string;
-  rightBandColor?: string;
-};
+  bg?: string
+  text?: string
+  border?: string
+  borderStyle?: string
+  rightBandColor?: string
+}
 
 const LicensePlate = ({
   style,
@@ -25,7 +25,7 @@ const LicensePlate = ({
 }: Props) => {
   return (
     <span
-      className="rounded py-0.5 leading-tight inline-block overflow-clip border-2 align-bottom"
+      className="rounded py-0.5 leading-tight inline-block border-2 align-bottom"
       style={{
         borderColor: border,
         borderStyle: borderStyle,
@@ -64,7 +64,7 @@ const LicensePlate = ({
         </span>
       )}
     </span>
-  );
-};
+  )
+}
 
-export default LicensePlate;
+export default LicensePlate

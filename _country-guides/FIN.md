@@ -42,7 +42,7 @@ Finland is divided into 19 regions, of which [Åland](/countries/ALD) is covered
 
   Central Ostrobothnia
 
-- **Kesky-Suomi**
+- **Keski-Suomi**
 
   Mellersta Finland
 
