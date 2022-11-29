@@ -52,7 +52,7 @@ type Props = {
 
 const Body = ({ content }: Props) => {
   return (
-    <div className="m-8 prose">
+    <div className="m-8 mb-24 prose max-w-full">
       <MDXRemote {...content} components={components} />
     </div>
   )
