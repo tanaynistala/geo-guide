@@ -26,7 +26,7 @@ const StyledLink = ({ href, className, ...rest }) => {
 const StyledCode = ({ ...props }) => {
   return (
     <span
-      className="px-1.5 py-0.5 mx text-sm font-mono font-semibold bg-black/5 rounded"
+      className="px-1.5 py-0.5 text-sm font-mono font-semibold bg-black/5 rounded"
       {...props}
     />
   )

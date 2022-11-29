@@ -34,7 +34,7 @@ Brazil is divided into 26 states, plus one _Distrito Federal_ (Federal District)
 - `SE` Sergipe
 - `TO` Tocantins
 
-<CountryMap code="BRA" scale="500" />
+<CountryMap code="BRA" scale="600" />
 
 ---
 

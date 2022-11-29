@@ -3,6 +3,10 @@ import ErrorPage from "next/error"
 
 import Layout from "../../components-NEW/layout/layout"
 import Container from "../../components-NEW/mdx/container"
+import Summary from "../../components-NEW/summary"
+
+import { MiniMap } from "../../components-NEW/map"
+import Breadcrumb from "../../components-NEW/breadcrumb"
 
 import { getGuide, getSlugs } from "../../lib/api-NEW"
 import { getCountryData } from "../../lib/geo-api"
@@ -29,7 +33,10 @@ export default function Guide({ guide }: Props) {
       {router.isFallback ? (
         <h1>Loading...</h1>
       ) : (
-        <Container content={guide.content} headings={guide.headings} />
+        <>
+          <Summary country={countryData} />
+          <Container content={guide.content} headings={guide.headings} />
+        </>
       )}
     </Layout>
   )
