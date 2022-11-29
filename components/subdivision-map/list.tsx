@@ -1,15 +1,15 @@
-import Link from "next/link";
-import { useState } from "react";
-import subdivisionData from "../../lib/geo-data/subdivisions.json";
-import { getCountryData } from "../../lib/geo-api";
+import Link from "next/link"
+import { useState } from "react"
+import subdivisionData from "../../lib/geo-data/subdivisions.json"
+import { getCountryData } from "../../lib/geo-api"
 
 const List = ({ countryCode }) => {
-  const [query, setQuery] = useState("");
+  const [query, setQuery] = useState("")
 
-  const country = getCountryData(countryCode);
+  const country = getCountryData(countryCode)
   const subdivisions = subdivisionData.find(
     (geo) => geo.countryShortCode === country.code2
-  ).regions;
+  ).regions
 
   return (
     <>
@@ -28,17 +28,17 @@ const List = ({ countryCode }) => {
           .filter((subdivision) => {
             return query == ""
               ? true
-              : subdivision.name.toLowerCase().includes(query.toLowerCase());
+              : subdivision.name.toLowerCase().includes(query.toLowerCase())
           })
           .map((subdivision) => (
             <li>
               {subdivision.name}
-              <code>{subdivision.shortCode}</code>
+              <code>{subdivision.code}</code>
             </li>
           ))}
       </div>
     </>
-  );
-};
+  )
+}
 
-export default List;
+export default List

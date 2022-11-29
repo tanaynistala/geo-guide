@@ -21,6 +21,8 @@ type Props = {
   mapHeight?: number
   rotate?: Array<number>
   scale?: number
+  staticMap?: boolean
+  border?: boolean
 }
 
 const MapContainer = ({
@@ -30,9 +32,11 @@ const MapContainer = ({
   mapHeight = 512,
   rotate = [-10, 0, 0],
   scale,
+  staticMap = false,
+  border = false,
 }: Props) => {
   return (
-    <div>
+    <div className={`rounded-xl overflow-hidden ${border ? "border-4" : ""}`}>
       <ComposableMap
         projection={proj}
         width={mapWidth}
@@ -41,14 +45,19 @@ const MapContainer = ({
         projectionConfig={{ rotate, scale }}
         className="outline-none h-full w-full mx-auto"
       >
-        <ZoomableGroup
-          translateExtent={[
-            [0, 0],
-            [mapWidth, mapHeight],
-          ]}
-        >
-          {children}
-        </ZoomableGroup>
+        {staticMap ? (
+          <>{children}</>
+        ) : (
+          <ZoomableGroup
+            translateExtent={[
+              [0, 0],
+              [mapWidth, mapHeight],
+            ]}
+          >
+            <Sphere className="fill-gray-50" />
+            {children}
+          </ZoomableGroup>
+        )}
       </ComposableMap>
     </div>
   )
@@ -61,7 +70,7 @@ const WorldMap = ({}) => {
 
   return (
     <div>
-      <MapContainer proj="geoEquirectangular">
+      <MapContainer proj="geoEquirectangular" border>
         <Geographies geography={data}>
           {({ geographies }) =>
             geographies.map((feature) => (
@@ -136,10 +145,27 @@ const ContinentMap = ({}) => {
 /* Country Map */
 const CountryMap = ({ code, scale, level = 1, offsetX = 0, offsetY = 0 }) => {
   const [tooltipContent, setTooltipContent] = useState("")
+  const [activeRegion, setActiveRegion] = useState("")
   const countryData = getCountryData(code)
 
   return (
     <div>
+      <div className="grid grid-cols-2 lg:grid-cols-3 gap-x-4 py-4">
+        {countryData.subdivisions.map((subdiv) => (
+          <div
+            className={`flex rounded-md cursor-pointer p-2 leading-snug inline-block ${
+              activeRegion === subdiv.name ? "bg-gray-100" : ""
+            }`}
+            onMouseEnter={() => setActiveRegion(subdiv.name)}
+            onMouseLeave={() => setActiveRegion("")}
+          >
+            <div className="px-1.5 py-0.5 text-sm font-mono font-semibold bg-black/5 rounded mr-2 h-fit">
+              {subdiv.code}
+            </div>
+            <div>{subdiv.name}</div>
+          </div>
+        ))}
+      </div>
       <MapContainer
         proj="geoAzimuthalEqualArea"
         mapWidth={512}
@@ -150,6 +176,7 @@ const CountryMap = ({ code, scale, level = 1, offsetX = 0, offsetY = 0 }) => {
           offsetY - countryData.coordinates[1],
           0,
         ]}
+        border
       >
         <Geographies
           geography={`https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json`}
@@ -159,7 +186,7 @@ const CountryMap = ({ code, scale, level = 1, offsetX = 0, offsetY = 0 }) => {
               (feature) =>
                 feature.properties.adm0_a3 !== code && (
                   <Geography
-                    className="outline-none fill-gray-200 stroke-gray-100 stroke-1"
+                    className="outline-none stroke-gray-100 stroke-1 fill-gray-200"
                     key={feature.rsmKey}
                     geography={feature}
                   />
@@ -171,27 +198,33 @@ const CountryMap = ({ code, scale, level = 1, offsetX = 0, offsetY = 0 }) => {
           geography={`https://raw.githubusercontent.com/piwodlaiwo/TopoJSON-Data/master/diva-gis/${countryData.code3}_adm/${countryData.code3}_adm${level}.topo.json`}
         >
           {({ geographies }) =>
-            geographies.map((feature) => (
-              <Geography
-                className="outline-none fill-gray-300 hover:fill-gray-400 stroke-gray-100 stroke-1"
-                key={feature.rsmKey}
-                geography={feature}
-                onMouseEnter={() => {
-                  setTooltipContent(
-                    `${
-                      level == 1
-                        ? feature.properties.NAME_1
-                        : level == 2
-                        ? feature.properties.NAME_2
-                        : feature.properties.NAME_3
-                    }`
-                  )
-                }}
-                onMouseLeave={() => {
-                  setTooltipContent("")
-                }}
-              />
-            ))
+            geographies.map((feature) => {
+              const name =
+                level == 1
+                  ? feature.properties.NAME_1
+                  : level == 2
+                  ? feature.properties.NAME_2
+                  : feature.properties.NAME_3
+              return (
+                <Geography
+                  className={`outline-none stroke-gray-50 ${
+                    activeRegion === name
+                      ? "fill-gray-400"
+                      : "fill-gray-300 hover:fill-gray-400"
+                  }`}
+                  key={feature.rsmKey}
+                  geography={feature}
+                  onMouseEnter={() => {
+                    setTooltipContent(name)
+                    setActiveRegion(name)
+                  }}
+                  onMouseLeave={() => {
+                    setTooltipContent("")
+                    setActiveRegion("")
+                  }}
+                />
+              )
+            })
           }
         </Geographies>
       </MapContainer>
@@ -210,7 +243,10 @@ const MiniMap = ({ countryCode }) => {
   return (
     <MapContainer
       proj="geoOrthographic"
+      mapWidth={512}
+      mapHeight={512}
       rotate={[-countryData.coordinates[0], -countryData.coordinates[1], 0]}
+      staticMap
     >
       <Sphere className="stroke-gray-300 stroke-1" />
       <Graticule className="stroke-gray-300 stroke-1" />

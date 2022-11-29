@@ -1,11 +1,12 @@
-const geographies = require("./geo-data/geography.geo.json")
-const centroids = require("./geo-data/centroids.geo.json")
-const capitals = require("./geo-data/capitals.geo.json")
-const currencyNames = require("./geo-data/currency-names.json")
-const currencyCodes = require("./geo-data/currency-codes.json")
-const domainTlds = require("./geo-data/domain-tlds.json")
-const drivingSides = require("./geo-data/driving-sides.json")
-const phoneCodes = require("./geo-data/phone-codes.json")
+import geographies from "./geo-data/geography.geo.json"
+import centroids from "./geo-data/centroids.geo.json"
+import capitals from "./geo-data/capitals.geo.json"
+import currencyNames from "./geo-data/currency-names.json"
+import currencyCodes from "./geo-data/currency-codes.json"
+import domainTlds from "./geo-data/domain-tlds.json"
+import drivingSides from "./geo-data/driving-sides.json"
+import phoneCodes from "./geo-data/phone-codes.json"
+import subdivisions from "./geo-data/subdivisions.json"
 
 export function getCategorizedCountries() {
   let result = {}
@@ -67,6 +68,9 @@ export function getCountryData(countryCode: string) {
   const drivesOnLeft =
     drivingSides.find((geo) => geo.country === name)?.drives_on_left ?? false
 
+  const subdivs =
+    subdivisions.find((geo) => geo.countryName === name)?.regions ?? []
+
   return {
     name,
     code3,
@@ -79,6 +83,7 @@ export function getCountryData(countryCode: string) {
     currency,
     tld,
     drivesOnLeft: drivesOnLeft,
+    subdivisions: subdivs,
   }
 }
 
