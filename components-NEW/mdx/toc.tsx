@@ -2,7 +2,7 @@ import Link from "next/link"
 
 const TOC = ({ headings }) => {
   return (
-    <div className="p-4 pt-0 mb-24">
+    <div className="p-8 pt-0 mb-24">
       <h1 className="sticky top-0 py-4 text-2xl font-medium bg-white">
         Table of Contents
       </h1>

@@ -195,7 +195,7 @@ const CountryMap = ({ code, scale, level = 1, offsetX = 0, offsetY = 0 }) => {
             onMouseEnter={() => setActiveRegion(subdiv.name)}
             onMouseLeave={() => setActiveRegion("")}
           >
-            <div className="px-1.5 py-0.5 text-sm font-mono font-semibold bg-black/5 rounded mr-2 h-fit">
+            <div className="px-1.5 py-0.5 text-sm font-mono font-semibold bg-black/10 rounded mr-2 h-fit">
               {subdiv.code}
             </div>
             <div>{subdiv.name}</div>

@@ -14,12 +14,13 @@ type Props = {
 
 const Layout = ({ title, description, url, children }: Props) => {
   return (
-    <div className="max-w-5xl xl:max-w-7xl mx-auto">
-      <Meta title={title} description={description} url={url} />
-      <Header />
+    <div>
+      <div className="max-w-5xl xl:max-w-7xl mx-auto">
+        <Meta title={title} description={description} url={url} />
+        <Header />
 
-      <main>{children}</main>
-
+        <main>{children}</main>
+      </div>
       <Footer />
     </div>
   )

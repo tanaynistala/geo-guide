@@ -7,7 +7,7 @@ const Header = ({}) => {
         <a>
           <img
             src="/logo.png"
-            className="w-12 p-1 bg-gray-800 hover:bg-emerald-700 transition-colors rounded-xl mx-auto"
+            className="w-12 mb-4 p-1 bg-gray-800 hover:bg-emerald-700 transition-colors rounded-xl mx-auto"
           />
         </a>
       </Link>

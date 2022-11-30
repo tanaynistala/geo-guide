@@ -1,18 +1,19 @@
 type Props = {
   title?: string
-  description?: string
+  children: React.ReactNode
 }
 
-const Card = ({ title, description }: Props) => {
+const Card = ({ title, children }: Props) => {
   return (
-    <div className="bg-black/10 rounded-md overflow-hidden">
-      <div className="p-2 md:p-4">
+    <div className="bg-gray-100 rounded-lg overflow-hidden h-full">
+      <div className="p-2 md:p-4 h-full">
         {title && (
-          <h4 className="text-sm font-semibold text-black/70 leading-none">
+          <h4 className="text-sm font-semibold text-black/50 leading-none">
             {title}
           </h4>
         )}
-        {description && <div className="text-lg">{description}</div>}
+
+        <div className="mt-2 h-full">{children}</div>
       </div>
     </div>
   )
