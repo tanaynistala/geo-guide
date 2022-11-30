@@ -186,7 +186,7 @@ const CountryMap = ({ code, scale, level = 1, offsetX = 0, offsetY = 0 }) => {
 
   return (
     <div className="xl:flex gap-4">
-      <div className="xl:w-1/2 grid sm:grid-cols-2 gap-x-4 pb-4">
+      <div className="xl:w-1/2 grid sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-2 gap-x-4 pb-4">
         {countryData.subdivisions.map((subdiv) => (
           <div
             className={`flex rounded-md cursor-pointer p-2 leading-snug inline-block ${

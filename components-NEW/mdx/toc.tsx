@@ -3,9 +3,6 @@ import Link from "next/link"
 const TOC = ({ headings }) => {
   return (
     <div className="p-8 pt-0 mb-24">
-      <h1 className="sticky top-0 py-4 text-2xl font-medium bg-white">
-        Table of Contents
-      </h1>
       <ol className="">
         {headings.map((heading) => (
           <li className={heading.level === 2 ? "ml-4 mt-3" : "mt-4"}>

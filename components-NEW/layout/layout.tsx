@@ -15,7 +15,7 @@ type Props = {
 const Layout = ({ title, description, url, children }: Props) => {
   return (
     <div>
-      <div className="max-w-5xl xl:max-w-7xl mx-auto">
+      <div className="max-w-screen-2xl mx-auto">
         <Meta title={title} description={description} url={url} />
         <Header />
 

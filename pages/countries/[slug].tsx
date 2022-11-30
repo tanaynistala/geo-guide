@@ -35,7 +35,16 @@ export default function Guide({ guide }: Props) {
       ) : (
         <>
           <Summary country={countryData} />
-          <Container content={guide.content} headings={guide.headings} />
+          <Container content={guide.content} headings={guide.headings}>
+            <div className="flex">
+              <img
+                src={`https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/${countryData.code2.toLowerCase()}.svg`}
+                alt={`Flag of ${countryData.name}`}
+                className="rounded h-10 mr-4"
+              />
+              <h1 className="text-2xl font-bold my-auto">{countryData.name}</h1>
+            </div>
+          </Container>
         </>
       )}
     </Layout>

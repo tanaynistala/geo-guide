@@ -2,6 +2,7 @@ import Country from "../interfaces/country"
 
 import Card from "./card"
 import Breadcrumb from "./breadcrumb"
+import Flag from "./inline/flag"
 import { MiniMap } from "./map"
 
 type Props = {
@@ -9,18 +10,6 @@ type Props = {
 }
 
 const Summary = ({ country }: Props) => {
-  const Flag = ({}) => {
-    return (
-      <div className="p-1 bg-gray-100 rounded-lg">
-        <img
-          src={`https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/${country.code2.toLowerCase()}.svg`}
-          alt={`Flag of ${country.name}`}
-          className="rounded-md"
-        />
-      </div>
-    )
-  }
-
   const CamGen = ({ gen, available = false }) => {
     return (
       <div>
@@ -53,7 +42,7 @@ const Summary = ({ country }: Props) => {
 
       <div className="grid sm:grid-cols-2 lg:grid-cols-5 lg:grid-flow-col gap-4">
         <div className="row-span-3 lg:col-span-2">
-          <Flag />
+          <Flag code2={country.code2} name={country.name} />
         </div>
 
         <Card title="Capital">{country.capital}</Card>
