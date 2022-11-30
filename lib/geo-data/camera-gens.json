@@ -1,0 +1,1266 @@
+[
+  {
+    "country": "Albania",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Andorra",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Argentina",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Australia",
+    "isTrekkerOnly": false,
+    "gen1": "available",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Austria",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Bangladesh",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Belarus",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Belgium",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Bhutan",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Bolivia",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Botswana",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Brazil",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "negligible",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Bulgaria",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "trekker_negligible",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Cambodia",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Canada",
+    "isTrekkerOnly": false,
+    "gen1": "negligible",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Chile",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "trekker_negligible",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "China",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Colombia",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "trekker_negligible",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Costa Rica",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Croatia",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "trekker_negligible",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Czechia",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "negligible",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Denmark",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Dominican Republic",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Ecuador",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Egypt",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Estonia",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Eswatini",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Finland",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "France",
+    "isTrekkerOnly": false,
+    "gen1": "negligible",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Germany",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "trekker_negligible",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Ghana",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Greece",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Guatemala",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Hungary",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "negligible",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Iceland",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "India",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "trekker_negligible",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Indonesia",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Iraq",
+    "isTrekkerOnly": true,
+    "gen1": "trekker_few",
+    "gen2": "hidden",
+    "gen3": "hidden",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Ireland",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Israel",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "trekker_negligible",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Italy",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Japan",
+    "isTrekkerOnly": false,
+    "gen1": "negligible",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Jordan",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Kenya",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Laos",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Latvia",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Lebanon",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Lesotho",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Lithuania",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Luxembourg",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "negligible",
+    "gen4": "available"
+  },
+  {
+    "country": "Madagascar",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Malaysia",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "trekker_negligible",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Mali",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Malta",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Mexico",
+    "isTrekkerOnly": false,
+    "gen1": "negligible",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Monaco",
+    "isTrekkerOnly": false,
+    "gen1": "negligible",
+    "gen2": "available",
+    "gen3": "hidden",
+    "gen4": "negligible"
+  },
+  {
+    "country": "Mongolia",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Montenegro",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Nepal",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Netherlands",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "New Zealand",
+    "isTrekkerOnly": false,
+    "gen1": "available",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Nigeria",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "North Macedonia",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Norway",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Pakistan",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Palestine",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "trekker_negligible",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Peru",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Philippines",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Poland",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "negligible",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Portugal",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Qatar",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker_few",
+    "gen4": "available"
+  },
+  {
+    "country": "Romania",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "negligible",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Russia",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "negligible",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Rwanda",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "hidden",
+    "gen4": "available"
+  },
+  {
+    "country": "San Marino",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "negligible",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Senegal",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Serbia",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Singapore",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "negligible",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Slovakia",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Slovenia",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "South Africa",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "South Korea",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "negligible",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Spain",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Sri Lanka",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Sweden",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Switzerland",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "negligible",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Taiwan",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Tanzania",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker_few",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Thailand",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "trekker_negligible",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Tunisia",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Turkey",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Uganda",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Ukraine",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "United Arab Emirates",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "trekker"
+  },
+  {
+    "country": "United Kingdom",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "United States of America",
+    "isTrekkerOnly": false,
+    "gen1": "available",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Uruguay",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Vanuatu",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Alaska (US)",
+    "isTrekkerOnly": false,
+    "gen1": "negligible",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "American Samoa (US)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Antarctica",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Antipodes Island (NZ)",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Azores (PT)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "trekker_negligible",
+    "gen4": "available"
+  },
+  {
+    "country": "Ilha de São Miguel (Azores)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "hidden",
+    "gen4": "available"
+  },
+  {
+    "country": "Ilha Terceira (Azores)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "hidden",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Ilha do Faial (Azores)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker_few",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Batanes Islands (PH)",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Bermuda (UK)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "British Indian Ocean Territory (UK)",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Cabo de Hornos (CL)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Canadian Remote Settlements (CA)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "trekker",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Cambridge Bay (CA)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "trekker",
+    "gen3": "hidden",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Churchill, Sanikiluaq, Tulita (CA)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Grise Fiord, Nain, Red Bay, Resolute (CA)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Inukjuak, Iqaluit, Kangiqsualujjuaq, Qikiqtarjuaq (CA)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Canary Islands (ES)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Gran Canaria, Lanzarote, Tenerife, Fuerteventura (C.)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "El Hierro, La Gomera, La Palma (Canaries)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "La Graciosa (Canaries)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Ceuta and Melilla (ES)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "available"
+  },
+  {
+    "country": "Christmas Island (AU)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Cocos Island (CR)",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Cocos (Keeling) Islands (AU)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Curação (NL)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Daitō Islands (JP)",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Falkland Islands (UK)",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Faroe Islands (DK)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Fernando de Noronha Island (BR)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Galapagos Islands (EC)",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Galena, Nome, Unalakleet (US)",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Gibraltar (UK)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Greenland (DK)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Guam (US)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Hawaii (US)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Hong Kong (CN)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Jersey (UK)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "hidden",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Isle of Man (UK)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "hidden",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Kinmen and Lienchiang Counties (TW)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Lampedusa (IT)",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Leticia (CO)",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Macao (CN)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "hidden",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Madeira Island (PT)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "available",
+    "gen4": "available"
+  },
+  {
+    "country": "Martinique (FR)",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Midway Atoll (US)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "trekker",
+    "gen3": "trekker_negligible",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Northern Mariana Islands (US)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Ogasawara Islands (JP)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "available",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Pantelleria (IT)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Pitcairn (UK)",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Puerto Rico (US)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Réunion (FR)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "San Andrés and Providencia (CO)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Sir Bani Yas Island (AE)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "South Georgia and South Sandwich Islands (UK)",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "St. Pierre and Miquelon (FR)",
+    "isTrekkerOnly": true,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "trekker",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Svalbard (NO)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "United States Virgin Islands (US)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  },
+  {
+    "country": "Vorkuta (RU)",
+    "isTrekkerOnly": false,
+    "gen1": "hidden",
+    "gen2": "hidden",
+    "gen3": "available",
+    "gen4": "hidden"
+  }
+]

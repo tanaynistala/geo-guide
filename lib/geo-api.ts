@@ -7,6 +7,7 @@ import domainTlds from "./geo-data/domain-tlds.json"
 import drivingSides from "./geo-data/driving-sides.json"
 import phoneCodes from "./geo-data/phone-codes.json"
 import subdivisions from "./geo-data/subdivisions.json"
+import cameraGens from "./geo-data/camera-gens.json"
 
 export function getCategorizedCountries() {
   let result = {}
@@ -63,6 +64,9 @@ export function getCountryData(countryCode: string) {
     currencyCodes.find((geo) => geo.country === name)?.currency_code ?? "N/A",
   ]
 
+  const callingCode =
+    phoneCodes.find((geo) => geo.country === name)?.calling_code ?? -1
+
   const tld = domainTlds.find((geo) => geo.country === name)?.tld ?? "N/A"
 
   const drivesOnLeft =
@@ -70,6 +74,23 @@ export function getCountryData(countryCode: string) {
 
   const subdivs =
     subdivisions.find((geo) => geo.countryName === name)?.regions ?? []
+
+  const data = cameraGens.find((geo) => geo.country === name) ?? {
+    country: "N/A",
+    isTrekkerOnly: false,
+    gen1: "hidden",
+    gen2: "hidden",
+    gen3: "hidden",
+    gen4: "hidden",
+  }
+
+  const camGens = {
+    gen1: data.gen1,
+    gen2: data.gen2,
+    gen3: data.gen3,
+    gen4: data.gen4,
+    isTrekkerOnly: data.isTrekkerOnly,
+  }
 
   return {
     name,
@@ -81,9 +102,11 @@ export function getCountryData(countryCode: string) {
     capital,
     capitalCoords,
     currency,
+    callingCode,
     tld,
     drivesOnLeft: drivesOnLeft,
     subdivisions: subdivs,
+    camGens,
   }
 }
 

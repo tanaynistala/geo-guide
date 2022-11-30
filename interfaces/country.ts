@@ -8,12 +8,20 @@ type Country = {
   capital: string
   capitalCoords: number[]
   currency: string[]
+  callingCode: number
   tld: string
   drivesOnLeft: boolean
   subdivisions: {
     name?: string
     code?: string
   }[]
+  camGens: {
+    gen1: string
+    gen2: string
+    gen3: string
+    gen4: string
+    isTrekkerOnly: boolean
+  }
 }
 
 export default Country
