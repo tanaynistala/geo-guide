@@ -16,7 +16,7 @@ See Norway or Portugal for a good example of this
 
 ---
 
-# Phone Codes
+# Phone Codes <Star />
 
 Phone codes in Brazil are organized by geographic region, mostly following state boundaries:
 
@@ -142,7 +142,7 @@ Haven't finalized the format of this, but feel free to take a crack at it, and s
 
 ---
 
-# Highways & Road Numbering Schemes
+# Highways & Road Numbering Schemes <Star />
 
 See Netherlands or Portugal for a good example of this
 

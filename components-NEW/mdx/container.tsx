@@ -25,7 +25,7 @@ const Container = ({ content, headings, children }: Props) => {
             className="h-10 flex ml-auto md:ml-0 gap-2 px-2 py-1 hover:bg-black/5 rounded-md"
             onClick={() => setVisibility(!visibility)}
           >
-            <h1 className="text-xl font-medium my-auto">Table of Contents</h1>
+            <h1 className="text-lg font-medium my-auto">Table of Contents</h1>
             <svg
               width="32"
               height="32"
@@ -54,7 +54,7 @@ const Container = ({ content, headings, children }: Props) => {
           }`}
         >
           {visibility && (
-            <aside className="bg-white fixed w-screen z-10 md:sticky md:w-auto top-24 bottom-0 md:bottom-auto overflow-y-auto overscroll-contain">
+            <aside className="bg-white fixed w-screen z-10 md:sticky md:w-auto top-24 bottom-0 h-screen overflow-y-auto overscroll-contain">
               <TOC headings={headings} />
             </aside>
           )}

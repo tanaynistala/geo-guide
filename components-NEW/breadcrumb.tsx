@@ -4,7 +4,7 @@ type Props = {
 
 const Breadcrumb = ({ items }: Props) => {
   return (
-    <div className="flex font-medium text-gray-500 xl:text-2xl">
+    <div className="flex font-medium text-gray-500 xl:text-2xl items-center">
       {items.map((item) => (
         <>
           {item !== items[0] && (

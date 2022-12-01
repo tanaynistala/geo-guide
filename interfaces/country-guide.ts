@@ -7,6 +7,7 @@ type CountryGuideType = {
     title: string
     link: string
     level: number
+    isStarred: boolean
   }[]
 }
 

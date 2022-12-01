@@ -49,12 +49,18 @@ export async function getGuide(postType: string, slug: string) {
     return matches.map((match) => {
       const level = match.match(/#{2} .+/g) ? 2 : 1
 
-      const title = match
+      var title = match
         .replace("[", "")
         .replace("]", "")
         .replace(/ *\([^)]*\) */g, "")
         .replace(/ *`[^)]*` */g, "")
         .replace(/#{1,6} */g, "")
+
+      const isStarred = title.endsWith("<Star />")
+
+      title = title.replace(/ <.*>/g, "")
+
+      console.log(title)
 
       const link =
         "#" +
@@ -67,6 +73,7 @@ export async function getGuide(postType: string, slug: string) {
         title,
         link,
         level,
+        isStarred,
       }
     })
   }

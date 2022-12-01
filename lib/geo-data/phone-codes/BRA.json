@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Acre",
+    "code": "AC",
+    "phoneCodes": [68]
+  },
+  {
+    "name": "Alagoas",
+    "code": "AL",
+    "phoneCodes": [82]
+  },
+  {
+    "name": "Amapá",
+    "code": "AP",
+    "phoneCodes": [96]
+  },
+  {
+    "name": "Amazonas",
+    "code": "AM",
+    "phoneCodes": [92, 97]
+  },
+  {
+    "name": "Bahia",
+    "code": "BA",
+    "phoneCodes": [71, 73, 74, 75, 77]
+  },
+  {
+    "name": "Ceará",
+    "code": "CE",
+    "phoneCodes": [85, 88]
+  },
+  {
+    "name": "Distrito Federal",
+    "code": "DF",
+    "phoneCodes": [61]
+  },
+  {
+    "name": "Espírito Santo",
+    "code": "ES",
+    "phoneCodes": [27, 28]
+  },
+  {
+    "name": "Goiás",
+    "code": "GO",
+    "phoneCodes": [61, 62, 64]
+  },
+  {
+    "name": "Maranhão",
+    "code": "MA",
+    "phoneCodes": [98, 99]
+  },
+  {
+    "name": "Mato Grosso",
+    "code": "MT",
+    "phoneCodes": [65, 66]
+  },
+  {
+    "name": "Mato Grosso do Sul",
+    "code": "MS",
+    "phoneCodes": [67]
+  },
+  {
+    "name": "Minas Gerais",
+    "code": "MG",
+    "phoneCodes": [31, 32, 33, 34, 35, 37, 38]
+  },
+  {
+    "name": "Pará",
+    "code": "PA",
+    "phoneCodes": [91, 93, 94]
+  },
+  {
+    "name": "Paraíba",
+    "code": "PB",
+    "phoneCodes": [83]
+  },
+  {
+    "name": "Paraná",
+    "code": "PR",
+    "phoneCodes": [41, 42, 43, 44, 45, 46]
+  },
+  {
+    "name": "Pernambuco",
+    "code": "PE",
+    "phoneCodes": [81, 87]
+  },
+  {
+    "name": "Piauí",
+    "code": "PI",
+    "phoneCodes": [86, 89]
+  },
+  {
+    "name": "Rio de Janeiro",
+    "code": "RJ",
+    "phoneCodes": [21, 22, 24]
+  },
+  {
+    "name": "Rio Grande do Norte",
+    "code": "RN",
+    "phoneCodes": [84]
+  },
+  {
+    "name": "Rio Grande do Sul",
+    "code": "RS",
+    "phoneCodes": [51, 53, 54, 55]
+  },
+  {
+    "name": "Rondônia",
+    "code": "RO",
+    "phoneCodes": [69]
+  },
+  {
+    "name": "Roraima",
+    "code": "RR",
+    "phoneCodes": [95]
+  },
+  {
+    "name": "Santa Catarina",
+    "code": "SC",
+    "phoneCodes": [47, 48, 49]
+  },
+  {
+    "name": "São Paulo",
+    "code": "SP",
+    "phoneCodes": [11, 12, 13, 14, 15, 16, 17, 18, 19]
+  },
+  {
+    "name": "Sergipe",
+    "code": "SE",
+    "phoneCodes": [79]
+  },
+  {
+    "name": "Tocantins",
+    "code": "TO",
+    "phoneCodes": [63]
+  }
+]

@@ -13,7 +13,7 @@ Indonesia is divided into four layers of administration:
 
 Typically, only the middle two are printed on signs (and occasionally the _desa_ as well), which means it can be helpful to learn the _kabupaten_ names in addition to the _provinsi_. Here we have organized them by region and province:
 
-<CountryMap code="IDN" scale="500" level="2" />
+<CountryMap code="IDN" scale="500" />
 
 ## Sumatra
 

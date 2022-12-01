@@ -111,33 +111,61 @@ const WorldMap = ({}) => {
 
   return (
     <div>
-      <MapContainer proj="geoEquirectangular">
-        <Geographies geography={data}>
-          {({ geographies }) =>
-            geographies.map((feature) => (
-              <Link
-                href={`/countries/${feature.properties.adm0_a3}`}
-                key={feature.properties.adm0_a3}
-              >
-                <a className="fill-gray-300 hover:fill-gray-400 stroke-1 stroke-gray-100">
-                  <Geography
-                    className="outline-none"
-                    key={feature.rsmKey}
-                    geography={feature}
-                    onMouseEnter={() => {
-                      setTooltipContent(`${feature.properties.admin}`)
-                    }}
-                    onMouseLeave={() => {
-                      setTooltipContent("")
-                    }}
-                  />
-                </a>
-              </Link>
-            ))
-          }
+      <MapContainer proj="geoEquirectangular" sphere>
+        <Geographies
+          geography={`https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json`}
+        >
+          {({ geographies, outline, borders }) => (
+            <g>
+              <path
+                key={outline.rsmKey}
+                d={outline.svgPath}
+                className={`outline-none`}
+                stroke="#CED2D5"
+                fill="#F8FAF8"
+                strokeLinejoin="round"
+              />
+              <path
+                key={borders.rsmKey}
+                d={borders.svgPath}
+                className={`outline-none`}
+                stroke="#CED2D5"
+                fill="none"
+                strokeLinejoin="round"
+              />
+              {geographies.map((geo) => (
+                <Link
+                  href={`/countries/${geo.properties.adm0_a3}`}
+                  key={geo.properties.adm0_a3}
+                >
+                  <a className="">
+                    <path
+                      key={geo.rsmKey}
+                      d={geo.svgPath}
+                      className={`outline-none`}
+                      stroke={
+                        tooltipContent === geo.properties.name ? "#CB5050" : ""
+                      }
+                      fill={
+                        tooltipContent === geo.properties.name
+                          ? "#EC6463"
+                          : "transparent"
+                      }
+                      strokeLinejoin="round"
+                      onMouseEnter={() => {
+                        setTooltipContent(geo.properties.name)
+                      }}
+                      onMouseLeave={() => {
+                        setTooltipContent("")
+                      }}
+                    />
+                  </a>
+                </Link>
+              ))}
+            </g>
+          )}
         </Geographies>
-
-        {data.features
+        {/*data.features
           .filter((feature) => {
             return feature.properties.tiny > 0
           })
@@ -165,7 +193,7 @@ const WorldMap = ({}) => {
                 </a>
               </Link>
             </Marker>
-          ))}
+          ))*/}
       </MapContainer>
       <ReactTooltip className="bg-black text-white">
         {tooltipContent}
@@ -194,7 +222,7 @@ const CountryMap = ({ code, scale, level = 1, offsetX = 0, offsetY = 0 }) => {
       <div className="xl:w-1/2 grid sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-2 gap-x-4 pb-4">
         {countryData.subdivisions.map((subdiv) => (
           <div
-            className={`flex rounded-md cursor-pointer p-2 leading-snug inline-block ${
+            className={`flex rounded-md cursor-pointer p-2 leading-snug inline-block my-auto ${
               activeRegion === subdiv.name ? "bg-black/5" : ""
             }`}
             onMouseEnter={() => setActiveRegion(subdiv.name)}
@@ -232,10 +260,17 @@ const CountryMap = ({ code, scale, level = 1, offsetX = 0, offsetY = 0 }) => {
                   d={outline.svgPath}
                   fill="#E6EBE7"
                   stroke="#F8FAF8"
-                  strokeWidth={8}
+                  strokeWidth={12}
                   strokeLinejoin="round"
                 />
                 <path key={outline.rsmKey} d={outline.svgPath} fill="#E6EBE7" />
+                <path
+                  key={borders.rsmKey}
+                  d={borders.svgPath}
+                  fill="none"
+                  stroke="#F8FAF8"
+                  strokeLinejoin="round"
+                />
               </g>
             )}
           </Geographies>
@@ -375,4 +410,159 @@ const MiniMap = ({ countryCode }) => {
   )
 }
 
-export { WorldMap, ContinentMap, CountryMap, MiniMap }
+const PhoneCodeMap = ({ code, scale, level = 1, offsetX = 0, offsetY = 0 }) => {
+  const [activeCodes, setActiveCodes] = useState([])
+  const countryData = getCountryData(code)
+  const data: {
+    name: string
+    code: string
+    phoneCodes: number[]
+  }[] = require(`../lib/geo-data/phone-codes/${code}.json`)
+
+  const phoneCodes = data.flatMap((regionData) => regionData.phoneCodes).sort()
+
+  function getName(geo) {
+    return level === 1 ? geo.properties.NAME_1 : geo.properties.NAME_2
+  }
+
+  function getCodes(geo) {
+    return data.find((x) => x.name === getName(geo))?.phoneCodes ?? []
+  }
+
+  return (
+    <div className="xl:flex gap-4">
+      <div className="grid grid-cols-10 gap-x-4 pb-4">
+        {phoneCodes.map((phoneCode) => (
+          <div
+            className={`flex rounded-md cursor-pointer p-2 leading-snug inline-block my-auto ${
+              activeCodes.includes(phoneCode) ? "bg-black/5" : ""
+            }`}
+            onClick={() => {
+              if (activeCodes.includes(phoneCode)) {
+                setActiveCodes(activeCodes.filter((x) => x !== phoneCode))
+              } else {
+                setActiveCodes(activeCodes.concat(phoneCode))
+              }
+            }}
+          >
+            <div className="px-1.5 py-0.5 text-sm font-mono font-semibold bg-black/10 rounded mr-2 h-fit">
+              {phoneCode}
+            </div>
+          </div>
+        ))}
+      </div>
+      <div className="xl:w-1/2">
+        <MapContainer
+          proj="geoAzimuthalEqualArea"
+          mapWidth={512}
+          mapHeight={512}
+          scale={scale}
+          rotate={[
+            offsetX - countryData.coordinates[0],
+            offsetY - countryData.coordinates[1],
+            0,
+          ]}
+          border
+          sphere
+          staticMap
+        >
+          <Geographies
+            geography={`https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json`}
+          >
+            {({ geographies, outline, borders }) => (
+              <g>
+                <path
+                  key={outline.rsmKey}
+                  d={outline.svgPath}
+                  fill="#E6EBE7"
+                  stroke="#F8FAF8"
+                  strokeWidth={12}
+                  strokeLinejoin="round"
+                />
+                <path key={outline.rsmKey} d={outline.svgPath} fill="#E6EBE7" />
+                <path
+                  key={borders.rsmKey}
+                  d={borders.svgPath}
+                  fill="none"
+                  stroke="#F8FAF8"
+                  strokeLinejoin="round"
+                />
+              </g>
+            )}
+          </Geographies>
+          <Geographies
+            geography={`https://raw.githubusercontent.com/piwodlaiwo/TopoJSON-Data/master/diva-gis/${code}_adm/${code}_adm${level}.topo.json`}
+          >
+            {({ geographies, outline, borders }) => (
+              <g>
+                <path
+                  key={outline.rsmKey}
+                  d={outline.svgPath}
+                  className={`outline-none`}
+                  stroke="#CED2D5"
+                  fill="#F8FAF8"
+                  strokeLinejoin="round"
+                />
+                <path
+                  key={borders.rsmKey}
+                  d={borders.svgPath}
+                  className={`outline-none`}
+                  stroke="#CED2D5"
+                  fill="none"
+                  strokeLinejoin="round"
+                />
+
+                {geographies.map((geo) => {
+                  return (
+                    <path
+                      key={geo.rsmKey}
+                      d={geo.svgPath}
+                      className={`outline-none hover:fill-[#EC6463] hover:stroke-[#CB5050]`}
+                      stroke={
+                        activeCodes.some((phoneCode) =>
+                          getCodes(geo).includes(phoneCode)
+                        )
+                          ? "#CB5050"
+                          : ""
+                      }
+                      fill={
+                        activeCodes.some((phoneCode) =>
+                          getCodes(geo).includes(phoneCode)
+                        )
+                          ? "#EC6463"
+                          : "transparent"
+                      }
+                      strokeLinejoin="round"
+                      onClick={() => {
+                        const currCodes =
+                          data.find((x) => x.name === getName(geo))
+                            ?.phoneCodes ?? []
+
+                        if (
+                          activeCodes.some((phoneCode) =>
+                            currCodes.includes(phoneCode)
+                          )
+                        ) {
+                          setActiveCodes(
+                            activeCodes.filter(
+                              (phoneCode) => !currCodes.includes(phoneCode)
+                            )
+                          )
+                        } else {
+                          setActiveCodes(activeCodes.concat(currCodes))
+                        }
+                      }}
+                    />
+                  )
+                })}
+              </g>
+            )}
+          </Geographies>
+        </MapContainer>
+        {activeCodes}
+      </div>
+    </div>
+  )
+}
+
+export { WorldMap, ContinentMap, CountryMap, MiniMap, PhoneCodeMap }
