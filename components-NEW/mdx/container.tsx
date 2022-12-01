@@ -16,16 +16,16 @@ const Container = ({ content, headings, children }: Props) => {
   return (
     <div>
       <div
-        className={`flex w-screen flex-row-reverse justify-between md:flex-row p-8 gap-8 ${
+        className={`flex flex-row-reverse w-full justify-between md:flex-row ${
           visibility ? "fixed md:sticky" : "sticky"
         } top-0 bg-white z-20`}
       >
-        <div className="md:w-1/3 xl:w-1/4">
+        <div className="w-1/2 md:w-1/3 xl:w-1/4 p-8">
           <button
-            className="h-10 flex gap-2 px-2 py-1 hover:bg-black/5 rounded-md"
+            className="h-10 flex ml-auto md:ml-0 gap-2 px-2 py-1 hover:bg-black/5 rounded-md"
             onClick={() => setVisibility(!visibility)}
           >
-            <h1 className="text-2xl font-medium">Table of Contents</h1>
+            <h1 className="text-xl font-medium my-auto">Table of Contents</h1>
             <svg
               width="32"
               height="32"
@@ -45,17 +45,25 @@ const Container = ({ content, headings, children }: Props) => {
             </svg>
           </button>
         </div>
-        <div className="md:w-2/3 xl:w-3/4">{children}</div>
+        <div className="w-1/2 md:w-2/3 xl:w-3/4 p-8">{children}</div>
       </div>
       <article className="flex flex-col md:flex-row">
-        {visibility && (
-          <div className="md:w-1/3 xl:w-1/4">
+        <div
+          className={`transition-all mr-auto ${
+            visibility ? "md:w-1/3 xl:w-1/4" : "w-0"
+          }`}
+        >
+          {visibility && (
             <aside className="bg-white fixed w-screen z-10 md:sticky md:w-auto top-24 bottom-0 md:bottom-auto overflow-y-auto overscroll-contain">
               <TOC headings={headings} />
             </aside>
-          </div>
-        )}
-        <div className={visibility ? "md:w-2/3 xl:w-3/4" : "w-full"}>
+          )}
+        </div>
+        <div
+          className={`transition-all ml-auto ${
+            visibility ? "md:w-2/3 xl:w-3/4" : "w-full"
+          }`}
+        >
           <Body content={content} />
         </div>
       </article>
@@ -64,16 +72,3 @@ const Container = ({ content, headings, children }: Props) => {
 }
 
 export default Container
-
-/*
-<article className="flex flex-col md:flex-row">
-  <div className="md:w-1/3 xl:w-1/4">
-    <aside className="sticky top-0 overflow-y-scroll md:h-screen">
-      <TOC headings={headings} />
-    </aside>
-  </div>
-  <div className="md:w-2/3 xl:w-3/4">
-    <Body content={content} />
-  </div>
-</article>
-*/

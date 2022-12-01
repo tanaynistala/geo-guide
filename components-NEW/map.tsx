@@ -23,6 +23,7 @@ type Props = {
   scale?: number
   staticMap?: boolean
   border?: boolean
+  sphere?: boolean
 }
 
 const MapContainer = ({
@@ -34,6 +35,7 @@ const MapContainer = ({
   scale,
   staticMap = false,
   border = false,
+  sphere = false,
 }: Props) => {
   const [position, setPosition] = useState({
     coordinates: [-rotate[0], -rotate[1]],
@@ -79,7 +81,10 @@ const MapContainer = ({
         className="outline-none h-full w-full mx-auto"
       >
         {staticMap ? (
-          <>{children}</>
+          <>
+            {sphere && <Sphere className="fill-[#F3F5F3]" />}
+            {children}
+          </>
         ) : (
           <ZoomableGroup
             zoom={position.zoom}
@@ -90,7 +95,7 @@ const MapContainer = ({
               [mapWidth, mapHeight],
             ]}
           >
-            <Sphere className="fill-gray-50" />
+            {sphere && <Sphere className="fill-[#F3F5F3]" />}
             {children}
           </ZoomableGroup>
         )}
@@ -106,7 +111,7 @@ const WorldMap = ({}) => {
 
   return (
     <div>
-      <MapContainer proj="geoEquirectangular" border>
+      <MapContainer proj="geoEquirectangular">
         <Geographies geography={data}>
           {({ geographies }) =>
             geographies.map((feature) => (
@@ -214,58 +219,95 @@ const CountryMap = ({ code, scale, level = 1, offsetX = 0, offsetY = 0 }) => {
             0,
           ]}
           border
+          sphere
+          staticMap
         >
           <Geographies
             geography={`https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json`}
           >
-            {({ geographies }) =>
-              geographies.map(
-                (feature) =>
-                  feature.properties.adm0_a3 !== code && (
-                    <Geography
-                      className="outline-none stroke-gray-100 stroke-1 fill-gray-200"
-                      key={feature.rsmKey}
-                      geography={feature}
-                    />
-                  )
-              )
-            }
+            {({ geographies, outline, borders }) => (
+              <g>
+                <path
+                  key={outline.rsmKey}
+                  d={outline.svgPath}
+                  fill="#E6EBE7"
+                  stroke="#F8FAF8"
+                  strokeWidth={8}
+                  strokeLinejoin="round"
+                />
+                <path key={outline.rsmKey} d={outline.svgPath} fill="#E6EBE7" />
+              </g>
+            )}
           </Geographies>
           <Geographies
             geography={`https://raw.githubusercontent.com/piwodlaiwo/TopoJSON-Data/master/diva-gis/${countryData.code3}_adm/${countryData.code3}_adm${level}.topo.json`}
           >
-            {({ geographies }) =>
-              geographies.map((feature) => {
-                const name =
-                  level == 1
-                    ? feature.properties.NAME_1
-                    : level == 2
-                    ? feature.properties.NAME_2
-                    : feature.properties.NAME_3
-                return (
-                  <Geography
-                    className={`outline-none stroke-gray-50 ${
-                      activeRegion === name
-                        ? "fill-gray-400"
-                        : "fill-gray-300 hover:fill-gray-400"
-                    }`}
-                    key={feature.rsmKey}
-                    geography={feature}
-                    onMouseEnter={() => {
-                      setTooltipContent(name)
-                      setActiveRegion(name)
-                    }}
-                    onMouseLeave={() => {
-                      setTooltipContent("")
-                      setActiveRegion("")
-                    }}
-                  />
-                )
-              })
-            }
+            {({ geographies, outline, borders }) => (
+              <g>
+                <path
+                  key={outline.rsmKey}
+                  d={outline.svgPath}
+                  className={`outline-none`}
+                  stroke="#CED2D5"
+                  fill="#F8FAF8"
+                  strokeLinejoin="round"
+                />
+                <path
+                  key={borders.rsmKey}
+                  d={borders.svgPath}
+                  className={`outline-none`}
+                  stroke="#CED2D5"
+                  fill="none"
+                  strokeLinejoin="round"
+                />
+
+                {geographies.map((geo) => {
+                  return (
+                    <path
+                      key={geo.rsmKey}
+                      d={geo.svgPath}
+                      className={`outline-none`}
+                      stroke={
+                        activeRegion ===
+                        (level === 1
+                          ? geo.properties.NAME_1
+                          : geo.properties.NAME_2)
+                          ? "#CB5050"
+                          : ""
+                      }
+                      fill={
+                        activeRegion ===
+                        (level === 1
+                          ? geo.properties.NAME_1
+                          : geo.properties.NAME_2)
+                          ? "#EC6463"
+                          : "transparent"
+                      }
+                      strokeLinejoin="round"
+                      onMouseEnter={() => {
+                        setActiveRegion(
+                          level === 1
+                            ? geo.properties.NAME_1
+                            : geo.properties.NAME_2
+                        )
+                        setTooltipContent(
+                          level === 1
+                            ? geo.properties.NAME_1
+                            : geo.properties.NAME_2
+                        )
+                      }}
+                      onMouseLeave={() => {
+                        setActiveRegion("")
+                        setTooltipContent("")
+                      }}
+                    />
+                  )
+                })}
+              </g>
+            )}
           </Geographies>
         </MapContainer>
-        <ReactTooltip className="bg-black text-white">
+        <ReactTooltip className="bg-[#F8FAF8] px-4 py-2 rounded-md font-semibold border-2 border-[#CED2D5]">
           {tooltipContent}
         </ReactTooltip>
       </div>
@@ -285,6 +327,7 @@ const MiniMap = ({ countryCode }) => {
       mapHeight={512}
       rotate={[-countryData.coordinates[0], -countryData.coordinates[1], 0]}
       staticMap
+      sphere
     >
       <Sphere className="stroke-gray-300 stroke-1" />
       <Graticule className="stroke-gray-300 stroke-1" />

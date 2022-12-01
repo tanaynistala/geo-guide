@@ -13,6 +13,5 @@
       "script" : "npm run dev"
     }
   },
-  "buildBeforeRunning" : true,
   "openLogOnRun" : "start"
 }

@@ -1,9 +1,5 @@
-import Layout from "../components-NEW/layout/layout"
+import { CountryMap } from "../components-NEW/map"
 
 export default function Test() {
-  return (
-    <Layout title="" description="" url="">
-      <></>
-    </Layout>
-  )
+  return <CountryMap code="BRA" scale="600" />
 }
