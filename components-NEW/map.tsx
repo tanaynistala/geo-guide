@@ -410,6 +410,9 @@ const MiniMap = ({ countryCode }) => {
   )
 }
 
+export { WorldMap, ContinentMap, CountryMap, MiniMap }
+
+/*
 const PhoneCodeMap = ({ code, scale, level = 1, offsetX = 0, offsetY = 0 }) => {
   const [activeCodes, setActiveCodes] = useState([])
   const countryData = getCountryData(code)
@@ -564,5 +567,4 @@ const PhoneCodeMap = ({ code, scale, level = 1, offsetX = 0, offsetY = 0 }) => {
     </div>
   )
 }
-
-export { WorldMap, ContinentMap, CountryMap, MiniMap, PhoneCodeMap }
+*/

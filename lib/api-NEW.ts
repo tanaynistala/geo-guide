@@ -7,6 +7,7 @@ import { serialize } from "next-mdx-remote/serialize"
 // Plugins
 import rehypeSlug from "rehype-slug"
 import rehypeAutolinkHeadings from "rehype-autolink-headings"
+import remarkUnwrapImages from "remark-unwrap-images"
 
 export function getDirectory(postType: string) {
   switch (postType) {
@@ -37,7 +38,7 @@ export async function getGuide(postType: string, slug: string) {
   const withMDX = (content) =>
     serialize(content, {
       mdxOptions: {
-        remarkPlugins: [],
+        remarkPlugins: [remarkUnwrapImages],
         rehypePlugins: [rehypeSlug, rehypeAutolinkHeadings],
       },
     })
@@ -58,9 +59,7 @@ export async function getGuide(postType: string, slug: string) {
 
       const isStarred = title.endsWith("<Star />")
 
-      title = title.replace(/ <.*>/g, "")
-
-      console.log(title)
+      title = title.replace(/<.*>/g, "")
 
       const link =
         "#" +

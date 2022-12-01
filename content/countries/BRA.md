@@ -10,15 +10,11 @@ Brazil is divided into 26 states, plus one _Distrito Federal_ (Federal District)
 
 ---
 
-# License Plates
-
-See Norway or Portugal for a good example of this
-
----
-
 # Phone Codes <Star />
 
 Phone codes in Brazil are organized by geographic region, mostly following state boundaries:
+
+![Brazilian phone codes](/img/BRA/phone-codes.png)
 
 ### São Paulo `1x`
 
@@ -136,21 +132,47 @@ In most cases, the first two or three codes for the region correspond to the two
 
 ---
 
-# Roads, Markings, and Signage
-
-Haven't finalized the format of this, but feel free to take a crack at it, and suggest what you think is good :)
-
 ---
 
-# Highways & Road Numbering Schemes <Star />
+# Traffic
 
-See Netherlands or Portugal for a good example of this
+## Signage
+
+### Priority & General Signage
+
+### Chevrons
+
+### Route Markers
+
+### Direction Signs
+
+### Bollards
+
+### Road Markings
+
+<RoadMarkings>
+   <RoadLine color="white" />
+   <RoadLane/>
+   <RoadLine color="gold" />
+   <RoadLane/>
+   <RoadLine color="white" />
+</RoadMarkings>
+
+## License Plates
+
+From 2018 onwards, Brazil has switched to using new Mercosur license plates:
+
+## Highways & Road Numbering Schemes <Star />
+
+## Vehicles
 
 ---
 
 # Geography
 
-New section that I had forgotten about. We need an example for this.
+## Vegetation
+
+## Relief
 
 ---
 
@@ -193,7 +215,27 @@ ch lh nh rr ss qu gu
 
 ---
 
-# Meta-Gaming
+---
+
+# Miscellaneous
+
+## Brands
+
+## Population Density
+
+## Place Names
+
+## Utility Poles
+
+## Satellite Dishes
+
+## Wildfires
+
+## Meta-Gaming
+
+### Street View Coverage
+
+### Google Car
 
 `Anything specifically related to Street View goes here, including coverage, Google car, rifts, etc.`
 
@@ -201,13 +243,13 @@ ch lh nh rr ss qu gu
 
 # Map Library
 
-### Countrywide Maps
+## Countrywide Maps
 
-### Regional Maps
+## Regional Maps
 
-### Subdivision Maps
+## Subdivision Maps
 
-### Thematic Maps
+## Thematic Maps
 
 ---
 

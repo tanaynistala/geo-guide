@@ -35,7 +35,7 @@ const StyledCode = ({ ...props }) => {
 const Star = () => {
   return (
     <svg
-      className="inline-block h-12 align-text-bottom ml-2"
+      className="inline-block h-6 ml-2 align-baseline"
       viewBox="0 0 100 100"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
