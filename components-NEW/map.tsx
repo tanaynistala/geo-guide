@@ -203,7 +203,7 @@ const WorldMap = ({}) => {
 }
 
 /* Continent Map */
-const ContinentMap = ({}) => {
+const ContinentMap = () => {
   return (
     <MapContainer proj="geoAzimuthalEqualArea">
       <></>

@@ -25,7 +25,7 @@ const Container = ({ content, headings, children }: Props) => {
             className="h-10 flex ml-auto md:ml-0 gap-2 px-2 py-1 hover:bg-black/5 rounded-md"
             onClick={() => setVisibility(!visibility)}
           >
-            <h1 className="text-lg font-medium my-auto">Table of Contents</h1>
+            <h1 className="text-lg font-medium my-auto">Contents</h1>
             <svg
               width="32"
               height="32"

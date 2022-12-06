@@ -32,6 +32,19 @@ const StyledCode = ({ ...props }) => {
   )
 }
 
+const StyledImage = ({ alt, ...props }) => {
+  console.log(alt.match(/{h=[1-9]*, w=[1-9]*}/g))
+
+  if (alt.match(/\(h=[1-9]*, w=[1-9]*\)/g)) {
+    const height = alt.match(/h=[1-9]*/g)[0].substring(2)
+    const width = alt.match(/w=[1-9]*/g)[0].substring(2)
+
+    return <img alt={alt} height={height} width={width} {...props} />
+  } else {
+    return <img alt={alt} {...props} />
+  }
+}
+
 const Star = () => {
   return (
     <svg
@@ -60,6 +73,7 @@ const components = {
   RoadLane,
   RoadLine,
   Star,
+  img: StyledImage,
   a: StyledLink,
   code: StyledCode,
 }

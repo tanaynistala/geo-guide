@@ -5,9 +5,10 @@ import matter from "gray-matter"
 import { serialize } from "next-mdx-remote/serialize"
 
 // Plugins
+import remarkUnwrapImages from "remark-unwrap-images"
+import remarkGfm from "remark-gfm"
 import rehypeSlug from "rehype-slug"
 import rehypeAutolinkHeadings from "rehype-autolink-headings"
-import remarkUnwrapImages from "remark-unwrap-images"
 
 export function getDirectory(postType: string) {
   switch (postType) {
@@ -38,7 +39,7 @@ export async function getGuide(postType: string, slug: string) {
   const withMDX = (content) =>
     serialize(content, {
       mdxOptions: {
-        remarkPlugins: [remarkUnwrapImages],
+        remarkPlugins: [remarkGfm, remarkUnwrapImages],
         rehypePlugins: [rehypeSlug, rehypeAutolinkHeadings],
       },
     })

@@ -132,19 +132,32 @@ In most cases, the first two or three codes for the region correspond to the two
 
 ---
 
----
-
 # Traffic
 
 ## Signage
 
+Brazilian signage is notable mainly for having a black backing and a cross-brace on the back of the sign, which makes it easily identifiable.
+
 ### Priority & General Signage
+
+Brazilian signage largely follows the US-standard specification, with text in Portuguese. This includes diamond-shaped warning signs, octagonal stop signs, and triangular yield signs. The exception is speed limit signs, which are circular.
+
+| Purpose        | Sign                                                                                                                               |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Stop           | ![BRA sign - Stop (h=64, w=64)](https://upload.wikimedia.org/wikipedia/commons/6/65/Brasil_R-1.svg)                                |
+| Yield          | ![BRA sign - Yield (h=64, w=64)](https://upload.wikimedia.org/wikipedia/commons/4/4d/Brasil_R-2.svg)                               |
+| Pedestrians    | ![BRA sign - Pedestrians (h=64, w=64)](https://upload.wikimedia.org/wikipedia/commons/b/b5/Brasil_A-32a.svg)                       |
+| Zebra Crossing | ![BRA sign - Zebra Crossing (h=64, w=64)](https://upload.wikimedia.org/wikipedia/commons/8/8e/Brazil_pedestrian_crossing_sign.svg) |
+| Speed Limit    | ![BRA sign - Speed Limit (h=64, w=64)](https://upload.wikimedia.org/wikipedia/commons/b/b4/Brasil_R-19.svg)                        |
+| Bend/Curve     | ![BRA sign - Bend/Curve (h=64, w=64)](https://upload.wikimedia.org/wikipedia/commons/0/0a/Brasil_A-2b.svg)                         |
 
 ### Chevrons
 
 ### Route Markers
 
 ### Direction Signs
+
+![Brazilian direction sign](https://upload.wikimedia.org/wikipedia/commons/c/c2/Brasil_road_sign_Dutra-Pinto.svg)
 
 ### Bollards
 
