@@ -168,6 +168,7 @@ With this map by Harrier you can learn them nice and easy: [Area Codes](https://
 # Roads, Markings, and Signage
 
 One of the best giveaways for Brazil is the black sign backs (see image). This, combined with the yellow road lines is an almost guaranteed Brazil plonk.
+<img src="/img/BRA/Bildschirmfoto 2022-12-07 um 16.03.02.png" alt="<Black Sign-back>" /> 
 
 ---
 
@@ -182,6 +183,13 @@ See Netherlands or Portugal for a good example of this
 Brazil uses mostly 2 kinds of poles:
 1. The classic 'ladder poles' found all over Brazil.
 2. Big, round poles found generally around São Paulo
+
+<img src="/img/BRA/Bildschirmfoto 2022-12-07 um 16.03.45.png" alt="<Ladderpole 1>" /> 
+
+<img src="/img/BRA/Bildschirmfoto 2022-12-07 um 16.04.43.png" alt="<Ladderpole 2>" /> 
+
+<img src="/img/BRA/Bildschirmfoto 2022-12-07 um 16.04.05.png" alt="<Round Pole>" /> 
+
 
 Bollards are an uncommon sight in South America. If you see any, you are more likely to be in Ecuador or even Peru.
 
