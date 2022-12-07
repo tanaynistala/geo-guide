@@ -161,12 +161,13 @@ Phone codes in Brazil are organized by geographic region, mostly following state
 99. Southern Maranhão
 
 In most cases, the first two or three codes for the region correspond to the two or three largest cities in the region, respectively.
+With this map by Harrier you can learn them nice and easy: [Area Codes](https://www.geoguessr.com/maps/6284d238e52ac884bb36938a)
 
 ---
 
 # Roads, Markings, and Signage
 
-Haven't finalized the format of this, but feel free to take a crack at it, and suggest what you think is good :)
+One of the best giveaways for Brazil is the black sign backs (see image). This, combined with the yellow road lines is an almost guaranteed Brazil plonk.
 
 ---
 
@@ -176,9 +177,17 @@ See Netherlands or Portugal for a good example of this
 
 ---
 
+# Poles and Bollards
+
+Brazil uses mostly 2 kinds of poles:
+1. The classic 'ladder poles' found all over Brazil.
+2. Big, round poles found generally around São Paulo
+
+Bollards are an uncommon sight in South America. If you see any, you are more likely to be in Ecuador or even Peru.
+
 # Geography
 
-New section that I had forgotten about. We need an example for this.
+A gigantic country like Brazil has tons of different landscapes. Landscape guessing is one of the harder things to do in Brazil. Here are some tips:
 
 ---
 
@@ -190,7 +199,7 @@ Haven't done anything on this yet, Simi's the expert
 
 # Language
 
-Portuguese is the primary language used in Brazil, and is linguistically closest to Spanish, the predominant language in the rest of South and Central America. It is characterized by its frequent use of the letters H and Ç as compared to Spanish, as well as tilde (~) diacritics.
+Portuguese is the primary language used in Brazil, and is linguistically closest to Spanish, the predominant language in the rest of South and Central America. It is characterized by its frequent use of the letters H and Ç as compared to Spanish, as well as tilde (~) diacritics. Also you often see the letters 'nh' combinated. The word 'e' means 'and' which is different from the Spanish 'y'
 
 ## Script
 
@@ -241,6 +250,6 @@ ch lh nh rr ss qu gu
 
 # Most Similar
 
-## [Country Name](/countries/country-code)
+## [Argentina](/countries/ARG)
 
-## [Country Name](/countries/country-code)
+## [Colombia](/countries/COL)
