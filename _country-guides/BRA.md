@@ -1,4 +1,4 @@
-`Introduction, see Netherlands for a good example of this`
+Welcome to the biggest of Portugal's excolonies - Brazil. It is famous for having those long straight roads in the middle of nowhere. If you are lucky, you can find a roadnumer on a kilometermarker. And if you are even more lucky, you found one of the precious and insanely helpful areacodes. Next to knowing cyrillic, this is probably one of the most important things to know as a Geoguessr player. Good luck trying to master Brazil!
 
 ---
 
