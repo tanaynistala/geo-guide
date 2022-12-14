@@ -1,4 +1,4 @@
-`Introduction, see Netherlands for a good example of this`
+Welcome to the biggest of Portugal's excolonies - Brazil. It is famous for having those long straight roads in the middle of nowhere. If you are lucky, you can find a roadnumer on a kilometermarker. And if you are even more lucky, you found one of the precious and insanely helpful areacodes. Next to knowing cyrillic, this is probably one of the most important things to know as a Geoguessr player. Good luck trying to master Brazil!
 
 ---
 
@@ -129,6 +129,7 @@ Phone codes in Brazil are organized by geographic region, mostly following state
 99. Southern Maranhão
 
 In most cases, the first two or three codes for the region correspond to the two or three largest cities in the region, respectively.
+With this map by Harrier you can learn them nice and easy: [Area Codes](https://www.geoguessr.com/maps/6284d238e52ac884bb36938a)
 
 ---
 
@@ -136,7 +137,9 @@ In most cases, the first two or three codes for the region correspond to the two
 
 ## Signage
 
-Brazilian signage is notable mainly for having a black backing and a cross-brace on the back of the sign, which makes it easily identifiable.
+One of the best giveaways for Brazil is the black sign backs (see image). This, combined with the yellow road lines is an almost guaranteed Brazil plonk.
+<img src="/img/BRA/Bildschirmfoto 2022-12-07 um 16.03.02.png" alt="<Black Sign-back>" /> 
+
 
 ### Priority & General Signage
 
@@ -159,7 +162,18 @@ Brazilian signage largely follows the US-standard specification, with text in Po
 
 ![Brazilian direction sign](https://upload.wikimedia.org/wikipedia/commons/c/c2/Brasil_road_sign_Dutra-Pinto.svg)
 
-### Bollards
+### Bollards and poles
+Brazil uses mostly 2 kinds of poles:
+1. The classic 'ladder poles' found all over Brazil.
+2. Big, round poles found generally around São Paulo
+
+<img src="/img/BRA/Bildschirmfoto 2022-12-07 um 16.03.45.png" alt="<Ladderpole 1>" /> 
+
+<img src="/img/BRA/Bildschirmfoto 2022-12-07 um 16.04.43.png" alt="<Ladderpole 2>" /> 
+
+<img src="/img/BRA/Bildschirmfoto 2022-12-07 um 16.04.05.png" alt="<Round Pole>" /> 
+
+Bollards are an uncommon sight in South America. If you see any, you are more likely to be in Ecuador or even Peru.
 
 ### Road Markings
 
@@ -183,21 +197,50 @@ From 2018 onwards, Brazil has switched to using new Mercosur license plates:
 
 # Geography
 
+A gigantic country like Brazil has tons of different landscapes. Landscape guessing is one of the harder things to do in Brazil. Here are some tips:
+
 ## Vegetation
 
+The most famous plant of Brazil is probably the Parana-pine. It is mostly found in and around Parana.
+
+<img src="/img/BRA/parana_pine.png" alt="<Parana Pine>" /> 
+
+Tocantins and Mato Grosso are famous for having red dirt. But be careful, thereare many exceptions.
+
+<img src="/img/BRA/red_dirt.png" alt="<Red Dirt>" /> 
+
+In the north-west, starting from Minas Gerais going north, you can find a lot of these shrubs. Be careful, in summer-coverage they may look differently becuase of the leaves.
+
+<img src="/img/BRA/northern_shrubs.p" alt="<Shrubs>" /> 
+
+In the Amazon rainforest you can find classic examples of tropical plants. They often look similar to Ecuador, Colombia and Indonesia, Malaysia, Thailand and the Philippines.
+
+<img src="/img/BRA/rainforest.png" alt="<Tropical Plants>" /> 
+
+
 ## Relief
+
+The relief is actually quite helpful in Brazil. As you can see on the map, mountains are usually a more coastal thing.
+
+<img src="/img/BRA/brazil_relief.jpeg" alt="<Releif Map>" /> 
 
 ---
 
 # Architecture
 
-Haven't done anything on this yet, Simi's the expert
+Houses on stilts are often found in Acre and Rondonia. 
+
+<img src="/img/BRA/acre_stilts.png" alt="<Acre Stilts>" /> 
+
+In the north, especially in Maranhão the houses are strongly influenced by the Portuguese settlers. They often have tiled roofs and white facades.
+
+<img src="/img/BRA/portuguese_influence.png" alt="<Maranhao houses>" /> 
 
 ---
 
 # Language
 
-Portuguese is the primary language used in Brazil, and is linguistically closest to Spanish, the predominant language in the rest of South and Central America. It is characterized by its frequent use of the letters H and Ç as compared to Spanish, as well as tilde (~) diacritics.
+Portuguese is the primary language used in Brazil, and is linguistically closest to Spanish, the predominant language in the rest of South and Central America. It is characterized by its frequent use of the letters H and Ç as compared to Spanish, as well as tilde (~) diacritics. Also you often see the letters 'nh' combinated. The word 'e' means 'and' which is different from the Spanish 'y'
 
 ## Script
 
@@ -238,8 +281,6 @@ ch lh nh rr ss qu gu
 
 ## Place Names
 
-## Utility Poles
-
 ## Satellite Dishes
 
 ## Wildfires
@@ -268,6 +309,6 @@ ch lh nh rr ss qu gu
 
 # Most Similar
 
-## [Country Name](/countries/country-code)
+## [Mexico](/countries/MEX)
 
-## [Country Name](/countries/country-code)
+## [Colombia](/countries/COL)
