@@ -207,11 +207,11 @@ The most famous plant of Brazil is probably the Parana-pine. It is mostly found 
 
 Tocantins and Mato Grosso are famous for having red dirt. But be careful, thereare many exceptions.
 
-<img src="/img/BRA/red_dirt.png" alt="<Red Dirt>" /> 
+<img src="/img/BRA/red-dirt.png" alt="<Red Dirt>" /> 
 
 In the north-west, starting from Minas Gerais going north, you can find a lot of these shrubs. Be careful, in summer-coverage they may look differently becuase of the leaves.
 
-<img src="/img/BRA/northern_shrubs.p" alt="<Shrubs>" /> 
+<img src="/img/BRA/northern_shrubs.png" alt="<Shrubs>" /> 
 
 In the Amazon rainforest you can find classic examples of tropical plants. They often look similar to Ecuador, Colombia and Indonesia, Malaysia, Thailand and the Philippines.
 
